@@ -1,0 +1,34 @@
+                  Lee’s Deli – Legal Notice of Potential Security Incident (8/5/2015)
+
+We recently learned that unauthorized individuals installed malicious software on computer systems used
+to process credit card transactions at our Lee’s Deli locations at 75 Battery Street in San Francisco, CA
+and 4200 Bohannon Drive in Menlo Park, CA. While we do not know whether a particular customer’s
+personal information has been or will be misused, we are providing this notice as a precaution to inform
+potentially affected customers of the incident and to call their attention to some steps they can take to help
+protect themselves. We sincerely apologize for any frustration or concern this may cause.
+
+Based upon an extensive forensic investigation, it appears that unauthorized individuals installed
+malicious software designed to capture payment card information (including payment card account
+number, card expiration date, and the CVV security code) on the point-of-sale systems used at the Battery
+Street and Bohannon Drive locations. Payment card information for customers that made a payment card
+transaction between January 4, 2015, and May 20, 2015, at the Battery Street location and between
+November 3, 2014, and February 13, 2015, at the Bohannon Drive location, may be at risk. At this time,
+there is no indication that the malware affected any of our other point-of-sale or network systems.
+
+We take the privacy of personal information seriously, and deeply regrets that this incident occurred. We
+have taken steps to address this incident, including by (i) engaging outside forensic experts to assist us in
+investigating and remediating the situation, (ii) promptly rendering the malware inoperable, and (iii)
+replacing and reconfiguring various components of our point-of-sale systems. While we are continuing to
+review and enhance our security measures, the incident has been contained.
+
+We want to make customers aware of steps they can take to guard against fraud. At this time, we
+recommend that customers review their credit and debit card account statements as soon as possible in
+order to determine if there are any discrepancies or unusual activity listed. Customers should continue to
+monitor their statements for unusual activity going forward. If they see anything they do not understand
+or that looks suspicious, or if they suspect that any fraudulent transactions have taken place, they should
+call the bank that issued their credit or debit card immediately.
+
+If you believe you may have been affected by this incident and have additional questions or concerns, you
+may contact us at 415-986-1892 between the hours of 9:00 AM and 5:00 PM (Pacific Time), Monday
+through Friday, or via email at info@leesdeli.com. Again, we are sorry that this incident occurred and for
+any worry it may cause our customers.

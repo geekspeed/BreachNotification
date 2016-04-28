@@ -1,0 +1,182 @@
+                                                                                           BAR 14 2016
+Attn: Consumer Resource Center
+                                                                                     CONSUMER
+Attorney General's Office                                                                   "01`110.q DIVISION
+800 Fifth Avenue, Suite 2000                                                               SEATTLE
+Seattle, WA 98104
+
+
+
+
+Bailey's Inc.
+baileysonline.com
+
+                                  NOTICE OF DATA BREACH
+
+What Happened
+
+In January 2016, we sent our customers a notification that their credit card information and other
+personal information may have been stolen due to a cyber attack on our website, BaileysOnline.com.
+In that notice, we informed our customers that the compromise event began on September 25, 2015.
+
+Following an extensive eight week forensic examination, we have recently learned that the cyber
+attacks actually first occurred in December 2011. The forensic examination shows that beginning in
+December 2011, a person or persons without authorization accessed and possibly stole credit card
+information from our website belonging to our customers. The thief or thieves accessed our website
+remotely and overcame our firewall and security protections. Of these exposed cards, nearly 25%
+were MasterCard® cards, 64% were VISA® cards, and fewer than 5% and 6% were American
+Express® and Discover® cards, respectively.
+
+The number of people in your state that are affected is 8,844.
+
+We cannot be certain whether their data was stolen. However, because there is a possibility that their
+data was stolen, we are required by law to notify them that they made a purchase and/or opened an
+account with Bailey's during the affected range.
+
+What Information Was Involved
+
+The types of information stolen appears to include credit card numbers, cardholder names, CCV
+numbers, credit card expiration dates, addresses and phone numbers, email addresses, log- in and
+password to BaileysOnline.com, and other information typed into our website related to their order.
+
+The following information is NOT included in what was taken: PINs (personal identification
+numbers), Social Security numbers, bank account numbers, and other personally identifiable
+information.
+
+What We Are Doing
+
+We have reported the theft to various law enforcement agencies, and are cooperating with them in
+their investigation. We also have notified Wells Fargo Bank, which handles our credit card
+transactions, along with MasterCard®, VISA®, American Express® and Discover®. We have no
+indication that any PayPal accounts were impacted.
+We have engaged a security consultant and have been implementing our consultant's
+recommendations to strengthen our firewall and take other security protections (described
+below). We have also replaced our server with new hardware. We are confident that there have been
+no further data breaches since January 27, 2016.
+
+      We Advise Them to Do
+
+We strongly encourage them to take preventive measures now to help prevent and detect any misuse
+of their information. Change their log-in and password for BaileysOnline.com. They may want to
+cancel the credit card(s), if any, that they think they may have used at BaileysOnline.com. They may
+also want to place a fraud alert or order a security freeze on their credit reports with the three major
+credit reporting agencies: (1) Equifax: 1-800-525-6285; www.equifax.com; P.O. Box 740241,
+Atlanta, GA 30374-0241; (2) Experian: 1-888-EXPERIAN (397-3742); www.eUerian.com; P.O.
+Box 2002, Allen, TX 75013; and (3) TransUnion: 1-800-680-7289; www.transunion.com; Fraud
+Victim Assistance Division, P.O. Box 6790, Fullerton, CA 92834-6790. They may want to ask for a
+free copy of their credit report from each agency, and ask that only the last four digits of their Social
+Security number appear on their credit reports.
+
+There are several things that they may want to do to protect themselves against possible identity theft
+if the information does get into the wrong hands. These include: (1) watch for phishing attempts and
+malicious email; (2) watch for scam U.S. mail; and (3) stay alert to signs of identity theft.
+
+The Federal Trade Commission has published some information about how to defend against identity
+theft at: hgp:Hwww.consumer.fte.gov/features feature-0014-identity-theft. We suggest that they
+submit a complaint with the FTC by calling 1-877-ID-THEFT (1-877-438-4338) or going online at
+httns:Hwww.ftccomolaintassistant. ao`,l.
+
+Bailev's Commitment
+
+We apologize for the inconvenience resulting from the theft by unknown people of their information
+described above. Please note that we have taken immediate steps to prevent a reoccurrence. In this
+regard, we have (1) replaced our servers; (2) enhanced our firewalls; (3) integrated mandatory
+changes with respect to our passwords and (4) integrated new software into our website. Please know
+that Bailey's is PCI compliant, never sells, trades or otherwise knowingly releases any personal
+information of our customers, and is committed to offering the most secure user experience for our
+customers.
+
+For questions relating to this event please call (888) 582-3816 between the hours of 8:00 a.m. and
+5:00 p.m. P.S.T. Monday through Friday.
+
+Sincerely, The Bailey's Team
+Bailey's Inc.
+baileysonline.com
+
+                                  NOTICE OF DATA BREACH
+
+What Habbened
+
+In January 2016, we sent our customers a notification that their credit card information and other
+personal information may have been stolen due to a cyber attack on our website, BaileysOnline.com.
+In that notice, we informed our customers that the compromise event began on September 25, 2015.
+
+Following an extensive eight week forensic examination, we have recently learned that the cyber
+attacks actually first occurred in December 2011. The forensic examination shows that beginning in
+December 2011, a person or persons without authorization accessed and possibly stole credit card
+information from our website belonging to our customers. The thief or thieves accessed our website
+remotely and overcame our firewall and security protections. Of these exposed cards, nearly 25%
+were MasterCard® cards, 64% were VISA® cards, and fewer than 5% and 6% were American
+Express® and Discover® cards, respectively.
+
+If you are receiving this letter, then we have identified you as one of the people who placed an order
+or opened an account within the affected date range, December 1, 2011 to January 26, 2016, and you
+may have had certain protected information misappropriated.
+
+We cannot be certain whether your data was stolen. However, because there is a possibility that your
+data was stolen, we are required by law to notify you that you made a purchase and/or opened an
+account with Bailey's during the affected range.
+
+What Information Was Involved
+
+The types of information stolen appears to include credit card numbers, cardholder names, CCV
+numbers, credit card expiration dates, addresses and phone numbers, email addresses, log- in and
+password to BaileysOnline.com, and other information typed into our website related to your order.
+
+The following information is NOT included in what was taken: PINs (personal identification
+numbers), Social Security numbers, bank account numbers, and other personally identifiable
+information.
+
+What We Are Doing
+
+We have reported the theft to various law enforcement agencies, and are cooperating with them in
+their investigation. We also have notified Wells Fargo Bank, which handles our credit card
+transactions, along with MasterCard®, VISA®, American Express® and Discover®. We have no
+indication that any PayPal accounts were impacted.
+We have engaged a security consultant and have been implementing our consultant's
+recommendations to strengthen our firewall and take other security protections (described
+below). We have also replaced our server with new hardware. We are confident that there have been
+no further data breaches since January 27, 2016.
+
+In some states we are required to notify a state agency or Attorney General's Office, and Bailey's is
+complying with all of those legal requirements.
+
+What You Can Do
+
+We strongly encourage you to take preventive measures now to help prevent and detect any misuse
+of your information. Change your log-in and password for BaileysOnline.com. If you've forgotten
+your password, call (800) 322-4539 between the hours of 8:00 a.m. and 5:00 p.m. P.S.T. Monday
+through Friday, OR email us at Baile~sbailevsonline.com, and we'll reset your password for you.
+You may want to cancel the credit card(s), if any, that you think you may have used at
+BaileysOnline.com. You may also want to place a fraud alert or order a security freeze on your credit
+reports with the three major credit reporting agencies: (1) Equifax: 1-800-525-6285;
+www.equifax.com; P.O. Box 740241, Atlanta, GA 30374-0241; (2) Experian: 1-888-EXPERIAN
+(397-3742); www.experian.com; P.O. Box 2002, Allen, TX 75013; and (3) TransUnion: 1-800-680-
+7289; www.transunion.com; Fraud Victim Assistance Division, P.O. Box 6790, Fullerton, CA
+92834-6790. You may want to ask for a free copy of your credit report from each agency, and ask
+that only the last four digits of your Social Security number appear on your credit reports.
+
+There are several things that you may want to do to protect yourself against possible identity theft if
+the information does get into the wrong hands. These include: (1) watch for phishing attempts and
+malicious email; (2) watch for scam U.S, mail; and (3) stay alert to signs of identity theft.
+
+The Federal Trade Commission has published some information about how to defend against identity
+theft at: hqp://`vww.consumer.fte.gov/features/feature-0014-identity-theft. We suggest that you
+submit a complaint with the FTC by calling 1-877-ID-THEFT (1-877-438-4338) or going online at
+hllps:Hwww.ftecoMplaintassistant.gov/.
+
+Bailey's Commitment
+
+We apologize for the inconvenience resulting from the theft by unknown people of your information
+described above. Please note that we have taken immediate steps to prevent a reoccurrence. In this
+regard, we have (1) replaced our servers; (2) enhanced our firewalls; (3) integrated mandatory
+changes with respect to our passwords and (4) integrated new software into our website. Please know
+that Bailey's is PCI compliant, never sells, trades or otherwise knowingly releases any personal
+information of our customers, and is committed to offering the most secure user experience for our
+customers.
+
+For questions relating to this event please call (888) 582-3816 between the hours of 8:00 a.m. and
+5:00 p.m. P.S.T. Monday through Friday.
+
+Sincerely,
+The Bailey's Team

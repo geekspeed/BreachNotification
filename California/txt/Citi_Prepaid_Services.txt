@@ -1,0 +1,133 @@
+Citi Prepaid Services
+P.O. Box 284
+Conshohocken, PA 19428
+
+<AdhocName1>
+<AdhocAddress1>
+<AdhocAddress2>
+<AdhocCity> <AdhocState> <AdhocZip5>
+
+
+June 27, 2013
+
+
+Dear Cardholder:
+
+On behalf of Citi Prepaid Services, I am writing to inform you about a recent incident that may
+have involved your personal information. We recently discovered that a code change to our
+prepaid cardholder website impacted the security features that we use to authenticate cardholders
+logging into their accounts between June 2 and June 13. Based on our records, your online
+account was accessed during that time. While we do not have evidence that it was accessed by
+an individual other than you, we cannot confirm that fact.
+
+Since discovering the issue, we remediated it. Based on our investigation we believe that no
+unauthorized activity occurred on your prepaid account. We regret this incident occurred and
+take very seriously the security of cardholder information. As your cardholder information is
+viewable through the prepaid cardholder website and may include your prepaid card number or
+checking or savings account number, we wanted to make you aware of the incident and provide
+you with some steps that you can take to protect yourself against any potential misuse of your
+information.
+
+We have arranged enrollment for you, at your option, in a complimentary one-year credit
+monitoring service. For more information on the credit monitoring service and for instructions
+on how to enroll, please refer to the attachment included with this letter.
+
+You should remain, as always, vigilant over the next twelve to twenty-four months for incidents
+of fraud and identity theft. Guidelines for consumers are also provided in this letter.
+
+Please know that we regret any inconvenience or concern this may cause you. Be assured that
+Citi Prepaid Services maintains strong safeguards in place to protect the security of cardholder
+information. Please do not hesitate to contact us at (888)742-9213 if you have any questions or
+concerns.
+
+                                                                   Sincerely,
+
+                                                                   Citi Prepaid Services
+BEST PRACTICES FOR PROTECTING YOURSELF FROM IDENTITY THEFT
+
+
+Regularly review your account statements and monitor free credit reports. If you discover any
+suspicious or unusual activity on your accounts or suspect identity theft or fraud, be sure to
+report it immediately to your financial institutions. In addition, you may contact the Federal
+Trade Commission (“FTC”) or law enforcement to report incidents of identity theft or to learn
+about steps you can take to protect yourself from identity theft. To learn more, you can go to the
+FTC’s Web site, at http://www.ftc.gov/idtheft/, or call the FTC, at (877) IDTHEFT (438-4338)
+or write to Federal Trade Commission, Consumer Response Center, 600 Pennsylvania Avenue,
+NW, Washington, DC 20580.
+
+You may also periodically obtain credit reports from each nationwide credit reporting agency. If
+you discover information on your credit report arising from a fraudulent transaction, you should
+request that the credit reporting agency delete that information from your credit report file. In
+addition, under federal law, you are entitled to one free copy of your credit report every 12
+months from each of the three nationwide credit reporting agencies. You may obtain a free copy
+of your credit report by going to www.AnnualCreditReport.com or by calling (877) 322-8228.
+You may contact the nationwide credit reporting agencies at:
+
+Equifax                        Experian                       TransUnion
+(800) 525-6285                 (888) 397-3742                 (800) 680-7289
+P.O. Box 740241                P.O. Box 9532                  Fraud Victim Assistance Division
+Atlanta, GA 30374-0241         Allen, TX 75013                P.O. Box 6790
+www.equifax.com                www.experian.com               Fullerton, CA 92834-6790
+                                                              www.transunion.com.
+
+In addition, you may obtain additional information from the FTC and the credit reporting
+agencies about fraud alerts and security freezes. For example, you can add a fraud alert to your
+credit report file to help protect your credit information. A fraud alert can make it more difficult
+for someone to get credit in your name because it tells creditors to follow certain procedures to
+protect you, but it also may delay your ability to obtain credit. You may place a fraud alert in
+your file by calling just one of the three nationwide credit reporting agencies listed above. As
+soon as that agency processes your fraud alert, it will notify the other two agencies, which then
+must also place fraud alerts in your file. In addition, you may also contact the nationwide credit
+reporting agencies regarding if and how you may place a security freeze on your credit report to
+prohibit a credit reporting agency from releasing information from your credit report without
+your prior written authorization.
+                                   Attachment: Complimentary Credit Monitoring
+
+In order for you to be able to help better protect yourself from identity theft, we have arranged for
+you at your option to enroll in a free credit monitoring and identity theft protection service, ITAC
+Sentinel® Plus, for the next 12 months.
+
+To activate this coverage, simply call the toll-free number or visit the Web site listed below and enter
+the redemption code (the redemption code can only be used one time by the individual addressed).
+
+     Toll-Free: <AdhocVar1>
+     Web Site: <AdhocVar2>
+     Redemption Code: <AdhocVar3>
+
+You will be asked to provide your:
+
+         Mailing Address
+         Phone Number
+         Social Security Number
+         Date of Birth
+         E-mail Address
+
+You will not be charged for this service; no method of payment will be collected during enrollment
+and there is no need to cancel. If you wish to take advantage of this monitoring service, please enroll
+within 90 days.
+
+ITAC Sentinel Plus Information
+ITAC Sentinel Plus provides monitoring and protection of not only credit data, but also monitors
+Internet chat rooms and newsgroups and alerts you if your Social Security number, credit cards,
+and bank account numbers are found in unsecure online locations. This program is provided by
+Intersections Inc. (NASDAQ: INTX), a leading provider of consumer and corporate identity risk
+management services.
+
+ITAC Sentinel® Plus features include:
+      3-Bureau Credit Report and Scores**
+      3-Bureau Daily Monitoring with NOTIFY EXPRESS® Alerts
+      3-Bureau Quarterly Credit Update
+      ITAC Victim Assistance®
+      Card Theft Protection
+      Internet Surveillance
+      Credit Education Specialists
+      Up to $20,000 identity theft insurance with $0 deductible.*
+
+                    ®
+**The ITAC Sentinel Plus scores are provided specifically to consumers to help them understand their credit. Lenders use many
+different credit scoring systems, and the ITAC Sentinel Plus scores are not the same scores used to evaluate your credit.
+
+
+*Insurance underwritten by Travelers Casualty and Surety Company of America and its property casualty affiliates, Hartford, CT
+06183. Coverage for all claims or losses depends on actual policy provisions. Availability of coverage can depend on underwriting
+qualifications and state regulations.

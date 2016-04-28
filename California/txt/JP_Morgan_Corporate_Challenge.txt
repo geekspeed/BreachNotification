@@ -1,0 +1,45 @@
+<Date>
+
+<Customer first name> <Customer last name>
+<Customer address 2>
+<Customer address 1>
+<City, State>
+<Zip code>
+
+
+
+
+Your email address and password may have been viewed on the
+                                   ®
+J.P. Morgan Corporate Challenge site
+
+Dear <Customer first name>,
+
+We are contacting you because we learned on August 7 that your site password and contact information,
+such as name, address and email address, may have been accessed on the J.P. Morgan Corporate
+Challenge website. In reviewing our systems, we identified suspicious server activity involving some login
+information.
+
+None of your banking or other financial information was viewed. We have taken steps to prevent
+unauthorized access to the site’s database.
+
+We encourage you to avoid using the same password at multiple sites and to change all your passwords
+regularly.
+
+We apologize, and we appreciate your involvement in the J.P. Morgan Corporate Challenge. If you have
+questions, please call us at 1-888-745-0091, seven days a week from 6 a.m. to 11 p.m. Central Time or
+email us at corporate.challenge@jpmchase.com.
+
+Sincerely,
+
+
+Deborah C. Wells
+Deborah C. Wells
+Vice President
+Privacy Office
+
+
+
+
+ LCCORCHAL0814
+ PRI-12109180

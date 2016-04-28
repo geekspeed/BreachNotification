@@ -1,0 +1,134 @@
+Return Mail Processing Center
+PO Box 6336
+Portland, OR 97228-6336
+
+
+<<mail id>>
+<<First Name>><<Last Name>>
+<<Address1>>
+<<City>><<State>><<Zip>>	<<Date>>
+
+
+
+
+Dear <<First Name>> <<Last Name>>:
+
+21st Century Oncology is committed to maintaining the privacy and security of our patients’ personal information.
+Regrettably, we are writing to inform you of an incident involving some of that information.
+
+On November 13, 2015, the Federal Bureau of Investigation (FBI) advised us that patient information was illegally
+obtained by an unauthorized third party who may have gained access to a 21st Century database. We immediately
+hired a leading forensics firm to support our investigation, assess our systems and bolster security. The forensics
+firm determined that, on October 3, 2015, the intruder may have accessed the database, which contained information
+that may have included your name, Social Security number, physician’s name, diagnosis and treatment information,
+and insurance information. We have no evidence that your medical record was accessed.
+
+The FBI asked that we delay notification or public announcement of the incident until now so as not to interfere with
+its investigation. Now that law enforcement’s request for delay has ended, we are notifying patients as quickly as
+possible. We continue to work closely with the FBI on its investigation of the intrusion into our system. In addition
+to security measures already in place, we have also taken steps to enhance internal security protocols to help prevent
+a similar incident in the future.
+
+We have no indication that your information has been misused in any way; however, out of an abundance of
+caution, we are offering you a free one-year membership of Experian’s® ProtectMyID® Alert. This product helps
+detect possible misuse of your personal information and provides you with identity protection services focused on
+immediate identification and resolution of identity theft. ProtectMyID Alert is completely free to you, and enrolling
+in this program will not hurt your credit score. For more information on identity theft prevention and ProtectMyID
+Alert, including instructions on how to activate your complimentary one-year membership, please see the additional
+information provided in this letter. We also recommend that you regularly review the explanation of benefits that you
+receive from your health insurer. If you see services that you did not receive, please contact your insurer immediately.
+
+We deeply regret any concern this may cause you, and we want to emphasize that your care will not be affected
+by this incident. Should you have any questions, please call 1-866-446-1405, from 9 a.m. to 9 p.m. Eastern Time,
+Monday through Friday.
+
+Sincerely,
+
+
+
+Daniel Dosoretz, M.D.
+President and CEO
+
+Attachment
+
+
+
+
+O4581 v.06 03.01.2016
+                                    Activate ProtectMyID Now in Three Easy Steps
+
+1.	 ENSURE That You Enroll By: July 7, 2016 (Your code will not work after this date.)
+2.	 VISIT the ProtectMyID Website to enroll: www.protectmyid.com/redeem
+3.	 PROVIDE Your Activation Code: <<code>>
+
+If you have questions or need an alternative to enrolling online, please call (866) 271-3084 and provide engagement
+#: PC98965
+
+ADDITIONAL DETAILS REGARDING YOUR 12-MONTH PROTECTMYID MEMBERSHIP:
+
+A credit card is not required for enrollment.
+
+Once your ProtectMyID membership is activated, you will receive the following features:
+
+      ▪▪    Free copy of your Experian credit report
+      ▪▪    Surveillance Alerts for:
+                ○○ Daily Bureau Credit Monitoring: Alerts of key changes and suspicious activity found on your
+                    Experian, Equifax®, and TransUnion® credit reports.
+      ▪▪    Identity Theft Resolution and ProtectMyID ExtendCARE: Toll-free access to U.S.-based customer care
+            and a dedicated Identify Theft Resolution agent who will walk you through the process of fraud resolution
+            from start to finish for seamless service. They will investigate each incident; help with contacting credit
+            grantors to dispute charges and close accounts, including credit, debit, and medical insurance cards; assist
+            with freezing credit files; and contact government agencies.
+                ○○ It is recognized that identity theft can happen months and even years after a data breach. To offer
+                    added protection, you will receive ExtendCARETM, which provides you with the same high level of
+                    Fraud Resolution support even after your ProtectMyID membership has expired.
+      ▪▪    $1 Million Identity Theft Insurance*: Immediately covers certain costs, including lost wages, private
+            investigator fees, and unauthorized electronic fund transfers.
+
+                          Activate your membership today at www.protectmyid.com/redeem
+                           or call (866) 271-3084 to register with the activation code above.
+
+Once your enrollment in ProtectMyID is complete, you should carefully review your credit report for inaccurate or
+suspicious items. If you have any questions about ProtectMyID, need help understanding something on your credit
+report, or suspect that an item on your credit report may be fraudulent, please contact Experian’s customer care team
+at (866) 271-3084.
+
+Even if you choose not to take advantage of this free credit monitoring service, we recommend that you remain vigilant
+to the possibility of fraud and identity theft by reviewing your credit card, bank, and other financial statements for
+any unauthorized activity. You may also obtain a copy of your credit report, free of charge, directly from each
+of the three nationwide credit reporting agencies. To order your credit report, free of charge, once every twelve
+months, please visit www.annualcreditreport.com or call toll-free at 1-877-322-8228. Contact information for the
+three nationwide credit reporting agencies is as follows:
+
+               Equifax                 Experian                  TransUnion
+               PO Box 740241           PO Box 2002               PO Box 1000
+               Atlanta, GA 30374       Allen, TX 75013           Chester, PA 19022
+               www.equifax.com         www.experian.com          www.transunion.com
+               1-800-685-1111          1-888-397-3742            1-800-916-8800
+
+If you believe you are the victim of identity theft or have reason to believe your personal information has been
+misused, you should immediately contact the Federal Trade Commission and/or the Office of the Attorney General
+in your home state. Contact information for the Federal Trade Commission is as follows:
+
+                                           Federal Trade Commission
+                                           600 Pennsylvania Avenue, NW
+                                           Washington, D.C. 20580
+                                           www.ftc.gov/idtheft
+                                           1-877-438-4338
+
+
+O4582 v.06 03.01.2016
+You can obtain information from these sources about steps an individual can take to avoid identity theft as well as
+information about fraud alerts and security freezes. You should also contact your local law enforcement authorities
+and file a police report. Obtain a copy of the police report in case you are asked to provide copies to creditors to
+correct your records.
+
+* Identity theft insurance is underwritten by insurance company subsidiaries or affiliates of AIG. The description
+herein is a summary, intended for informational purposes only, and does not include all terms, conditions, and
+exclusions of the policies described. Please refer to the actual policies for terms, conditions, and exclusions of
+coverage. Coverage may not be available in all jurisdictions.
+
+
+
+
+O4583 v.06 03.01.2016

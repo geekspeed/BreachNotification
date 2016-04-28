@@ -1,0 +1,40 @@
+Reset ICANN.org Website Login Password
+05 August 2015
+
+We are writing to inform you that ICANN has reason to believe that within the
+last week, usernames/email addresses and encrypted passwords for profile
+accounts created on the ICANN.org public website were obtained by an
+unauthorized person.
+
+These profile accounts contain your user preferences for the website, public
+bio, interests, newsletter subscriptions, etc. There is no evidence that any
+profile accounts were accessed or that any internal ICANN systems were
+accessed without authorization. While investigations are ongoing, the
+encrypted passwords appear to have been obtained as a result of unauthorized
+access to an external service provider.
+
+You are receiving this notice because your email address/username and
+encrypted password for ICANN.org may have been compromised. The encrypted
+password is not easy to reverse, but as a precaution we are requiring that
+you reset your password. When you next visit our site, go to the login page
+and click the forgot password link: https://www.icann.org/users/password/new
+- to create your new password.
+
+Most importantly, if you have used the same password on other websites or
+services, you should change it immediately on those other websites or
+services. As a general matter, you should avoid reusing passwords across
+multiple sites.
+
+No operational information, financial data or IANA systems were involved.
+
+If you would like further assistance or information, you may contact us at -
+icannorg-support@icann.org.
+This notice was not delayed as a result of a law enforcement investigation.
+
+Thank you for your attention to this. Again, we deeply apologize for any
+inconvenience or concern this incident may cause you.
+
+--
+Internet Corporation for Assigned Names and Numbers - ICANN
+12025 Waterfront Drive, Suite 300
+Los Angeles, CA 90094-2536 USA

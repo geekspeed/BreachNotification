@@ -1,0 +1,131 @@
+October 1, 2015                                                                        Amelia M. Gerlicher
+                                                                                AGerlicher@perkinscoie.com
+                                                                                        D.   +1.206.359.3445
+                                                                                        F.   +1.206.359.4445
+Washington Attorney General’s Office
+800 5th Ave, Suite 2000
+Seattle, WA 98104-3188
+
+SecurityBreach@atg.wa.gov
+
+RE: Notification of Security Breach
+
+To Whom It May Concern:
+
+I am writing on behalf of T-Mobile USA, Inc. to inform you of a recent security breach incident
+involving data handled on its behalf by Experian.
+
+Based on Experian’s investigation to date, we understand that Experian discovered that an
+unauthorized party accessed their systems on September 15, 2015. On September 21, 2015, T-
+Mobile USA, Inc. was notified by Experian that information Experian processes and stores on
+their behalf, including information consumers provided when they applied for an account with
+T-Mobile, likely was acquired. Records containing each consumer’s name, address, social
+security number, date of birth, identification number (typically a driver’s license, military ID, or
+passport number) and additional information used in T-Mobile's own credit assessment, had
+been downloaded by the intruder. No payment card or banking information was obtained. On
+September 22, 2015, Experian determined that although social security and identification
+numbers were encrypted, that encryption may have been compromised. The data of
+approximately 328,889 residents in your state who applied for service from September 1, 2013
+through September 16, 2015 may have been accessed by the intruder.
+
+Experian has assured T-Mobile that it continues to investigate the incident and is taking the
+necessary steps to prevent it from recurring. Experian is mailing notification letters to affected
+individuals beginning next week. Please find enclosed a copy of the notification letter. In
+addition to notifying impacted individuals with written notice, Experian is notifying impacted
+individuals through a public website and notices in statewide media.
+
+Please contact me with any questions or concerns regarding this incident.
+
+Sincerely,
+
+
+
+
+Amelia M. Gerlicher
+
+Enclosure
+
+
+128085509.1
+	
+	
+<Date>	
+	
+<name>		
+<street	address>		
+<City,	State,	zip>		
+	
+I	am	writing	to	let	you	know	of	an	incident	that	occurred	involving	T‐Mobile	USA	data	
+housed	at	Experian	that	may	have	involved	an	unauthorized	disclosure	of	your	personal	
+information.		
+On	September	15,	2015,	we	discovered	that	an	unauthorized	party	accessed	certain	
+Experian	servers.	We	immediately	began	to	investigate	the	incident	and	to	implement	
+additional	security	measures.		
+On	September	21,	2015,	we	notified	T‐Mobile	USA,	Inc.	that	information	Experian	
+maintains	on	their	behalf	to	perform	credit	checks	had	been	downloaded	by	the	
+unauthorized	party.	Information	you	provided	when	you	applied	for	an	account	at	T‐
+Mobile	likely	was	acquired.	That	information	includes	your	name,	address,	social	security	
+number,	date	of	birth,	identification	number	(such	as	driver’s	license,	military	ID,	or	
+passport	number)	and	additional	information	used	in	T‐Mobile's	own	credit	assessment.	
+No	payment	card	or	banking	information	was	obtained.	This	did	not	involve	access	to	
+Experian’s	credit	reporting	database.	
+Experian	has	notified	appropriate	federal,	state	and	international	law	enforcement	
+agencies	and	has	taken	additional	security	steps	to	help	prevent	future	incidents.		
+What	We	Are	Doing	to	Protect	You	
+First	and	foremost,	we	want	to	sincerely	apologize	to	you	if	any	of	your	personal	
+information	was	disclosed	in	this	incident.	We	recognize	that	this	issue	can	be	frustrating,	
+and	we	are	taking	steps	to	protect	you	and	your	personal	information.	
+To	help	protect	your	identity,	we	are	offering	a	complimentary	two‐year	membership	in	
+ProtectMyID®	Elite	credit	monitoring	and	identity	theft	resolution	services.	This	product	
+may	help	detect	misuse	of	your	personal	information	and	provides	you	with	identity	
+protection	support	focused	on	prompt	identification	and	resolution	of	identity	theft.	To	
+Activate	ProtectMyID	please	do	the	following:		
+    1. ENSURE	That	You	Enroll	By	April	30,	2016		
+    2. VISIT	the	ProtectMyID	Web	Site	to	enroll:	www.protectmyid.com/securityincident		
+If	you	have	questions	or	need	an	alternative	to	enrolling	online,	please	call	Experian	at	866‐369‐
+0422.	
+What	You	Can	Do	to	Protect	Yourself		
+There	are	additional	steps	you	can	take	to	protect	yourself	from	fraudulent	activity	and	
+identity	theft:	
+Monitor	your	credit	reports	for	fraudulent	transactions	or	accounts		
+       Obtain	a	free	copy	of	your	credit	report	maintained	by	each	of	the	three	credit	
+        reporting	agencies	by	visiting	www.annualcreditreport.com	or	by	calling	toll‐free	
+        877‐322‐8228.	
+       Review	your	reports	carefully.	If	you	find	anything	you	do	not	understand	or	that	is	
+        incorrect,	contact	the	appropriate	credit	reporting	agency.		
+       If	you	suspect	fraudulent	activity,	contact	your	local	law	enforcement	agency,	the	
+        attorney	general	of	your	state,	and	the	Federal	Trade	Commission.		
+Consider	contacting	the	credit	reporting	agencies	directly	to	activate	a	fraud	alert	or	
+a	security	freeze		
+       A	fraud	alert	will	notify	any	merchant	checking	your	credit	history	that	you	may	be	
+        the	victim	of	identity	theft	and	that	the	merchant	should	take	additional	measures	to	
+        verify	the	application.	Notifying	any	of	the	three	credit	reporting	agencies	will	place	
+        an	alert	on	your	file	across	all	three.		
+       A	security	freeze	restricts	all	creditor	access	to	your	account,	but	might	also	delay	
+        any	requests	you	make	for	new	accounts.	Inquire	with	the	credit	reporting	agencies	
+        for	their	specific	procedures	regarding	security	freezes.		
+Contact	information	for	the	three	credit	reporting	agencies:	
+       Equifax:	1‐800‐525‐6285;	www.equifax.com;	P.O.	Box	740241,	Atlanta,	GA	30374‐
+        0241	
+       Experian:	1‐888‐EXPERIAN	(397‐3742);	www.experian.com;	P.O.	Box	9532,	Allen,	
+        TX	75013	
+       TransUnion:	1‐800‐680‐7289;	www.transunion.com;	Fraud	Victim	Assistance	
+        Division,	P.O.	Box	6790,	Fullerton,	CA	92834‐6790		
+If	You	Have	Questions	
+The	Federal	Trade	Commission	provides	information	about	how	to	avoid	identity	theft	and	
+what	to	do	if	you	suspect	your	identity	has	been	stolen.	They	can	be	contacted	at	
+consumer.ftc.gov,	1‐877‐ID‐THEFT	(877‐438‐4338),	or	The	FTC	Identity	Theft	
+Clearinghouse,	600	Pennsylvania	Avenue,	NW,	Washington,	D.C.	20580.	
+You	can	also	get	information	from	your	state’s	Attorney	General	–	see	<URL>	for	a	listing	of	
+Attorneys	General.	
+For	the	latest	information	on	this	incident	go	to:	www.experian.com/T-MobileFacts	
+You	can	also	contact	us	in	writing	at	Experian,	P.O.	Box	9532,	Allen,	TX	75013,	or	you	can	
+call	us	at	866‐369‐0422.		
+	
+On	behalf	of	Experian,	we	sincerely	apologize	for	any	inconvenience	this	may	cause	you.	
+Sincerely,		
+	
+	
+	
+Craig	Boundy	
+CEO	North	America	

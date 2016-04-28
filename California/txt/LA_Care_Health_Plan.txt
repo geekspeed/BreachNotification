@@ -1,0 +1,41 @@
+<Date>
+
+<Member Name>
+<Member Address>
+<City, State, Zip Code>
+
+Dear <Member Name>:
+
+We are sending you this letter to inform you of an information processing error that may have
+involved accidental disclosure of your information. On January 24, 2014, we became aware that
+some L.A. Care Covered members who logged onto our payment portal were able to see another
+member’s name, address and member identification number.
+
+Upon learning of this issue we temporarily disabled the payment portal and promptly began to
+investigate the issue. We were able to confirm that the disclosures took place between January
+22, 2014 to January 24, 2014 and were the result of a manual information processing error which
+we have since corrected. We were also able to confirm that the information disclosed was
+limited to member name, address and member identification number and did not include any
+other information, such as Social Security number, Driver’s License number, or financial
+account numbers.
+
+Although we have no indication that your information was misused, we will be sending you a
+new member identification number and new card with the replacement identification number.
+
+Please keep a copy of this notice for your records. For information about your medical privacy
+rights, we recommend you visit the website of the California Department of Justice, Privacy
+Enforcement and Protection at www.privacy.ca.gov.
+
+Your privacy is very important to us. We regret that this incident occurred and want to assure
+you that we are reviewing and revising our procedures and practices to minimize the risk of this
+happening again. Should you need any further information about this incident, please contact
+L.A. Care’s Privacy Officer at PrivacyOfficer@lacare.org, by telephone at 1-855-270-2327, or
+letter to 1055 West 7th Street, 10th Floor, Los Angeles, CA 90017.
+
+We will be happy to answer any questions or concerns you may have.
+
+Sincerely,
+
+
+Veronica Richardson
+Privacy & Information Security Officer

@@ -1,0 +1,117 @@
+Return Mail Processing Center
+PO Box 6336
+Portland, OR 97228-6336
+
+
+<<First Name Last Name>>
+<<Street Address>>
+<<City, State ZIP>>
+	<<Date>>
+
+
+
+
+Dear <<First Name>><<Last Name>>:
+
+CP Franchising is committed to providing excellent travel experiences, and we are committed to the privacy and
+security of our clients. As part of this commitment, we are providing you this notice regarding potential unauthorized
+access to your information. You may have previously received an email notification from us indicating that your
+information may have been compromised. We are now sending this notification with more detailed information for
+your consideration.
+
+Brief Facts as to What Happened. CP Franchising received information on February 2, 2015, indicating that some
+information may have been compromised, and we confirmed on February 4, 2015, a potential computer hacker
+intrusion. Through the investigation that followed, CP Franchising has determined that an unauthorized person
+gained access to its servers on or about January 30, 2015, and by inserting and running a malicious piece of computer
+code, may have obtained information stored by CP Franchising in an encrypted fashion.
+
+Nature of the Data Accessed. We are continuing our investigation regarding the extent of information that may
+have been obtained. We have confirmed that information potentially at risk included various pieces of information
+maintained by CP Franchising on behalf of your travel agent, possibly including your name, address, phone number,
+credit card number, email address, passport number, loyalty program number, and date of birth.
+
+Steps You Can Take to Protect Yourself from Harm. Although we do not have any evidence that your information
+was accessed or misused as a result of this computer security incident, your information may be at risk. To help
+protect you, we have engaged Experian, the largest credit bureau in the United States, to offer you complimentary
+Fraud Resolution and identity protection for one year.
+
+If you are a victim of fraud, simply call Experian at 866-578-5412 by February 11, 2016, and a dedicated Identity
+Theft Resolution agent will help you restore your identity. Please provide your engagement number as proof of
+eligibility: PC92075.
+
+While Fraud Resolution assistance is immediately available to you, we also encourage you to activate the fraud
+detection tools available through Experian’s ProtectMyID Elite before the enrollment period ends on May 31, 2015.
+This product provides you with superior identity protection and resolution of identity theft. To start monitoring your
+personal information, please follow the steps below:
+
+Visit www.protectmyid.com/protect.
+
+Provide your activation code: [CODE].
+
+
+
+
+N1251 v.04 02.20.2015
+ADDITIONAL DETAILS REGARDING YOUR 12-MONTH PROTECTMYID MEMBERSHIP:
+
+A credit card is not required for enrollment.
+
+You can contact Experian immediately regarding any fraud issues and have access to the following features once you
+initiate ProtectMyID:
+     •	 Experian credit report: See what information is associated with your credit file.
+     •	 Active Surveillance Alerts: Monitors the Experian file for indicators of fraud.
+     •	 Internet Scan: Alerts you if your information is found on sites containing compromised data.
+     •	 Address Change Alerts: Alerts you of changes to your mailing address.
+     •	 Fraud Resolution: Identity Theft Resolution agents are immediately available to help you address credit and
+         non-credit related fraud.
+     •	 ExtendCARE: You receive the same high-level of Fraud Resolution support even after your ProtectMyID
+         membership has expired.
+     •	 $1 Million Identity Theft Insurance: Provides coverage for certain costs and unauthorized electronic
+         fund transfers.
+     •	 Lost Wallet Protection: Get help replacing credit, debit, and medical insurance cards.
+
+Integrate your ProtectMyID membership with the BillGuard app for FREE and receive:
+    •	 Card Fraud Monitoring: Alerts you when your credit/debit cards are used.
+    •	 Card Concierge: Resolve billing inquiries and disputes with merchants.
+
+If you have any questions about ProtectMyID, need help understanding something on your credit report, or suspect
+that an item on your credit report may be fraudulent, please contact Experian’s customer care team at 866-578-5412.
+
+Remain vigilant for any unauthorized use of your credit card information. We suggest that you review your account
+statements and monitor your credit reports, which you can obtain for free from the three credit reporting agencies
+listed below. If you feel your credit card information may have been compromised, contact the credit card company at
+issue and have it cancel your current card and reissue a new card. Report suspected identity theft to law enforcement.
+We are also contacting the following credit report companies regarding the computer security incident.
+Equifax Credit Information		Experian			TransUnion
+P.O. Box 740241			          P.O. Box 9532			  P.O. Box 6790
+Atlanta, GA 30374-0241		    Allen, TX 75013		 Fullerton, CA 92834-6790
+(800) 525-6285				          (888) 397-3742			 (800) 680-7289
+www.equifax.com			www.experian.com		www.transunion.com
+
+Investigation and Mitigation.
+Investigation. CP Franchising has communicated with the FBI and local law enforcement regarding this computer
+security incident and also is notifying state attorneys general and other regulators as appropriate. The malicious code
+has been removed and the hacker’s access has been terminated.
+
+Mitigation. As indicated, we have hired Experian Consumer Services to provide, at no cost to you, ProtectMyID
+Elite fraud detection and prevention services.
+
+Protection Against Further Harm. We are working with IT security professionals to evaluate our systems and
+security and provide ongoing monitoring and auditing.
+
+Contact Information. If you have any additional questions or concerns, please contact our toll-free number,
+1-800-469-1248, Monday through Friday from 9:00 AM to 9:00 PM Eastern Time. Additionally, for more information
+about avoiding identity theft, you can contact the Federal Trade Commission at 600 Pennsylvania Ave. N.W.,
+Washington, D.C. 20580, 1-877-ID-THEFT, consumer.ftc.gov. Residents of Maryland may also obtain information
+about avoiding identity theft from the Maryland Office of the Attorney General, 200 St. Paul Place, Baltimore, MD
+21202, 1-888-743-0023, www.oag.state.md.us. Residents of North Carolina may also obtain information about avoiding
+identity theft from the North Carolina Attorney General’s Office, 9001 Mail Service Center, Raleigh, NC 27699-9001,
+1-877-5-NO-SCAM, www.ncdoj.gov.
+
+Sincerely,
+
+
+
+
+Tom Kruszewski, Chief Financial Officer, CP Franchising
+N1252 v.04 02.20.2015

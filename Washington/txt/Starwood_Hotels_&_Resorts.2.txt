@@ -1,0 +1,638 @@
+HUNTON          (31
+                 ~                                                 200 PARK &AVENUE
+                                                                   HUNTON     WILLIAMS LU’
+
+~\~1IJJi\1~4S                                                      NEW YORK, NY 10166-0005
+                                                                   TEL 212 309 • 1000
+                                                                   FAX 212~309~ MOO
+
+
+
+                                                                   LISA J. SOTTO
+                                                                   DIRECT DIAL: 212 • 309 • 1223
+                                                                   EMAIL: LSotto@hunton.com
+
+ January 22, 2016                                                  FILENO: 85182000002
+
+
+ Via Email (securitybreach~atg.wa.gov)
+
+ Office of the Attorney General
+ 1125 Washington St. SE
+ P0 Box 40100
+ Olympia, WA 98504-0100
+
+ To Whom It May Concern:
+
+ In accordance with R.C.W. 19.255.010, I am writing to provide you with an update regarding
+ the nature and circumstances of the data security issue that Starwood Hotels & Resorts
+ Worldwide, Inc. (“Starwood”) initially announced on November 20, 2015.
+
+ As indicated in the letter I sent to your office on November 20, a malware intrusion affected
+ some point of sale systems at a limited number of Starwood hotels in North America. Since
+ that time, Starwood has been working diligently with third-party forensic experts to continue
+ its investigation to help ensure that all impacted hotels have been identified. Based on the
+ continued investigation, the company has identified some additional hotels whose point of
+ sale systems were affected by this issue. As a general matter, the malware associated with
+ these additional hotels was identified on point of sale systems that were decommissioned (j.~,
+ taken offline and no longer operating) prior to the November 2015 announcement. To
+ examine these decommissioned systems, which were located in storage at the relevant hotels,
+ the forensic experts needed to conduct multiple system scans and manual inspections for signs
+ of malware. This process required significant time and resources to complete. Attached is an
+ updated list of locations and potential dates of exposure for each affected Starwood hotel.
+
+ As indicated in my prior letter, the malware was designed to collect certain payment card
+ information, including cardholder name, payment card number, security code and expiration
+ date. There is no evidence that other customer information, such as contact information,
+ Social Security numbers or PINs, were affected by this issue. The malware affected certain
+ restaurants, gift shops and other point of sale systems at the relevant Starwood properties.
+ Starwood has no indication that its guest reservation or Starwood Preferred Guest
+ membership systems were impacted.
+
+ The affected hotels have taken steps to secure customer payment card information, and the
+ malware no longer presents a threat to customers using payment cards at the hotels. Starwood
+
+
+     ATLANTA AuSTIN BANGKOK BEIJING BRUSSELS CHARLOnE DALLAS HOUSTON LONDON LOS ANGELES
+        McLEAN MIAMI NEW YORK NORFOLK RALEIGH RICHMOND SAN FRANCISCO TOKYO WASHINGTON
+                                          www.hunton.com
+HUNTON&
+WIIJJAMS
+
+ Office of the Attorney General
+ January 22, 2016
+ Page 2
+
+ is offering identity protection and credit monitoring services to affected Starwood customers
+ for one year at no cost to them.
+
+ Because Starwood does not collect the contact information of customers when they make
+ purchases at retail outlets within the hotel properties, Starwood is unable to determine the
+ number of Washington residents who may be affected by this issue. Attached for your
+ reference is a copy of the updated substitute notice Starwood posted on its website on January
+ 22, 2016. Please do not hesitate to contact me if you have any questions.
+
+ Very truly yours,
+
+
+
+ Lisa J.
+
+ Enclosures
+
+
+
+
+ 85t82.000002 EMP US 58970452v1
+                             Letter From Our President Updated
+                                                           -
+
+
+
+
+January 22, 2016
+
+Dear Starwood Customers:
+
+I am writing to provide you with an update regarding the nature and circumstances of the data
+security issue we initially announced on November 20, 2015. As indicated in my November
+2015 letter, a malware intrusion affected some point of sale systems at a limited number of
+Starwood hotels in North America. Since that time, we have been working diligently with third-
+party forensic experts to continue our investigation to help ensure that all impacted hotels have
+been identified. Based on the continued investigation, we have identified some additional hotels
+whose point of sale systems were affected by this issue. The updated list of locations and
+potential dates of exposure for each affected Starwood property is provided hcrc•
+
+As indicated in my prior letter, we discovered that the point of sale systems at certain Starwood
+hotels were infected with malware, enabling unauthorized parties to access payment card data of
+some of our customers. We want you to know that the affected hotels have taken steps to secure
+customer payment card information, and the malware no longer presents a threat to customers
+using payment cards at our hotels. We also want to assure you that protecting the security of our
+customers’ personal information is a top priority for Starwood.
+
+As indicated in my prior letter, we have determined the following:
+
+   •   The malware affected certain restaurants, gift shops and other point of sale systems at the
+       relevant Starwood properties. We have no indication that our guest reservation or
+       Starwood Preferred Guest membership systems were impacted.
+
+   •   The malware was designed to collect certain payment card information, including
+       cardholder name, payment card number, security code and expiration date. There is no
+       evidence that other customer information, such as contact information, Social Security
+       numbers or PINs, were affected by this issue.
+
+We sincerely regret any inconvenience this may cause. We take our obligation to safeguard
+personal information very seriously and are alerting affected customers about this incident so
+they can take steps to help protect their information. You are entitled under U.S. law to one free
+credit report annually from each of the three nationwide consumer reporting agencies. To order
+your free credit report, visit www.annualcreditreport.com or call toll-free at 1-877-322-8228.
+We encourage you to remain vigilant by reviewing your account statements and monitoring your
+free credit reports. If you believe your payment card may have been affected, please contact
+your bank or card issuer immediately.
+
+In addition, we have arranged with AllClear ID to offer identity protection and credit monitoring
+services to affected Starwood customers for one year at no cost to them. The Reference Guide
+provides information on registration and recommendations by the U.S. Federal Trade
+Commission on the protection of personal information.
+If you have any questions or would like more information, please call 1-855-270-9179 (U.S. and
+Canada) or 1-512-201-2201 (International), Monday through Saturday, 8:00 am to 8:00 pm CST.
+
+Again, we sincerely apologize for any inconvenience this issue may cause.
+
+Sincerely,
+
+Sergio Rivera
+President, The Americas
+                                          Reference Guide
+
+We encourage affected customers to take the following steps:
+
+Order Your Free Credit Report. To order your free credit report, visit
+www.annualcreditreport.com, call toll-free at 1-877-322-8228, or complete the Annual Credit
+Report Request Form on the U.S. Federal Trade Commission’s (“FTC”) website at
+www.consumer.ftc.gov and mail it to Annual Credit Report Request Service, P.O. Box 105281,
+Atlanta, GA 30348-5281. The three consumer reporting agencies provide free annual credit reports
+only through the website, toll-free number or request form.
+
+When you receive your credit report, review it carefully. Look for accounts you did not open.
+Look in the “inquiries” section for names of creditors from whom you haven’t requested credit.
+Some companies bill under names other than their store or commercial names. The consumer
+reporting agency will be able to tell you when that is the case. Look in the “personal information”
+section for any inaccuracies in your information (such as home address and Social Security
+number). If you see anything you do not understand, call the consumer reporting agency at the
+telephone number on the report. Errors in this information may be a warning sign of possible
+identity theft. You should notify the consumer reporting agencies of any inaccuracies in your
+report, whether due to error or fraud, as soon as possible so the information can be investigated and,
+if found to be in error, corrected. If there are accounts or charges you did not authorize,
+immediately notify the appropriate consumer reporting agency by telephone and in writing.
+Consumer reporting agency staff will review your report with you. If the information can’t be
+explained, then you will need to call the creditors involved. Information that can’t be explained
+also should be reported to your local police or sheriffs office because it may signal criminal
+activity.
+
+Identity Protection and Credit Monitoring Services. Starwood has arranged with AlIClear ID to
+offer affected customers identity protection, credit monitoring and fraud assistance services at no
+cost to them. These services will be available through February 1, 2017. A customer is eligible for
+the services listed below if the customer used a payment card at one of the affected Starwood
+properties during a relevant time period. The locations and potential dates of exposure for each
+affected Starwood property are listed hcr~.
+
+AlIClear SECURE: This service provides affected customers with a dedicated investigator to help
+them recover financial losses and restore their credit and identity. Affected Starwood customers are
+automatically eligible to use this service there is no action required on their part to
+                                         —
+
+
+enroll. Affected customers may receive this fraud assistance service by calling 1-855-270-9179.
+
+AlIClear PRO: This service offers additional layers of protection to U.S. residents, including credit
+monitoring and a $1 million identity theft insurance policy. Please click here or call 1-855-270-
+9179 to learn more and sign up for this service.
+
+AlIClear PLUS Canada: For additional protections, Canadian residents may enroll in AlIClear
+PLUS Canada, which includes identity theft monitoring. To use this service, you will need to
+provide certain information. Please click here or call 1-855-270-9179 to learn more and sign up for
+this service.
+
+                                                   1
+AlIClear Global Identity Repair: Customers residing outside the U.S. and Canada may call 1-512-
+201-2201 or click here for information about AlIClear SECURE and AllClear Global Identity
+Repair services.
+
+Report Incidents. If you detect any unauthorized transactions in a financial account, promptly
+notify your payment card company or financial institution. If you detect any incident of identity
+theft or fraud, promptly report the incident to law enforcement, the FTC and your state Attorney
+General. If you believe your identity has been stolen, the FTC recommends that you take these
+steps:
+
+    •   Place an initial fraud alert.
+    •   Order your credit reports.
+    •   Create an FTC Identity Theft Affidavit by submitting a report about the theft at
+        http://www.ftc.gov/complaint or by calling the FTC.
+    •   File a police report about the identity theft and get a copy of the police report or the report
+        number. Bring your FTC Identity Theft Affidavit with you when you file the police report.
+    •   Your Identity Theft Report is your FTC Identity Theft Affidavit plus your police report.
+        You may be able to use your Identity Theft Report to remove fraudulent information from
+        your credit report, prevent companies from refurnishing fraudulent information to a
+        consumer reporting agency, stop a company from collecting a debt that resulted from
+        identity theft, place an extended seven-year fraud alert with consumer reporting agencies,
+        and obtain information from companies about accounts the identity thief opened or misused.
+
+You can contact the FTC to learn more about how to protect yourself from becoming a victim of
+identity theft and how to repair identity theft:
+
+Federal Trade Commission
+Consumer Response Center
+600 Pennsylvania Avenue, NW
+Washington, DC 20580
+l-877-IDTHEFT (438-4338)
+www.flc.gov/idtheft/
+
+Consider Placinu a Fraud Alert on Your Credit File. To protect yourself from possible identity
+theft, consider placing a fraud alert on your credit file. A fraud alert helps protect you against the
+possibility of an identity thief opening new credit accounts in your name. When a merchant checks
+the credit history of someone applying for credit, the merchant gets a notice that the applicant may
+be the victim of identity theft. The alert notifies the merchant to take steps to verify the identity of
+the applicant. You can place a fraud alert on your credit report by calling any one of the toll-free
+numbers provided below. You will reach an automated telephone system that allows you to flag
+your file with a fraud alert at all three consumer reporting agencies. For more information on fraud
+alerts, you also may contact the FTC as described above.
+
+Equifax            Equifax Credit Information                1-800-525-6285      www.equifax.com
+                   Services, Inc.
+                   P.O. Box 740241
+                   Atlanta, GA 30374
+Experian           Experian Inc.                             1-888-397-3742      www.experian.com
+                                                    2
+                   P.O. Box 9554
+                   Allen, TX 75013
+TransUnion         TransUnion LLC                          1-800-680-7289       www.transunion.com
+                   P.O. Box 2000
+                   Chester, PA 19022-2000
+
+ Consider Placing a Security Freeze on Your Credit File. You may wish to place a “security
+freeze” (also known as a “credit freeze”) on your credit file. A security freeze is designed to
+prevent potential creditors from accessing your credit file at the consumer reporting agencies
+without your consent. There may be fees for placing, lifting, and/or removing a security freeze,
+which generally range from $5-$20 per action. Unlike afraud alert, you must place a security
+freeze on your creditfile at each consumer reporting agency individually. For more information on
+security freezes, you may contact the three nationwide consumer reporting agencies or the FTC as
+described above. As the instructions for establishing a security freeze differ from state to state,
+please contact the three nationwide consumer reporting agencies to find out more information.
+
+The consumer reporting agencies may require proper identification prior to honoring your request.
+For example, you may be asked to provide:
+
+    •   Your full name with middle initial and generation (such as Jr., Sr., 11, 111)
+    •   Your Social Security number
+    •   Your date of birth
+    •   Addresses where you have lived over the past five years
+    •   A legible copy of a government-issued identification card (such as a state driver’s license or
+        military ID card)
+    •   Proof of your current residential address (such as a current utility bill or account statement)
+
+For Maryland Residents. You can obtain information from the Maryland Office of the Attorney
+General about steps you can take to avoid identity theft. You may contact the Maryland Attorney
+General at:
+
+Maryland Office of the Attorney General
+Consumer Protection Division
+200 St. Paul Place
+Baltimore, MD 21202
+(888) 743-0023 (toll-free in Maryland)
+(410) 576-6300
+www.oag.state.md.us
+
+For Massachusetts Residents. You have the right to obtain a police report and request a security
+freeze as described above. The consumer reporting agencies may charge you a fee of up to $5 to
+place a security freeze on your account, and may require that you provide certain personal
+information (such as your name, Social Security number, date of birth, and address) and proper
+identification (such as a copy of a government-issued ID card and a bill or statement) prior to
+honoring your request for a security freeze. There is no charge, however, to place, lift or remove a
+security freeze if you have been a victim of identity theft and you provide the consumer reporting
+agencies with a valid police report.
+
+                                                   3
+For North Carolina Residents. You can obtain information from the North Carolina Attorney
+General’s Office about preventing identity theft. You can contact the North Carolina Attorney
+General at:
+
+North Carolina Attorney General’s Office
+9001 Mail Service Center
+Raleigh, NC 27699-9001
+(877) 566-7226 (toll-free in North Carolina)
+(919) 716-6400
+www.ncdoj.gov
+
+
+
+
+                                                4
+85182.000002 EME_US 59044l60vI
+                                                                                         starwood    Hotels and
+                                                                                                     Resorts
+                                                                                                One StarPoint
+                                                                                           Stamford, CT 06902
+                                                                                                 United States
+
+UPDATED 112212016: Starwood Hotels & Resorts locations affected by payment Card security issue:
+
+                                                                      ~~~                                                   ~
+
+ Four Points by Sheraton Philadelphia Airport       Philadelphia, PA                     11/7/2014               2/5/2015    1/22/2016
+ Le Centre Sheraton Montreal                        Montreal, OC                          3/2/2015               4/6/2015   11/20/2015
+ Moana Surfrider. AWestin Resort                    Honolulu, HI                          2/2/2015               4/4/2015   11/20/2015
+ Palace Hotel, San Francisco                        San Francisco, CA                12/25/2014               4/4/2015      11/20/2015
+ Sheraton Atlantic City Convention Center Hotel     Atlantic City, NJ                 11/7/2014               5/6/2015      11/20/2015
+ Sheraton Birmingham Hotel                          Birmingham, AL                     3/2/2015              4/14/2015      11/20/2015
+ Sheraton Boston Hotel                              Boston, MA                            3/2/2015            4/9/2015      11/20/2015
+ Sheraton Centre Toronto Hotel                      Toronto, ON                           3/2/2015           7/20/2015       1/22/2016
+ Sheraton Chicago                                   Chicago, IL                          11/7/2014            4/7/2015       1/22/2016
+ Sheraton Dallas Hotel                              Dallas, TX                            3/2/2015           4/16/2015      11/20/2015
+ Sheraton Denver Hotel                              Denver, CO                            3/2/2015            5/2/2015      11/20/2015
+ Sheraton Fairplex Hotel & Conference Center        Pomona, CA                            3/2/2015           4/13/2015      11/20/2015
+ Sheraton Gateway Toronto                           Toronto, CAN                         1/14/2015           1/15/2015       1/22/2016
+ Sheraton Grand Phoenix                             Phoenix, AZ                           3/2/2015           4/16/2015       1/22/2016
+ Sheraton   Grand Sacramento Hotel                  Sacramento, CA                        3/2/2015           4/19/2015      11/20/2015
+ Sheraton   Houston West Hotel                      Houston, TX                           3/2/2015            4/6/2015       1/22/2016
+ Sheraton   Indianapolis                            Indianapolis, IN                     11/7/2014          11/13/2014       1/22/2016
+ Sheraton   Inner Harbor                            Baltimore, MD                        11/7/2014           4/13/2015       1/22/2016
+ Sheraton Kansas City Hotel at Crown Center         Kansas City, MO                       3/2/2015           4/16/2015      11/20/2015
+ Sheraton Kona Resort & Soa at Keauhou Bay          Kailua-Kona, HI                       3/2/2015           4/16/2015       1/22/2016
+ Sheraton Los Angeles Downtown Hotel                Los Angeles, CA                       2/3/2015               4/5/2015    1/22/2015
+ Sheraton Maui Resort & Spa                         Maui, HI                             11/7/2014           4/16/2015      11/20/2015
+ Sheraton Needham                                   Needham, MA                          11/7/2014           4/17/2015       1/22/2016
+ Sheraton   New Orleans Hotel                       New Orleans, LA                      11/7/2014           4/16/2015      11/20/2015
+ Sheraton   New York Times Square Hotel             New York, NY                          3/2/2015            5/3/2015      11/20/2015
+ Sheraton   Parsippany                              Parsippany, NJ                        3/2/2015           4/19/2015       1/22/2016
+ Sheraton   Puerto Rico                             San Juan, PR                          3/2/2015            4/6/2015       1/22/2016
+
+
+
+
+                                                          SI
+                                                               a
+                                                               I~L1iL.~
+                                                                                     I      ~ !fl
+
+
+
+   star.wood
+                Resorb~              I      “liUflhlOll                   Vi/ESTIN                   ~   ~                        I31E T IT
+
+
+
+
+                                                           FQJR~’
+                                                           POIN IS                       ~icPt
+                                                                                stacwood          Hotels and
+                                                                                                  Resorts
+
+
+Sheraton San Diego Hotel & Marina                   San Diego, CA                  1/3/2015              3/2/2015   11/20/2015
+Sheraton Seattle Hotel                              Seattle, WA                    3/2/2015             4/16/2015    1/22/2016
+Sheraton Society Hill                               Philadelphia, PA               3/2/2015              3/9/2015    1/22/2016
+Sheraton Stonebriar Hotel                           Frisco, TX                     3/2/2015              4/8/2015   11/20/2015
+Sheraton Suites Philadelphia Airport                Philadelphia, PA              11/7/2014              2/5/2015    1/22/2016
+Sheraton Waikiki                                    Honolulu, HI                  11/7/2014              4/8/2015   11/20/2015
+Sheraton Wild Horse Pass Resort & Spa               Chandler, AZ                   3/2/2015              5/6/2015   11/20/2015
+Sheraton, Steamboat Springs Colorado                Steamboat Springs, CO          3/2/2015             4/13/2015    1/22/2016
+SLS Hotel at Beverly Hills                          Beverly Hills, CA              3/2/2015              4/8/2015    1/22/2016
+The Phoenician, a Luxury Collection Resort          Scottsdale, AZ                1/23/2015             4/17/2015   11/20/2015
+The St. Regis Aspen                                 Aspen, CO                      3/2/2015             4/16/2015    1/22/2016
+The St. Regis Atlanta                               Atlanta, GA                    3/2/2015             4/13/2015    1/22/2016
+The St. Regis Bahia Beach                           Rio Grande, PR                 3/2/2015             4/29/2015    1/22/2016
+The St. Regis Bal Harbour Resort                    Bal Harbour, FL                3/2/2015             4/16/2015   11/20/2015
+The St. Regis Deer Valley                           Park City, UT                  3/2/2015              4/8/2015    1/22/2016
+The St. Regis Houston                               Houston, TX                    3/2/2015             4/14/2015   1/22/2016
+The   St. Regis New York                            New York, NY                  11/7/2014              2/4/2015    1/22/2016
+The   St. Regis Princeyille Resort                  Princeville, HI                3/2/2015             7/22/2015    1/22/2016
+The   St. Regis San Francisco                       San Francisco, CA             11/7/2014             12/1/2014    1/22/2016
+The   St. Regis Washington D.C.                     Washington, DC                 3/2/2015             3/17/2015    1/22/2016
+The   US Grant, a Luxury Collection Hotel           San Diego, CA                 11/7/2014              4/6/2015    1/22/2016
+The   Westin Alexandria                             Alexandria, VA                 3/2/2015             4/16/2015    1/22/2016
+The Westin Bayshore, Vancouver                      Vancouver, BC                  3/2/2015             5/14/2015    1/22/2016
+The Westin Bellevue                                 Bellevue, WA                  11/5/2014             2/20/2015    1/22/2016
+• The Westin Birmingham                             Birmingham, AL                 3/2/2015              4/7/2015   11/20/2015
+  The Westin Boston Waterfront                      Boston, MA                     3/2/2015             4/20/2015   11/20/2015
+  The Westin Cape Coral                             Cape Coral, FL                 3/2/2015             4/17/2015    1/22/2016
+The   Westin   Charlotte                            Charlotte, NC                  1/6/2015             4/13/2015   11/20/2015
+The   Westin   Chicago River North                  Chicago, IL                    3/2/2015              4/5/2015   11/20/2015
+The   Westin   Cincinnati                           Cincinnati, MO                 3/2/2015             6/30/2015   11/20/2015
+The   Westin   Convention Center, Pittsburgh        Pittsburgh, PA                 3/2/2015              4/6/2015    1/22/2016
+
+
+
+
+                                                         Sr HE4,LS
+                                                                                 {tI.LLtXLR~
+                                                                                (•4~ TI rr~ ION
+                                                                                                               w
+  star4wood      [Intel s ~n                   Shenuon                 WESflN                     ~;MLRlDIEN          TRII3UTC
+                 Resorts
+                                                          rr’ r’,
+                                                          I ~                             —.
+                                                                                     staLwood           Hotels and
+                                                                                                        Resorts
+
+
+The   Westin   Detroit Metropolitan Airport           Detroit, Ml                      3/2/2015                4/9/2015         11/20/2015
+The   Westin   Edmonton                               Edmonton, AB                    11/7/2014               4/17/2015          1/22/2016
+The   Westin   Ft. Lauderdale Beach Resort            Ft. Lauderdale, FL              12/2/2014               12/4/2014          1/22/2016
+The   Westin   Galleria Dallas                        Dallas, TX                       3/2/2015               4/14/2015          1/22/2016
+The   Westin   Hilton Head                            Hilton Head, SC                  3/2/2015               4/14/2015          1/22/2016
+The   Westin   Indianapolis                           Indianapolis, IN                11/7/2014               1/30/2015          1/22/2016
+The   Westin   Jersey City                            Jersey city, Ni                  3/2/2015               4/21/2015          1/22/2016
+The Westin Ka’Anapali Ocean Resort Villas             Lahaina, HI                      3/2/2015               3/26/2015         11/20/2015
+The Westin Kansas City at Crown center                Kansas City, MO                 11/7/2014                4/5/2015         11/20/2015
+The   Westin   Kierland Resort & Spa                  Scottsdale, AZ                  1/22/2015                4/5/2015         11/20/2015
+The   Westin   Kierland Villas, Scottsdale            Scottsdale, AZ                  1/20/2015               1/21/2015         11/20/2015
+The   Westin   La Paloma Resort & Spa                 Tucson, AZ                       3/2/2015               4/16/2015         11/20/2015
+The   Westin   Lombard Yorktown center                Lombard, IL                      3/2/2015                4/4/2015         11/20/2015
+The   Westin   Los Angeles Airport                    Los Angeles, CA                  3/2/2015                4/4/2015         11/20/2015
+The   Westin   Maui Resort & Spa                      Lahaina, HI                      3/2/2015                4/8/2015         11/20/2015
+The Westin Michigan Avenue Chicago                    Chicago, IL                       3/2/2015              5/14/2015         11/20/2015
+The Westin Mission Hills Golf Resort & Spa            Rancho Mirage, CA                 1/6/2015              2/10/2015         11/20/2015
+The   Westin   New York at Times Square               New York, NY                     3/2/2015               4/25/2015         11/20/2015
+The   Westin   New York Grand Central                 New York, NY                     3/2/2015               4/10/2015         11/20/2015
+The   Westin   Ottawa                                 Ottawa, ON                       3/2/2015                4/7/2015          1/22/2016
+The   Westin   Park central Dallas                    Dallas, TX                      11/7/2014               2/12/2015          1/22/2016
+The   Westin   Phoenix Downtown                       Phoenix, AZ                      1/5/2015               4/16/2015         11/20/2015
+The   Westin   Princeville Ocean Resort Villas        Princeville, HI                  3/2/2015               3/26/2015         11/20/2015
+The   Westin   Riverwalk                              San Antonio, TX                 1/18/2015               1/20/2015          1/22/2016
+The   Westin   San Diego Gaslamp Quarter              San Diego, CA                    3/2/2015               3/31/2015          1/22/2016
+The   Westin   Savannah                               Savannah, GA                    11/7/2014               4/16/2015          1/22/2016
+The Westin Seattle                                    Seattle, WA                     11/7/2014                4/7/2015         11/20/2015
+
+The Westin South Coast Plaza                          Costa Mesa, CA                  11/7/2014               1/28/2015
+
+The Westin St. Francis                                San Francisco, CA                 3/2/2015               4/8/2015         11/20/2015
+The Westin Stonebriar Hotel & Golf Club               Frisco, TX                      11/7/2014               4/15/2015         11/20/2015
+
+
+
+
+                                                           SI
+                                                                a
+                                                                N1-t,IS
+                                                                                     I UI ~ •\I~ ~t
+                                                                                        I I I I It 1’
+
+
+  statwood       f lnrIs4~n:j                    sherawn                  WE ST IN                        MLR~DIEN                   TRIIflTF
+                 Rescwts
+                                                            rcuR~                                                         k
+                                                            P~~ir; is                                                ~‘   G~rc’~iI
+                                                                    statwooci      Hotels and
+                                                                                   Resorts
+
+
+The Westin Waltham Boston                      Waltham, MA           11/7/2014           4/20/2015       11/20/2015
+W Atlanta Midtown                              Atlanta, GA            3/2/2015           4/12/2015        1/22/2016
+W Chicago City Center                          Chicago, IL            3/2/2015           4/27/2015        1/22/2016
+W Dallas Victory Hotel & Residences
+          -                                    Dallas, TX              3/2/2015          5/29/2015        1/22/2016
+W Fort Lauderdale                              Ft. Lauderdale, FL      3/2/2015          4/16/2015        1/22/2016
+W   Hoboken                                    Hoboken, NJ            3/2/2015           4/15/2015       11/20/2015
+W   Hollywood                                  Los Angeles, CA        3/2/2015            4/6/2015       11/20/2015
+W   Montreal                                   Montreal, OC           3/2/2015            4/6/2015       11/20/2015
+W   New Orleans French Quarter
+                    -                          New Orleans, LA        3/2/2015          10/23/2015       11/20/2015
+W   New York                                   New York, NY           3/2/2015           4/15/2015        1/22/2016
+W   New York Downtown
+              -                                New York, NY          11/7/2014           4/16/2015        1/22/2016
+W   New York Times Square
+              -                                New York, NY           3/2/2015            3/8/2015       11/20/2015
+W   Retreat & Sna Vieques Island
+                        -                      Vieques Island, PR     3/2/2015           4/13/2015       11/20/2015
+W   San Francisco                              San Francisco, CA     11/7/2014           6/10/2015        1/22/2016
+W   Seattle                                    Seattle, WA            3/2/2015           4/16/2015        1/22/2016
+W South Beach                                  Miami Beach, FL       1/22/2015            4/9/2015       11/20/2015
+Walt Disney World DolDhin, A Sheraton Hotel    Orlando, FL           11/5/2014           4/13/2015       11/20/2015
+
+
+
+
+                                                      0
+                                                    SF RhULS
+                                                                    111k LUXL11~
+                                                                    COIl ECHOS
+                                                                                                w
+    star.wood     ijorek ~.in:tJ         Sheraton                                  2, MEWDIEN              TRIBUJTE
+                  Resorts
+                                                    FCciR~                                       I   r
+                                                                         rh
+                                                                           statwood      Hot&s and
+                                                                                         Resorts
+                                                                                One StarPoint
+                                                                           Stamford! CT 06902
+                                                                                 United States
+
+
+Updated: January 22, 2016
+
+                                    Frequently Asked Questions
+
+1.     What happened?
+
+We became aware of a malware intrusion that affected some point of sale systems at a limited number
+of Starwood hotels in North America. Promptly after discovering the issue, we engaged third-party
+forensic experts to conduct an extensive investigation. Based on the investigation, we discovered that
+the malware affected certain restaurants, gift shops and other point of sale systems at the relevant
+Starwood properties. We have no indication that our guest reservation or Starwood Preferred Guest
+membership systems were impacted.
+
+2.     What did Starwood do when it discovered the issue?
+
+Promptly after discovering the issue, we engaged third-party forensic experts to conduct an extensive
+investigation. We also have been working closely with law enforcement authorities and coordinating
+our efforts with the payment card organizations to determine the facts.
+
+3.     What information may have been compromised?
+
+The malware was designed to collect certain payment card information, including cardholder name,
+payment card number, security code and expiration date. There is no evidence that other customer
+information, such as contact information, Social Security numbers or PINs, were affected by this issue.
+
+4.     Which Starwood hotels in North America were impacted by this incident?
+
+The updated locations and potential dates of exposure for each affected Starwood property are listed
+here.
+
+5.   Has Starwood identified additional properties affected by this issue since its first
+     notification in November 2015?
+
+
+
+
+                                                        S
+                                                    S~ H EU
+                                                                           TH1~LUXt1fl
+                                                                              ~
+
+     staLwood                            ~htntton               WEST!N                     MEIUD[EN
+
+
+                                                      ~ I’.                 err!
+                                                                             statwood       Hot&s arid
+                                                                                            Resorts
+
+
+Yes. Even though our investigation was not complete at the time of our initial announcement in
+November 2015, we believed it was in the best interest of our customers to quickly alert them at the
+time based on the information we had. Since that time, we have been working diligently with third-
+party forensic experts to continue our investigation to help ensure that all impacted hotels have been
+identified. Based on our investigation, we have identified some additional hotels whose point of sale
+systems were affected by this issue. The updated locations and potential dates of exposure for each
+affected Starwood property are listed ~
+
+6.   Is it safe to use a payment card at Starwood hotels?
+
+The malware no longer presents a threat to customers using payment cards at our hotels.
+
+7.     Is my payment card information affected?
+
+Starwood cannot identify individual affected customers based on the payment card data the company
+has available. This issue impacted a limited number of Starwood properties during specific periods of
+time. Please refer to your payment card statements to see if you used a card at one of the affected
+hotels during a relevant time period. If you believe your payment card was affected or you see any
+unusual activity on your account statement, you should immediately contact your bank or card issuer.
+
+8.     What should I do to help protect my information?
+
+If you believe your payment card may have been affected, you should immediately contact your bank
+or card issuer. Under U.S. law, you are entitled to one free credit report annually from each of the
+three national credit bureaus. To order your free credit report, visit www.annualcreditreport.com or call
+toll free at 1-877-322-8228. We encourage you to review your account statements and monitor your
+free credit reports. For more information about steps you can take to protect your credit files, you can
+contact any one of the consumer reporting agencies at:
+
+Equifax                   1-800-525-6285                    ~ww.eguifax.com
+Experian                  1-888-397-3742                    ~www.experian.com
+rrransUnion               1-800-680-7289                    ~nww.transunion.com
+In addition, we have arranged with AlIClear ID to offer identity protection and credit monitoring services
+to affected Starwood customers for one year at no cost to them. The Reference Guide provides
+information on registration and recommendations by the U.S. Federal Trade Commission on the
+protection of personal information.
+
+
+                                                         4
+                                                      Si N~;t~~
+                                                                             TilL LUXURT
+                                                                             Cfl~ flu ios
+
+     star.wood                                                    ‘WESnN                    ~.   MERIDIEN         TM [lUTE
+              Re~iisls
+
+                                                       FCJR~t
+                                                       POINTS                                               C.”
+                                                                             star.wood      Hotels and
+                                                                                            Resorts
+
+
+9.     How do I find out more about the identity protection and credit monitoring services?
+
+We have arranged with AliClear ID to offer identity protection and credit monitoring services to
+affected Starwood customers for one year at no cost to them. For more information about these
+services, please click here or call 1-855-270-9179 (U.S. and Canada) or 1-512-201-2201
+(International), Monday through Saturday, 8:00 am to 8:00 pm CST.
+
+10.    Where can I get more information?
+
+If you have any questions or would like additional information regarding this issue, please call 1-855-
+270-91 79 (U.S. and Canada) or 1-512-201-2201 (International), Monday through Saturday, 8:00 am to
+8:00 pm CST.
+
+
+
+
+                                                        0
+                                                     S[ I( k(~ ES
+                                                                             1 LIE.
+                                                                             ((iii    (TI
+                                                                                                         \Avf
+
+      staLwood                                                      WESTIN                                      TRIBUTE
+                     s
+
+                                                                                p~: cr

@@ -1,0 +1,81 @@
+              
+
+
+
+
+             [DATE]	
+             	
+             [MEMBER	FULL	NAME]	
+             [MEMBER	ADDRESS]	
+             [CITY,	STATE	ZIP]	
+             	
+             	      Re:		Notice	of	Security	Incident	
+             	
+             Dear	[MEMBER	NAME]:	
+             The	purpose	of	this	letter	is	to	report	a	security	incident	of	which	SynerMed	has	become	
+             aware,	that	involved	the	theft	from	one	of	our	employees	of	a	laptop	computer	containing	
+             protected	health	information	(PHI)	of	members	of	Inland	Valleys	IPA	(IVIPA).	
+             	
+             Security	Incident	
+             	
+             The	security	incident	occurred	on	the	night	of	April	14	or	early	morning	on	April	15,	2013,	
+             when	a	thief	broke	into	an	automobile	belonging	to	an	employee	that	was	parked	in	front	of	
+             the	 employee’s	 home.	 	 The	 thief	 stole	 the	 employee’s	 SynerMed	 laptop	 computer,	 which	
+             had	member	PHI	on	its	hard	drive.		The	employee	discovered	the	theft	on	the	morning	of	
+             April	15	and	immediately	contacted	local	police	and	SynerMed.	
+             	
+             The	 laptop	 was	 password‐protected,	 and	 any	 ability	 to	 use	 the	 laptop	 to	 connect	 to	
+             SynerMed	systems	was	eliminated	immediately	in	the	early	morning,	April	15.			
+             		
+             Information	Involved	
+             	
+             The	SynerMed	employee	who	was	the	victim	of	the	crime	confirmed	that	4	reports	were	on	
+             the	laptop’s	hard	drive	that	could	have	contained	your	PHI.		The	information	consisted	of	
+             member	name,	membership	number,	member	address,	CPT	Code,	Diagnosis	Code,	and	date	
+             of	birth	(in	some	cases).	The	PHI	did	not	include	social	security	numbers,	driver's	license	
+             numbers,	or	any	other	financial	information.	
+             	
+             Mitigation	Action	
+             	
+             As	 previously	 stated,	 the	 laptop	 was	 password‐protected,	 and	 the	 PHI	 contained	 on	 the	
+             laptop	 did	 not	 include	 social	 security	 numbers,	 driver's	 license,	 or	 any	 financial	
+             information.	 Accordingly,	 the	 probability	 is	 low	 that	 the	 PHI	 can	 be	 used	 in	 a	 manner	
+
+
+CORPORATE OFFICE                                                                                             REGIONAL OFFICE
+1600 CORPORATE CENTER DRIVE                                                                    621 EAST CARNEGIE DRIVE, SUITE 180 
+MONTEREY PARK, CALIFORNIA 91754                                                                SAN BERNARDINO, CALIFORNIA 92408 
+T	213‐406‐2600			F	213‐830‐1800	                                                                 T	909‐291‐1980			F	909‐291‐1988	
+              
+                                                                                            INLAND	VALLEYS	IPA
+              
+
+
+
+
+             adverse	to	you.	To	date,	the	perpetrator	of	the	crime	has	not	been	identified,	and	there	is	
+             no	indication	of	access	to	the	PHI.	
+             	
+             Conclusion	
+             	
+             If	you	have	any	questions	or	concerns	you	may	contact	the	undersigned	at	213‐406‐2626,	
+             between	the	hours	of	8:30	am	and	5	pm	Monday	through	Friday.	
+             	
+             Sincerely,	
+             	
+             	
+             Darren	McLachlan	
+             Vice	President	of	Finance/IT	
+             	
+             	
+                    	
+
+
+
+
+CORPORATE OFFICE                                                                                       REGIONAL OFFICE
+1600 CORPORATE CENTER DRIVE                                                              621 EAST CARNEGIE DRIVE, SUITE 180 
+MONTEREY PARK, CALIFORNIA 91754                                                          SAN BERNARDINO, CALIFORNIA 92408 
+T	213‐406‐2600			F	213‐830‐1800	                                                           T	909‐291‐1980			F	909‐291‐1988	
+              
+                                                                                      INLAND	VALLEYS	IPA

@@ -1,0 +1,161 @@
+        <Date>
+
+
+
+        <Dana Jones>
+        <ABC Corporation>
+        <100 Main Street>
+        <Anytown, Any State Zip>
+        <USA>
+        IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+
+
+
+
+                                                           Important information about your account(s).
+
+
+        We recently discovered that some of your account information at Windhaven Investment Management,
+        Inc. (“Windhaven®”) may potentially have been viewed by an unauthorized person or persons. While we
+        have no indication that your account information was accessed or used inappropriately, we want you to be
+        aware of the incident.
+
+        We sincerely apologize for this incident and want to let you know what steps we’re taking as a result, plus
+        outline some steps we recommend you take to protect yourself.
+
+        What happened.
+        Windhaven recently discovered evidence of an unauthorized intrusion on a web server maintained by a
+        third-party vendor that we hired. The intruder may have been able to use this web server to access a
+        database that contained your name, account number, custodian, and investment positions for your
+        Windhaven account(s) only. Please note that the database did not include your Social Security number,
+        date of birth or information about any other accounts. We learned of this intrusion in August 2013,
+        although any potential access to your account information may have occurred months earlier. While we
+        have not detected any specific indication that your information was accessed, we are informing you of this
+        incident as a precautionary measure.
+
+        What steps we’re taking.
+        Windhaven has permanently disconnected the affected web server and database, disabling any potential
+        access to your information. We are also conducting a thorough review of the incident in order to improve
+        the security of confidential information in our possession.
+
+        As a further precaution, our affiliate, Charles Schwab & Co., Inc. (“Schwab”), the custodian of your
+        account(s), has added additional security measures to your account(s) with the goal of preventing
+        unauthorized activity. If you suspect that unauthorized activity has occurred, please call Schwab right
+        away at                    . If you work with an independent investment advisor other than Windhaven with
+        respect to this account(s), your advisor has been notified of this incident.
+
+        In addition, we’ve reported the intrusion to law enforcement officials and will cooperate fully with any
+        related investigations. This notification was not delayed by a law enforcement investigation.
+
+                                                                                                                                  (Over)
+
+                                  Windhaven Investment Management, Inc.   One International Place, 33rd Floor, Boston, MA 02110
+<9101686085>
+        We’re also offering you a complimentary one-year credit monitoring subscription from Equifax.
+        To subscribe, please see the enclosed information sheet and use this unique promotion code:
+                        .
+
+        Security precautions provided by Schwab.
+        We’d also like to inform you of security precautions available to you through our affiliate, Schwab:
+
+        SchwabSafe®
+        SchwabSafe is a collection of security measures designed to keep your personal and financial information
+        safe online. To learn more about how Schwab protects your account information, visit www.schwab.com/
+        schwabsafe.
+
+        Additional security options for your account(s)
+        Schwab can provide you with a Schwab.com security token free of charge for all current accounts.
+        Security tokens provide an additional layer of authentication for clients when logging in to Schwab.com-
+        enabled channels.
+
+        Schwab can also place a verbal password on your account(s). If you choose to have a verbal password,
+        you will be required to provide it whenever you contact Schwab by phone.
+
+        To request a security token or place a verbal password on your account(s), please call Schwab at
+
+
+        We also recommend you consider taking the protective steps we describe on the following page.
+
+        We take the security of your information very seriously and, again, I sincerely apologize for any
+        inconvenience this incident may cause. If you have questions or concerns about this incident, please
+        feel free to call Schwab anytime at
+
+        Sincerely,
+
+
+
+
+        Windhaven Investment Management, Inc.
+
+
+
+
+<9101686085>
+        Steps we recommend you consider taking to further protect your personal information:
+
+               •	 Review your recent and future account statements carefully to ensure all transactions are authorized.
+
+               •	 Check your credit report regularly. You can order a free annual credit report by going to
+                  www.annualcreditreport.com or by calling the Annual Credit Report Request Service at
+                  1-877-322-8228.
+
+               •	 If at any time you believe you have been the victim of identity theft, you may wish to contact the
+                  three major credit reporting agencies and place a free “Fraud Alert” or “Security Freeze” in your
+                  credit file. Contact information for these credit reporting agencies is listed at the end of this letter.
+                  A fraud alert or security freeze notifies potential lenders to verify your identification before extend-
+                  ing credit in your name. You may also wish to report any suspected identity theft to local law
+                  enforcement.
+
+               •	 To learn more about protecting yourself from identity theft and to obtain further information about
+                  a fraud alert or security freeze, visit the Federal Trade Commission’s website at www.ftc.gov/bcp/
+                  edu/microsites/idtheft, call the FTC toll-free at 1-877-ID-THEFT (1-877-438-4338) or contact the
+                  FTC at Federal Trade Commission, Consumer Response Center, 600 Pennsylvania Ave., NW,
+                  Washington, DC 20580.
+
+        Contact Information for Credit Reporting Agencies:
+
+          Equifax                                       Experian                                     TransUnion
+          1-877-478-7625                                1-888-397-3742                               1-888-909-8872
+          P.O. Box 740241                               P.O. Box 2002                                P.O. Box 6790
+          Atlanta, GA 30374                             Allen, TX 75013                              Fullerton, CA 92834
+          www.equifax.com                               www.experian.com                             www.transunion.com
+
+
+
+
+        Other Important Information
+        For Iowa Residents: You may also report suspected incidents of identity theft to local law enforcement or the Office of the Iowa
+        Attorney General, 1305 E. Walnut Street, Des Moines, IA 50319, 515-281-5164, http://www.iowaattorneygeneral.org.
+        For Maryland Residents: To obtain more information about steps you can take to avoid identity theft, you may contact the Office of
+        the Maryland Attorney General, 200 St. Paul Place, Baltimore, MD 21202, 1-888-743-0023, www.oag.state.md.us/contact.htm, or
+        the Federal Trade Commission, Consumer Response Center, 600 Pennsylvania Ave. NW, Washington, DC 20580, www.ftc.gov/
+        bcp/menus/business/data.shtm.
+        For Massachusetts Residents: Massachusetts law requires that we notify you that you may also place a security freeze on your
+        credit report to prevent potential credit grantors from accessing your credit report without your consent, by sending a written
+        request to each of the national credit reporting agencies listed above. In order to request a security freeze, you will need to provide
+        the following: (1) your full name; (2) your Social Security number and date of birth; (3) proof of your current address, such as a util-
+        ity or phone bill, as well as a list of your addresses from the prior five years; (4) a legible photocopy of a government-issued identi-
+        fication card; (5) if you have been a victim of identity theft, a copy of any police report, complaint, or other investigative report you
+        may have filed with local law enforcement; and (6) if you are not a victim of identity theft, payment by check, money order, or credit
+        card. Do not send cash. The credit reporting agency may charge a fee of up to $5 each to place, temporarily lift, or remove a
+        freeze. To lift or remove a freeze, you must send a written request in accordance with the requirements of each credit reporting
+        agency. Please be aware that placing a security freeze on your credit report may delay, interfere with, or prevent the timely
+        approval of any requests you make for credit, loans, employment, housing, or other services. For more information regarding credit
+        freezes, please contact the credit reporting agencies directly. Under Massachusetts law, you also have the right to request from
+        Windhaven a copy of any police report filed in connection with this incident.
+        For North Carolina Residents: To obtain more information about steps you can take to avoid identity theft, you may contact the
+        North Carolina Attorney General’s Office, 9001 Mail Service Center, Raleigh, NC 27699-9001, 1-877-5-NO-SCAM (1-877-566-7226),
+        www.ncdoj.gov/ or the Federal Trade Commission, Consumer Response Center, 600 Pennsylvania Ave. NW, Washington, DC 20580,
+        1-877-ID-THEFT (1 877-438-4338), www.ftc.gov/bcp/menus/business/data.shtm.
+        For Oregon Residents: You may also report suspected incidents of identity theft to the Federal Trade Commission, Consumer
+        Response Center, 600 Pennsylvania Ave. NW, Washington, DC 20580, www.ftc.gov/bcp/menus/business/data.shtm.
+        Independent investment advisors are not owned by, affiliated with, or supervised by Windhaven Investment Management, Inc. or
+        Charles Schwab & Co., Inc.
+        Windhaven Investment Management, Inc. and Charles Schwab & Co., Inc. are separate but affiliated companies and subsidiaries
+        of The Charles Schwab Corporation.
+
+
+
+        ©2013 Windhaven Investment Management, Inc.  All rights reserved.  CS20041-01  ALC76606-00 (09/13)
+
+<9101686085>

@@ -1,0 +1,258 @@
+<<MemberFirstName>> <<MemberLastName>>                                              <<Date>> (Format: Month Day, Year)
+<<Address1>>
+<<Address2>>
+<<City>>, <<State>> <<Zip Code>>
+
+
+
+
+Dear <<MemberFirstName>> <<MemberLastName>>,
+We are writing to inform you of a data security incident that may have resulted in the disclosure of your personal
+information, including your name, driver’s license number, and credit card number. Your Social Security number is not
+in our system and was not exposed. We take the security of your personal information very seriously, and sincerely
+apologize for any inconvenience this may cause you. This letter contains information about steps you can take to
+protect your information, and resources we are making available to help you.
+What happened and what information was involved:
+On December 16, 2015, we discovered that an agent’s Baja Bound Insurance Service’s email account may have been
+compromised through a phishing attack. From our investigation, it appears the phishing email was intended to collect
+only email addresses. As part of our investigation, we also reviewed the documents stored in the email account and
+discovered an application that contained your personal information, including your name, address, date of birth,
+driver’s license number, and credit card number. Our website, www.bajabound.com, was not affected and remains
+secure. While we have no evidence that any of this information was viewed or compromised, we wanted to let you
+know about this event out of an abundance of caution.
+What we are doing and what can you do:
+Although we do not believe there is a risk of identity theft, as an added precaution, we are providing you with one year
+of identity monitoring at no cost to you through Kroll. Your identity monitoring services include Credit Monitoring and
+Identity Theft Consultation and Restoration. Additional information describing your services is included with this letter.
+
+ Visit <<IDMonitoringURL>> to enroll and take advantage of your identity monitoring services.
+ Membership Number: <<Member ID>>
+
+If you have any questions, please call 1-???-???-????, Monday through Friday, 6:00 a.m. to 3:00 p.m. Pacific Time.
+(Closed on U.S. observed holidays).
+We want to assure you that we have taken steps to prevent a similar event from occurring in the future, and to protect
+the privacy and security of your information. This includes revising our policy and procedures regarding the handling
+of personal information and setting up two-factor authentication for our email accounts.
+For more information:
+We take the privacy and security of your information very seriously, and sincerely regret any concern or inconvenience
+this may cause you. Please know that the protection and security of your personal information is our priority. Please
+call 1-???-???-????, Monday through Friday, 6:00 a.m. to 3:00 p.m. Pacific Time with any questions or concerns.
+(Closed on U.S. observed holidays).
+Sincerely,
+
+
+
+John Morton
+President
+                                                                                                               ??????-0216 Ad CC
+U.S. State Notification Requirements
+For residents of Hawaii, Michigan, Missouri, Virginia, Vermont, and North Carolina:
+It is recommended by state law that you remain vigilant for incidents of fraud and identity theft by reviewing credit card account
+statements and monitoring your credit report for unauthorized activity.
+For residents of Illinois, Iowa, Maryland, Missouri, North Carolina, Oregon, and West Virginia:
+It is required by state laws to inform you that you may obtain a copy of your credit report, free of charge, whether or not you
+suspect any unauthorized activity on your account. You may obtain a free copy of your credit report by contacting any one or
+more of the following national consumer reporting agencies:
+Equifax	           Experian	        TransUnion
+P.O. Box 70241	    P.O. Box 22104	  P.O. Box 2000
+Atlanta, GA 30374	 Allen, TX 75013	 Chester, PA 19022
+1-800-685-1111	1-888-397-3742	1-800-888-4213
+www.equifax.com	 www.experian.com	www.transunion.com
+You may also obtain a free copy of your credit report online at www.annualcreditreport.com, by calling toll-free 1-877-322-8228,
+or by mailing an Annual Credit Report Request Form (available at www.annualcreditreport.com) to: Annual Credit Report Request
+Service, P.O. Box 105281, Atlanta, GA, 30348-5281.
+For residents of Iowa:
+State law advises you to report any suspected identity theft to law enforcement or to the Attorney General.
+For residents of Oregon:
+State laws advise you to report any suspected identity theft to law enforcement, as well as the Federal Trade Commission.
+For residents of Maryland, Illinois, and North Carolina:
+You can obtain information from the Maryland and North Carolina Offices of the Attorneys General and the Federal Trade
+Commission about fraud alerts, security freezes, and steps you can take toward preventing identity theft.
+Maryland Office of the	       North Carolina Office of the	 Federal Trade Commission
+Attorney General	             Attorney General	             Consumer Response Center
+Consumer Protection Division	 Consumer Protection Division	 600 Pennsylvania Avenue, NW
+200 St. Paul Place	           9001 Mail Service Center	     Washington, DC 20580
+Baltimore, MD 21202	          Raleigh, NC 27699-9001	       1-877-IDTHEFT (438-4338)
+1-888-743-0023	1-877-566-7226	 www.ftc.gov/bcp/edu/microsites/idtheft
+www.oag.state.md.us	www.ncdoj.com
+For residents of Massachusetts:
+It is required by state law that you are informed of your right to obtain a police report if you are a victim of identity theft.
+For residents of all states:
+Fraud Alerts: You can place fraud alerts with the three credit bureaus at one of the three major credit bureaus by phone and also
+via Experian’s or Equifax’s website. A fraud alert tells creditors to follow certain procedures, including contacting you, before they
+open any new accounts or change your existing accounts. For that reason, placing a fraud alert can protect you, but also may
+delay you when you seek to obtain credit. The contact information for all three credit bureaus is below:
+Monitoring: You should always remain vigilant and monitor your accounts for suspicious or unusual activity.
+Security Freeze: You also have the right to place a security freeze on your credit report. A security freeze is intended to prevent
+credit, loans and services from being approved in your name without your consent. To place a security freeze on your credit
+report, you need to send a request to each consumer reporting agency by certified mail, overnight mail, or regular stamped mail.
+The following information must be included when requesting a security freeze (note that if you are requesting a credit report for
+your spouse, this information must be provided for him/her as well): (1) full name, with middle initial and any suffixes; (2) Social
+Security number; (3) date of birth; (4) current address and any previous addresses for the past five years; and (5) any applicable
+incident report or complaint with a law enforcement agency or the Registry of Motor Vehicles. The request must also include a
+copy of a government-issued identification card and a copy of a recent utility bill or bank or insurance statement. It is essential
+that each copy be legible, display your name and current mailing address, and the date of issue. The consumer reporting agency
+may charge a fee of up to $5.00 to place a freeze or lift or remove a freeze, but is free if you are a victim of identity theft or the
+spouse of a victim of identity theft, and you have submitted a valid police report relating to the identity theft incident to the
+consumer reporting agency. You may obtain a security freeze by contacting any one or more of the following national consumer
+reporting agencies:
+Equifax Security Freeze	              Experian Security Freeze	      TransUnion (FVAD)
+P.O. Box 105788	                      P.O. Box 9554	                 P.O. Box 2000
+Atlanta, GA 30348	                    Allen, TX 75013	               Chester, PA 19022
+www.equifax.com	                      http://www.experian.com/freeze	www.transunion.com
+More information can also be obtained by contacting the Federal Trade Commission listed above.
+TAKE ADVANTAGE OF YOUR IDENTITY MONITORING SERVICES
+You’ve been provided with access to the following services1 from Kroll:
+
+Credit Monitoring through TransUnion
+You’ll receive alerts when there are changes to your credit data—for instance, when a new line of credit is applied for
+in your name. If you do not recognize the activity, you’ll have the option to call a Kroll investigator, who can help you
+determine if it’s an indicator of identity theft.
+
+Identity Consultation
+You have unlimited access to consultation with a dedicated licensed investigator at Kroll. Support includes showing
+you the most effective ways to protect your identity, explaining your rights and protections under the law, assistance
+with fraud alerts, and interpreting how personal information is accessed and used, including investigating suspicious
+activity that could be tied to an identity theft event.
+
+Identity Restoration
+If you become a victim of identity theft, an experienced licensed investigator will work on your behalf to resolve
+related issues. You will have access to a dedicated investigator who understands your issues and will do most of the
+work for you. Your investigator can dig deep to uncover all aspects of the identity theft, and then work to resolve it.
+
+
+
+
+1
+    Kroll’s activation website is only compatible with the current version or one version earlier of Internet Explorer, Chrome, Firefox, and Safari.
+	 To receive credit services, you must be over the age of 18 and have established credit in the U.S., have a Social Security number in your name,
+  and have a U.S. residential address associated with your credit file.                                                                     470-0116
+<<MemberFirstName>> <<MemberLastName>>                                              <<Date>> (Format: Month Day, Year)
+<<Address1>>
+<<Address2>>
+<<City>>, <<State>> <<Zip Code>>
+
+
+
+
+Dear <<MemberFirstName>> <<MemberLastName>>,
+We are writing to inform you of a data security incident that may have resulted in the disclosure of your personal
+information, including your name and driver’s license number. Your Social Security number is not in our system
+and was not exposed. We take the security of your personal information very seriously, and sincerely apologize for
+any inconvenience this may cause you. This letter contains information about steps you can take to protect your
+information, and resources we are making available to help you.
+What happened and what information was involved:
+On December 16, 2015, we discovered that an agent’s Baja Bound Insurance Service’s email account may have been
+compromised through a phishing attack. From our investigation, it appears the phishing email was intended to collect
+only email addresses. As part of our investigation, we also reviewed the documents stored in the email account and
+discovered an application that contained your personal information, including your name, address, date of birth, and
+driver’s license number. Our website, www.bajabound.com, was not affected and remains secure. While we have no
+evidence that any of this information was viewed or compromised, we wanted to let you know about this event out of
+an abundance of caution.
+What we are doing and what can you do:
+Although we do not believe there is a risk of identity theft, as an added precaution, we are providing you with one year
+of identity monitoring at no cost to you through Kroll. Your identity monitoring services include Credit Monitoring and
+Identity Theft Consultation and Restoration. Additional information describing your services is included with this letter.
+
+ Visit <<IDMonitoringURL>> to enroll and take advantage of your identity monitoring services.
+ Membership Number: <<Member ID>>
+
+If you have any questions, please call 1-???-???-????, Monday through Friday, 6:00 a.m. to 3:00 p.m. Pacific Time.
+(Closed on U.S. observed holidays).
+We want to assure you that we have taken steps to prevent a similar event from occurring in the future, and to protect
+the privacy and security of your information. This includes revising our policy and procedures regarding the handling
+of personal information and setting up two-factor authentication for our email accounts.
+For more information:
+We take the privacy and security of your information very seriously, and sincerely regret any concern or inconvenience
+this may cause you. Please know that the protection and security of your personal information is our priority. Please
+call 1-???-???-????, Monday through Friday, 6:00 a.m. to 3:00 p.m. Pacific Time with any questions or concerns.
+(Closed on U.S. observed holidays).
+Sincerely,
+
+
+
+John Morton
+President
+                                                                                                              ??????-0216 Ad No CC
+U.S. State Notification Requirements
+For residents of Hawaii, Michigan, Missouri, Virginia, Vermont, and North Carolina:
+It is recommended by state law that you remain vigilant for incidents of fraud and identity theft by reviewing credit card account
+statements and monitoring your credit report for unauthorized activity.
+For residents of Illinois, Iowa, Maryland, Missouri, North Carolina, Oregon, and West Virginia:
+It is required by state laws to inform you that you may obtain a copy of your credit report, free of charge, whether or not you
+suspect any unauthorized activity on your account. You may obtain a free copy of your credit report by contacting any one or
+more of the following national consumer reporting agencies:
+Equifax	           Experian	        TransUnion
+P.O. Box 70241	    P.O. Box 22104	  P.O. Box 2000
+Atlanta, GA 30374	 Allen, TX 75013	 Chester, PA 19022
+1-800-685-1111	1-888-397-3742	1-800-888-4213
+www.equifax.com	 www.experian.com	www.transunion.com
+You may also obtain a free copy of your credit report online at www.annualcreditreport.com, by calling toll-free 1-877-322-8228,
+or by mailing an Annual Credit Report Request Form (available at www.annualcreditreport.com) to: Annual Credit Report Request
+Service, P.O. Box 105281, Atlanta, GA, 30348-5281.
+For residents of Iowa:
+State law advises you to report any suspected identity theft to law enforcement or to the Attorney General.
+For residents of Oregon:
+State laws advise you to report any suspected identity theft to law enforcement, as well as the Federal Trade Commission.
+For residents of Maryland, Illinois, and North Carolina:
+You can obtain information from the Maryland and North Carolina Offices of the Attorneys General and the Federal Trade
+Commission about fraud alerts, security freezes, and steps you can take toward preventing identity theft.
+Maryland Office of the	       North Carolina Office of the	 Federal Trade Commission
+Attorney General	             Attorney General	             Consumer Response Center
+Consumer Protection Division	 Consumer Protection Division	 600 Pennsylvania Avenue, NW
+200 St. Paul Place	           9001 Mail Service Center	     Washington, DC 20580
+Baltimore, MD 21202	          Raleigh, NC 27699-9001	       1-877-IDTHEFT (438-4338)
+1-888-743-0023	1-877-566-7226	 www.ftc.gov/bcp/edu/microsites/idtheft
+www.oag.state.md.us	www.ncdoj.com
+For residents of Massachusetts:
+It is required by state law that you are informed of your right to obtain a police report if you are a victim of identity theft.
+For residents of all states:
+Fraud Alerts: You can place fraud alerts with the three credit bureaus at one of the three major credit bureaus by phone and also
+via Experian’s or Equifax’s website. A fraud alert tells creditors to follow certain procedures, including contacting you, before they
+open any new accounts or change your existing accounts. For that reason, placing a fraud alert can protect you, but also may
+delay you when you seek to obtain credit. The contact information for all three credit bureaus is below:
+Monitoring: You should always remain vigilant and monitor your accounts for suspicious or unusual activity.
+Security Freeze: You also have the right to place a security freeze on your credit report. A security freeze is intended to prevent
+credit, loans and services from being approved in your name without your consent. To place a security freeze on your credit
+report, you need to send a request to each consumer reporting agency by certified mail, overnight mail, or regular stamped mail.
+The following information must be included when requesting a security freeze (note that if you are requesting a credit report for
+your spouse, this information must be provided for him/her as well): (1) full name, with middle initial and any suffixes; (2) Social
+Security number; (3) date of birth; (4) current address and any previous addresses for the past five years; and (5) any applicable
+incident report or complaint with a law enforcement agency or the Registry of Motor Vehicles. The request must also include a
+copy of a government-issued identification card and a copy of a recent utility bill or bank or insurance statement. It is essential
+that each copy be legible, display your name and current mailing address, and the date of issue. The consumer reporting agency
+may charge a fee of up to $5.00 to place a freeze or lift or remove a freeze, but is free if you are a victim of identity theft or the
+spouse of a victim of identity theft, and you have submitted a valid police report relating to the identity theft incident to the
+consumer reporting agency. You may obtain a security freeze by contacting any one or more of the following national consumer
+reporting agencies:
+Equifax Security Freeze	              Experian Security Freeze	      TransUnion (FVAD)
+P.O. Box 105788	                      P.O. Box 9554	                 P.O. Box 2000
+Atlanta, GA 30348	                    Allen, TX 75013	               Chester, PA 19022
+www.equifax.com	                      http://www.experian.com/freeze	www.transunion.com
+More information can also be obtained by contacting the Federal Trade Commission listed above.
+TAKE ADVANTAGE OF YOUR IDENTITY MONITORING SERVICES
+You’ve been provided with access to the following services1 from Kroll:
+
+Credit Monitoring through TransUnion
+You’ll receive alerts when there are changes to your credit data—for instance, when a new line of credit is applied for
+in your name. If you do not recognize the activity, you’ll have the option to call a Kroll investigator, who can help you
+determine if it’s an indicator of identity theft.
+
+Identity Consultation
+You have unlimited access to consultation with a dedicated licensed investigator at Kroll. Support includes showing
+you the most effective ways to protect your identity, explaining your rights and protections under the law, assistance
+with fraud alerts, and interpreting how personal information is accessed and used, including investigating suspicious
+activity that could be tied to an identity theft event.
+
+Identity Restoration
+If you become a victim of identity theft, an experienced licensed investigator will work on your behalf to resolve
+related issues. You will have access to a dedicated investigator who understands your issues and will do most of the
+work for you. Your investigator can dig deep to uncover all aspects of the identity theft, and then work to resolve it.
+
+
+
+
+1
+    Kroll’s activation website is only compatible with the current version or one version earlier of Internet Explorer, Chrome, Firefox, and Safari.
+	 To receive credit services, you must be over the age of 18 and have established credit in the U.S., have a Social Security number in your name,
+  and have a U.S. residential address associated with your credit file.                                                                     470-0116

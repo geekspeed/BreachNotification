@@ -1,0 +1,49 @@
+                   Important Notice about your Confidential Information – May 9, 2012
+
+        On February 15, 2012, the University of North Carolina at Charlotte (the “University”) announced that,
+because of incorrect access settings, a large amount of electronic data hosted by the University were accessible
+from the Internet. Subsequent investigation has determined that there were two access issues, one affecting
+general University systems over a period of approximately three months, and another affecting the University’s
+The William States Lee College of Engineering systems over a period exceeding a decade. The University has
+no reason to believe that any information from either of these incidents was inappropriately accessed or that
+information was used for identity theft or other crime. The exposed data included personal information, which
+could include your name, address, social security number, or credit card information provided in association
+with transactions with the University. We have involved state and federal regulatory and law enforcement
+agencies to assist us in determining how to proceed.
+        Although we have seen no evidence suggesting that the data have been used in any way, out of an
+abundance of caution we have made the decision to notify you of the loss so that you can be alert to any possible
+changes in use of your personal information or accounts. The University continues to monitor the situation
+carefully and has increased its internal review procedures to watch for any unusual activity. Several public
+protections are available to assist in avoiding identity theft. I encourage you to monitor your personal
+information. If you notice suspicious activity, you should report it immediately to the University at the
+following number 1-855-205-6937 and to any financial institution involved. You should also contact the
+Federal Trade Commission at www.ftc.gov/idtheft, at 1-877-ID-THEFT (438-4338), or at 600 Pennsylvania
+Avenue, NW, Washington, DC 20580, and you may call your local sheriff’s office and file a police report of
+identity theft, keeping a copy of the police report. In addition, you may contact the Consumer Protection
+Division of the North Carolina Attorney General’s Office at 9001 Mail Service Center, Raleigh, NC 27699, by
+phone at 1-919-716-6000 or toll free in North Carolina at 1-877-566-7226. If you reside outside of North
+Carolina, the contact information for the Attorney General of your state can be found on the website for the
+National Association of Attorneys General available at http://www.naag.org/current-attorneys-general.php.
+         If you wish to protect yourself from the possibility of identity theft, you can place a free fraud alert on
+your credit files. A fraud alert notifies creditors to contact you before opening new accounts in your name.
+Contact any one of the three major credit reporting agencies at the numbers/addresses below to place a fraud
+alert with all three agencies. You will then receive letters from all of these agencies, with instructions on how to
+receive a free copy of your credit report from each agency.
+        Experian                          Equifax                          TransUnion
+        1-888-397-3742                    1-800-766-0008                   1-800-680-7289
+        P.O. Box 9554                     P.O. Box 740241                  Fraud Victim Assistance Division
+        Allen, TX 75013                   Atlanta, GA 30374                P.O. Box 6790
+                                                                           Fullerton, CA 92834
+        The University consistently utilizes industry standard information protections, uses leading data
+management vendors, and has dramatically increased its information protection capacity since the discovery of
+the exposures. Nonetheless, the University is currently reviewing all aspects of its information security. For
+more information, you may go to the University’s webpage set up to address this matter at
+securityincident.uncc.edu.   You may also call us toll-free at 1-855-205-6937, or e-mail us at
+securityincident@uncc.edu.
+       On behalf of the University, I apologize for any inconvenience this incident might have caused, and
+promise that we are working hard to maintain protections for sensitive data.
+
+        Thank you,
+
+        Jay Dominick
+        Vice Chancellor for Information Technology and CIO

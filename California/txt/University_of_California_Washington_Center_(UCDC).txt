@@ -1,0 +1,33 @@
+From: UCDC TechHelp
+Sent: Friday, June 20, 2014 10:25 AM
+Subject: Notification of Compromised Course Enrollment System at UCDC
+
+
+
+Dear UC Washington Center (UCDC) Alumni
+
+On June 8th, 2014, UCDC received notification of unsolicited emails being sent to UCDC
+Alumni. An investigation by UCDC’s tech unit revealed that an unauthorized individual had
+gained access to UCDC’s pre-enrollment system hosted at ucdc.gosignmeup.com and the data
+stored on this system. GoSignMeUp is a cloud-based provider of an online course registration
+system engaged by UCDC to host its course registration system. The data accessed included your
+password and user name. Your account on this system and related UCDC systems has since been
+deactivated. Other information including your address and principal e-mail at the time of your
+participation in UCDC as well as your gender, birth date and UCDC courses may have been
+compromised. By policy UCDC does not record user social security numbers or financial
+account information in any of its databases.
+
+If you are using the ucdc.gosignmeup.com password with any other accounts (bank, credit card,
+social networking sites, etc.), you should change that password immediately. Never use a
+password that someone else knows again (ever).
+
+UCDC is committed to maintaining the security of its online accounts and takes many
+precautions to protect its electronic systems and information. We are working with the vendor of
+this service to find additional ways to increase the security of UCDC user data stored on this
+system. We sincerely regret any inconvenience this incident presents to you.
+
+If you have any questions, please contact techhelp@ucdc.edu.
+
+Rodger Rak
+Manager, Business & Information Services
+University of California, Washington Center (UCDC)

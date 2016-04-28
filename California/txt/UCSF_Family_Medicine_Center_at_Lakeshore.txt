@@ -1,0 +1,61 @@
+  C/O ID Experts
+  PO Box 6336
+  Portland, OR 97228-6336
+
+
+  <<MAIL_ID>>
+  <<MAIL_ID>>
+
+  <<NAME1>>
+  <<ADDRESS1>>
+  <<ADDRESS2>>
+  <<CITY>>, <<STATE>> <<ZIP>>
+  <<COUNTRY>>
+
+                                                                                                                         <<Date>>
+
+
+
+UCSF Family Medicine          Dear <<FULL NAME>>,
+Center at Lakeshore
+                              We are writing to inform you of an incident involving some of your health information. On January
+1569 Sloat Blvd., Suite 333   13, 2014, UCSF learned that unencrypted desktop computers were burglarized from the UCSF Family
+San Francisco, CA 94132       Medicine Center at Lakeshore on or about January 11, 2014. UCSF immediately began a technical
+                              analysis to identify what information was on the computers. On March 6, 2014, UCSF determined that
+www.ucsfhealth.org            the computers contained files that included your name and/or medical record number, along with some
+                              health information. The files may have also included other identifiable information, such as your date
+University of California      of birth or address.
+San Francisco
+                              We sincerely apologize that this has happened. At this time, there is no evidence of any attempted
+                              access or attempted use of the information involved in this incident. We encourage you to contact
+                              UCSF / ID Experts, who is well versed in this matter, with any questions by calling 1-888-236-0299
+                              (international callers, please dial 1-503-597-7687). ID Experts is available Monday through Friday
+                              from 6 am - 6 pm Pacific Time to assist.
+                              Additional information about identity theft may be obtained from the following agencies:
+                                  •	   California Office of the Attorney General
+                                  	    http://www.oag.ca.gov/idtheft
+
+                                  •	   Federal Trade Commission
+                                  	    http://www.ftc.gov/bcp/edu/microsites/idtheft
+                              Again, we apologize that this has happened. Should an unknown person contact you, we encourage
+                              you not to release any of your personal information. The University of California is committed
+                              to maintaining the privacy of personal information and has taken additional steps to secure that
+                              information, including strengthening our educational and operational processes for information
+                              security.
+                              Should you have any questions about this matter, please contact the UCSF / ID Experts informational
+                              line at 1-888-236-0299 (international callers, please dial 1-503-597-7687). UCSF / ID Experts is
+                              well versed in this matter and will be able to assist you.
+                              You will need the following access code when calling, so please do not discard this letter.
+                                                                      Access Code: 59832
+                              Sincerely,
+
+
+
+
+                              David Morgan
+                              Executive Director, Ambulatory Services
+                              UCSF Medical Center
+
+
+
+   L9341 v.01 03.07.2014

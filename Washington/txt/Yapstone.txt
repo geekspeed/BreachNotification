@@ -1,0 +1,416 @@
+Pillsbury Winthrop Shaw Pittman LLP
+725 South Figueroa Street, Suite 2800 | Los Angeles, CA 90017-5406 | tel 213.488.7100 | fax 213.629.1033
+
+
+
+                                                                                           Catherine D. Meyer
+                                                                                             tel: 213.488.7362
+                                                                            catherine.meyer@pillsburylaw.com
+
+December 18, 2015
+
+
+
+Office of the Attorney General
+State of Washington
+1125 Washington Street SE
+ PO Box 40100
+ Olympia, WA 98504-0100
+Via Email to: SecurityBreach@atg.wa.gov
+
+         Re:       Notification of Data Security Breach Incident
+
+Dear Sir:
+
+This letter is being sent in accordance with Washington law to inform your office that our
+client, Yapstone, Inc. suffered an incident in which certain personal information about
+approximately 5264 Washington residents may have been accessible by unauthorized
+persons via a Yapstone URL vulnerability. The information potentially exposed included a
+combination of name, driver’s license number, bank account number and/or Social Security
+Number. Immediately upon the Company’s discovery of this incident on August 4, 2015
+Yapstone immediately blocked unauthorized access to the URL and retained outside
+experts to investigate the incident, to understand the level of impact, and to remediate any
+security vulnerability. While the Company had no information to indicate that Washington
+residents’ information has been or will be misused, it provided notification and 24 months
+of credit monitoring services to affected individuals. We have enclosed a copy of the
+notice letter that was sent to potentially affected individuals on 9/11/2015.
+
+We sincerely apologize for the delay in providing this notification to your offices. Through
+an oversight the recent amendment in the Washington statute was missed. We want to
+assure you that all impacted Washington residents were given timely notice of the incident.
+Should you have any additional questions, you may contact me directly at 213-488-7362.
+
+Very truly yours,
+
+
+
+
+Catherine D. Meyer
+
+www.pillsburylaw.com
+            Return Mail Processing Center
+            P.O. Box 588
+            Claysburg, PA 16625-0588
+                                                                                                  September 11, 2015
+
+                ##B2945-L04-0123456 0001 00000001 **************9-OELZZ 123
+                SAMPLE A SAMPLE
+                APT ABC
+                123 ANY ST
+                ANYTOWN, US 12345-6789
+                TTFDDATDAADTAAAFAATFFDDTFTAAFTAFAAFFFFDTDADTTTADTATATDADFDFFDFTFD
+
+
+
+
+Dear Sample A Sample,
+YapStone (which you may know as VacationRentPayment), a provider of payment services is writing to inform you that
+certain personal information you provided on your VacationRent Payments application that was stored by YapStone may
+have been accessible by unauthorized persons via a YapStone URL between approximately July 15, 2014 and August 5,
+2015. Unfortunately, due to this application being available, your email, Social Security number, driver's license, date of
+birth, and bank account were potentially exposed. Please review the enclosed FAQ for additional information.
+Upon learning of the issue on August 4, 2015, YapStone immediately blocked unauthorized access to the application and
+retained outside experts to investigate the incident to understand the level of impact. While we have no information to
+indicate that your information has been or will be misused, we believe it is important that you be informed of this
+inadvertent information disclosure and that you take precautions to protect against possible misuse or identity theft.
+Thus, we wanted to provide you with information on how to protect yourself. YapStone has arranged for you to receive two
+years of credit protection services from Experian at no cost to you through Experians® ProtectMyID® Alert service which
+includes: 24 months of credit monitoring services, insurance reimbursement policy and educational materials and access to
+expert fraud resolution representatives. To enroll in this service, follow these three steps:
+        1. ENSURE That You Enroll By: December 31, 2015 (Your code will not work after this date.)
+        2. VISIT the ProtectMyID Web Site to enroll: www.protectmyid.com/alert
+        3. PROVIDE Your Activation Code: ABCDEFGHI
+If you have questions or need an alternative to enrolling online, please call (877) 297-7780 and provide engagement #:
+PC96449. Once your ProtectMyID membership is activated, you will receive the following features:
+     · Free copy of your Experian credit report
+     · Surveillance Alerts for:
+              o Daily Bureau Credit Monitoring: Alerts of key changes & suspicious activity found on your Experian
+                  credit report.
+     · Identity Theft Resolution & ProtectMyID ExtendCARE: Toll-free access to US-based customer care and a
+         dedicated Identity Theft Resolution agent who will walk you through the process of fraud resolution from start to
+         finish for seamless service. They will investigate each incident; help with contacting credit grantors to dispute
+         charges and close accounts including credit, debit and medical insurance cards; assist with freezing credit files;      0123456
+
+         contact government agencies.
+              o To offer extended protection, you will receive ExtendCARETM, which provides you with the same
+                  high-level of Fraud Resolution support even after your ProtectMyID membership has expired.
+
+
+
+
+                                                                                                                              B2945-L04
+     ·    $1 Million Identity Theft Insurance1: Immediately covers certain costs including, lost wages, private
+          investigator fees, and unauthorized electronic fund transfers.
+You should remain vigilant for incidents of fraud and identity theft including by regularly reviewing your account
+statements and monitoring free credit reports. If you discover any suspicious or unusual activity on your accounts or
+suspect identity theft or fraud, be sure to report it immediately to your financial institutions. In addition, you may
+contact the Federal Trade Commission (FTC) or law enforcement to report incidents of identity theft or to learn about
+steps you can take to protect yourself from identity theft. To learn more, you can go to the FTCs Web site, at
+www.consumer.gov/idtheft, call the FTC, at (877) IDTHEFT (438-4338) or write to Federal Trade Commission,
+Consumer Response Center, 600 Pennsylvania Avenue, NW, Washington, DC 20580. In addition, under U.S. law, you
+are entitled to one free credit report annually from each of the three nationwide consumer-reporting agencies. You may
+order one, two, or all three reports at the same time, or you may stagger your requests during a 12-month period to keep
+an eye on the accuracy and completeness of the information in your reports. To order your free credit reports, visit
+www.annualcreditreport.com or by calling (877) 322-8228. You may contact the nationwide credit reporting agencies
+at:
+              Equifax                                  Experian                             TransUnion Corp
+              800-525-6285                             888-397-3742                         800-680-7289
+              P.O. Box 740241                          P.O. Box 9532                        Fraud Victim Assistance
+              Atlanta, GA 30374-0241                   Allen, TX 75013                      P.O. Box 6790
+              www.equifax.com                          www.experian.com                     Fullerton, CA 92834-6790
+                                                                                            www.transunion.com
+Even if you do not find any suspicious activity on your initial credit reports, the FTC recommends that you check your
+credit reports periodically. Checking your credit reports periodically can help you spot problems and address them
+quickly.
+In addition, you may obtain additional information from the FTC and the credit reporting agencies about fraud alerts
+and security freezes. You can add a fraud alert to your credit report file to help protect your credit information. A
+fraud alert tells creditors to contact you before they open any new accounts or change your existing accounts. Call any
+one of the three major credit bureaus listed above to place a fraud alert on your credit file. As soon as one credit bureau
+confirms your fraud alert, the others are notified to place fraud alerts. In addition, you can contact the nationwide credit
+reporting agencies regarding if and how you may place a security freeze on your credit report to prohibit a credit
+reporting agency from releasing information from your credit report without your prior written authorization.
+YapStone takes the security of your personal information very seriously, and sincerely regrets that this incident may
+affect you. We apologize for this error. YapStone has set up a confidential inquiry line to answer any further questions
+you may have. It is available Monday through Friday, 9:00 a.m. to 7:00 p.m. E.D.T. at (877) 238-3816. Please use
+reference number 5284090115 when calling.
+Sincerely,
+
+
+
+
+Thomas J. Villante
+Chief Executive Officer
+YapStone, Inc.
+2121 N. California Blvd, Suite 400
+Walnut Creek, CA 94596
+1 Identity theft insurance is underwritten by insurance company subsidiaries or affiliates of American International Group, Inc. (AIG). The
+description herein is a summary and intended for informational purposes only and does not include all terms, conditions and exclusions of
+the policies described. Please refer to the actual policies for terms, conditions, and exclusions of coverage. Coverage may not be available
+in all jurisdictions.
+
+                                                                                                                                               B2945-L04
+IF YOU ARE A CALIFORNIA RESIDENT:           Even if you do not find any signs of fraud on your credit reports, the California Office of
+Privacy Protection recommends that you check your credit reports every three months for the next year. The law allows you to order a
+free credit report from each agency every 12 months. You may order one, two, or all three reports at the same time, or you may stagger
+your requests during a 12-month period to monitor the accuracy and completeness of the information in your reports. Just call one of
+the numbers above to order your report and keep the fraud alert in place. For more information on identity theft, you may visit the
+California Office of Privacy Protection website, www.oag.ca.gov/privacy.
+IF YOU ARE AN INDIANA RESIDENT:         For additional steps you may want to take to protect yourself please read the Indiana Identity
+Theft Prevention section online at www.IndianaConsumer.com for more information about situation-specific actions and responses.
+IF YOU ARE AN IOWA RESIDENT:           You may contact local law enforcement or the Iowa Attorney Generals Office to report
+suspected incidents of identity theft. You can contact the Iowa Attorney General at:
+         Office of the Attorney General
+         1305 E. Walnut Street
+         Des Moines, IA 50319
+         (515) 281-5164 http://www.iowaattorneygeneral.gov/
+IF YOU ARE A MARYLAND RESIDENT:           You may obtain information about avoiding identity theft from the FTC or the Maryland
+Attorney Generals Office. These offices can be reached at:
+         Federal Trade Commission                      Office of the Attorney General
+         Consumer Response Center                      Consumer Protection Division
+         600 Pennsylvania Avenue, NW                   200 St. Paul Place
+         Washington, DC 20580                          Baltimore, MD 21202
+         (877) IDTHEFT (438-4338)                      (888) 743-0023
+         http://www.ftc.gov/idtheft/                   www.oag.state.md.us
+IF YOU ARE A NEW YORK RESIDENT:       For more information on identity theft, we suggest that you visit the New York State
+Consumer Protection Board website at www.dos.ny.gov/consumerprotection.
+IF YOU ARE A NORTH CAROLINA RESIDENT:           You may obtain information about preventing identity theft from the FTC or the
+North Carolina Attorney Generals Office. These offices can be reached at:
+         Federal Trade Commission                      North Carolina Department of Justice
+         Consumer Response Center                      Attorney General Roy Cooper
+         600 Pennsylvania Avenue, NW                   9001 Mail Service Center
+         Washington, DC 20580                          Raleigh, NC 27699-9001
+         (877) IDTHEFT (438-4338)                      (877) 566-7226
+         www.consumer.gov/idtheft                      http://www.ncdoj.com
+IF YOU ARE A WEST VIRGINIA RESIDENT:              You have the right to obtain a security freeze. You may obtain a security freeze on
+your credit report to protect your privacy and ensure that credit is not granted in your name without your knowledge. You have a right
+to place a security freeze on your credit report pursuant to West Virginia law. The security freeze will prohibit a consumer-reporting
+agency from releasing any information in your credit report without your express authorization or approval.
+The security freeze is designed to prevent credit, loans and services from being approved in your name without your consent. When
+you place a security freeze on your credit report, within five business days you will be provided a unique personal identification
+number or password to use if you choose to remove the freeze on your credit report or to temporarily authorize the distribution of your
+credit report for a period of time after the freeze is in place. To provide that authorization, you must contact the consumer-reporting
+agency and provide all of the following: (1) The unique personal identification number or password provided by the
+consumer-reporting agency; (2) Proper identification to verify your identity; and (3) The period of time for which the report shall be        0123456
+
+available to users of the credit report.
+A consumer-reporting agency that receives a request from a consumer to temporarily lift a freeze on a credit report shall comply with
+the request no later than three business days after receiving the request. A security freeze does not apply to circumstances in which you
+have an existing account relationship and a copy of your report is requested by your existing creditor or its agents or affiliates for
+certain types of account review, collection, fraud control or similar activities. If you are actively seeking credit, you should understand
+that the procedures involved in lifting a security freeze may slow your own applications for credit. You should plan ahead and lift a
+freeze, either completely if you are shopping around or specifically for a certain creditor, a few days before actually applying for new
+credit. You have the right to bring a civil action against someone who violates your rights under the credit reporting laws. The action
+can be brought against a consumer-reporting agency.
+                                                                                                                                          B2945-L04
+                                                      Frequently Asked Questions
+                                                           September, 2015
+Q1:       What happened?
+A1:       YapStone (which you may know as VacationRentPayment) discovered that certain personal information provided on your
+VacationRent Payments application that was stored by YapStone may have been accessible by unauthorized persons via a YapStone URL
+between approximately July 15, 2014 and August 5, 2015.
+Q2:       Who is YapStone?
+A2:       YapStone is a leading online payment service provider delivering large market payment solutions that give businesses the ability
+to accept online payments.
+Q3:       How do I know if Im affected?
+A3:       YapStone has sent letters to customers who were affected. If you did not receive a letter your information was not exposed. If
+you are still concerned, you may call the toll-free number set up by YapStone: (877) 238-3816. Representatives are available to talk to
+you Monday through Friday, 9:00 a.m. to 7:00 p.m. E.D.T.
+Q4:       What information was potentially exposed?
+A4:       The initial investigation indicates that certain customer information provided to YapStone through account applications was
+exposed through this incident. The letter that YapStone sent you identifies the nature of information about you that was exposed. In some
+cases, the exposed information may include names, e-mail addresses, physical addresses, dates of birth, bank account and Social Security
+numbers.
+There was no exposure to traveler credit card and passwords. If you are still concerned, you may call the toll-free number set up by
+YapStone: (877) 238-3816. Representatives are available to talk to you Monday through Friday, 9:00 a.m. to 7:00 p.m. E.D.T.
+Q5:       Was traveler payment information exposed?
+A5:       No. No traveler payment or credit card information was exposed and no YapStone account information was exposed. If you are
+still concerned, you may call the toll-free number set up by YapStone: (877) 238-3816. Representatives are available to talk to you
+Monday through Friday, 9:00 a.m. to 7:00 p.m. E.D.T.
+Q6:       What is YapStone doing to protect my information?
+A6:       Upon discovery, YapStone immediately blocked unauthorized access to the URL and immediately began an investigation to
+identify and remediate any security vulnerability. YapStone sincerely regrets any inconvenience this may cause, and YapStone is
+working with a team of third-party forensics experts to investigate and enhance data security and protection. The forensic investigation
+to date has indicated that unauthorized access to the exposed information occurred between approximately July 15, 2014 and August 5,
+2015.
+Despite this unauthorized access, YapStone has no evidence that any of the exposed information has been misused.
+YapStone is continuing to take steps to remediate and enhance the security of its systems. Remedial efforts include increasing the security
+protections of the YapStone site, enhancing and strengthening YapStones internal password rules, and storage mechanisms, and
+increased active monitoring of the affected systems.
+In addition, YapStone has engaged Experian®, the largest credit bureau in the U.S., to offer you a complimentary two-year membership to
+Experians ProtectMyID® Elite credit monitoring and identity restoration services. Instructions on how to enroll and receive these
+services are contained in the Notice of Privacy Safeguards included with notification letters.
+Q7:       To what extent were Social Security Numbers exposed?
+A7:       Some Social Security Numbers were exposed. Most customers provided only the last four digits of their Social Security
+Number, but some provided the full number. The letter YapStone sent you identifies the nature of information about you that was
+exposed.
+Q8:       To what extent may my financial information have been exposed?
+A8:       YapStones investigation showed that information that was accessed did not include credit card numbers. However, if your bank
+account information was contained in your application, then this information was potentially accessible. This may include your bank
+account number and your bank routing number. The letter that YapStone sent you identifies the nature of information about you that was
+exposed. If you are still concerned, you may call the toll-free number set up by YapStone: (877) 238-3816. Representatives are available
+to talk to you Monday through Friday, 9:00 a.m. to 7:00 p.m. E.D.T.
+
+
+
+                                                                                                                                       B2945-L04
+Q9:      If my information was exposed, what should I do?
+A9:      Immediately check for any suspicious or unusual activity on your accounts. You should also enroll in the credit monitoring
+services available through Experian, as described in your letter. The letter also explains steps you may wish to take with respect to
+fraud alerts and security freezes.
+In addition, YapStone recommends that you contact one of the three credit reporting bureaus and place a 90-day Initial Fraud Alert on
+your credit file. That bureau will notify the other two bureaus and will send you confirmation that the alert has been placed along with
+a free copy of your credit report. Review your credit report carefully to see if there has been any new credit requested. You may
+contact the nationwide credit reporting agencies at:
+                  Equifax                              Experian                          TransUnion Corp
+                  800-525-6285                         888-397-3742                      800-680-7289
+                  P.O. Box 740241                      P.O. Box 9532                     Fraud Victim Assistance
+                  Atlanta, GA 30374-0241               Allen, TX 75013                   P.O. Box 6790
+                  www.equifax.com                      www.experian.com                  Fullerton, CA 92834-6790
+                                                                                         www.transunion.com
+You should remain vigilant for incidents of fraud and identity theft by regularly reviewing your account statements and monitoring
+free credit reports. If you discover any suspicious or unusual activity on your accounts or suspect identity theft or fraud, be sure to
+report it immediately to your financial institutions. In addition, you may contact the Federal Trade Commission (FTC) or law
+enforcement to report incidents of identity theft or to learn about steps you can take to protect yourself from identity theft.
+To learn more, you can go to the FTCs Web site, at www.consumer.gov/idtheft, call the FTC, at (877) IDTHEFT (438-4338) or write
+to Federal Trade Commission, Consumer Response Center, 600 Pennsylvania Avenue, NW, Washington, DC 20580. In addition,
+under U.S. law, you are entitled to one free credit report annually from each of the three nationwide consumer-reporting agencies. You
+may order one, two, or all three reports at the same time, or you may stagger your requests during a 12-month period to keep an eye
+on the accuracy and completeness of the information in your reports. To order your free credit reports, visit
+www.annualcreditreport.com or by calling (877) 322-8228. You may also contact the nationwide credit reporting agencies noted
+above.
+Mark your calendar to review all this information again every three months. Sometimes identity thieves will wait for time to pass
+before using your information.
+Q10: How will I know if my information was used by someone else to open a fraudulent account or gain unauthorized
+access to my accounts?
+A10: The best way to find out is to get a copy of your credit report from one of the three credit reporting bureaus. The credit
+report will show if there has been any new credit requested using your information. You can get a copy of your credit report from
+www.annualcreditreport.com.
+You should also check your account statements carefully. If someone else has used your bank account number the activity will appear
+on your statement. If you see activity that you did not authorize, call your bank at the number on the back of your statement
+immediately and tell them that the activity was not authorized and ask the bank to change your account number.
+Q11: How do I put a Fraud Alert on my credit report?
+A11: U.S. law allows you to put a fraud alert on your credit report. This is a free service. A 90-day Initial Fraud Alert puts a
+statement on your credit file that you may have been or are about to become the victim of identity theft or other fraud. If you specify a
+telephone number, anyone using your credit report must call that number or take reasonable steps to verify your identity to confirm
+that a credit application is not the result of identity theft.
+After you put a fraud alert on your credit report, you will be asked to provide proof of your identification when you apply for credit.
+This may limit your ability to apply for instant credit for in-store purchases but it should not interfere with your daily use of existing
+credit cards or banking accounts.
+You can put a 90-day Initial Alert on your credit report by contacting one of the three major credit bureaus. The one you contact will       0123456
+notify the others. This will entitle you to a free credit report. You will receive confirmation of the alert from the bureau you contact.
+At the end of the 90-day period you may place an additional Initial Fraud Alert on your credit file. YapStone suggests that you do this
+every 90 days for at least one year.
+Q12: How can I get in touch with the credit bureaus?
+A12: There are three major credit bureaus. They are:
+                  Equifax                              Experian                          TransUnion Corp
+                  800-525-6285                         888-397-3742                      800-680-7289
+                  P.O. Box 740241                      P.O. Box 9532                     Fraud Victim Assistance
+                  Atlanta, GA 30374-0241               Allen, TX 75013                   P.O. Box 6790                                   B2945-L04
+                  www.equifax.com                      www.experian.com                  Fullerton, CA 92834-6790
+                                                                                         www.transunion.com
+Q13: Do I have to pay for a credit report?
+A13: YapStone has arranged for you to receive two years of credit protection services from Experian at no cost to you through
+Experians® ProtectMyID® Alert service which includes: 24 months of credit monitoring services, insurance reimbursement policy and
+educational materials and access to expert fraud resolution representatives. To enroll in this service, please refer to the instructions and
+personal Activation Code provided in the letter sent to you by YapStone.
+You are also entitled to one free credit report a year from each of the three credit reporting bureaus. This means that you can receive one
+today from one (e.g. Experian), you can receive another in four months (e.g. from Equifax), and you can receive another in eight months
+(e.g. from TransUnion). By spacing out your requests for your free credit report you can monitor your credit over the course of a year. If
+you want to receive more than one credit report form any of the credit reporting bureaus during the same year, you may have to pay a small
+charge.
+Q14: How long will it take to get my credit report?
+A14: You can access your credit report online at www.annualcreditreport.com. You can download or print the report from that site.
+You may also request the report by telephone (by calling 1-877-322-8228 and answering some questions to verify who you are) or by mail
+(by downloading the request form from www.annualcreditreport.com and mailing it to Annual Credit Report Request Service, P.O. Box
+105281, Atlanta, GA 30348-5281). If you request your report by phone or by mail it will take approximately two weeks to process the
+request, so you should allow two to three weeks for delivery to you.
+Q15: Is there a long-term fraud alert?
+A15: A fraud alert is a message added to your credit report that tells anyone who pulls a copy of your credit report that there is possible
+fraud associated with your account. It gives them a telephone number to call you before issuing any new credit.
+A 90-day Initial Fraud Alert expires after 90 days. If you have been the victim of identity theft you may be able to place a 7-year fraud
+alert on your account. You can obtain more information online at http://www.ftc.gov/bcp/edu/microsites/idtheft/consumers/index.html.
+Q16: How long does a fraud alert last?
+A16: The Initial Fraud Alert lasts 90 days after it is placed on your report. You can remove the alert by calling the credit bureaus before
+the 90 days expires. You can place an initial alert every 90 days by calling one of the credit bureaus. If you are eligible for a long-term
+fraud alert, it will last for 7 years.
+Q17: Will a fraud alert stop me from using my credit cards?
+A17: No. However, a fraud alert may interfere with your ability to get immediate credit, for instance, if you apply for instant credit at a
+department store. This is because the department store credit office will have to call you to verify your identity before issuing you credit.
+Q18: Can I still apply for credit if I put a fraud alert on my credit report?
+A18: Yes. The fraud alert may slow down the process of getting approval for credit because the fraud alert will require that the creditor
+verify your identity before approving new credit.
+Q19: What should I watch out for on my credit report?
+A19: Look for any accounts that you dont recognize especially new accounts. Look in the personal information section to see if the
+residence and employment information is correct or has changed.
+These things could be indications of fraud. If you see information you do not understand or that is wrong, call the credit bureau at the
+number on the report and speak to a staff member. If the information cannot be explained, contact your local police or sheriffs office.
+Q20: If someone has used my information, what should I do?
+A20: You should immediately notify your local police or sheriffs office and file a report. Get a copy of the police report, because you
+may need to give a copy to the credit bureaus or creditors. Also contact one of the three credit bureaus and place a fraud alert on your
+account. For more information you can visit the website: www.consumer.gov/idtheft
+Q21: Do I need to call all three credit bureaus?
+A21: No. When you call one bureau, it will pass the report on to the other two. You should receive a confirming letter from each of the
+three bureaus. If you do not receive confirmations from all three credit bureaus, call the bureau that did not confirm the alert.
+Q22: Will YapStone contact me to ask for my personal information because of this event?
+A22: No. YapStone will not contact you unless you call or write to YapStone first. YapStone will not ask for bank account information
+or personal identification numbers (PINs) or for your full credit card or social security number. If you are contacted directly by someone
+who claims to be with YapStone and who asks you for your personal information, please immediately contact YapStone as well as your
+local sheriffs office to report the suspicious contact.
+
+                                                                                                                                       B2945-L04
+Q23: I have been contacted directly by someone claiming to be from YapStone or a law enforcement agency asking for my
+personal information (e.g., social security number, etc.). Did you contact me? What should I do?
+A23: No. YapStone did not contact you unless you called or wrote YapStone first. YapStone will never contact you asking for bank
+account information or personal identification numbers (PINs) or for your full credit card or social security number. If you were
+contacted directly by someone who claimed to be with YapStone or law enforcement and who asks you for your personal information,
+please immediately contact us as well as your local sheriffs office to report the suspicious contact. You may also provide YapStone
+with your name and telephone number and YapStone will have the appropriate authorities contact you directly. When law
+enforcement contacts you, they will reference your contact with YapStone.
+Q24: Will you contact me by email to sign up for credit monitoring/identity protection services?
+A24: No. You should be aware of scam email campaigns targeting individuals of a recent data breech. These scams, designed to
+capture personal information (known as phishing), appear as if they are from YapStone and include a click here link for credit
+monitoring. These emails are NOT from YapStone. Do not reply to the email or reach out to the senders in any way. Do not supply
+any information on the website that may open, if you have clicked on a link in email. Do not open any attachments that arrive with
+email.
+YapStone is not calling individuals regarding the security incident and are not asking for credit card information or Social Security
+numbers over the phone or via email. For more guidance on recognizing scam email, please visit the FTC Website:
+http://www.consumer.ftc.gov/articles/0003-phishing.
+REFERENCE SHEET FOR WEBSITES:
+Credit Reporting Bureaus:
+        Annual Credit Reports: http://www.annualcreditreport.com
+         Experian:
+                   888-397-3742
+                    P.O. Box 2002
+                   Allen, TX 75013
+                   http://www.experian.com
+         Equifax:
+                   800-525-6285
+                   P.O. Box 740241
+                   Atlanta, GA 30374-0241
+                   http://www.equifax.com
+         Trans Union:
+                   800-680-7289
+                   Fraud Victim Assistance Division
+                   P.O. Box 6790
+                   Fullerton, CA 92834-6790
+                   http://www.transunion.com
+Federal Trade Commission
+         Identity Theft
+                   Hotline: 877-ID-THEFT (877-438-4338)
+                   http://www.ftc.gov/bcp/edu/microsites/idtheft/consumers/index.html
+                   Affidavit: http://www.ftc.gov/bcp/edu/resources/forms/affidavit.pdf
+         Filing a Complaint with the FTC
+                   http://www.ftc.gov
+                   1-877-FTC-HELP (1-877-382-4357) (TTY: 1-866-653-4261)
+Social Security Administration
+                                                                                                                                           0123456
+         Fraud Hotline: 800-269-0271
+         Benefits Statement: 800-772-1213
+         http://www.ssa.gov
+Privacy Rights Clearing House Identity Theft Resources
+         https://www.privacyrights.org/topics/7
+         This not-for-profit organization provides statistics, fact sheets and government records about identity theft.
+Identity Theft Resource Center
+         http://www.idtheftcenter.org
+         This not-for-profit organization is dedicated exclusively to identity theft. It provides consumer and victim support about     B2945-L04
+          identity theft and includes resources, consumer alerts and instructions for victims.

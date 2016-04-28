@@ -1,0 +1,149 @@
+University of California, Irvine
+Student Health Center
+C/O ID Experts
+PO Box 6336
+Portland, OR 97228-6336
+
+
+<<First Name>><<Last Name>>
+<<Street Address>>
+<<City, STATE, Zip code>>
+                                                                                                              <<DATE>>
+
+
+
+
+Dear <<First Name>> <<Last Name>>,
+
+We are writing to let you know that we have reason to believe that some of your information may have been acquired
+by an unauthorized person.
+
+On March 26, 2014, the California Information Security Office (http://www.cio.ca.gov/ois/) notified us that one of
+the computers in the UC Irvine Student Health Center had been infected with a virus. We have since confirmed
+that information and verified that two other computers also were infected. The three computers were infected with
+a keystroke logger that captured data as it was entered onto them and transmitted that data to unauthorized servers.
+This occurred between February 14 and March 27, 2014.
+
+We believe that your information, including your name, unencrypted medical information (potentially including
+health or dental insurance number, CPT code(s), ICD9 code(s) and/or diagnosis1), student ID#, non-student patient
+ID#, mailing address, telephone #, amount you paid to the Student Health Center for services received, and your
+bank name and check # (if payment was made by check), may have been among the data transmitted to unauthorized
+servers. We have no indication that the data have been fraudulently used.
+
+We immediately disconnected the infected machines from the internet, confirmed that no other components of our
+network were infected and otherwise contained and remediated the incident. We also have reported the incident to
+law enforcement.
+Although there is no evidence that an unauthorized person has obtained your personal information and is using it,
+there are some steps that you can take to protect yourself. The California Attorney General has issued consumer
+guidelines that you can consult at:
+
+                        https://oag.ca.gov/sites/all/files/agweb/pdfs/privacy/cis 16 med id theft.pdf
+
+If, as you monitor your situation, you believe that you may be the victim of identity theft, you should contact law
+enforcement immediately. You may contact the UC Irvine Police Department or your local law enforcement office.
+
+In an abundance of caution, UC Irvine has contracted with ID Experts to provide one year of FraudStop™ credit
+monitoring and one year of CyberScan™ Internet monitoring for those affected. To enroll in these services, please
+visit: www.idexpertscorp.com/protect and use enrollment code: [<CODE>]. If you need assistance enrolling or have
+additional questions regarding this incident, please contact the ID Experts team at 877-810-8083.
+
+
+
+
+1	     A CPT code is a numeric or alpha-numeric code used to describe the type of service performed by a medical provider.
+An ICD9 code is a numeric code assigned by the medical provider to describe the clinical reason for the treatment.
+
+M1091 v.03 04.21.2014
+UC Irvine regrets that your information may have been subject to unauthorized access, and we have taken and continue
+to take remedial measures to ensure that this situation is not repeated. UC Irvine is committed to maintaining the
+privacy of students’ and non-student patients’ personally identified information and takes many precautions for the
+security of personal and medical information. The University is continually modifying its systems and practices to
+enhance the security of sensitive information. We sincerely regret any inconvenience this incident presents to you.
+
+If you have questions or would like to discuss this issue, please contact:
+
+ID EXPERTS
+
+877-810-8083
+
+shc-data-theft-incident@uci.edu
+
+
+
+
+Yours Sincerely,
+
+
+
+
+J. Patrick Haines	                                Marcelle C. Holmes
+Executive Director	                               Assistant Vice Chancellor
+Student Health Center	                            Wellness, Health and Counseling Services
+
+
+
+
+M1092 v.03 04.21.2014
+                                    Additional Information to Protect Your Identity
+
+1.	 Enroll and Activate in Monitoring Services. Visit ID Experts at www.idexpertscorp.com/protect and follow
+    the instructions for enrollment. Once you have completed your enrollment, you will need to log in to your
+    membership and activate your credit monitoring and CyberScan. Note: You must have access to a computer and
+    the internet to use this service. If you need assistance, ID Experts will assist you.
+
+2.	 Review your credit reports. We recommend that you remain vigilant by reviewing account statements and
+    monitoring credit reports. Under federal law, you also are entitled every 12 months to one free copy of your
+    credit report from each of the three major credit reporting companies. To obtain a free annual credit report, go to
+    www.annualcreditreport.com or call 1-877-322-8228. You may wish to stagger your requests so that you receive
+    a free report by one of the three credit bureaus every four months.
+
+3.	 Place Fraud Alerts with the three credit bureaus. You can place a fraud alert at one of the three major credit
+    bureaus by phone and also via Experian’s or Equifax’s website. A fraud alert tells creditors to follow certain
+    procedures, including contacting you, before they open any new accounts or change your existing accounts. For
+    that reason, placing a fraud alert can protect you, but also may delay you when you seek to obtain credit. The
+    contact information for all three bureaus is as follows:
+
+      Credit Bureaus
+
+      Equifax Fraud Reporting                Experian Fraud Reporting              TransUnion Fraud Reporting
+      1-800-525-6285                         1-888-397-3742                        1-800-680-7289
+      P.O. Box 740241                        P.O. Box 9554                         Fraud Victim Assistance Division
+      Atlanta, GA 30374-0241                 Allen, TX 75013                       P.O. Box 6790
+      www.alerts.equifax.com                 www.experian.com                      Fullerton, CA 92834-6790
+                                                                                   www.transunion.com
+
+      Note: It is only necessary to contact only ONE of these bureaus and use only ONE of these methods. As soon
+      as one of the three bureaus confirms your fraud alert, the others are notified to place alerts on their records as
+      well. You will receive confirmation letters in the mail and will then be able to order all three credit reports, free
+      of charge, for your review.
+
+4.	 Security Freeze. By placing a security freeze, someone who fraudulently acquires your personal identifying
+    information will not be able to use that information to open new accounts or borrow money in your name. You
+    will need to contact the three national credit reporting bureaus listed above in writing to place the freeze. Keep
+    in mind that when you place the freeze, you will not be able to borrow money, obtain instant credit, or get a new
+    credit card until you temporarily lift or permanently remove the freeze. The cost of placing the freeze varies by
+    the state you live in and for each credit reporting agency. However, if you are a victim of identity theft and have
+    filed a report with your local law enforcement agency or submitted an ID Theft Complaint Form with the Federal
+    Trade Commission, there may be no charge to place the freeze.
+
+5.	 You can obtain additional information about the steps you can take to avoid identity theft from the following:
+
+            For California Residents:                              For Maryland Residents:
+            Visit the California Office of Privacy                 Office of the Attorney General of Maryland
+            Protection (www.privacy.ca.gov) for                    Consumer Protection Division
+            additional information on protection                   200 St. Paul Place
+            against identity theft                                 Baltimore, MD 21202
+                                                                   www.oag.state.md.us/Consumer
+                                                                   Telephone: 1-888-743-0023
+
+            For North Carolina Residents:                          For all other US Residents:
+            Office of the Attorney General of North Carolina       Identity Theft Clearinghouse
+            9001 Mail Service Center                               Federal Trade Commission
+            Raleigh, NC 27699-9001                                 600 Pennsylvania Avenue, NW
+            www.ncdoj.com/                                         Washington, DC 20580
+            Telephone: 1-919-716-6400                              www.consumer.gov/idtheft
+                                                                   1-877-IDTHEFT (438-4338)
+                                                                   TDD: 1-202-326-2502
+
+
+M1093 v.03 04.21.2014

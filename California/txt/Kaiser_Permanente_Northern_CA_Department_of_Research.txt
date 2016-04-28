@@ -1,0 +1,72 @@
+April 3, 2014
+
+[(FIRST NAME) (MI) (LAST NAME)]
+[(NOKADDRESS)]
+[(NOKCITY), (NOKSTATE) (NOKZIP)]
+
+[(FIRST NAME) (MI) (LAST NAME)]:
+
+I am writing to tell you about a health information privacy matter. On February 12, 2014,
+we discovered that a computer (also known as a server) was infected with malicious
+software. This server was used by the Kaiser Permanente Northern California Division of
+Research to store research data. We currently have no information that any unauthorized
+person accessed the information on the server. However, the malicious software broke
+down the server’s security barriers so we are investigating and responding with a very high
+level of caution and concern. We are very sorry that this happened.
+
+We wanted to let you know about this because information related to you and your
+participation in the [study name] research study was on the server or in a file connected to
+the server. As you may recall, the purpose of the [study name] study was to identify the
+[study purpose detail].
+
+The information included your first and last name, date of birth, age, and gender. It may
+also have included your address, race/ethnicity, medical record number, lab results
+associated with the research, and responses you provided to research-related questions,
+depending upon the research study.
+
+Your Social Security Number (SSN) was not included in the data. Your Kaiser
+Permanente electronic medical record, which is used for your ongoing medical care and
+services, was not included in the data.
+
+We have no indication that your information has been used for fraud or other criminal
+activity. We have found no evidence to date that the information on the server or
+connected to the server was ever actually opened, copied, or used by any unauthorized
+persons. We believe the malicious software infected the server in October 2011.
+
+Protecting your information is a responsibility we take very seriously. Once this incident
+was recognized, we immediately removed the server and confirmed that our other servers
+were unaffected and appropriately protected. We have alerted the appropriate State and
+federal authorities, and we are continuing to take appropriate steps to reduce the chance of
+future incidents like this.
+
+Again, please accept our apology.
+If you have any questions with regard to this matter, please call 1-877-811-0019. Hours of
+operation for this toll free telephone line are 8 am – 6 pm PDT Monday through Friday.
+
+Kaiser Permanente respects your right to file a complaint. If you have any questions,
+concerns or wish to file a complaint with us, please contact us at 1-877-811-0019. Hours of
+operation for this toll free telephone line are 8 am – 6 pm PDT Monday through Friday.
+
+You also have the right to contact the Department of Health and Human Services through
+the Office for Civil Rights at 1-800-368-1019.
+
+Sincerely,
+
+
+
+
+Tracy Lieu, MD, MPH
+Director Northern California
+Division of Research
+
+
+
+Enclosures
+KP Notice of Privacy Practices
+
+As described in our Notice of Privacy Practices, you have privacy rights under a Federal
+law that protects your health information. We must follow this law to protect your privacy
+rights. These rights are important for you to know. You can exercise these rights, ask
+questions about them, and file a complaint if you think your rights are being denied or your
+health information has not been protected. You may find out more about your privacy
+rights by reading our Notice. We are enclosing a copy for your convenience.

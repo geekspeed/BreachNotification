@@ -1,0 +1,441 @@
+<<mail id>>
+Parent or Guardian of <<Minor Name>>
+<<Street Address>>
+<<City>><<State>><<Zip>>	<<Date>>
+
+
+
+
+RE:	        Notice of Data Security Incident
+
+Dear Parent or Guardian of <<Minor Name>>:
+
+Whiting-Turner is writing to inform you of a recent event that may affect the security of your child’s personal
+information. We are providing this notice to provide you, the parent/guardian, with information about the incident,
+steps we are taking in response, and steps you can take to protect your child against identity theft and fraud should
+you feel it is appropriate to do so.
+
+What Happened? Whiting-Turner uses an outside vendor to provide tax filing and information services, including
+preparation of our employees’ W-2 and 1095 tax forms. On March 8, 2016, this vendor notified us they had detected
+suspicious activity on their systems. We also received reports around that time from some of our employees regarding
+fraudulent tax filings in their names. In response, we immediately shut down the ability for users to access the
+information on the outside vendor’s systems and began an investigation to determine whether any Whiting-Turner
+employee information was accessed by an unauthorized individual. Our investigation is ongoing, and we have not yet
+confirmed whether any Whiting-Turner information was subject to unauthorized access on the outside vendor’s systems.
+
+What Information Was Involved? If your child is a minor dependent who received healthcare insurance coverage
+under a policy for which the primary policyholder was a current, former, or retired employee, we believe this incident
+may affect the security of your child’s information contained on that employee policyholder’s 2015 IRS Form 1095,
+which includes the following: name, date of birth, and Social Security number of any minor dependent.
+
+What We Are Doing. We take the security of your child’s personal information very seriously. Upon learning of this
+incident, we immediately shut down the ability for users to access the information on the outside vendor’s systems.
+We continue to investigate to ensure the security of our employees’ and their minor dependents’ information. In an
+abundance of caution, we are providing notice of this incident to all individuals whose information may be at risk as
+a result of this incident.
+
+We have notified the FBI, IRS, and certain state regulators. Additionally, we are offering the parent/guardian of all
+potentially affected minor dependents access to one year of identity monitoring and identity theft protection services
+through Identity Guard® for Kids. The enclosed Privacy Safeguards Information contains instructions on how to
+enroll and receive these free services, as well as more information on how to better protect your child against identity
+theft and fraud.
+
+What You Can Do. If your child has reason to file a 2015 tax return with the IRS, you can contact the IRS and file an
+IRS Identify Theft Affidavit (IRS Form 14039). The IRS can be contacted at 1-800-908-4490, and IRS Form 14039
+can be downloaded at www.irs.gov/uac/Taxpayer-Guide-to-Identity-Theft. You can also review the enclosed Privacy
+Safeguards Information for additional information and take the steps outlined on behalf of your child. You can also
+enroll to receive the one year of free identity theft protection and identity monitoring services being offered.
+
+
+
+
+O9961 v.03 04.05.2016
+For More Information. We are very sorry for any inconvenience or concern this incident causes you. The security
+of your child’s information is a priority to us, and we are taking steps to prevent an incident like this from happening
+again. If you have further questions or concerns, you may contact Whiting-Turner by phone at 410-337-5899 or email
+creditmonitoring@whiting-turner.com.
+
+Sincerely,
+
+
+
+Daniel St. John
+Vice President Accounting
+
+
+
+
+O9962 v.03 04.05.2016
+                                     COMPLIMENTARY SERVICE OFFER
+
+At our expense, Whiting-Turner would like to offer your minor child a free one-year subscription to Identity Guard®
+for Kids. Identity Guard® for Kids provides protection and monitoring for child identity theft. All-new, patent-pending
+technology scours thousands of data sources looking for information related to your child to let you know if your
+child’s identity may be compromised.
+
+Services include:
+    •	 Ongoing visibility into potential exposure of your child’s personal data
+    •	 A comprehensive “Digital Footprint” report showing detected data
+    •	 Extensive monitoring for your child’s Social Security number, date of birth, name, address, and even bank
+        account numbers
+    •	 Alerts to certain kinds of activity detected
+
+Identity Guard for Kids scans for:
+    •	 SSN exposure online
+    •	 Criminal records
+    •	 DMV records
+    •	 Utilities
+    •	 Bankruptcy filings
+    •	 Property records
+    •	 New cell phone accounts
+    •	 Car Loans
+    •	 And more
+
+                                            ENROLLMENT PROCEDURE
+
+If you wish to take advantage of this monitoring service, you must enroll by June 30, 2016.
+
+To activate this coverage, please visit the website listed below and enter the redemption code. The redemption code
+is required for enrollment and can only be used one time by the individual addressed.
+
+            Website: www.identityguard.com/enroll
+            Identity Guard® for Kids Redemption Code: <<Account Code>>
+
+In order to enroll, you will need to provide your child’s following personal information:
+
+            •	    Mailing Address      •	    Date of Birth                     •	   SSN
+            •	    Phone Number         •	    Email Address                     •	   Redemption Code
+
+This service is complimentary; no method of payment will be collected during enrollment, and there is no need to
+cancel.
+
+We encourage you to remain vigilant against incidents of identity theft and financial loss by reviewing your child’s
+account statements and monitoring your child’s credit reports, if any exist, for suspicious activity. Typically, credit
+is not granted to individuals under the age of 18, and therefore, the credit bureaus may not maintain a credit file on
+your child. Under U.S. law, everyone is entitled to one free credit report annually from each of the three major credit
+bureaus. To order a free credit report, visit www.annualcreditreport.com or call toll-free 1-877-322-8228. Individuals
+may also contact the three major credit bureaus directly to request a free copy of their credit report:
+
+Equifax                                Experian                                TransUnion
+P.O. Box 105069                        P.O. Box 2002                           P.O. Box 2000
+Atlanta, GA 30348                      Allen, TX 75013                         Chester, PA 19022
+800-525-6285                           888-397-3742                            800-680-7289
+www.equifax.com                        www.experian.com                        www.transunion.com
+
+
+
+
+O9963 v.03 04.05.2016
+At no charge, you can also have these credit bureaus place a “fraud alert” on your child’s credit file, if any exists. A
+“fraud alert” will tell creditors to take additional steps to verify your child’s identity prior to granting credit in their
+name; however, because it tells creditors to follow certain procedures to protect you, it may also delay your child’s ability
+to obtain credit while the credit bureaus verify your child’s identity. As soon as one credit bureau confirms your child’s
+fraud alert, the others are notified to place fraud alerts on your child’s files. You may use the contact information listed
+above to contact the major credit bureaus and place a “fraud alert” on your child’s credit report, if any exists.
+
+You can also place a “security freeze” on your child’s credit file, if any exists, that prohibits a credit reporting agency
+from releasing any information from your child’s credit report without your written authorization, but it may delay,
+interfere with, or prevent the timely approval of any requests for new credit. If your child has been a victim of identity
+theft, and you provide the credit reporting agency with a valid police report, the credit reporting agency cannot
+charge to place, lift, or remove a security freeze. In all other cases, a credit agency may charge you a fee to place,
+temporarily lift, or permanently remove a security freeze. If you incur a cost to place a security freeze, please let us
+know. You must contact each of the credit reporting agencies separately to place a security freeze on your credit file:
+
+          Equifax Security Freeze	            Experian Security Freeze             TransUnion LLC
+          PO Box 105788                       PO Box 9554                          PO Box 2000
+          Atlanta, GA 30348                   Allen, TX 75013                      Chester, PA 19022
+          800-685-1111                        888-397-3742                         888-909-8862
+          800-349-9960 (NY Residents)         www.experian.com                     freeze.transunion.com
+          www.freeze.equifax.com
+You       can     also      contact     the      IRS      at      www.irs.gov/Individuals/Identity-Protection       or
+www.irs.gov/uac/Taxpayer-Guide-to-Identity-Theft for helpful information and guidance on steps you can take to
+prevent a fraudulent tax return from being filed in your child’s name and what to do if your child becomes the victim
+of such fraud.
+
+You can further educate yourself regarding identity theft, fraud alerts, security freezes, and the steps you can take
+to protect your child and yourself by contacting your state Attorney General or the Federal Trade Commission.
+The Federal Trade Commission also encourages those who discover that their information has been misused to
+file a complaint with them. The Federal Trade Commission can be reached at: 600 Pennsylvania Avenue, NW,
+Washington, D.C. 20580; www.ftc.gov/idtheft; 1-877-ID-THEFT (1-877-438-4338); and TTY: 1-866-653-4261.
+For Maryland residents, the Attorney General can be reached at 200 St. Paul Place, 16th Floor, Baltimore, MD
+21202; 1-888-743-0023; and www.oag.state.md.us. For North Carolina residents, the Attorney General can be
+contacted at 9001 Mail Service Center, Raleigh, NC 27699-9001, (919) 716-6400, www.ncdoj.gov.
+
+Instances of known or suspected identity theft should be reported to law enforcement, your Attorney General, and
+the FTC.
+
+
+
+
+O9964 v.03 04.05.2016
+<<mail id>>
+<<Recipient Name>>
+<<Street Address>>
+<<City>><<State>><<Zip>>	<<Date>>
+
+
+
+
+            RE:	        Notice of Data Security Incident
+
+Dear <<Recipient Name>>:
+
+Whiting-Turner is writing to inform you of a recent event that may affect the security of your personal information.
+We are providing this notice to provide you with information about the incident, steps we are taking in response, and
+steps you can take to protect against identity theft and fraud should you feel it is appropriate to do so.
+
+What Happened? Whiting-Turner uses an outside vendor to provide tax filing and information services, including
+preparation of our employees’ W-2 and 1095 tax forms. On March 8, 2016, this vendor notified us they had detected
+suspicious activity on their systems. We also received reports around that time from some of our employees regarding
+fraudulent tax filings in their names. In response, we immediately shut down the ability for users to access the
+information on the outside vendor’s systems and began an investigation to determine whether any Whiting-Turner
+employee information was accessed by an unauthorized individual. Our investigation is ongoing, and we have not yet
+confirmed whether any Whiting-Turner information was subject to unauthorized access on the outside vendor’s systems.
+
+What Information Was Involved? If you are a current, former, or retired employee who received an IRS Form
+W-2 from Whiting-Turner for 2015, we believe this incident may affect the security of information contained on
+your IRS Form W-2, which includes the following: employee name, Social Security number, wage information, and
+withholding information.
+
+If you are an adult beneficiary or adult dependent who received healthcare insurance coverage under a policy
+for which the primary policyholder was a current, former, or retired employee, we believe this incident may affect
+the security of information contained on that employee policyholder’s 2015 IRS Form 1095, which includes the
+following: name, date of birth, and Social Security number of any adult beneficiary or adult dependent.
+
+What We Are Doing. We take the security of your personal information very seriously. Upon learning of this incident,
+we immediately shut down the ability for users to access the information on the outside vendor’s systems. We continue
+to investigate to ensure the security of our employees’ and their beneficiaries’ information. In an abundance of caution,
+we are providing notice of this incident to all individuals whose information may be at risk as a result of this incident.
+
+We have notified the FBI, IRS, and certain state regulators. Additionally, we are offering all potentially affected
+individuals access to one year of credit monitoring and identity theft protection services with Identity Guard®. The
+enclosed Privacy Safeguards Information contains instructions on how to enroll and receive these free services, as
+well as more information on how to better protect against identity theft and fraud. To the extent you have not done so
+already, we encourage you to file your 2015 state and federal tax returns as soon as possible.
+
+What You Can Do. You can contact the IRS and file an IRS Identify Theft Affidavit (IRS Form
+14039). The IRS can be contacted at 1-800-908-4490, and IRS Form 14039 can be downloaded at
+www.irs.gov/uac/Taxpayer-Guide-to-Identity-Theft. You can also review the enclosed Privacy Safeguards
+Information for additional information and take the steps outlined. You can also enroll to receive the one year of free
+credit monitoring and identity theft protection services.
+
+O9941 v.04 04.05.2016
+For More Information. We are very sorry for any inconvenience or concern this incident causes you. The security
+of your information is a priority to us, and we are taking steps to prevent an incident like this from happening again.
+If you have further questions or concerns, you may contact Whiting-Turner by phone at (410) 337-5899 or email
+creditmonitoring@whiting-turner.com.
+
+Sincerely,
+
+
+
+Daniel St. John
+Vice President, Accounting
+
+
+
+
+O9942 v.04 04.05.2016
+                                    PRIVACY SAFEGUARDS INFORMATION
+
+At our expense, Whiting-Turner would like to offer you a free one-year subscription to Identity Guard®, a credit
+monitoring and identity theft protection service. Identity Guard® provides essential monitoring and protection of
+not only credit data; it also alerts you of certain activities that could indicate potential identity theft. This program
+is provided by Intersections Inc. (NASDAQ: INTX), a leading provider of consumer and corporate identity risk
+management services. Total Protection® service features include the following:
+
+      •	    SSN Monitoring                                  •	    ID Vault Password Protection
+      •	    Online “Black Market” Monitoring                •	    Address Change Monitoring
+      •	    ID Verification Alerts                          •	    3-Buerau Credit Analyzer
+      •	    Account Takeover Alerts                         •	    $1 Million Identity Theft Insurance**
+      •	    Identity Theft Victim Assistance                •	    Account Access via Mobile App
+      •	    Lost Wallet Protection                          •	    Public Record Monitoring
+      •	    Daily 3-Bureau Credit Monitoring                •	    PC Keyboard Encryption Software
+      •	    3-Bureau Credit Reports (Quarterly)             •	    PC Antivirus Software
+      •	    3-Bureau Credit Scores* (Quarterly)
+
+
+ * The scores you receive with Identity Guard® are provided for educational purposes to help you understand your
+ credit. They are calculated using the information contained in your Equifax‚ Experian, and TransUnion credit
+ files. Lenders use many different credit scoring systems‚ and the scores you receive with Identity Guard are not the
+ same scores used by lenders to evaluate your credit.
+
+ **Identity Theft Insurance underwritten by insurance company subsidiaries or affiliates of American International
+ Group, Inc. The description herein is a summary, intended for informational purposes only, and does not include all
+ terms, conditions, and exclusions of the policies described. Please refer to the actual policies for terms, conditions,
+ and exclusions of coverage. Coverage may not be available in all jurisdictions.
+
+Credit scores are provided by CreditXpert® based on data from the three major credit bureaus.
+
+                                           ENROLLMENT PROCEDURE
+
+If you wish to take advantage of this monitoring service, you must enroll by June 30, 2016.
+
+To activate this coverage, please visit the website listed below and enter the redemption code. The redemption code
+is required for enrollment and can only be used one time by the individual addressed.
+
+Website: www.identityguard.com/enroll
+Total Protection Redemption Code: <<Account Code>>
+
+In order to enroll, you will need to provide the following personal information:
+
+      •	    Mailing Address                  •	   Date of Birth                     •	   SSN
+      •	    Phone Number                     •	   Email Address                     •	   Redemption Code
+
+This service is complimentary; no method of payment will be collected during enrollment, and there is no need to
+cancel.
+
+We encourage you to remain vigilant against incidents of identity theft and financial loss by reviewing your
+account statements and monitoring your credit reports for suspicious activity. Under U.S. law, everyone is entitled
+to one free credit report annually from each of the three major credit bureaus. To order a free credit report, visit
+www.annualcreditreport.com or call toll-free 1-877-322-8228. Individuals may also contact the three major credit
+bureaus directly to request a free copy of their credit report:
+                   Equifax                              Experian                            TransUnion
+               P.O. Box 105069                       P.O. Box 2002                         P.O. Box 2000
+              Atlanta, GA 30348                     Allen, TX 75013                       Chester, PA 19022
+                800-525-6285                         888-397-3742                          800-680-7289
+              www.equifax.com                      www.experian.com                      www.transunion.com
+
+O9943 v.04 04.05.2016
+At no charge, you can also have these credit bureaus place a “fraud alert” on your credit file. A “fraud alert” will
+tell creditors to take additional steps to verify your identity prior to granting credit in your name; however, because
+it tells creditors to follow certain procedures to protect you, it may also delay your ability to obtain credit while the
+credit bureaus verify your identity. As soon as one credit bureau confirms your fraud alert, the others are notified to
+place fraud alerts on your files. You may use the contact information listed above to contact the major credit bureaus
+and place a “fraud alert” on your credit report.
+
+You can also place a “security freeze” on your credit file that prohibits a credit reporting agency from releasing any
+information from your credit report without your written authorization, but it may delay, interfere with, or prevent
+the timely approval of any requests for new credit. If you have been a victim of identity theft and provide the credit
+reporting agency with a valid police report, the credit reporting agency cannot charge to place, lift, or remove a
+security freeze. In all other cases, a credit agency may charge you a fee to place, temporarily lift, or permanently
+remove a security freeze. If you incur a cost to place a security freeze, please let us know. You must contact each of
+the credit reporting agencies separately to place a security freeze on your credit file:
+
+        Equifax Security Freeze                Experian Security Freeze                     TransUnion LLC
+            PO Box 105788                           PO Box 9554                              PO Box 2000
+           Atlanta, GA 30348                      Allen, TX 75013                          Chester, PA 19022
+              800-685-1111                          888-397-3742                             888-909-8862
+      800-349-9960 (NY Residents)                www.experian.com                        freeze.transunion.com
+        www.freeze.equifax.com
+
+You      can      also      contact     the      IRS      at    www.irs.gov/Individuals/Identity-Protection       or
+www.irs.gov/uac/Taxpayer-Guide-to-Identity-Theft for helpful information and guidance on steps you can take to
+prevent a fraudulent tax return from being filed in your name and what to do if you become the victim of such fraud.
+
+You can further educate yourself regarding identity theft, fraud alerts, security freezes, and the steps you can take
+to protect yourself by contacting your state Attorney General or the Federal Trade Commission. The Federal Trade
+Commission also encourages those who discover that their information has been misused to file a complaint with
+them. The Federal Trade Commission can be reached at: 600 Pennsylvania Avenue, NW, Washington, D.C. 20580;
+www.ftc.gov/idtheft; 1-877-ID-THEFT (1-877-438-4338); and TTY: 1-866-653-4261. For Maryland residents,
+the Attorney General can be reached at 200 St. Paul Place, 16th Floor, Baltimore, MD 21202; 1-888-743-0023; and
+www.oag.state.md.us. For North Carolina residents, the Attorney General can be contacted at 9001 Mail Service
+Center, Raleigh, NC 27699-9001, (919) 716-6400, www.ncdoj.gov.
+
+Instances of known or suspected identity theft should be reported to law enforcement, your Attorney General, and
+the FTC.
+
+
+
+
+O9944 v.04 04.05.2016
+EXHIBIT B
+Staff:
+
+As a follow-up to our previous emails, and as promised, we have arranged for you to have access to 1 free
+year of triple-bureau credit monitoring and identity theft protection services through the Identity Guard®
+Total Protection® service. You are now able to enroll and receive these services. Enrollment is limited
+to employees that received a 2015 Form W-2 from Whiting-Turner, and covered family members
+identified on a 2015 Form 1095-C from Whiting-Turner. Below are instructions for enrollment:
+
+Employees
+  • Please email creditmonitoring@whiting-turner.com or call Whiting-Turner at 410-337-5899
+      between the hours of 8 am – 5 pm EDT to receive your unique redemption code.
+  • To activate this service please visit www.identityguard.com/enroll and enter your redemption
+      code. Your redemption code is required for enrollment, and can only be used one time by the
+      assigned individual recipient.
+  • In order to enroll, you will need to provide the following personal information:
+          ·     Mailing Address
+          ·     Phone Number
+          ·     Date of Birth
+          ·     E-mail Address
+          ·     Social Security Number
+          ·     Unique Redemption Code
+  • Please make sure you enroll by June 30, 2016. The codes will not work after this date.
+
+Adult Beneficiaries or Adult Dependents
+If you are the primary health care policyholder for your adult beneficiary or adult dependent we will
+also be providing them with access to 1 free year of the above services. You can email
+creditmonitoring@whiting-turner.com or call Whiting-Turner at 410-337-5899 between the hours of 8
+am – 5 pm EDT to obtain their unique redemption code as well, so they can follow the instructions above
+to enroll to receive these services. We are also happy to provide your family member their unique code if
+they call the above number.
+
+Minor Dependents
+If you are the primary health care policyholder for your minor dependent(s), we will be providing you,
+the parent/guardian, with access to 1 free year of Identity Guard® For Kids identity monitoring service.
+You are now able to enroll and receive these services on behalf of your minor dependent(s). Below are
+instructions for enrollment:
+
+    •    Please email creditmonitoring@whiting-turner.com or call Whiting-Turner at 410-337-5899
+         between the hours of 8 am – 5 pm EDT to receive your minor dependent’s redemption code. One
+         (1) Identity Guard® For Kids redemption code will cover services for up to 2 minors within a
+         single household. If you have more than 2 minor dependents within your household, we are
+         happy to provide an additional redemption code for their use.
+    •    To activate this service on behalf of your minor dependent(s), please follow the enrollment
+         instructions shown above.
+Below is additional information regarding the Identity Guard® services being offered:
+
+Employees and their adult beneficiaries and adult dependents who received an offer of membership in the
+Identity Guard® Total Protection® service will receive the following features:
+
+    •    SSN Monitoring                                                      •    ID Vault Password Protection
+    •    Online “Black Market” Monitoring                                    •    Address Change Monitoring
+    •    ID Verification Alerts                                              •    3-Buerau Credit Analyzer
+    •    Account Takeover Alerts                                             •    $1 Million Identity Theft Insurance**
+    •    Identity Theft Victim Assistance                                    •    Account Access via Mobile App
+    •    Lost Wallet Protection                                              •    Public Record Monitoring
+    •    Daily 3-Bureau Credit Monitoring                                    •    PC Keyboard Encryption Software
+    •    3-Bureau Credit Reports (Quarterly)                                 •    PC Antivirus Software
+    •    3-Bureau Credit Scores* (Quarterly)
+
+If you are the parent/guardian of an affected minor who received an offer of membership in Identity
+Guard® For Kids service, your child, will receive the following features:
+    • Ongoing visibility into potential exposure of your child’s personal data
+    • A comprehensive “Digital Footprint” report showing detected data
+    • Extensive monitoring for your child’s Social Security Number, Date of Birth, Name, Address,
+        and even Bank Account Numbers
+    • Alerts to certain kinds of activity detected
+    • Identity Guard for Kids scans for:
+        • SSN exposure online
+        • Criminal records
+        • DMV records
+        • Utilities
+        • Bankruptcy filings
+        • Property records
+        • New cell phone accounts
+        • Car Loans
+        • And more
+
+Please refer to our prior e-mails for other tips on helping to protect against identity theft and fraud.
+
+We are very sorry for any inconvenience or concern this incident causes you. The security of your
+information is a priority to us, and we are taking steps to prevent an incident like this from happening
+again.
+
+Sincerely,
+
+Anthony G. Moag
+Chief Operating Officer
+
+
+  * The scores you receive with Identity Guard® are provided for educational purposes to help you understand your credit.
+    They are calculated using the information contained in your Equifax, Experian, and TransUnion credit files. Lenders use
+    many different credit scoring systems, and the scores you receive with Identity Guard® are not the same scores used by
+    lenders to evaluate your credit. Credit scores are provided by CreditXpert® based on data from the three major credit
+    bureaus.
+
+  ** Identity Theft Insurance underwritten by insurance company subsidiaries or affiliates of American International Group, Inc.
+     The description herein is a summary and intended for informational purposes only and does not include all terms,
+     conditions and exclusions of the policies described. Please refer to the actual policies for terms, conditions, and exclusions
+     of coverage. Coverage may not be available in all jurisdictions.

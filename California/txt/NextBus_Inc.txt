@@ -1,0 +1,80 @@
+By E‐mail 
+ 
+Dear NextBus Customer, 
+ 
+NextBus recently learned of a data security incident that may have resulted in the disclosure of your 
+username, e‐mail address, telephone number and password.   
+ 
+On September 18th, 2015, NextBus detected suspicious activity from an account and our IT experts 
+worked quickly to minimize the issue. Although only a very limited part of our system was affected, 
+during that time an unauthorized individual may have gained access to a database containing your 
+account information. While our investigation is ongoing, we have taken steps to further secure our 
+system and to prevent this type of incident from occurring in the future, including disabling the 
+compromised account, increasing the minimum password strength and blocking traffic to or from any 
+suspect Internet addresses.  
+ 
+To ensure your NextBus experience continues smoothly, you should immediately change the password 
+when you next login to your account. New password characteristics will be required for all users and 
+include the following: 
+ 
+     ‐    A minimum of eight characters, with at least one of each of the following types of characters: 
+     ‐    Lowercase letter 
+     ‐    Uppercase letter 
+     ‐    Number 
+     ‐    Special character (such as !,#,@, etc.) 
+      
+If your NextBus password was used elsewhere, we recommend you change the passwords for those 
+accounts as well. Security experts advise that using the same password for multiple websites is not safe.  
+ 
+We want to remind you that NextBus does not collect or possess your Social Security number or any 
+financial information including credit cards. Our services are focused on giving you useful information 
+about your travel on public transportation. Nonetheless, we take the security of your personal 
+information very seriously and sincerely apologize for any inconvenience this incident may cause.  
+ 
+We appreciate your cooperation and patience as we work to improve our security and further enhance 
+our IT infrastructure in response to this incident. You can contact support @nextbus.com or call 1‐877‐
+NEXTBUS (639‐8287) for more information. 
+ 
+By E‐mail 
+ 
+Dear NextBus Agency Customer, 
+ 
+We recently learned of a data security incident that may affect you and your riders, along with our other 
+NextBus clients. 
+ 
+On September 18, 2015, NextBus detected suspicious activity from an agency account and our IT experts 
+worked quickly to minimize the issue. An unauthorized individual may have gained access to a database 
+containing some account information of our NextBus agency customers and the riders that use NextBus 
+services. 
+ 
+As you know, individuals can sign up for accounts at the NextBus website, and our agency customers like 
+you have accounts for managing the information they make available to riders. This incident may have 
+resulted in the disclosure of usernames, e‐mail addresses, telephone numbers and passwords. 
+ 
+As NextBus does not collect or possess Social Security or driver’s license numbers or any financial 
+information from its users and customers, including credit cards, none of that type of information is at 
+risk.  
+ 
+While our investigation is ongoing, our experts have determined that an agency account was 
+compromised through stolen login credentials. We have taken steps to further secure our system and to 
+prevent this type of incident from occurring in the future, including disabling the compromised account, 
+increasing the minimum password strength and blocking traffic to or from any suspect Internet 
+addresses.  We are also communicating with our NextBus rider customers and requiring them to change 
+and strengthen their passwords. 
+ 
+Our advice to you and your staff is that anyone with an agency or personal NextBus account change 
+their password. If they use that same password anywhere else, they should change it as well. Finally, 
+make sure your team is alert to phishing emails or phone calls that look as if they come from NextBus. 
+Please remind everyone not to click on any embedded links or open any attachments in suspicious 
+emails, and let them know no one from NextBus would ever email or call and ask for personal or 
+account information.  
+
+We take the security of your information very seriously and want to make sure we are addressing this 
+event in a manner that enhances your confidence in our company. You can contact support 
+@nextbus.com or call 1‐877‐NEXTBUS (639‐8287) for more information. 
+
+
+
+
+ 
+ 

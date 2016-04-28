@@ -1,0 +1,49 @@
+Return Mail Processing
+PO Box 499
+Claysburg, PA 16625-0499
+                                                                                              February 15, 2016
+
+             ##B7126-L02-0123456 0001 00000001 **************9-OELZZ 123
+             TO THE PARENT OR GUARDIAN OF
+             SAMPLE A SAMPLE
+             APT ABC
+             123 ANY ST
+             ANYTOWN, US 12345-6789
+             TTFDDATDAADTAAAFAATFFDDTFTAAFTAFAAFFFFDTDADTTTADTATATDADFDFFDFTFD
+
+
+
+
+Dear Parent or Guardian of Sample A Sample:
+Alliance Health is committed to protecting the security and confidentiality of our patients information.
+Regrettably, we are writing to inform you of an incident involving some of that information.
+On December 17, 2015, we became aware that a test database containing patient information had inadvertently
+been left accessible via the internet. Upon learning this, we immediately secured the database and removed it
+from public view. We also began an internal investigation and determined that your childs name, address,
+telephone number, email address, medications and limited clinical information may have been included in the
+database.Your child's Social Security number, credit card and bank account information were not contained in the
+database.
+We have no indication that any of your childs information has been used improperly.  However, in an abundance
+of caution, we wanted to advise you of this incident. We apologize for this and want you to know that we take the
+protection of your childs personal data very seriously. We have enhanced our security measures and performed
+an extensive audit of all of our databases.
+We deeply regret any inconvenience this may cause you. If you have any questions, please call 1-877-216-3862,
+Monday through Friday, between 7:00 a.m. and 5:00 p.m. Mountain Time. Please provide the following reference
+number when calling: 6118020816.
+Sincerely,
+
+
+
+
+Sahily Paoline
+                                                                                                                        0123456
+
+
+
+Chief Pharmacy Officer
+Alliance Health, LLC
+
+
+
+
+                                                                                                                    B7126-L02

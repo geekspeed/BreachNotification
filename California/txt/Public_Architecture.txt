@@ -1,0 +1,67 @@
+Amy Ress
+
+From:                      Public Architecture [Public_Architecture@mail.vresp.com]
+Sent:                      Wednesday, December 17, 2014 1:19 PM
+To:                        Amy Ress
+Subject:                   Test Message - Text Format:We've been hacked
+
+
+Dear 1% Community, 
+ 
+Last Monday, December 8th, we discovered that theonepercent.org had been hacked.  A malicious hacker broke 
+through our security protocols and firewalls and put up his own vanity page to brag about his destructive success.  In 
+responding to this unexpected and unprovoked attack, we contacted our web developers to repair the site.  A full 
+assessment of the situation has been made, and we felt it our responsibility to share with you the ramifications of what 
+has occurred. 
+ 
+•   The hacker deleted files essential to site operation to damage  
+      it. 
+•   The hacker may have stolen user information such as usernames, 
+      passwords, and contact info. 
+ 
+The security vulnerabilities/back doors the hacker exploited have been patched up.  The site is now back under our 
+control and the vanity page has been removed.  We are working with our web developers to restore the site as soon as 
+possible and restore all of the deleted files.  We are not sure at this point how long the process will take.  We have 
+notified law enforcement and are encouraging all members to monitor their e‐mail addresses and accounts for any 
+suspicious activity.  Although we do not know the motivation behind the attack, we do not believe our members’ 
+professional information was the intended target. 
+ 
+Public Architecture has always taken information security very seriously, and we will continue to take every possible 
+action to safeguard the professional information of those who pledge 1% and use the matching service.  Unfortunately, 
+Public Architecture is not immune to hacking, but we are disappointed and sorry for the inconvenience this incident may 
+cause. 
+ 
+Please feel free to contact us with any questions or concerns, and we will send out another message when the site has 
+been restored to its full capabilities.  Thank you for understanding and bearing with us during this difficult time. 
+ 
+Sincerely, 
+ 
+John Peterson  
+ 
+______________________________________________________________________ 
+Click to view this email in a browser 
+http://hosted.verticalresponse.com/290149/f9f17c00ab/TEST/TEST/ 
+ 
+If you no longer wish to receive these emails, please reply to this message with "Unsubscribe" in the subject line or 
+simply click on the following link:  
+ 
+http://cts.vresp.com/u?f9f17c00ab/TEST/TEST 
+ 
+______________________________________________________________________ 
+Public Architecture sent this email free of charge using VerticalResponse for Non‐Profits. Non‐Profits email free. You 
+email affordably. 
+ 
+                                                           1
+Public Architecture 
+1211 Folsom Street, 4th Floor 
+San Francisco, California 94103 
+US 
+ 
+Read the VerticalResponse marketing policy:  
+http://www.verticalresponse.com/content/pm_policy.html 
+ 
+
+
+
+
+                                                      2

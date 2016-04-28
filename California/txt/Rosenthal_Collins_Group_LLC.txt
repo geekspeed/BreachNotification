@@ -1,0 +1,104 @@
+December 3, 2012
+
+
+Dear Sir or Madam:
+
+We are writing to you today to inform you of a recent online security incident that may affect you.
+
+
+What Happened?
+
+On Tuesday morning, November 27, RCG detected unauthorized access to personal information contained in an RCG web
+application. The unauthorized access began late Monday night and was detected by RCG Tuesday morning. Access to the
+web application (https:\\accountforms.rcgdirect.com) was shut down immediately and the unauthorized access was
+terminated. RCG conducted an internal investigation and is working with law enforcement and security professionals to
+identify the person(s) responsible for the unauthorized access.
+
+The web application contained information belonging to certain customers who completed their RCG account forms online.
+This information included name, address, birth date, social security number, range of net worth and income, bank name,
+password for accessing the web application, and email address. This information did NOT include account number, positions,
+cash balance, or trading platform information.
+
+We are notifying you because you are one of the customers whose personal information was present in the web application.
+Although we have no evidence that an unauthorized individual has actually retrieved or is using your personal data, we are
+bringing this incident to your attention so that you can be extra alert to signs of any possible misuse of your personal
+information.
+
+What Should You Do Now?
+
+There are some steps you can take, exercising abundant caution, to protect yourself. First, for current customers, be aware
+that RCG would never email or contact you in any way to ask for identifying information about your trading account,
+including: your account number, password or user ID. If you receive such an email or any other suspicious contact, DO NOT
+RESPOND! Second, you should consider updating those passwords you commonly use which may be the same or similar to
+the password you used when completing your account forms at RCG. Finally, we recommend that you remain vigilant across
+all of your accounts at financial institutions for incidents of fraud or identity theft over the next twelve to twenty four months
+by carefully reviewing your account statements and monitoring your credit reports. If you suspect an incident of identity
+theft you should report it to RCG directly at creditprotection@rcgdirect.com or toll-free at (855) 801-2365 as well as the
+proper authorities in your state and the Federal Trade Commission.
+
+You may wish to contact the consumer credit reporting companies listed at the bottom of this letter and request that a fraud
+alert be placed on your credit report. A fraud alert tells creditors to contact you before they open any new accounts or
+change your existing accounts. You can also request copies of your credit reports and obtain information concerning fraud
+alerts and credit freezes from these consumer credit reporting companies
+
+
+Complimentary Credit Monitoring for One Year
+
+To help protect your identity RCG is offering you a complimentary one-year membership in ProtectMyID® Alert service by
+Experian®. This service helps protect possible misuse of your personal information and provides you with identity protection
+services focused on immediate identification and resolution of identity theft.
+
+                             Your complimentary 12-month ProtectMyID membership includes:
+
+    •    Credit Report: A free copy of your Experian credit report.
+    •    Daily 3 Bureau Credit Monitoring: Alerts you of suspicious activity including new inquiries, newly opened accounts,
+                                                                                 ®                 ®
+         delinquencies, or medical collections found on your Experian, Equifax and TransUnion credit reports.
+    •    Identity Theft Resolution: If you have been a victim of identity theft, you will be assigned a dedicated, U.S.-based
+         Experian Identity Theft Resolution Agent, who will walk you through the fraud resolution process from start to finish.
+    •    ExtendCARE: Full access to the same personalized assistance from a trained Fraud Resolution Agent, even after your
+         initial membership expires.
+    •    $1 Million Identity Theft Insurance: As a ProtectMyID member, you are immediately covered by a $1 million
+         insurance policy that can help you cover certain costs including lost wages, private investigator fees and
+         unauthorized electronic fund transfers. (Please refer to the actual policies for terms, conditions and exclusions of
+         coverage.)
+
+If you wish to activate this service, email RCG at creditprotection@rcgdirect.com. When you contact us, RCG will provide you
+with your own unique activation code and contact information, which you can use to contact Experian directly to enroll in this
+service. The deadline for enrolling in this service is February 28, 2013. Please ensure that you obtain your unique activation
+code from RCG and contact Experian at www.protectmyid.com/redeem no later than February 28, 2013 to enroll in this
+service.
+
+RCG is committed to maintaining the privacy of customer information and takes many precautions for the security of
+personal information. We regret that your information may have been subject to unauthorized access and apologize for any
+concern or inconvenience this incident causes you. If you have any additional questions please contact RCG toll-free at (855)
+801-2365 or at creditprotection@rcgdirect.com .
+
+Sincerely,
+
+
+
+
+Les Rosenthal                                  J. Robert Collins                           M. Scott Gordon
+
+
+                                Consumer Credit Reporting Companies and Federal Agencies
+
+Experian                                                           Equifax
+Experian Security Assistance                                       U.S. Consumer Services
+P.O. Box 72                                                        Equifax Information Services, LLC.
+Allen, TX 75013                                                    Phone: 678-795-7971
+Email: BusinessRecordsVictimAssistance@experian.com                Email: businessrecordsecurity@equifax.com
+
+TransUnion
+Phone: 1-800-372-8391
+Email: www.transunion.com
+
+The Federal Trade Commission also works with consumers to help prevent, and provide information concerning, identity
+theft. The contact information for the Federal Trade Commission is as follows:
+
+Federal Trade Commission at 1-877-ID-THEFT (1-877-438-4338)
+www.ftc.gov
+Consumer Response Center,
+600 Pennsylvania, NW, H-130,
+Washington, D.C. 20580

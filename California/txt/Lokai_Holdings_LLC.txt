@@ -1,0 +1,79 @@
+Lokai
+Return Mail Processing Center
+PO Box 6336
+Portland, OR 97228-6336
+
+
+<<First Name>><<Last Name>>
+<<Address>>
+<<City>><<State>><<ZIP>>
+
+	<<Date>>
+
+
+
+
+Dear <<First Name>><<Last Name>>,
+
+Lokai understands the importance of protecting your personal information. We are writing this letter to inform you
+about an incident which may involve some of your information.
+
+After we were informed of reports of fraudulent charges appearing on payment cards that were legitimately used
+on our website, we engaged a leading computer security firm to conduct an investigation. On October 28, 2014 the
+investigation found that an unauthorized person gained access to the server that hosts our website and installed
+a program that was designed to record information entered by customers. Based on our investigation, we believe
+information entered on our website from July 18, 2014 to October 28, 2014 could have been affected.
+
+The information affected by this incident may include your name, address, payment card number, expiration date,
+verification code, and the user name and password for your account at mylokai.com. Our records show that you made
+a purchase using a payment card ending in <<xxxx>> during this time.
+
+We are notifying you so that you can take appropriate steps to protect yourself. We recommend that you remain
+vigilant to the possibility of fraud and identity theft by reviewing your financial statements for any unauthorized
+activity. You should immediately report any unauthorized charges to your financial institution because the major
+credit card companies have rules that restrict them from requiring you to pay for fraudulent charges that are timely
+reported. We have already reset the password you use for this account. Also, if you use the same user e-mail address
+and password for any other account, we recommend that you change your password there as well.
+
+You may obtain a copy of your credit report, free of charge, once every 12 months from each of the three nationwide
+credit reporting companies. To order your annual free credit report please visit www.annualcreditreport.com or call
+toll free at 1-877-322-8228. Contact information for the three nationwide credit reporting companies is as follows:
+
+         Equifax, PO Box 740256, Atlanta, GA 30374, www.equifax.com, 1-800-525-6285
+         Experian, PO Box 9554, Allen, TX 75013, www.experian.com, 1-888-397-3742
+         TransUnion, PO Box 6790, Fullerton, CA 92834, www.transunion.com, 1-800-680-7289
+
+If you believe you are the victim of identity theft or have reason to believe your personal information has been
+misused, you should immediately contact the Federal Trade Commission and/or the attorney general’s office in your
+home state. Contact information for the Federal Trade Commission is as follows:
+
+         Federal Trade Commission
+         600 Pennsylvania Avenue, NW
+         Washington, DC 20580
+         www.ftc.gov | 1-877-438-4338
+
+
+
+
+M9781 v.01 12.19.2014
+You can obtain information from these sources about steps an individual can take to avoid identity theft as well as
+information about fraud alerts and security freezes. You should also contact your local law enforcement authorities
+and file a police report. Obtain a copy of the police report in case you are asked to provide copies to creditors to
+correct your records.
+
+We value you as customer, and we apologize for any inconvenience this may have caused you. If you have any
+questions, or you need further assistance, please call 800-981-7571 Monday through Friday between the hours of 9:00
+a.m. and 9:00 p.m. Eastern Time.
+
+Sincerely,
+
+
+
+
+Steven Izen
+CEO & Founder
+
+
+
+
+M9782 v.01 12.19.2014

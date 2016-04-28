@@ -1,0 +1,117 @@
+Return Mail Processing Center
+PO Box 6336
+Portland, OR 97228-6336
+
+
+<<First Name>><<Last Name>>
+<<Address 1>>
+<<Address 2>>
+<<City>>,<<State>><<Zip>>
+
+                                                                                                           <<Date>>
+
+
+
+
+Dear <<First Name>><<Last Name>>,
+
+American Residuals and Talent, Inc. d/b/a ART Payroll (“ART”), a specialized payroll service in the advertising,
+entertainment and events production industry, has had a payment or benefit reporting relationship with you, either
+on-going or in the past. We are writing to notify you of a data security incident that may affect the security of your
+personal information.
+
+On October 18, 2014, we detected an unauthorized login onto our web application. We worked immediately to
+contain the unauthorized access and prevent it from happening again. The unauthorized intruders had access to
+the database for less than two hours. We launched an investigation and retained outside forensic experts to confirm
+whether employee information may have been accessed. On November 10, 2014, our experts determined that your
+information may have been accessed by the intruders. While our investigation is ongoing, it is possible that none of
+your information was accessed or taken. We are unaware of any actual or attempted misuse of your information, but
+we are providing notice of this incident to you out of an abundance of caution. The information potentially accessed
+by the intruders includes your:
+         •	 Name                                       •	 <<Date of birth>>
+         •	 Social Security number                     •	 <<Email address>>
+         •	 ART account number                         •	 <<ART account user ID and password>>
+         •	 Address                                    •	 <<Telephone number>>
+         •	 <<Bank account information>>
+We take the security of your personal information very seriously. In addition to launching an investigation into the
+matter and providing notice of this matter to you, we have analyzed our systems and processes and implemented
+additional measures to secure your personal information. We’ve provided notice to the major credit reporting
+agencies, and provided notice to certain state regulators and law enforcement officials. Additionally, we are offering
+you access to a complimentary one-year membership to Experian’s® ProtectMyID® Alert. This service helps detect
+possible misuse of your personal information and provides you with superior identity protection support that is
+focused on immediate identification and resolution of identity theft.
+
+Activate ProtectMyID Now in Three Easy Steps:
+    1.	 ENSURE That You Enroll By: April 30, 2015 (Your code will not work after this date.)
+    2.	 VISIT the ProtectMyID Web Site to enroll: www.protectmyid.com/alert
+    3.	 PROVIDE Your Activation Code: <<code>>
+
+If you have questions or need an alternative to enrolling online, please call 877-297-7780 and provide engagement #:
+PC90398. A credit card is not required for enrollment.
+
+Once your ProtectMyID membership is activated, you will receive the following features:
+   ▪▪ Free copy of your Experian credit report.
+   ▪▪ Surveillance Alerts for Daily Bureau Credit Monitoring for your Experian credit report.
+   ▪▪ Identity Theft Resolution & ProtectMyID ExtendCARE: Toll-free access to US-based customer care
+
+
+M8661 v.03 11.25.2014
+            and a dedicated Identity Theft Resolution agent who will walk you through the process of fraud resolution
+            from start to finish for seamless service. They will investigate each incident; help with contacting credit
+            grantors to dispute charges and close accounts including credit, debit and medical insurance cards; assist
+            with freezing credit files; contact government agencies.
+            ◦◦ To offer added protection, you will receive ExtendCARETM, which provides you with the same high-level
+                of Fraud Resolution support even after your ProtectMyID membership has expired.
+      •	    $1 Million Identity Theft Insurance:1 Immediately covers certain costs including, lost wages, private
+            investigator fees, and unauthorized electronic fund transfers.
+Once your enrollment in ProtectMyID is complete, you should carefully review your credit report for inaccurate or
+suspicious items. If you have any questions about ProtectMyID, need help understanding something on your credit
+report or suspect that an item on your credit report may be fraudulent, please contact Experian’s customer care team
+at 877-297-7780.
+To further protect against possible identity theft or other financial loss, we encourage you to remain vigilant, to review
+your account statements, and to monitor your credit reports for suspicious activity. Under U.S. law, you are entitled
+to one free credit report annually from each of the three major credit bureaus. To order your free credit report, visit
+www.annualcreditreport.com or call, toll-free, 1-877-322-8228. You may also contact the three major credit bureaus
+directly to request a free copy of your credit report. At no charge, you can also have these credit bureaus place a
+“fraud alert” on your file that alerts creditors to take additional steps to verify your identity prior to granting credit
+in your name. Note, however, that because it tells creditors to follow certain procedures to protect you, it may also
+delay your ability to obtain credit while the agency verifies your identity. As soon as one credit bureau confirms your
+fraud alert, the others are notified to place fraud alerts on your file. Should you wish to place a fraud alert, or should
+you have any questions regarding your credit report, please contact any one of the agencies listed below. Information
+regarding security freezes is also available from these agencies.
+                             Equifax                       Experian                        TransUnion
+                         P.O. Box 105069                P.O. Box 2002                     P.O. Box 2000
+                        Atlanta, GA 30348              Allen, TX 75013                Chester, PA 19022-2000
+                          800-525-6285                  888-397-3742                      800-680-7289
+                        www.equifax.com               www.experian.com                 www.transunion.com
+You can also further educate yourself regarding identity theft, security freezes, and the steps you can take to protect
+yourself, by contacting the Federal Trade Commission. The Federal Trade Commission can be reached at: 600
+Pennsylvania Avenue NW, Washington, DC 20580; www.ftc.gov/bcp/edu/microsites/idtheft/; 1-877-ID-THEFT
+(877-438-4338); and TTY: 866-653-4261. The Federal Trade Commission also encourages those who discover that
+their information has been misused to file a complaint with them. For North Carolina residents, you can obtain
+information about preventing identity theft from the North Carolina Attorney General’s Office: the Attorney General
+can be contacted by mail at 9001 Mail Service Center, Raleigh, NC 27699-9001; toll-free at 1-877-566-7226; by phone
+at 1-919-716-6400; and online at www.ncdoj.gov. For Maryland residents, the Attorney General can be contacted at:
+200 St. Paul Place, 16th Floor, Baltimore, MD 21202; (888) 743-0023; and www.oag.state.md.us. You can also obtain
+further information on how to file such a complaint by way of the contact information listed above. You should report
+known or suspected identity theft or fraud to law enforcement.
+We apologize for any inconvenience or concern this incident may have caused. Should you have any questions
+about the content of this letter, enrollment in Experian’s services or ways you can protect yourself from identity
+theft, please call our confidential inquiry line between 9 a.m. and 9 p.m. EST, Monday through Friday, and Saturday,
+November 29th, at 888-644-7473.
+Sincerely,
+
+
+
+Emily Erskine, President
+American Residuals and Talent, Inc.
+
+
+
+1
+ Identity theft insurance is underwritten by insurance company subsidiaries or affiliates of AIG. The description herein is a
+summary and intended for informational purposes only and does not include all terms, conditions and exclusions of the policies
+described. Please refer to the actual policies for terms, conditions, and exclusions of coverage. Coverage may not be available
+in all jurisdictions.
+
+M8662 v.03 11.25.2014

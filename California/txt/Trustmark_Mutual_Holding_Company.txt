@@ -1,0 +1,132 @@
+EXHIBIT A
+                                                                                           June 22, 2015
+
+
+
+
+            ##B0932-L01-0123456 0001 00000001 **************9-OELZZ 123
+            SAMPLE A SAMPLE
+            APT ABC
+            123 ANY ST
+            ANYTOWN, US 12345-6789
+            TTFDDATDAADTAAAFAATFFDDTFTAAFTAFAAFFFFDTDADTTTADTATATDADFDFFDFTFD
+
+
+
+
+Dear Sample A Sample:
+Trustmark is writing to inform you of a recent incident that may affect the security of your personal information.
+We are unaware of any attempted or actual misuse of your personal information, but are providing this notice to
+ensure that you are aware of the incident, and so that you may take steps to protect your information should you
+feel it is appropriate to do so.
+On May 13, 2015, our automated billing e-mail system generated and sent encrypted e-mails to certain insurance
+carrier clients. While each encrypted email should have contained a single file with information related to each
+carriers insureds, on May 14, 2015, we discovered that a software error resulted in each carrier receiving file
+attachments for all of the carriers instead of just the one file related to their own insureds. Upon learning of the
+error, we took steps to recall the emails. We contacted each insurance carrier recipient and requested
+confirmation that the emails and the attachments had been permanently deleted. We have identified and corrected
+the software error that caused this incident, and implemented safeguards to ensure it does not occur again.
+Trustmark takes the security of your personal information very seriously. We performed a thorough investigation
+in order to confirm the nature and scope of this incident. Trustmark is working with the insurance carrier
+recipients that inadvertently received this information, and the carriers are cooperating with us to ensure that they
+properly dispose of and permanently delete the e-mails. The recipients are sophisticated organizations with whom
+we have a contractual partnership, and they also understand the necessity of protecting sensitive information. We
+believe the risk of misuse of your information is low, but we are providing this notice to you in an abundance of
+caution. The personal information included on the spreadsheets inadvertently shared with the other insurance
+carrier clients included your name, social security number, and payroll deduction information.
+To help protect your identity, we have engaged Experian®, the largest credit bureau in the United States, to offer
+you complimentary Fraud Resolution and identity protection for two years.
+If you are a victim of fraud, simply call Experian at 866-751-1324 by June 10, 2016 and a dedicated Identity
+Theft Resolution agent will help you restore your identity. Please provide the engagement number in this letter as       0123456
+
+proof of eligibility.
+
+                                                               (OVER PLEASE)
+
+
+
+                                                                                                                        B0932-L01
+While Fraud Resolution assistance is immediately available to you, we also encourage you to activate the fraud
+detection tools available through ProtectMyID Elite. This product provides you with superior identity protection
+and resolution of identity theft. To start monitoring your personal information, please follow the steps below:
+     1. ENROLL by: June 10, 2016
+     2. VISIT www.protectmyid.com/protect.
+     3. PROVIDE your activation code: ABCDEFGHI
+If you have questions or need an alternative to enrolling online, please call 866-751-1324 and provide
+Engagement #: PC94765.
+ADDITIONAL DETAILS REGARDING YOUR 2-YEAR PROTECTMYID MEMBERSHIP:
+A credit card is not required for enrollment.
+You can contact Experian immediately regarding any fraud issues, and have access to the following features once
+you initiate ProtectMyID:
+     ·     Experian credit report. See what information is associated with your credit file.
+     ·     Active Surveillance Alerts. Monitors the Experian file for indicators of fraud.
+     ·     Internet Scan. Alerts you if your information is found on sites containing compromised data.
+     ·     Address Change Alerts. Alerts you of changes to your mailing address.
+     ·     Fraud Resolution. Identity Theft Resolution agents are immediately available to help you address credit
+           and non-credit card related fraud.
+     ·     ExtendCARE. You receive the same high-level of Fraud Resolution support even after your ProtectMyID
+           membership has expired.
+     ·     $1 Million Identity Theft Insurance.* Provides coverage for certain costs and unauthorized electronic
+           fund transfer.
+     ·     Lost Wallet Protection. Get help replacing credit, debit, and medical insurance cards.
+Integrate your ProtectMyID membership with the BillGuard app for FREE and receive:
+     ·     Card Fraud Monitoring. Alerts you when your credit/debit cards are used.
+     ·     Card Concierge. Resolve billing inquiries and disputes with merchants.
+If you have any questions about ProtectMyID, need help understanding something on your credit report or suspect
+that an item on your credit report may be fraudulent, please contact Experians customer care team at
+866-751-1324.
+We encourage you to remain vigilant, to review your account statements, and to monitor your credit reports and
+explanation of benefits forms for suspicious activity. Under U.S. law you are entitled to one free credit report
+annually from each of the three major credit reporting bureaus. To order your free credit report, visit
+www.annualcreditreport.com or call, toll-free, 1-877-322-8228. You may also contact the three major credit
+bureaus directly to request a free copy of your credit report.
+
+
+
+
+* Identity theft insurance is underwritten by insurance subsidiaries or affiliates of AIG. The description herein is a summary and intended for informational
+purposes only and does not include all terms, conditions or exclusions of the policies described. Please refer to the actual policies for terms, conditions, and
+exclusions of coverage. Coverage may not be available in all jurisdictions.                                                                                        B0932-L01
+At no charge, you can also have these credit bureaus place a fraud alert on your file that alerts creditors to take
+additional steps to verify your identity prior to granting credit in your name. Note, however, that because it tells
+creditors to follow certain procedures to protect you, it may also delay your ability to obtain credit while the
+agency verifies your identity. As soon as one credit bureau confirms your fraud alert, the others are notified to
+place fraud alerts on your file. Should you wish to place a fraud alert, or should you have any questions regarding
+your credit report, please contact any one of the agencies listed below.
+              Equifax                                Experian                             TransUnion
+         P.O. Box 105069                          P.O. Box 2002                         P.O. Box 2000
+         Atlanta, GA 30348                       Allen, TX 75013                    Chester, PA 19022-2000
+           800-525-6285                           888-397-3742                          800-680-7289
+         www.equifax.com                        www.experian.com                     www.transunion.com
+You can also further educate yourself regarding identity theft, and the steps you can take to protect yourself, by
+contacting your state Attorney General or the Federal Trade Commission. The Federal Trade Commission also
+encourages those who discover that their information has been misused to file a complaint with them. The
+Federal Trade Commission can be reached at: 600 Pennsylvania Avenue, NW, Washington, DC 20580,
+www.ftc.gov/idtheft, 1-877-ID-THEFT (1-877-438-4338); TTY: 1-866-653-4261. Instances of known or
+suspected identity theft should be reported to law enforcement, your Attorney General, and the FTC. You can also
+further educate yourself about placing a fraud alert or security freeze on your credit file by contacting the FTC or
+your states Attorney General. For North Carolina residents, the Attorney General can be contacted at 9001 Mail
+Service Center, Raleigh, NC 27699-9001, (919) 716-6400, www.ncdoj.gov. For Maryland residents, the Attorney
+General can be contacted at 200 St. Paul Place, 16th Floor, Baltimore, MD 21202, (888) 743-0023,
+www.oag.state.md.us.
+We sincerely apologize for any inconvenience or concern this may have caused. We want to assure you that we
+are taking appropriate actions to protect the privacy and security of your information, including identifying any
+additional safeguards to help prevent a similar incident from occurring in the future. Weve established a
+confidential inquiry line, staffed with professionals trained in identity and credit protection and restoration, and
+familiar with this incident and the contents of this letter. This confidential inquiry line is available Monday
+through Friday, 9:00 a.m. to 7:00 p.m. E.S.T. at 877-216-3862. (Closed on U.S. observed holidays). Please use
+this reference number when calling: 9750061115.
+
+Sincerely,
+
+
+
+Alex Moral
+Senior Vice President, Trustmark Voluntary Benefit Solutions
+
+                                                                                                                         0123456
+
+
+
+
+                                                                                                                        B0932-L01

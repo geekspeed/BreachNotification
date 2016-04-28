@@ -1,0 +1,86 @@
+[Recipient’s address to be inserted]
+
+Sent by First-Class U.S. Mail.
+
+
+Subject: Perspectives’ Notification of Database Breach
+
+Dear Friends,
+
+As you may know, the Perspectives National Office has been investigating a breach of online
+security, which led us to temporarily close down payment options on the Perspectives website
+over the last few weeks. I first want to acknowledge how frustrating this has been for everyone
+including students, coordinators and other team members, especially as it came right in the
+middle of spring registrations – one of our busiest times of the year.
+
+Here is a summary of what happened and what it means for you and others in our ministry.
+
+        In September 2014, the Perspectives class site experienced a criminal database attack
+         which took the form of an unauthorized advertising attack. These advertisements were
+         hidden in our class site to the public viewer and were most likely used to gain greater
+         search engine page ranking for other websites. You may have noticed suspicious
+         advertisements for "abortion pills" on certain portions of our website which can, potentially,
+         be electronically malicious if clicked. Perspectives leadership learned of the breach in
+         January 2015.
+        The data breach was due to a vulnerability in the class portion of the Perspectives website
+         only. While our system was encrypted to the level of major financial institutions for
+         transmission of financial data before the attack, we've since increased our encryption level.
+        During the data breach, the attacker had access to our database. While our data forensic
+         research has found no indication the attacker actually retrieved any personal financial
+         information, we have been progressive and treated this incident as if data may have been
+         compromised. Our database contained eCheck information of website transactions (there
+         was no usable credit card information in the database).
+        We are confident that our IT team has remedied the vulnerabilities and has secured our
+         systems to industry standards or greater.
+        During this process, we shut down some functionality on the website to further protect any
+         new financial identity information until the class application portion of the Perspectives site
+         was secured.
+        At this time we don't believe users need to take extra security measures beyond normal
+         vigilance and safeguards that all internet users should follow, such as having current
+         website browsers and updated antivirus software.
+        For those who made online eCheck payments, it is suggested that you contact your
+         financial institutions to ask what they advise to protect your account and financial
+         information generally.
+
+Our developers and IT team first noticed the data anomalies and advised leadership of a breach in
+89030/000003/01075324-1
+mid January of this year. Perspectives leadership has implemented certain actions, in addition to
+this notice, to enhance security for our systems, including:
+
+
+        Further long term security enhancements to the site and system security.
+        Run regular vulnerability testing.
+        Reconstruct our production database data to remedy any data that may have lost its
+         integrity due to the database breach.
+        Report to, and work with, law enforcement in pursuing the website attacker, as appropriate
+         or as required by law.
+
+If you have further questions regarding the database breach, please contact:
+
+        Technical Questions: support@perspectives.org
+        Financial specific question: finance@perspectives.org
+        General Question: info@perspectives.org
+        In Writing: Perspectives Study Program, Attn: Mike Bain -Director of Operations,1605 E.
+         Elizabeth St., Pasadena, CA 91104
+        To leave a voicemail for a return phone call: 626-398-2194
+
+Also, a more detailed explanation of the efforts that were implemented in response to the website
+breach is available at www.perspectives.org\breach-faq or by contacting any of the
+aforementioned contacts.
+
+Again I acknowledge and apologize for the inconvenience and difficulty this has caused our
+Perspectives family. It's my belief that the enemy of God's purposes is active against this ministry
+because of the strategic and fruitful nature of what we do. We move forward with confidence and
+anticipation of what the Lord will accomplish through Perspectives this semester and beyond!
+
+With Hope,
+
+
+
+James Mason
+National Director – Perspectives USA
+
+
+
+
+89030/000003/01075324-1

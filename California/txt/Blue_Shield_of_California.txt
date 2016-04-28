@@ -1,0 +1,103 @@
+   February 18, 2014
+
+
+
+
+            ##99999-LV1-0123456
+            SAMPLE A SAMPLE
+            APT ABC
+            123 ANY ST
+            ANYTOWN, US 12345-6789
+
+
+
+Dear Sample A Sample,
+I am writing on behalf of Blue Shield of California (Blue Shield) to advise you of a recent incident that resulted in our
+disclosure of your Blue Shield Agent ID number to one or more of your clients who may have attempted to pay for their
+Individual and Family Plan policy through our online payment system. The Agent ID number is your Tax Identification
+Number which, in your case, is your Social Security Number (SSN). We have no reason to believe that your personal
+information has been misused, but we apologize for this incident and regret the concern or inconvenience it may cause
+you. The details of the incident and the steps we have taken to address it are described below.
+On January 15, 2014, Blue Shield received a report that a transaction confirmation page on our website for Individual
+and Family Plan members (the Website) was displaying Agent ID numbers that were, in some cases, the agents SSNs.
+The Website page shows billing, payment, and other account information associated with an applicant/policyholders
+Blue Shield account. Blue Shield uses the agents name and Agent ID number as a means of associating agents with                   0123456
+
+
+their clients to facilitate record keeping and policy administration. The transaction confirmation pages containing your
+Agent ID number/SSN were displayed to those of your clients who applied and/or paid for Blue Shield coverage through
+the Website between December 20, 2013 and January 16, 2014. The Agent ID number was not presented in a format
+that would suggest that it was an SSN (that is, it did not include dashes or spaces that align to the standard
+000-00-0000 SSN format). Therefore, the fact that the Agent ID number was an SSN would not have been readily
+apparent to your clients.
+Upon receiving this report, Blue Shield took immediate steps to remove the display of the Agent ID number from the
+Website, which was fully completed by January 16, 2014. In order to ensure that this issue does not recur, we are also
+taking steps to improve our procedures for verifying the information that may be displayed on our Website.
+We have no reason to believe that your personal information has been misused. However, we would like to help you to
+protect yourself against potential misuse by offering you a free one-year membership in Experians ProtectMyIDTM
+Alert. This product, which is described below, helps detect possible misuse of your personal information and provides
+you with identity protection services focused on immediate identification and resolution of identity theft. ProtectMyID
+is completely free to you, and enrolling in this program will not hurt your credit score.
+You should remain vigilant for incidents of fraud and identity theft by regularly reviewing your account statements and
+monitoring free credit reports. If you discover any suspicious or unusual activity on your accounts or suspect fraud, be
+sure to report it immediately to your financial institutions. In addition, you may contact the Federal Trade Commission
+(FTC) or law enforcement to report incidents of identity theft or to learn about steps you can take to protect yourself
+from identity theft. To learn more, you can go to the FTCs website, at www.consumer.gov/idtheft, call the FTC, at (877)
+IDTHEFT (438-4338), or write to Federal Trade Commission, Consumer Response Center, 600 Pennsylvania Avenue,
+NW, Washington, DC 20580.
+
+
+
+
+                                                                                                                              98368-LV1
+                                                                                                                                         0123456
+
+
+You may also periodically obtain credit reports from each nationwide credit reporting agency. If you discover
+information on your credit report arising from a fraudulent transaction, you should request that the credit reporting
+agency delete that information from your credit report file. In addition, under federal law, you are entitled to one free
+copy of your credit report every 12 months from each of the three nationwide credit reporting agencies. You may obtain
+a free copy of your credit report by going to www.AnnualCreditReport.com or by calling (877) 322-8228. You may
+contact the nationwide credit reporting agencies at:
+Equifax (800) 525-6285              Experian (888) 397-3742             TransUnion (800) 680-7289
+P.O. Box 740241                     P.O. Box 9532                       Fraud Victim Assistance
+Atlanta, GA 30374-0241              Allen, TX 75013                     Division P.O. Box 6790
+www.equifax.com                     www.experian.com                    Fullerton, CA 92834-6790
+                                                                        www.transunion.com
+In addition, you may obtain information from the FTC and the credit reporting agencies about fraud alerts and security
+freezes. You can add a fraud alert to your credit report file to help protect your credit information. A fraud alert can
+make it more difficult for someone to get credit in your name because it tells creditors to follow certain procedures to
+protect you, but it also may delay your ability to obtain credit. You may place a fraud alert in your file by calling just
+one of the three nationwide credit reporting agencies listed above. As soon as that agency processes your fraud alert, it
+will notify the other two agencies, which then must also place fraud alerts in your file.
+To activate your complimentary one-year membership in ProtectMyID from Experian, visit the website listed below and
+enter your individual activation code (listed below). If you prefer, you can enroll by phone by calling (877) 371-7902
+(toll free) and speaking with an Experian Customer Care representative.
+              ProtectMyIDTM Alert Web Site: http://www.protectmyid.com/redeem
+              Your Activation Code: ABCDEFGHIJKL
+              You Must Enroll By: 05/31/2014
+Your complimentary 12-month ProtectMyID membership includes:
+    ®    Credit Report: A free copy of your Experian credit report
+    ®    Daily 3 Bureau Credit Monitoring: Alerts you of suspicious activity including new inquiries, newly opened
+         accounts, delinquencies, or medical collections found on your Experian, Equifax and TransUnion credit reports.
+    ®    Identity Theft Resolution: If you have been a victim of identity theft, you will be assigned a dedicated,
+         U.S.-based Experian Identity Theft Resolution Agent who will walk you through the fraud resolution process,
+         from start to finish.
+    ®    ExtendCARE: Full access to the same personalized assistance from a highly-trained Fraud Resolution Agent
+         even after your initial ProtectMyID membership expires.
+Once your enrollment in ProtectMyID is complete, you should carefully review your credit reports for potentially
+inaccurate or suspicious items. If you have questions about ProtectMyID, need help understanding something on your
+credit report, or suspect that an item on your credit report may be fraudulent, please contact Experians Customer Care at
+(877) 371-7902.
+We sincerely apologize and regret any inconvenience this incident has caused you. Should you have questions
+regarding this matter, please do not hesitate to contact us at 1-855-770-0003, Monday through Friday, 9:00 a.m. to 7:00
+p.m. Eastern Time. (Closed on U.S. observed holidays.) Please be prepared to provide the following ten digit reference
+number when calling: 5158021214.
+Sincerely,
+
+
+Hope H. Scott, Esq.
+Chief Privacy Official
+
+
+                                                                                                                             98368-LV1

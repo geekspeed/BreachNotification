@@ -1,0 +1,92 @@
+STATE OF CALIFORNIA - HEALTH AND HUMAN SERVICES AGENCY                                         Edmund G. Brown Jr., Governor
+CALIFORNIA DEPARTMENT OF CHILD SUPPORT SERVICES
+Business Return – MS – 635, P.O. Box 419064, Rancho Cordova, CA 95741-9064
+
+
+
+
+     [Date]
+
+
+     Name (include Mr./Ms./Ph.D.)
+     Organization
+     Address Line 1
+     Address Line 2
+     City, California Zip
+
+     SUBJECT: SECURITY INCIDENT NOTIFICATION
+
+     Dear Mr. /Ms. Person:
+
+     We are contacting you because on March 12, 2012, the California Department of Child Support
+     Services learned that contracted service providers, International Business Machines (IBM) and Iron
+     Mountain Inc., could not locate several specialized computer storage devices containing personal
+     information of parents, caregivers and children maintained by our department. The devices were in
+     transit from IBM’s facility in Colorado to California. Upon arrival, several devices were missing. The
+     State is continuing to work with IBM and Iron Mountain to recover these storage devices but, to date,
+     the storage devices have not been found.
+
+     We are writing to notify you of this incident and to assist you in taking action to minimize or eliminate
+     any potential harm. It is important that you know that the missing storage devices are in a specialized
+     format and there is no evidence to date that the information has been misused in any way. However, it
+     is possible that your personal information may be impacted by this incident.
+
+     The Department has determined that the devices contained forms and scanned document images
+     which included one or more of the following pieces of personal information:
+             First and last name
+             Mailing address
+             Social Security number
+             Driver License or Identification Number
+             Name of Health Insurance Carrier or Provider
+             Health Insurance Plan Membership Identification Number
+             Employer Information
+
+     Because of the type of personal information involved, we recommend you consider taking the
+     precautionary measures listed below. We have advised the three major U.S. credit reporting agencies
+     (Experian, Equifax and TransUnion) of this incident, as well as the California Attorney General’s Office
+     and the State Office of Privacy Protection.
+
+
+
+
+         DCSS-IS-2012-ISO-0006
+RECOMMENDED PRECAUTIONARY MEASURES:
+
+   1) Fraud alert. You may place a fraud alert on your credit files by following the steps outlined in
+      the Privacy Protection Recommendations’ enclosure.
+
+   2) Order a free copy of your credit reports. You may order a free copy of your credit reports by
+      following the steps outlined in the Privacy Protection Recommendations’ enclosure.
+
+   3) Continue to monitor your credit reports. Check your credit reports, financial accounts and health
+      insurance information periodically for identity theft. Should you find suspicious activity on your
+      credit reports, contact your local law enforcement agency – police or sheriff’s office.
+
+   4) Keep a copy of this notice for your records. It is important for you to know that the personal
+      information potentially exposed is limited to that previously described. The Department of Child
+      Support systems do not contain any personal medical record information, such as physician
+      name, treatment plans or medical diagnosis. Your medical records have not been exposed by
+      this incident.
+
+For additional privacy protection recommendations, including how to take steps to protect the identity of
+your children, please visit the web site of the California Office of Privacy Protection at
+www.privacy.ca.gov.
+
+For additional information, including status updates about the missing storage devices, please visit the
+web site www.childsup.ca.gov. If your questions are still not answered, you may call the Department of
+Child Support Services at (866) 904-7674.
+
+Si necessita assistencia in Español, llame al centro de llamadas del Departamento del Estado de
+Servicios de Manutención de Niños al 866-904-7674
+
+Again, we regret that this incident occurred and want to assure you that we are reviewing the
+circumstances that caused this incident. We will continue to work with our business partners to
+minimize future risks.
+
+Sincerely,
+
+
+
+Interim Director
+
+Enclosure

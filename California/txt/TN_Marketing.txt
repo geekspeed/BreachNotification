@@ -1,0 +1,119 @@
+<<MemberFirstName>> <<MemberLastName>>                                               <<Date>> (Format: Month Day, Year)
+<<Address1>>
+<<Address2>>
+<<City>>, <<State>> <<Zip Code>>
+
+
+
+
+RE: NOTICE OF DATA BREACH
+Dear <<MemberFirstName>> <<MemberLastName>>,
+TN Marketing is writing to notify you of an unfortunate situation regarding a recent data security incident that may have
+affected the security of certain personal information related to you. We are writing to provide you with information on
+the incident and resources available to protect against identity theft or fraud, should you feel the need to do so.
+WHAT HAPPENED? On or around January 13, 2016, TN Marketing discovered evidence of a potential vulnerability
+in the code used for the checkout pages of the e-commerce pages managed by TN Marketing. We moved quickly to
+investigate this vulnerability after it was discovered and to determine what, if any, impact this vulnerability had on our
+customers. Third party forensic investigators were retained to assist with the investigation.
+WHAT INFORMATION WAS INVOLVED? The investigation has determined that the information provided during
+several small windows of time between late November 2015 and January 2016 on the check out pages of the
+e-commerce sites run by TN Marketing could be at risk. This includes information like your name, address, phone
+number, email, credit card number, credit card expiration data and CVV2 data for your <<ClientDef1(CardType)>>.
+Your Social Security number was not involved as this information is not collected from customers by TN Marketing.
+WHAT WE ARE DOING. Since discovering the vulnerability, we have enhanced existing security measures to prevent
+further unauthorized access to customer payment information. Additional monitoring is now in place to detect signs
+of unauthorized access. To help relieve concerns and restore confidence following this incident, we have secured the
+services of Kroll to provide identity monitoring at no cost to you for one year. Kroll is a global leader in risk mitigation
+and response, and their team has extensive experience helping people who have sustained an unintentional exposure
+of confidential data. Your identity monitoring services include Credit Monitoring, Web Watcher, Identity Consultation,
+and Identity Restoration.
+
+ Visit kroll.idMonitoringService.com to enroll and take advantage of your identity monitoring services.
+ Membership Number: <<Member ID>>
+
+Additional information describing your services is included with this letter.
+WHAT YOU CAN DO. In addition to the services offered above, we encourage you to review the enclosed information
+on how to better protect against identity theft or fraud.
+FOR MORE INFORMATION. We apologize for any inconvenience and concern this incident causes you. The security of
+your personal information is one of our highest priorities. Should you have any questions about the content of this letter
+or ways you can protect yourself from the possibility of identity theft, please call our dedicated hotline at 1-855-401-2640
+between 9 a.m. and 6 p.m. EST, Monday to Friday. Please have your membership number ready.
+Sincerely,
+
+
+
+Tracy Yates
+Director of Customer Service                                                                                        930Y60-0216
+             ADDITIONAL STEPS YOU CAN TAKE TO PREVENT IDENTITY THEFT AND FRAUD
+You may take action directly to further protect against possible identity theft or other financial loss. We encourage you to
+be vigilant against incidents of identity theft by reviewing your account statements regularly and monitoring your credit
+reports for suspicious activity. Under U.S. law, you are entitled to one free credit report annually from each of the three
+major credit bureaus. To order your free credit report, visit www.annualcreditreport.com or call, toll-free, 1-877-322-8228.
+You may also contact the three major credit bureaus directly to request a free copy of your credit report.
+At no charge, you can also have these credit bureaus place a “fraud alert” on your file that alerts creditors to take
+additional steps to verify your identity prior to granting credit in your name. Note, however, that because it tells
+creditors to follow certain procedures to protect you, it may also delay your ability to obtain credit while the agency
+verifies your identity. As soon as one credit bureau confirms your fraud alert, the others are notified to place fraud
+alerts on your file. Should you wish to place a fraud alert, or should you have any questions regarding your credit
+report, please contact any one of the agencies listed below.
+Equifax	 Experian	TransUnion
+P.O. Box 105069 	  P.O. Box 2002	   P.O. Box 2000
+Atlanta, GA 30348	 Allen, TX 75013	 Chester, PA 19022-2000
+800-525-6285	888-397-3742	 800-680-7289
+www.equifax.com	 www.experian.com	www.transunion.com
+In addition to a fraud alert, consumers may place a security freeze on their credit reports. A security freeze prohibits
+a credit reporting agency from releasing any information from a consumer’s credit report without the consumer’s
+written authorization. However, please be advised that placing a security freeze on your credit report may delay,
+interfere with, or prevent the timely approval of any requests you make for new loans, credit mortgages, employment,
+housing, or other services.
+If you have been a victim of identity theft, and you provide the credit reporting agency with a valid police report, it cannot
+charge you to place, lift or remove a security freeze. In all other cases, a credit reporting agency may charge you a fee to
+place, temporarily lift, or permanently remove a security freeze. You will need to place a security freeze separately with
+each of the three major credit bureaus listed above if you wish to place the freeze on all of your credit files.
+To find out more on how to place a security freeze, you can contact the credit reporting agencies using the
+information below:
+Equifax Security Freeze	    Experian Security Freeze	 TransUnion LLC
+P.O. Box 105788 	           P.O. Box 9554	            P.O. Box 2000
+Atlanta, GA 30348	          Allen, TX 75013	          Chester PA 19022-2000
+800-685-1111	888-397-3742	888-909-8872
+800-349-9960 (NY Residents)
+www.freeze.equifax.com	www.experian.com	              freeze.transunion.com
+You can further educate yourself regarding identity theft, fraud alerts, and the steps you can take to protect yourself, by
+contacting the Federal Trade Commission or your state Attorney General. For North Carolina residents, the Attorney
+General can be contacted at 9001 Mail Service Center, Raleigh, NC 27699-9001, 1-919-716-6400, www.ncdoj.gov. For
+Maryland residents, the Attorney General can be contacted at 200 St. Paul Place, 16th Floor, Baltimore, MD 21202,
+1-888-743-0023, www.oag.state.md.us. The Federal Trade Commission can be reached at: 600 Pennsylvania Avenue
+NW, Washington, DC 20580, www.ftc.gov/idtheft/, 1-877-ID-THEFT (1-877-438-4338); TTY: 1-866-653-4261. The Federal
+Trade Commission also encourages those who discover that their information has been misused to file a complaint with
+them. You can obtain further information on how to file such a complaint by way of the contact information listed above.
+Instances of known or suspected identity theft should also be reported to law enforcement.
+TAKE ADVANTAGE OF YOUR IDENTITY MONITORING SERVICES
+You’ve been provided with access to the following services1 from Kroll:
+
+Credit Monitoring through TransUnion
+You’ll receive alerts when there are changes to your credit data—for instance, when a new line of credit is applied for
+in your name. If you do not recognize the activity, you’ll have the option to call a Kroll investigator, who can help you
+determine if it’s an indicator of identity theft.
+
+Web Watcher
+Web Watcher monitors internet sites where criminals buy, sell, and trade personal information. You’ll be promptly
+notified if evidence of your identity information being traded or sold is discovered.
+
+Identity Consultation
+You have unlimited access to consultation with a dedicated licensed investigator at Kroll. Support includes showing
+you the most effective ways to protect your identity, explaining your rights and protections under the law, assistance
+with fraud alerts, and interpreting how personal information is accessed and used, including investigating suspicious
+activity that could be tied to an identity theft event.
+
+Identity Restoration
+If you become a victim of identity theft, an experienced licensed investigator will work on your behalf to resolve
+related issues. You will have access to a dedicated investigator who understands your issues and will do most of the
+work for you. Your investigator can dig deep to uncover all aspects of the identity theft, and then work to resolve it.
+
+
+
+
+1
+    Kroll’s activation website is only compatible with the current version or one version earlier of Internet Explorer, Chrome, Firefox, and Safari.
+	 To receive credit services, you must be over the age of 18 and have established credit in the U.S., have a Social Security number in your name,
+  and have a U.S. residential address associated with your credit file.                                                                     471-0116

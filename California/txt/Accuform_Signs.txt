@@ -1,0 +1,123 @@
+Accuform Signs
+16228 Flight Path Drive
+                                                                     Important Security and Protection
+Brooksville, FL 34604                                                Notification from Accuform Signs
+                                                                     and [DISTRIBUTOR NAME]. Please
+                                                                     read this entire letter.
+
+
+
+
+[CARDHOLDER NAME]
+[CARDHOLDER COMPANY]
+[STREET ADDRESS]
+[CITY], [STATE], [COUNTRY] [ZIP CODE]
+
+
+
+
+Dear [CUSTOMER/CARDHOLDER NAME]:
+
+We are contacting you regarding a data security incident that has occurred at Accuform Signs. Essentially, our
+systems have been illegally hacked into by outside intruders. Beginning at least as early as June 30, 2015, we
+believe Accuform Signs order information was improperly accessed from our website and/or the website of
+[DISTRIBUTOR NAME] (with whom we are working closely in order to provide you this joint notification
+with important information to better protect you). This order information may have included your name,
+address, email, phone and credit card information. As a result, this information may have been potentially
+exposed to others.
+
+Please be assured that we are taking appropriate steps necessary to address the incident, and that we are
+committed to protecting the information that you have entrusted to us. We have retained the services of an
+experienced cyber security and forensic investigative firm to fully investigate the incident, and we have
+reported the matter to federal law enforcement authorities, including the Electronic Crimes Task Force of the
+United States Secret Service.
+
+Because the breach occurred very recently, the investigations are still ongoing. However, we do know that one
+or more parties operating through foreign countries illegally accessed our computer network and exfiltrated
+copies of orders, a portion of which contained purchaser's names, credit card numbers and other related
+information. We have no information to indicate that any card has yet incurred any unauthorized charges.
+
+To better protect you and your information, we have taken immediate steps to further secure all data, including
+instituting changes in the ways purchase information is processed. Since discovering the breach, Accuform
+Signs has taken immediate action to identify and block access points, increase tracking and monitoring of
+activity, further restrict and remove sensitive data, increase anti-virus protection of servers, implement an
+advanced 2-factor password security system, and require secondary authorization to view credit cards.
+
+For nearly 40 years, all of us at Accuform Signs have been dedicated to manufacturing products that inform,
+protect, and motivate. We are committed to addressing this incident with the same dedication. We are
+offended by this cyber-attack on your business and our own and regret any inconvenience this incident may
+have caused you.
+We are committed to working with authorities to do all we can to help protect our businesses from future
+cyber-attacks. Should you have questions or concerns regarding this matter or the protections available to you,
+please do not hesitate to contact us at 1-800-233-3352 (8am-7pm EST) or review information at
+www.safetybreach.info. There you will find a series of FAQ, and their answers. Also attached to this letter is
+further information that you may find helpful.
+
+Sincerely,
+
+John Murphy
+Director of Customer Care
+Accuform Signs
+                        ADDITIONAL INFORMATION
+           YOU HAVE RECEIVED A DATA BREACH NOTICE - WHAT NOW?
+
+Now that you have been notified that your personal information may have been exposed in a data breach, you
+should be aware that there are steps you can take to help protect yourself from identity theft.
+
+   •   First, you should immediately contact your bank or credit card company to cancel the card that you
+       provided to us and request a new one. If you are unsure which card you used on our website, please
+       contact us at 1-800-233-3352.
+
+   •   You should vigilantly review your account statements and transactions regularly and make sure that no
+       one misused your card. If you find fraudulent charges, call the fraud department and get them
+       removed.
+
+   •   If you have automatic payments set up, update them with your new card number.
+
+   •   Request and check your credit report at annualcreditreport.com or call 1-877-322-8228. If you have not
+       ordered a report in the past year, it is free. If you have already ordered your free annual reports this
+       year, you can pay to get your report immediately from one of the credit bureaus listed below, or you
+       may be entitled to another free report if you have placed a fraud alert on your credit report recently.
+       You may also want to check with your credit card company, as they may provide free services.
+
+   •   Contact one of the three credit bureaus and place a fraud alert. A fraud alert is free. It will make it
+       harder for someone to open new accounts in your name. You should get a letter from each credit
+       bureau that will confirm that they placed a fraud alert on your file. If you contact one of the companies
+       below, they must tell the other two.
+
+          o   Equifax
+              www.equifax.com/CreditReportAssistance/
+              P.O. Box 740250
+              Atlanta, GA 30374
+              1-888-766-0008
+
+          o   Experian
+              www.experian.com/fraud/center.html
+              P.O. Box 1017
+              Allen, TX 75013
+              1-888-397-3742
+
+          o   Trans Union
+              www.transunion.com/fraud
+              PO Box 2000
+              Chester, PA 19022-2000
+              1-800-680-7289
+If you suspect that identity theft has already occurred and that your card has been, or is being, used
+improperly, you should consider taking the following steps:
+
+   •   Call the companies where you know fraud has occurred and alert the fraud department. Ask them to
+       immediately close or freeze the account if you haven't already.
+
+   •   Contact the Federal Trade Commission (FTC), your state's Attorney General or other forms of law
+       enforcement. The FTC has an online complaint form located at its website shown below. The FTC also
+       provides useful information for filing a police report on its website.
+
+We strongly encourage you to visit the Federal Trade Commission's Identify Theft Information website
+located at https://www.identitytheft.gov/, as well as the websites for the reporting agencies listed above, for
+further information on topics such as placing fraud alerts and security freezes. You can also contact the FTC at
+1-877-ID-Theft (438-4338) or at:
+
+Identity Theft Clearinghouse
+Federal Trade Commission
+600 Pennsylvania Avenue, NW
+Washington, DC 20580

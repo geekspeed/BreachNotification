@@ -1,0 +1,44 @@
+CLIENT NOTICE TEMPLATE
+
+Dear NAME,
+
+I am writing to inform you of a recent incident that may affect the security of your drivers’
+personal information.
+
+On April 2, 2014, SafetyFirst became aware that an FTP server used to back up your drivers’
+data was publicly accessible, resulting in unauthorized access to your drivers’ personal
+information. SafetyFirst immediately disconnected the FTP server to prevent further
+unauthorized access to the data on the server. SafetyFirst then launched an investigation into this
+matter to determine what information was exposed and how the server was being accessed. To
+assist with this investigation, SafetyFirst engaged the services of an independent forensics
+investigation firm.
+
+As part of its investigation, the forensics investigation team analyzed forensics images of the
+affected server and reviewed all relevant log data. The forensics investigation team determined
+that the information on the SafetyFirst FTP server became publicly accessible after a
+configuration error during a routine upgrade. We have also been able to identify what
+information was accessed, when it was accessed and by what IP addresses.
+
+Our investigation into this incident has determined that CLIENT data was first accessed on
+DATE and last accessed on DATE. Enclosed with this letter is a list of CLIENT drivers whose
+personal information was accessed. This list also indicates what personal information was
+accessed for each driver. We have no evidence at this time of any fraud or identity theft
+resulting from the inadvertent exposure of your drivers’ personal information.
+
+In addition to working with a forensics investigation team, SafetyFirst has also reached out to
+certain websites that may have indexed or cached the accessed CLIENT data. SafetyFirst has
+requested that these websites remove the content to prevent further unauthorized accesses to the
+CLIENT data. SafetyFirst has received confirmation from these websites that CLIENT data has
+been removed.
+
+The security of our clients’ and their employees’ personal information is our first priority. We
+deeply regret this incident and any inconvenience this may cause your or your drivers. We are
+doing everything possible to safeguard the personal information hosted on SafetyFirst’s network
+and to prevent this type of incident from happening in the future. If you have any questions
+about the information in this letter or if you would like to discuss this matter further, please
+contact me at EMAIL ADDRESS or by phone at XXX-XXX-XXXX.
+
+Sincerely,
+
+
+Paul Farrell

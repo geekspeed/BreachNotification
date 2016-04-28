@@ -1,0 +1,43 @@
+Dear Steam User:
+
+         If you have accessed your Steam account since November 10, 2011 you know that we
+had a network intrusion. We learned about this intrusion when the Steam forums were defaced
+on November 6. Since then our investigation of this intrusion has continued with the help of
+outside security experts. We now have additional information we would like to share with you.
+We are providing this information to you in this formal way because it might be required by your
+state’s law.
+
+        We’ve recently learned that it is probable that in 2009 the intruders obtained a copy of a
+database with information about Steam transactions between 2004 and 2008. This database
+contained user names, email addresses, encrypted billing addresses and encrypted credit card
+information. We do not have any evidence that the encryption on credit card numbers and
+billing addresses has been compromised. We are still investigating and working with the Seattle
+FBI office.
+
+        We don’t have evidence of credit card misuse. Nonetheless, you should watch your
+credit card activity and statements closely. You can also remain vigilant by monitoring free
+credit reports. Visit www.annualcreditreport.com to find out more about obtaining free credit
+reports. The FTC provides information about steps you can take to avoid identity theft, and
+about obtaining fraud alerts and security freezes—you can learn more by: visiting
+www.ftc.gov/idtheft; writing Federal Trade Commission, CRC-240, 600 Pennsylvania Ave, NW,
+Washington, D.C. 20580; or calling 1-877-FTC-HELP (382-4357) or 1-877-ID-THEFT (438-
+4338). You can also obtain information about obtaining fraud alerts or security freezes from the
+three major consumer reporting agencies below:
+
+Experian                      Equifax                        TransUnion
+www.experian.com              www.equifax.com                www.transunion.com
+(888) 397-3742                (800) 525-6285                 (800) 680-7289
+P.O. Box 9554                 P.O. Box 105069                P.O. Box 6790
+Allen, TX 75013               Atlanta, GA 30348-5069         Fullerton, CA 92834-6790
+
+Note that Experian, Equifax, and TransUnion may require that you write them at a different
+address depending upon where you reside, and what you seek from them. Please visit their
+website or call them in order to confirm the precise address to which you should write.
+
+       If you need additional information, visit www.support.steampowered.com.
+
+       We are sorry for this inconvenience.
+
+       Valve Corporation
+       10900 N.E. 4th Street, #500
+       Bellevue, WA 98004

@@ -1,0 +1,80 @@
+                                 REEVE-WOODS EYE CENTER
+                                       “Quality of care…Quality of caring”
+
+
+
+                                                                                          Robert B. Reeve, M.D.
+                                                                                          David J. Woods, M.D.
+                                                                                          Robert S. Carter, O.D.
+
+
+VIA FIRST-CLASS MAIL                                                          November 12, 2014
+
+Re: Reeve-Woods Eye Center Data Breach
+
+Dear Patient or Patient’s Personal Representative,
+
+I am writing on behalf of Reeve-Woods Eye Center (the “Eye Center”), which is an eye clinic with two
+facilities: (1) 460 W. East Avenue, Suite 110, Chico, California 95926; and (2) 6009 Pentz Road,
+Paradise, California 95969. We recently discovered a security breach of the Eye Center’s computer
+systems that may have compromised the privacy of patients’ personal health information. We are sending
+this letter to you to notify you of a possible breach of your personal information as part of our
+commitment to patient privacy.
+
+On September 17, 2014, our information technology consultant discovered that unknown individuals had
+breached the Eye Center’s server and installed malware on two computers, one at each facility. The
+malware was capturing screenshots (i.e., a copy or image of what is seen on a computer screen at a given
+time) which included patients’ protected health information. We suspect the malware may have been
+installed in or around August 2014. The following is a non-exhaustive list of the types of information
+about patients that may have been accessed: name; social security number; date of birth; home address;
+phone numbers; dates of service; Medi-Cal ID number, Medicare ID number, and/or other insurance
+information; information regarding Medi-Cal appeals; diagnosis codes; treatment information; and
+medical history.
+
+As of the date of this notice, we have not seen any evidence that shows patients’ information was actually
+viewed or otherwise utilized by a third party. Our investigation, however, is ongoing, and we may
+uncover evidence your personal information was inappropriately accessed. We are alerting all of our
+current and former patients about the security breach and ongoing investigation. In addition to
+heightening our computer system’s security, we have ensured that the malware was removed from our
+computers and will be providing additional training to our staff concerning the protection of patient
+information. We have not yet identified the individuals responsible for this, but we have notified federal
+law enforcement and are taking further steps to avoid any future breaches of our computer systems.
+
+We recommend you also consider several steps in order to protect yourself from potential misuse of the
+information:
+1. Place a fraud alert on your credit files to help protect against the possibility of credit accounts being
+    opened in your name. By calling any of the three nationwide credit reporting bureaus listed below,
+    you will be able to use an automated telephone system to file a fraud alert at all three bureaus. A fraud
+
+3041380.1        6009 Pentz Rd • Paradise, CA 95969 (530 ) 877-6583 FAX (530) 877-6590
+             460 W. East Ave., Suite 110 • Chico, CA 95926 (530) 899-2244 FAX (530) 899-9331
+    alert notifies any creditors that access your credit report that you may be the victim of fraud so that
+    they might take appropriate action. The numbers are:
+               Experian                       Equifax                 TransUnion
+               www.experian.com               www.equifax.com         www.transunion.com
+               888-397-3742                   800-525-6285            800-680-7289
+2. Obtain a free credit report from each of the bureaus listed above by calling 1-877-322-8228 or by
+    logging onto www.annualcreditreport.com. You can use the credit reports to identify suspicious
+    activity in order to notify the bureaus of such activity.
+3. Closely monitor your financial accounts and, if you see any unauthorized activity, you should
+    promptly contact the institution that opened the account. You can also file a complaint with your local
+    police and with the Federal Trade Commission by calling 1-877-ID-THEFT (1-877-438-4338) or
+    online at https://www.ftccomplaintassistant.gov/.
+
+Reeve-Woods Eye Center remains committed to ensuring that our past and present patients’ medical
+information remains private and is treated with the utmost respect. If you have any questions whatsoever,
+please feel free to contact us toll-free at 1-800-348-3937.
+
+Sincerely,
+
+Valerie Mayfield
+Practice Manager
+Reeve-Woods Eye Center
+460 W. East Avenue, Suite 110
+Chico, CA 95926
+
+
+
+
+3041380.1        6009 Pentz Rd • Paradise, CA 95969 (530 ) 877-6583 FAX (530) 877-6590
+             460 W. East Ave., Suite 110 • Chico, CA 95926 (530) 899-2244 FAX (530) 899-9331

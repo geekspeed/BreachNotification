@@ -1,0 +1,97 @@
+  NOTICE ADMINISTRATOR
+  PO BOX 2824
+  FARIBAULT, MN 55021-8629
+  IMPORTANT NOTICE
+  PLEASE READ THIS LETTER IN ITS ENTIRETY
+
+  *0123456789*                           - SEQ
+
+  NAME1
+  NAME2
+  ADDRESS1
+  ADDRESS2
+  CITY STATE ZIP
+  COUNTRY
+
+
+
+
+<<DATE>>
+Dear <<Customer Name>>:
+We value your business and respect the privacy of your information, which is why, as a precautionary measure, we are making
+you aware of a situation that may have exposed customer information including customer names, addresses, phone numbers
+and encrypted credit card numbers with security codes.
+WHAT HAPPENED?
+We discovered that an unauthorized third party obtained unlawful access to certain temporary data files on our website.
+These temporary data files are used only to complete e-commerce transactions and are not otherwise retained by Bellacor.
+The information accessed in the temporary files included customer name, address, phone number and encrypted credit card
+information. The malicious code used by the unauthorized party was discovered and contained on July 26th, and we believe
+it was injected by the unauthorized third party around June 7th. While our investigation is ongoing, we believe that in
+certain limited circumstances the unauthorized third party was able to extract such information from the temporary data
+files. Your recent purchase occurred during the time period when the unauthorized third party was attempting to obtain this
+information about our customers. While we do not have evidence that your information was compromised, we are taking
+precautionary measures to protect your financial security and alleviate concerns you may have.
+WHAT IS BELLACOR DOING TO ADDRESS THIS SITUATION?
+We are taking measures designed to prevent a recurrence of such an attack, including removing the malicious code and
+modifying relevant procedures and processes on our website. We have also mounted an aggressive investigation into the
+circumstances surrounding the situation, including working with the appropriate authorities. We have conducted a review
+of our own internal security and training, and are implementing additional security procedures.
+We are offering you one year of credit monitoring, a credit report, ongoing educational materials, and resolution services
+should your information be accessed and misused. These services will be provided by Identity Theft 911. They are highly
+experienced and well regarded as experts in this field. They are available if you have questions, think you may have a problem
+or in the unlikely event that you become a victim. Access to their services is free of charge. Simply enroll within 90 days of
+receipt of this letter. Their services will be available to you for one full year from your enrollment date and include:
+    •	   Unlimited access via toll-free number or secure website
+    •	   Credit report*
+    •	   Credit monitoring*
+    •	   Systematic notification to credit bureaus, creditors and collectors, government agencies and other relevant parties if necessary
+    •	   All phone calls and documentation needed to resolve your identity theft, should you become a victim
+    •	   Comprehensive case file creation to assist law enforcement if necessary
+    •	   One year of follow-up alerts, phone calls and status checks to prevent recurrence
+    •	   Fraud, Identity Theft and Privacy education*
+* Services marked with an “*” require an internet connection and e-mail account and may not be available to minors under the age of 18 years of age.
+                                                                        -1-
+HOW DO I ENROLL FOR THE FREE SERVICES?
+Please log onto https://enrollment.monitormyidentity.com/ or call the Identity Theft 911 help line at 1-800-405-6108. You
+will be asked to provide the following unique code: XXXXXXXXXX. To sign up for credit monitoring, you will be asked to
+verify personal information for your own protection in order to confirm your identity.
+WHAT CAN I DO ON MY OWN TO ADDRESS THIS SITUATION?
+If you choose not to use the free services we are offering, we recommend you to do the following:
+     •	 Place a fraud alert. You will need to contact one of the three major credit agencies at:
+        Experian – 1-888-397-3742           Equifax – 1-800-525-6285            TransUnion – 1-800-680-7289
+    •	   Obtain a free copy of your credit report. You can obtain your free copy by going to the website www.annualcreditreport.com
+         or by calling toll-free 1-877-322-8228. (TDD 1-877-730-4204.)
+         •	 Upon receipt of your credit report, we recommend that you review it carefully for any suspicious activity.
+         •	 Review your credit card statements and report any suspicious activity.
+         •	 Promptly report any suspicious activity to Identity Theft 911.
+In addition, please visit www.idt911.com/en/KnowledgeCenter.aspx for educational resources on how to prevent identity
+theft and for further steps on how to protect yourself.
+If you suspect an incident of identity theft may have occurred, please notify your local law enforcement or your state Attorney
+General. In addition, please notify the Federal Trade Commission.
+For more information about identity theft, the resources below can provide you with assistance:
+ For all U.S. Residents:                 For North Carolina Residents:           For Maryland Residents
+ Identify Theft Clearinghouse            Office of the Attorney General          Consumer Protection Division
+ Federal Trade Commission                9001 Mail Service Center                Office of Attorney General
+ 600 Pennsylvania Ave., NW               Raleigh, NC 27699-9001                  200 St. Paul Place
+ Washington, DC 20580                    www.ncdoj.com                           Baltimore, MD 21202
+ www.consumer.gov/idtheft                1-919-716-6400                          www.oag.state.md.us/Consumer
+ 1-877-IDTHEFT (438-4338)                                                        1-888-743-0023
+ TDD: 1-202-326-2502
+
+WHO CAN I SPEAK TO REGARDING THIS INCIDENT?
+Our first priority is to retain your trust. While Identity Theft 911 should be able to provide thorough assistance and answer your
+questions, you may still have additional questions related to this incident. If so, please call the Response Team at 1-866-483-0373
+from 8:00 a.m.-8:00 p.m. EST, Monday through Friday.
+On behalf of Bellacor.com, we take our responsibility to protect and preserve customer information very seriously. We
+sincerely apologize for this situation and any inconvenience this incident may cause you.
+Sincerely,
+
+
+
+James Lawrence
+President and CEO
+
+
+
+
+                                                               -2-

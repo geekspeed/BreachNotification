@@ -1,0 +1,89 @@
+PO Box 483									January 23, 2012
+Chanhassen, MN 55317-9678
+
+
+
+
+[First Name] [Last Name]
+[Address1] [Address2]
+[City], [State] [Zip]
+
+
+
+
+Dear Valued Customer:
+
+We take our responsibility to protect your personal data very seriously. For this reason, we are writing to inform you that
+earlier this month we discovered that an employee of an independent software development consulting firm (contracted
+by NYSEG and RG&E) allowed unauthorized access to one of our customer information systems. The customer records
+contain Social Security numbers, dates of birth and, in some cases, financial institution account numbers.
+
+While we have no evidence that such data has actually been misused, or that there was any malicious intent,
+we are notifying you out of an abundance of caution so that you have the information and tools necessary
+to help detect and prevent any misuse of personal information. We have consulted with law enforcement and
+engaged computer forensics experts. Our investigation is ongoing and we will continue to provide law enforcement
+with our full assistance.
+
+Credit Monitoring Assistance
+Above all, we ask you to be vigilant in monitoring your credit and bank accounts for any sign of unauthorized
+activity. If you suspect any incidence of identity theft, please contact your local law enforcement agency or the
+Federal Trade Commission.
+
+As a precautionary measure, NYSEG and RG&E have arranged for Experian to offer you the option of a year of
+credit monitoring free of charge through ProtectMyID™. If you’d like to take advantage of this offer, you must
+enroll by April 30, 2012. You can activate your membership in two easy steps:
+
+1.	 Visit the ProtectMyID website: www.protectmyid.com/NYSEGandRGE or call 1.877.736.4495 (toll-free) or
+    1.479.573.7373 (for international callers) to enroll.
+2.	 Provide Your Activation Code: [ACTIVATION CODE]
+
+Your complimentary 12-month ProtectMyID membership includes:
+    •	 Credit Report: A free copy of your Experian credit report.
+    •	 Daily Credit Monitoring: Alerts you to suspicious activity including new inquiries, newly-opened
+        accounts, delinquencies, or collections found on your Experian credit report. You can elect to receive alerts
+        by e-mail, text message, or first class mail.
+     •	    Identity Theft Resolution: If you have been a victim of identity theft as a result of this situation, you will
+           be assigned a dedicated, U.S.-based Experian Identity Theft Resolution Agent who will walk you through
+           the fraud resolution process, from start to finish.
+     •	    $1 Million Identity Theft Insurance*: As a ProtectMyID member, you are immediately covered by a
+           $1 million insurance policy that can help you cover certain costs including lost wages, private investigator
+           fees and unauthorized electronic fund transfers in the event of an identity theft incident.
+
+Support
+If you have questions, need help enrolling in the credit monitoring program, or feel that you may have an identity
+theft issue, assistance is available at 1.877.736.4495 (toll-free) or 1.479.573.7373 (for international callers), Monday
+through Friday, 9 a.m. to 9 p.m. (Eastern Time), and Saturday through Sunday, 11 a.m. to 8 p.m.
+
+In addition, you are entitled under U.S. law to order one free copy of your credit report every 12 months from each
+of the three nationwide credit bureaus. To order your free credit report, visit www.annualcreditreport.com or call
+1.877.322.8228 (toll-free).
+
+Additional information about this matter is available on our websites – www.nyseg.com and www.rge.com.
+
+If you wish to learn more about ways to limit the risk of identity theft, such as fraud monitoring and security freezes
+on credit accounts, consider contacting the Federal Trade Commission or your state Attorney General.
+
+Federal Trade Commission:
+
+           600 Pennsylvania Avenue, NW
+           Washington, DC 20580
+           1.877.ID.THEFT (1.877.438.4338)
+           www.ftc.gov/idtheft
+
+We take pride in serving you and apologize for any inconvenience or concern that this incident may cause. Please be
+assured that we take the privacy of customer data very seriously, and we remain dedicated to using our best efforts to
+regularly assess and adapt our physical, administrative and technical security measures in order to protect such data.
+
+Sincerely,
+
+
+
+
+Mark S. Lynch
+President
+NYSEG and RG&E
+
+
+* Identity theft insurance is underwritten by insurance company subsidiaries or affiliates of Chartis, Inc. The description herein is a summary and
+intended for informational purposes only and does not include all terms, conditions and exclusions of the policies described. Please refer to the
+actual policies for terms, conditions, and exclusions of coverage. Coverage may not be available in all jurisdictions.

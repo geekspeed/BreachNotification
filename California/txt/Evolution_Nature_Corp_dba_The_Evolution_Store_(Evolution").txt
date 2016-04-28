@@ -1,0 +1,116 @@
+    [Company Logo]
+
+    [Return Address]
+    [Date]
+
+
+    [Insert Recipient’s Name]
+    [Insert Address]
+    [Insert City, State, Zip]
+
+Dear [Name ]:
+
+Evolution Nature Corp., d/b/a The Evolution Store (“Evolution”), is writing to inform you of a data
+incident that may affect the security of your personal information. We are unaware of any actual or
+attempted misuse of your personal information but are nevertheless providing notice of this incident
+to you so that you may take steps to monitor your identity and accounts should you feel it is
+necessary to do so.
+
+Evolution received a complaint of credit-card fraud from a customer and immediately initiated a
+thorough investigation, supported by a top-tier and globally recognized third-party data forensics
+expert, Stroz Friedberg, LLC (“Stroz”). During this investigation, on September 16, 2014, Stroz
+confirmed that the administrative section of Evolution’s e-commerce site was accessed by
+unauthorized IP addresses using administrative credentials, and that customer order information was
+exposed. Stroz and Evolution's teams are working aggressively to secure the e-commerce system
+and ensure that customer payments are protected.
+
+While our investigation into the matter is ongoing, we’ve identified that your name, email address,
+phone number, billing address, shipping address, order information, and credit/debit card data
+(including card number, CVV number, and expiration date) were exposed to those accessing the e-
+commerce site from unauthorized IP addresses.
+
+We take the security of your personal information very seriously. In addition to launching an
+investigation into the matter and providing notice of this matter to you, we are reviewing our
+policies, procedures and employee education. We immediately changed all user login and
+passwords, and blocked access to our e-commerce site login to all but a few authorized IP addresses.
+We are also providing notice of this incident to certain state regulators.
+
+Additionally, Evolution has retained AllClear ID to protect your identity for 12 months at no cost to
+you. These identity protection services start on the date of this notice and you can use them at any
+time during the next 12 months.
+
+        AllClear SECURE: The team at AllClear ID is ready and standing by if you need help
+         protecting your identity. You are automatically eligible to use this service – there is no action
+         required on your part. If a problem arises, simply call ____________ and a dedicated
+         investigator will do the work to recover financial losses, restore your credit and make sure
+
+
+
+
+4845-0630-5055.1
+         your identity is returned to its proper condition. AllClear maintains an A+ rating at the
+         Better Business Bureau.
+
+        AllClear PRO: This service offers additional layers of protection including credit monitoring
+         and a $1 million identity theft insurance policy. To use the PRO service, you will need to
+         provide your personal information to AllClear ID. You may sign-up online at
+         enroll.allclearid.com, or by phone by calling ________ using the following redemption code:
+         [«Redemption_Codes ».] To enroll in this free additional service, you will need to provide
+         your personal information to AllClear ID.
+
+To further protect against possible identity theft or other financial loss, we encourage you to remain
+vigilant, to review your account statements, and to monitor your credit reports for suspicious
+activity. Under U.S. law, you are entitled to one free credit report annually from each of the three
+major credit bureaus. To order your free credit report, visit www.annualcreditreport.com or call,
+toll-free, 1-877-322-8228. You may also contact the three major credit bureaus directly to request a
+free copy of your credit report.
+
+At no charge, you can also have these credit bureaus place a “fraud alert” on your file that alerts
+creditors to take additional steps to verify your identity prior to granting credit in your name. Note,
+however, that because it tells creditors to follow certain procedures to protect you, it may also delay
+your ability to obtain credit while the agency verifies your identity. As soon as one credit bureau
+confirms your fraud alert, the others are notified to place fraud alerts on your file. Should you wish
+to place a fraud alert, or should you have any questions regarding your credit report, please contact
+any one of the agencies listed below. Information regarding security freezes is also available from
+these agencies.
+
+                 Equifax                    Experian                    TransUnion
+             P.O. Box 105069              P.O. Box 2002                P.O. Box 2000
+            Atlanta, GA 30348            Allen, TX 75013             Chester, PA 19022-2000
+               800-525-6285               888-397-3742                  800-680-7289
+             www.equifax.com             www.experian.com             www.transunion.com
+
+You can also further educate yourself regarding identity theft, security freezes, and the steps you can
+take to protect yourself, by contacting the Federal Trade Commission. The Federal Trade
+Commission can be reached at: 600 Pennsylvania Avenue NW, Washington, DC 20580,
+www.ftc.gov/bcp/edu/microsites/idtheft/, 1-877-ID-THEFT (877-438-4338); TTY: 866-653-4261.
+The Federal Trade Commission also encourages those who discover that their information has been
+misused to file a complaint with them. For North Carolina residents, you can obtain information
+about preventing identity theft from the North Carolina Attorney General’s Office: the Attorney
+General can be contacted by mail at 9001 Mail Service Center, Raleigh, NC 27699-9001; toll-free at
+1-877-566-7226; by phone at 1-919-716-6400; and online at www.ncdoj.gov. You can also obtain
+further information on how to file such a complaint by way of the contact information listed above.
+You should report known or suspected identity theft or fraud to law enforcement.
+
+We apologize for any concern or inconvenience this incident may cause you and encourage you to
+take advantage of the product outlined herein. We've established a confidential inquiry line staffed
+
+
+
+4845-0630-5055.1
+with representatives familiar with this incident and protecting against identity theft or fraud. You
+may contact the confidential inquiry line with questions about the incident, the product being offered
+to you, or ways to protect against identity theft and fraud by calling XXXXXXXX, between XXX
+and XXX from XXX a.m. to XXX p.m. X.S.T. and referencing the following engagement code:
+XXXXX.
+
+Sincerely,
+
+
+
+Evolution Store Signature and Salutation
+
+
+
+
+4845-0630-5055.1

@@ -1,0 +1,35 @@
+                       COPY OF NOTICE TO AFFECTED CONSUMERS
+
+Subject: Important Security Notice About Your Wattpad Account
+
+August 6, 2015
+
+We need to inform you of an important matter concerning your Wattpad account. On Friday,
+May 29, we identified an attack against our system. While we were able to block the attack
+within hours of identification, following a review of the incident, it’s possible that some of your
+information may have been accessed.
+
+The information that may have been accessed includes your email address, Wattpad password,
+Tumblr username and password, last login IP, and other user profile information you provided.
+While your Wattpad password was encrypted, your Tumblr password was not stored in an
+encrypted form. To see the other user profile information you provided to us, please login to
+your account on the Web and go to ‘Settings’. If you are unable to gain access to your account,
+please go here. The information accessed does not include stories you read or created.
+
+The security and safety of our community is of the highest importance. As a precaution, we
+recommend you promptly change your Wattpad password and your Tumblr password. If you
+used the same passwords for other accounts, you should also change the password for those
+accounts. As always, you should be suspicious of anyone who contacts you requesting personal
+information online.
+
+We take your online security seriously. We have already implemented additional security
+measures and will continue to improve our systems to avoid future issues. Please accept our
+sincerest apologies.
+
+If you have any questions please contact us at security@wattpad.com.
+
+Kind regards,
+
+Marc Shewchun
+Head of Community Operations
+on behalf of The Wattpad Team

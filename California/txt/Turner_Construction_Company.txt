@@ -1,0 +1,228 @@
+<<MemberFirstName>> <<MemberLastName>>                                              <<Date>> (Format: Month Day, Year)
+<<Address1>>
+<<Address2>>
+<<City>>, <<State>> <<Zip Code>>
+
+
+
+
+Esta carta contiene informacion importante. Para la vercion en espanol porfavor llame al 1-877-451-9366.
+                                              NOTICE OF DATA BREACH
+Dear <<MemberFirstName>> <<MemberLastName>>,
+What happened?
+On March 2, 2016, certain personal information was disclosed in an email to an unauthorized recipient. We immediately
+began investigating and engaged third party experts to assist us with this response. Subsequently, we determined that
+your personally identifiable information was disclosed in this email to an unauthorized recipient.
+Since discovering the unauthorized disclosure, we have notified federal, state and local law enforcement of this
+incident. We are consulting with legal, law enforcement, information technology and security experts and will follow
+their recommendations to protect the affected persons and to ensure that this type of disclosure will not again occur.
+What information was involved?
+As a result of this incident, other persons or individuals may have obtained some of your personal identifying information
+which included your full name, Social Security number, name of each state in which wages or taxes are reported for the
+affected residents, and federal, state, local and Medicare earnings and tax withholding data. This did not include any
+information on spouses, dependents, bank account or direct deposit information. It did not include your address or date
+of birth. We are informing you of this incident and have set forth the below measures you may take in an effort to help
+protect your personal information.
+What we are doing.
+Turner Construction Company has provided the data that was disclosed to the Internal Revenue Service. The Internal
+Revenue Service has taken steps to monitor your tax account for suspicious activity.
+Turner Construction Company has secured the services of Kroll to provide identity monitoring to you and your spouse
+or partner at no cost to you for ten years. Your identity monitoring services include Credit Monitoring, Web Watcher,
+Public Persona, Quick Cash Scan, $1 Million Identity Theft Insurance, Identity Consultation, and Identity Restoration.
+
+ Visit kroll.idMonitoringService.com to enroll and take advantage of your identity monitoring services.
+ Membership Number for <<MemberFirstName>> <<MemberLastName>>: <<Member ID>>
+ If you have a spouse or partner that would like to enroll in identity monitoring services,
+ please have your spouse or partner use the membership number below.
+ Membership Number for your spouse or partner: <<ClientDef1(SpousePartnerNumber)>>
+
+To receive credit services by mail instead of online, please call 1-877-451-9366. Additional information describing
+your services is included with this letter. We urge you to review the description and to consider enrolling in this
+product. You must complete the enrollment process by no later than June 1, 2016.	
+For more information please contact Kroll’s call center.
+In order to more efficiently answer any questions you may have related to this incident, Turner has established a
+call center service so that you can speak with a live operator. If you have questions, please call 1-877-451-9366,
+Monday through Friday from 8:00 a.m. to 5:00 p.m. Central Time. Please have your membership number ready.
+                                                                                                                   930Y91-0316
+What you can do.
+We ask that you remain vigilant with respect to your personal information and we encourage you to consider the
+following steps:
+  •	 Contact your credit card and other financial companies you have relationships with to alert them that your
+     identity was compromised and to establish additional security on your personal accounts. Closely monitor all
+     financial accounts including credit cards, checking and saving accounts, 401k, etc. and contact the institution
+     if you see unauthorized activity.
+  •	 If you have any accounts where your Social Security number is your username, please switch them to a distinct
+     username. This may include your 401k.
+  •	 Please file your tax returns as soon as possible. For additional information, contact your local Internal Revenue
+     Service office or call 1-800-908-4490. You can also visit this IRS website which provides information to
+     taxpayers affected by a data breach: https://www.irs.gov/Individuals/Data-Breach-Information-for-Taxpayers.
+  •	 Monitor your credit report at all three of the national credit reporting agencies. You can order a free copy of
+     your credit report by visiting www.annualcreditreport.com, calling 877-322-8228, or completing the Annual
+     Credit Report Form on the Federal Trade Commission website at http://www.consumer.ftc.gov/articles/
+     pdf-0093-annual-report-request-form.pdf. The contact information for all three national credit reporting
+     agencies is listed below.
+      Equifax	                                Experian	TransUnion
+      Phone: 800-685-1111	                    Phone: 888-397-3742	 Phone: 800-916-8800
+      P.O. Box 740241	                        P.O. Box 9532	       P.O. Box 2000
+      Atlanta, GA 30374	                      Allen, TX 75013	     Chester, PA 19016
+      www.equifax.com	                        www.experian.com	www.transunion.com	
+  •	 Consider placing a fraud alert message on your credit file. By placing this alert on your credit file, any company
+     that requests your credit file will receive a message warning them that you may have been a victim of fraud.
+     Companies that receive this alert may request that you provide proof of your identity. This step will help to protect
+     you from accounts being opened or used by anyone other than yourself. If you would like to place a fraud alert
+     on your credit file, call Equifax at 1-888-766-0008 or request a fraud alert at https://www.alerts.equifax.com/
+     AutoFraud_Online/jsp/fraudAlert.jsp.
+  •	 Consider placing a security freeze on your credit report. A security freeze prohibits a credit reporting agency
+     from releasing any information from a consumer’s credit report without written authorization. However, please
+     be aware that placing a security freeze on your credit report may delay, interfere with, or prevent the timely
+     approval of any requests you make for new loans, credit mortgages, employment, housing or other services.
+  	   If your personal information is used without authorization and you become a victim of identity theft, you should
+      file a police report. You can then provide the credit reporting agency with your valid police report, and it cannot
+      charge you to place, lift or remove a security freeze. In all other cases, a credit reporting agency may charge
+      you up to $5.00 each to place, temporarily lift, or permanently remove a security freeze.
+  	   To place a security freeze on your credit report, you must send a written request to each of the three major
+      credit reporting agencies: Equifax, Experian, and TransUnion by regular, certified or overnight mail at the
+      addresses listed in the table below.
+	 Equifax Security Freeze	 Experian Security Freeze	                                      TransUnion
+	 P.O. Box 105788	         P.O. Box 9554	                                                 Security Freeze
+	 Atlanta, GA 30348	       Allen, TX 75013	                                               P.O. Box 2000	
+			                                                                                       Chester, PA 19016
+  	   In order to request a security freeze, you will need to provide the following information:
+      1.	 Your full name (including middle initial as well as Jr., Sr., II, III, etc.);
+      2.	 Social Security number;
+      3.	 Date of Birth;
+      4.	 If you have moved in the past five (5) years, provide the addresses where you have lived over the prior five years;
+      5.	 Proof of current address such as a current utility bill or telephone bill;
+      6.	 A legible photocopy of a government issued identification card (state driver’s license or ID card, military
+          identification, etc.);
+      7.	 If you are a victim of identity theft, you should file a police report and include a copy of either the police
+          report, investigative report, or complaint to a law enforcement agency concerning identity theft;
+      8.	 If you are not a victim of identity theft, include payment by check, money order, or credit card (Visa,
+          MasterCard, American Express or Discovery only). Do not send cash through the mail.
+  	   The credit reporting agencies have three (3) business days after receiving your request to place a security
+      freeze on your credit report. The credit reporting agencies must also send written confirmation to you within
+      five (5) business days and provide you with a unique personal identification number (PIN) or password, or both
+      that can be used by you to authorize the removal or lifting of the security freeze.
+  	   To lift the security freeze in order to allow a specific entity or individual access to your credit report, you must
+      call or send a written request to the credit reporting agencies by mail and include proper identification (name,
+      address, and Social Security number) and the PIN number or password provided to you when you placed
+      the security freeze as well as the identities of those entities or individuals you would like to receive your credit
+      report or the specific period of time you want the credit report available. The credit reporting agencies have
+      three (3) business days after receiving your request to lift the security freeze for those identified entities or for
+      the specified period of time.
+  	   To remove the security freeze, you must send a written request to each of the three credit bureaus by mail and
+      include proper identification (name, address, and Social Security number) and the PIN number or password
+      provided to you when you placed the security freeze. The credit bureaus have three (3) business days after
+      receiving your request to remove the security freeze.
+  •	 If you detect any incident of fraud or identity theft, promptly report the incident to your local law enforcement
+     authority and the Federal Trade Commission (www.consumer.ftc.gov; 877-438-4338; 600 Pennsylvania Avenue,
+     NW, Washington, D.C. 20580). If you detect any potential fraud or identity theft related to your taxes, you should
+     contact the Internal Revenue Service immediately at 1-800-908-4490. You can also obtain information from
+     these sources about additional methods to prevent identity theft, and you can obtain information from the
+     Federal Trade Commission and the consumer reporting agencies for more information regarding fraud alerts
+     and security freezes.
+We take the protection of your personal information very seriously and apologize for any inconvenience. If you have
+any questions regarding this notification, please contact us at 1-877-451-9366 or turnerdatabreach@tcco.com.
+Sincerely,
+The Turner Corporation
+
+
+
+
+Thomas B. Gerlach, Jr.
+Senior Vice President
+Human Resources
+ADDITIONAL RESOURCES
+Contact information for the three nationwide credit reporting agencies is:
+   Equifax, PO Box 740241, Atlanta, GA 30374, www.equifax.com, 1-800-685-1111
+   Experian, PO Box 2104, Allen, TX 75013, www.experian.com, 1-888-397-3742
+   TransUnion, PO Box 2000, Chester, PA 19022, www.transunion.com, 1-800-888-4213
+Free Credit Report. It is recommended that you remain vigilant for incidents of fraud and identity theft by reviewing
+account statements and monitoring your credit report for unauthorized activity. You may obtain a copy of your credit
+report, free of charge, once every 12 months from each of the three nationwide credit reporting agencies.
+To order your annual free credit report please visit www.annualcreditreport.com or call toll free at 1-877-322-8228.
+You can also order your annual free credit report by mailing a completed Annual Credit Report Request Form
+(available from the U.S. Federal Trade Commission’s (“FTC”) website at www.consumer.ftc.gov) to:
+Annual Credit Report Request Service, P.O. Box 105281, Atlanta, GA 30348-5281.
+   For Colorado, Georgia, Maine, Maryland, Massachusetts, New Jersey, Puerto Rico, and Vermont residents:
+   You may obtain one or more (depending on the state) additional copies of your credit report, free of charge. You must
+   contact each of the credit reporting agencies directly to obtain such additional report(s).
+Fraud Alert. You may place a fraud alert in your file by calling one of the three nationwide credit reporting agencies
+above. A fraud alert tells creditors to follow certain procedures, including contacting you before they open any new
+accounts or change your existing accounts. For that reason, placing a fraud alert can protect you, but also may delay
+you when you seek to obtain credit.
+Security Freeze. You have the ability to place a security freeze on your credit report.
+A security freeze is intended to prevent credit, loans and services from being approved in your name without your
+consent. To place a security freeze on your credit report, you may be able to use an online process, an automated
+telephone line, or a written request to any of the three credit reporting agencies listed above. The following
+information must be included when requesting a security freeze (note that if you are requesting a credit report for
+your spouse, this information must be provided for him/her as well): (1) full name, with middle initial and any suffixes;
+(2) Social Security number; (3) date of birth; (4) current address and any previous addresses for the past five years;
+and (5) any applicable incident report or complaint with a law enforcement agency or the Registry of Motor Vehicles.
+The request must also include a copy of a government-issued identification card and a copy of a recent utility bill
+or bank or insurance statement. It is essential that each copy be legible, display your name and current mailing
+address, and the date of issue. The credit reporting agencies may charge a fee to place a freeze, temporarily lift it or
+permanently remove it. The fee is waived if you are a victim of identity theft and have submitted a valid investigative or
+law enforcement report or complaint relating to the identity theft incident to the credit reporting agencies. (You must
+review your state’s requirement(s) and/or credit bureau requirement(s) for the specific document(s) to be submitted.)
+   For Massachusetts residents: The fee for each placement of a freeze, temporary lift of a freeze, or removal of a
+   freeze is $5.
+Federal Trade Commission and State Attorneys General Offices. If you believe you are the victim of identity theft
+or have reason to believe your personal information has been misused, you should immediately contact the Federal
+Trade Commission and/or the Attorney General’s office in your home state. You may also contact these agencies for
+information on how to prevent or avoid identity theft.
+You may contact the Federal Trade Commission, Consumer Response Center, 600 Pennsylvania Avenue, NW,
+Washington, DC 20580, www.ftc.gov/bcp/edu/microsites/idtheft/, 1-877-IDTHEFT (438-4338).
+   For Maryland residents: You may contact the Maryland Office of the Attorney General, Consumer Protection
+   Division, 200 St. Paul Place, Baltimore, MD 21202, www.oag.state.md.us, 1-888-743-0023.
+   For North Carolina residents: You may contact the North Carolina Office of the Attorney General, Consumer
+   Protection Division, 9001 Mail Service Center, Raleigh, NC 27699-9001, www.ncdoj.com, 1-877-566-7226.
+Reporting of identity theft and obtaining a policy report.
+   For Iowa residents: You are advised to report any suspected identity theft to law enforcement or to the Iowa
+   Attorney General.
+   For Massachusetts residents: You have the right to obtain a police report if you are a victim of identity theft.
+   For Oregon residents: You are advised to report any suspected identity theft to law enforcement, the Federal
+   Trade Commission, and the Oregon Attorney General.
+                                                                                                                     474-0116
+TAKE ADVANTAGE OF YOUR IDENTITY MONITORING SERVICES
+You’ve been provided with access to the following services1 from Kroll:
+
+Credit Monitoring through TransUnion
+You’ll receive alerts when there are changes to your credit data—for instance, when a new line of credit is applied for
+in your name. If you do not recognize the activity, you’ll have the option to call a Kroll investigator, who can help you
+determine if it’s an indicator of identity theft.
+
+Web Watcher
+Web Watcher monitors internet sites where criminals buy, sell, and trade personal information. You’ll be promptly
+notified if evidence of your identity information being traded or sold is discovered.
+
+Public Persona
+Public Persona monitors public record databases for names, aliases, and addresses that are associated with your
+Social Security number. If information is found, an alert email is sent.
+
+Quick Cash Scan
+Quick Cash Scan monitors thousands of short-term and cash-advance loan sources. You’ll receive an alert when a
+loan is reported, and you can call a Kroll investigator for more information.
+
+$1 Million Identity Theft Insurance
+Reimburses you for out-of-pocket expenses totaling up to $1 million in legal costs for any one stolen identity event.
+All coverage is subject to the conditions and exclusions in the policy.
+
+Identity Consultation
+You have unlimited access to consultation with a dedicated licensed investigator at Kroll. Support includes showing
+you the most effective ways to protect your identity, explaining your rights and protections under the law, assistance
+with fraud alerts, and interpreting how personal information is accessed and used, including investigating suspicious
+activity that could be tied to an identity theft event.
+
+Identity Restoration
+If you become a victim of identity theft, an experienced licensed investigator will work on your behalf to resolve
+related issues. You will have access to a dedicated investigator who understands your issues and will do most of the
+work for you. Your investigator can dig deep to uncover all aspects of the identity theft, and then work to resolve it.
+
+
+
+
+1
+    Kroll’s activation website is only compatible with the current version or one version earlier of Internet Explorer, Chrome, Firefox, and Safari.
+	 To receive credit services, you must be over the age of 18 and have established credit in the U.S., have a Social Security number in your name,
+  and have a U.S. residential address associated with your credit file.                                                                     472-0116

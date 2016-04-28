@@ -1,0 +1,74 @@
+August 6, 2013
+
+
+      ##93031-LV1-0123456 T-0012 *************5-DIGIT 1234
+      SAMPLE A SAMPLE
+      APT ABC
+      123 ANY ST
+      ANYTOWN, US 12345-6789
+      AFADAFATDTFTADAFADADTFDFDDTFDDFFTFTADFFTTFFTTFTTFATAFADFDAATADDTF
+
+
+
+
+Dear Sample A Sample:
+Smartphone Experts recognizes the importance of the privacy and confidentiality of the personal information
+provided to us by our customers and has always been committed to protecting this information. Regrettably,
+we are writing to inform you of an incident involving some of that information.
+On July 12, 2013, we learned that a hacker gained access into the computer system we use to process
+payments for purchases made on our website. We immediately implemented measures to prevent any further
+unauthorized access and engaged a leading data security firm to complete an investigation.
+Although credit card information is encrypted when it is stored in our system, the investigation revealed that
+the hacker may have had the technical ability to use a decryption feature of the system to view the name,
+address, credit or debit card account number, CVV code, and the cards expiration date associated with orders
+in our system. We are working with credit card companies to protect the cardholders that may have been
+affected.
+Out of an abundance of caution, we are notifying you of the incident so you can take steps to protect your
+card from any attempted misuse. We recommend that you remain vigilant to the possibility of unauthorized
+charges on your card by reviewing your account statements. You should immediately report any unauthorized
+charges on your card to your financial institution because the major credit card companies have rules that
+typically guarantee cardholders will not be responsible for fraudulent charges.
+While information that is typically used in identify theft, such as social security number, was not
+compromised in this incident, always remain vigilant about protecting your identity by monitoring your credit
+reports. You may obtain a copy of your credit report, free of charge, once every 12 months from each of the
+three nationwide credit reporting companies. To order your annual free credit report please visit
+www.annualcreditreport.com or call toll free at 1-877-322-8228. Contact information for the three nationwide
+credit reporting companies is as follows:
+          Equifax                            Experian                     TransUnion
+          PO Box 740256                      PO Box 9554                  PO Box 6790
+          Atlanta, GA 30374                  Allen, TX 75013              Fullerton, CA 92834
+          www.equifax.com                    www.experian.com             www.transunion.com
+          1-800-525-6285                     1-888-397-3742               1-800-680-7289
+
+
+
+                                                                                                           93117-LV1
+If you believe you are the victim of identity theft or have reason to believe your personal information has
+been misused, you should immediately contact the Federal Trade Commission and/or the attorney generals
+office in your home state. You can obtain information from these sources about steps an individual can take
+to avoid identity theft as well as information about fraud alerts and security freezes. You should also contact
+your local law enforcement authorities and file a police report. Obtain a copy of the police report in case you
+are asked to provide copies to creditors to correct your records. Contact information for the Federal Trade
+Commission is as follows:
+         Federal Trade Commission
+         600 Pennsylvania Avenue, NW
+         Washington, DC 20580
+         www.ftc.gov
+         1-877-438-4338
+We want to assure you that we are committed to maintaining the security of your personal information and
+are taking this matter seriously. We have implemented additional technical safeguards and are conducting a
+comprehensive internal review of our practices and procedures in order to prevent an incident like this from
+occurring in the future. If you have questions or concerns regarding this matter, please do not hesitate to
+contact us at 1-877-218-0049, Monday through Friday, 9:00 a.m. to 7:00 p.m. Eastern Time. (Closed on
+U.S. observed holidays.) Please be prepared to provide the following ten digit reference number when
+calling: 1060080113.
+Sincerely,
+
+
+Diana Kingree
+Senior Vice President, Commerce
+
+
+
+
+                                                                                                        93117-LV1

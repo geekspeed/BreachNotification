@@ -1,0 +1,302 @@
+                                           r
+
+
+                                                                                                        Headquarters
+        /                                                                                 1222 Commerce Ave., Suite D
+                                               0 ®                                                 Woodland, CA 95776
+                         ©,;
+                                               A                                                   Phone 800.322.4539
+                           0 /                 .                                                     Fax 530.406.0895
+                                                                                                     baileysonline.com
+                                            Est. 1975                                        baileys@baileysonline.com
+
+                Washington Department of Justice
+                                                                                                  I
+                Office of the Attorney General                                                    DECEIVED
+                Consumer Protection Division
+                Attorney General's Office
+                Consumer Resource Center                                                                       1 ~0~6
+                800 Fifth Avenue, Suite 2000                                                  4       IUD ( k6iEGIIONDNISION
+                                                                                                            k
+                Seattle, WA 98104                                                                       SEATTLE
+                                                    NOTICE OF DATA BREACH
+
+                What Happened
+
+                        Recently, an examination by our computer security consultant revealed that someone
+                without authorization accessed and likely stole credit card information belonging to our
+                customers from our website. The thief or thieves accessed our website remotely and
+                overcame our firewall and security protections. In your State we have identified @ 593 credit
+                cards that are suspected to have been compromised.
+                        The compromise event began on September 25, 2015 and involved persons capturing
+                keystrokes as customers typed information onto BaileysOnline.com. The suspicious activity
+                was first discovered by Kount, who Bailey's uses for credit card fraud protection. They
+                started seeing cards used on our site begin turning up for fraud transactions in late December
+                of 2015. The breach event was confirmed on January 11, 2016 and stopped on January 13,
+                 2016.
+                         It was an ASPXSPY intrusion introduced through a known defect in Windows 2008
+                 Operating Systems. The theft involved @15,000 credit cards used to pay for purchases on our
+                 website during the above time frame. Of these @15,000 cards, nearly 25% were
+                 MasterCardO cards, 64% were VISAO cards, and fewer than 5% and 6% were American
+                 Expresso and DiscoverO cards, respectively. 95% of the credit cards are from the United
+                 States and the balance to Canada, Australia, New Zealand and a couple other countries.
+
+                 What Information Was Involved
+
+                          The types of information taken appears to include credit card numbers, cardholder
+                 names, address and phone numbers, CCV numbers, card expiration date, your log-in and
+                 password to BaileysOnline.com and any other information typed into our website related to
+                 your order. However, the following information is NOT included in what was taken: PINS
+                 (personal identification numbers), Social Security numbers, bank account numbers, telephone
+                 numbers, email addresses, and other personally identifiable information.
+                 Bailey's currently holds credit card information temporarily in storage encrypted with the
+                 latest (as of February 2015) 256 bit encryption. The thieves did not have access to the
+                 encryption key.
+                          Bailey's does not collect, store or have customers enter Social Security nun
+                 Di7ver's License numbers or state identification/passport information.
+
+Your Preferred Choice for Professional Outdoor Work Gear and Woodworking Equipment
+Forestry I Tree Care I Landscaping I Outdoor Power Equipment I Work Clothing
+                                                                                                      Headquarters
+                                                                                            1222 Commerce Ave., Suite D
+                                                                                                     Woodland, CA 95776
+                                                                                                     Phone 800.322.4539
+                                                                                                       Fax 530.406.0895
+                                                                                                       baileysonline.com
+                                                                                               baileys@baileysonline.com
+
+
+
+
+                    What We Are Doing
+
+                            We have reported the theft to various law enforcement agencies, and are cooperating
+                    with them in their investigation. We also have notified Wells Fargo Bank, who handles our
+                    credit card transactions, along with MasterCard®, VISA®, American Express® and
+                    Discover& We have no indication that any PayPal accounts were impacted.
+                    We also have engaged a security consultant and have been implementing their
+                    recommendations to strengthen our firewall and other security protections (described below).
+                    We also have retained one of the 11 Forensic Web Security firms approved by Wells Fargo to
+                    address this data breach.
+
+                    Bailey's Commitment
+
+                            Bailey's has (i) enhanced our firewalls, (ii) integrated mandatory changes with respect
+                    to our passwords and (iii) integrated new software into our website. Bailey's is PCI
+                    compliant (certified, with monthly scans of our systems by TrustWave), never sells, trades or
+                    otherwise releases any personal information of our customers and is committed to offering the
+                    most secure user experience for our customers.
+                            Bailey's has established an 800 number for consumer questions. Consumers can call
+                    (888) 582-3816 between the hours of 8:00 a.m. and 5:00 p.m. P.S.T.
+                    Also, a Notice of Data Breach has been conspicuously posted on Bailey's website Home Page
+                    and will remain there for 30 days.
+
+                    If you have any additional questions you can direct them to:
+                    Bob Ramsey
+                    Bailey's Inc
+                    1210 Commerce Ave, Suite 8
+                    Woodland, Ca. 95776
+                    916 612 8790
+                    b o br(i0 ai 1 e_ys-o nline. com
+
+
+
+
+Your Preferred Choice for Professional Outdoor Work Gear and Woodworking Equipment
+Forestry I Tree Care I Landscaping I Outdoor Power Equipment I Work Clothing
+                                                                                                     Headquarters
+                                                                                           1222 Commerce Ave., Suite D
+                                                                                                    Woodland, CA 95776
+                                                                                                    Phone 800.322.4539
+                                                                                                      Fax 530.406.0895
+                                                                                                      baileysonline.com
+                                                                                              baileys@baileysonline.com
+
+
+
+
+                                                 LE CUSTOMER NOTIFICATION
+
+                                                 40TICE OF DATA BREACH
+
+                What Happened
+
+                        Recently, an examination by our computer security consultant revealed that someone
+                without authorization accessed and likely stole credit card information belonging to our
+                customers from our website. The thief or thieves accessed our website remotely and
+                overcame our firewall and security protections. If you are receiving this letter, then we have
+                identified you as one of the people who placed an order within the affected date range,
+                identified below, and may have had certain protected information misappropriated.
+                        The compromise event began on September 25, 2015 and involved persons capturing
+                keystrokes as customers typed information onto BaileysOnline.com. The breach event was
+                found and confirmed on January 11, 2016 and stopped on January 13, 2016. It was an
+                exploitation event introduced through a known defect in Windows 2008 Security. The theft
+                involved @15,000 credit cards used to pay for purchases on our website during the above
+                time frame. Of these @15,000 cards, nearly 25% were MasterCard® cards, 64% were
+                VISA© cards, and fewer than 5% and 6% were American Express© and Discover© cards,
+                respectively.
+
+                What Information Was Involved
+
+                       The types of information taken appears to include credit card numbers, cardholder
+                names, address and phone numbers, eMail addresses, CCV numbers, card expiration date,
+                your log-in and password to BaileysOnline.com and any other information typed into our
+                website related to your order. However, the following information is NOT included in what
+                was taken: PINs (personal identification numbers), Social Security numbers, bank account
+                numbers, and other personally identifiable information.
+
+                What We Are Doing
+
+                        We have reported the theft to various law enforcement agencies, and are cooperating
+                with them in their investigation. We also have notified Wells Fargo Bank, who handles our
+                credit card transactions, along with MasterCard®, VISA®, American Express® and
+                Discoverg. We have no indication that any PayPal accounts were impacted.
+                We also have engaged a security consultant and have been implementing their
+                recommendations to strengthen our firewall and other security protections (describf
+                We also have retained one of the 11 Forensic Web Security firms approved by Wel
+                address this data breach.
+
+Your Preferred Choice for Professional Outdoor Work Gear and Woodworking Equipment
+Forestry I Tree Care I Landscaping I Outdoor Power Equipment I Work Clothing
+                                                                                                       Headquarters
+                                                                                             1222 Commerce Ave., Suite D
+                                                                                                      Woodland, CA 95776
+                                                                                                      Phone 800.322.4539
+                                                                                                        Fax 530.406.0895
+                                                                                                        baileysonline.com
+                                                                                                balleys@baileysonline.com
+
+
+
+
+                   In some states we are required to notify a state agency or Attorney General's Office,
+            and Bailey's is complying with all of those legal requirements.
+r•
+ IF         What You Can Do
+
+                    We strongly encourage you to take preventive measures now to help prevent and
+            detect any misuse of your information. We suggest that you change your log-in and password
+            for BaileysOnline.com. You may also want to cancel the credit card(s), if any, that you think
+            you may have used here. You may also want to place a fraud alert or order a security freeze
+            on your credit reports with the three major credit reporting agencies: (1) Equifax: 1-800-525-
+            6285; www.equifax.com; P.O. Box 740241, Atlanta, GA 30374-0241; (2) Experian: 1-888-
+            EXPERIAN (397-3742); www.experian.com; P.O. Box 2002, Allen, TX 75013; and (3)
+            TransUnion: 1-800-680-7289; www.transunion.com; Fraud Victim Assistance Division, P.O.
+            Box 6790, Fullerton, CA 92834-6790. You may want to ask for a free copy of your credit
+            report from each agency, and ask that only the last four digits of your Social Security number
+            appear on your credit reports.
+                    There are several things that you may want to do to protect yourself against possible
+            identity theft if the information does get into the wrong hands. These include: (1) watch for
+            phishing attempts and malicious email; (2) watch for scam U.S. mail; and (3) stay alert to
+            signs of identity theft.
+                    The Federal Trade Commission has published some information about how to defend
+            against identity theft at:
+            http://www.ftc.gov/bcp/edu/microsites/idtheft/consumers/defend.html. We suggest that you
+            submit a complaint with the FTC by calling 1-877-ID-THEFT (1-877-438-4338) or going
+            online at https://www.ftccomplaintassistant.gov/.
+
+            Bailey's Commitment
+
+                   We apologize for the inconvenience resulting from the theft by unknown people of
+            your information described above. Please note that we have taken immediate steps to prevent
+            a reoccurrence. In this regard, we have (i) enhanced our firewalls, (ii) integrated mandatory
+            changes with respect to our passwords and (iii) integrated new software into our website.
+            Please know that Bailey's is PCI compliant, never sells, trades or otherwise releases any
+            personal information of our customers and is committed to offering the most secure user
+            experience for our customers.
+            For questions relating to this event please call (888) 5 82-3 816 between the hours of 8:00 a.m.
+            and 5:00 p.m. P.S.T.
+
+            Sincerely,
+            The Bailey's Team
+
+ Your Preferred Choice for Professional Outdoor Work Gear and Woodworking Equipment
+Forestry I Tree Care I Landscaping I Outdoor Power Equipment I Work Clothing
+                             POSTED ON BAILEY'S WEBSITE
+
+                                NOTICE OF DATA BREACH
+
+What Hannened
+
+Recently, an examination by our computer security consultant revealed that someone without
+authorization accessed and likely stole credit card information belonging to our customers from
+our website. The thief or thieves accessed our website remotely and overcame our firewall and
+security protections. If you are receiving this letter, then we have identified you as one of the
+people who placed an order within the affected date range, identified below, and may have had
+certain protected information misappropriated.
+
+The compromise event began on September 25, 2015 and involved persons capturing keystrokes
+as customers typed information onto BaileysOnline.com. The breach event was found and
+confirmed on January 11, 2016 and stopped on January 13, 2016. It was an exploitation event
+introduced through a known defect in Windows 2008 Security. The theft involved @15,000
+credit cards used to pay for purchases on our website during the above time frame. Of these
+@15,000 cards, nearly 25% were MasterCard@ cards, 64% were VISAS cards, and fewer than
+5% and 6% were American Expresso and Discover@ cards, respectively.
+
+What Information Was Involved
+
+The types of information taken appears to include credit card numbers, cardholder names,
+address and phone numbers, eMail addresses, CCV numbers, card expiration date, your log-in
+and password to BaileysOnline.com and any other information typed into our website related to
+your order. However, the following information is NOT included in what was taken: PINs
+(personal identification numbers), Social Security numbers, bank account numbers, and other
+personally identifiable information.
+
+What We Are Doing
+
+We have reported the theft to various law enforcement agencies, and are cooperating with them
+in their investigation. We also have notified Wells Fargo Bank, who handles our credit card
+transactions, along with MasterCard@, VISAS, American ExpressO and DiscoverS. We have
+no indication that any PayPal accounts were impacted.
+
+We also have engaged a security consultant and have been implementing their recommendations
+to strengthen our firewall and other security protections (described below). We also have
+retained one of the 11 Forensic Web Security firms approved by Wells Fargo to address this data
+breach.
+
+In some states we are required to notify a state agency or Attorney General's Office, and
+Bailey's is complying with all of those legal requirements.
+               What You Can Do
+
+               We strongly encourage you to take preventive measures now to help prevent and detect any
+               misuse of your information. We suggest that you change your log-in and password for
+               BaileysOnline.com. You may also want to cancel the credit card(s), if any, that you think you
+               may have used here. You may also want to place a fraud alert or order a security freeze on your
+               credit reports with the three major credit reporting agencies: (1) Equifax: 1-800-525-6285;
+               www.equifax.com; P.O. Box 740241, Atlanta, GA 30374-0241; (2) Experian: 1-888-
+               EXPERIAN (397-3742); www.experian.com; P.O. Box 2002, Allen, TX 75013; and (3)
+               TransUnion: 1-800-680-7289; www.transunion.com; Fraud Victim Assistance Division, P.O.
+               Box 6790, Fullerton, CA 92834-6790. You may want to ask for a free copy of your credit report
+               from each agency, and ask that only the last four digits of your Social Security number appear on
+               your credit reports.
+
+               There are several things that you may want to do to protect yourself against possible identity
+               theft if the information does get into the wrong hands. These include: (1) watch for phishing
+               attempts and malicious email; (2) watch for scam U.S. mail; and (3) stay alert to signs of identity
+               theft.
+
+               The Federal Trade Commission has published some information about how to defend against
+               identity theft at: http://www.ftc.gov/bcp/edu/microsites/idtheft/consumers/defend.html. We
+               suggest that you submit a complaint with the FTC by calling 1-877-ID-THEFT (1-877-438-
+               4338) or going online at https://www.ftccomplaintassistant.gov/.
+
+               Bailey's Commitment
+
+               We apologize for the inconvenience resulting from the theft by unknown people of your
+               information described above. Please note that we have taken immediate steps to prevent a
+               reoccurrence. In this regard, we have (i) enhanced our firewalls, (ii) integrated mandatory
+               changes with respect to our passwords and (iii) integrated new software into our website. Please
+               know that Bailey's is PCI compliant, never sells, trades or otherwise releases any personal
+               information of our customers and is committed to offering the most secure user experience for
+               our customers.
+
+               For questions relating to this event please call (888) 582-3816 between the hours of 8:00 a.m.
+               and 5:00 p.m. P.S.T.
+
+               Sincerely,
+               The Bailey's Team
+
+
+
+
+/26514779V.1

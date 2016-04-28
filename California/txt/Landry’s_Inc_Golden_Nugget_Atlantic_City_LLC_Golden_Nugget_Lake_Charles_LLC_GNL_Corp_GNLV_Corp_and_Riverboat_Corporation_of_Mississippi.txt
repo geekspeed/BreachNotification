@@ -1,0 +1,66 @@
+                                                        NOTICE OF DATA BREACH
+    LANDRY’S AND GOLDEN NUGGET COMPLETE INVESTIGATION AND REPORT ON PAYMENT
+                                 CARD INCIDENT
+Landry’s, Inc. and Golden Nugget Hotels and Casinos (collectively “the Companies”) value the relationship we have with our customers. Because we
+understand the importance of protecting payment card information, we have been working tirelessly to complete the previously announced payment card
+investigation.
+
+                                                                    What Happened
+
+The investigation began immediately after we received a report in early December of suspicious activity regarding cards that had been legitimately used in
+some of our locations. We hired a leading cyber security firm to examine our payment card systems, implemented advanced payment processing
+solutions, and have been working with the payment card networks and law enforcement. Findings from the investigation show that criminal attackers
+were able to install a program on payment card processing devices at certain of our restaurants, food and beverage outlets, spas, entertainment
+destinations, and managed properties.
+
+                                                           What Information Was Involved
+
+The program was designed to search for data from the magnetic stripe of payment cards that had been swiped (cardholder name, card number,
+expiration date and internal verification code) as the data was being routed through affected systems. Locations were affected at different times during
+one or both of the following periods: from May 4, 2014 through March 15, 2015 and from May 5, 2015 through December 3, 2015. In addition, the at-
+risk timeframe for a small percentage of locations includes the period from March 16, 2015 through May 4, 2015. To view all of our restaurants, hotels,
+casinos, entertainment destinations, and managed properties, click here. For a list of only the affected locations and respective at-risk timeframes, click
+here.
+
+                                                                  What We Are Doing
+
+Enhanced security measures, including end-to-end encryption, have been implemented to prevent a similar issue from occurring in the future, and we
+continue to support law enforcement’s investigation. We are also working closely with the payment card networks to identify potentially affected cards
+so that the card issuers can be made aware and initiate heightened monitoring of those accounts. For those customers we can identify as having used their
+card at an affected location during that location’s at-risk window and for whom we have a mailing address or e-mail address, we will be mailing them a
+letter or sending them an e-mail.
+
+                                                                   What You Can Do
+
+If you used a card at an affected location during its at-risk window, we recommend that you remain vigilant to the possibility of fraud by reviewing your
+payment card statements for any unauthorized activity. You should immediately report any unauthorized charges to your card issuer because payment
+card rules generally provide that cardholders are not responsible for unauthorized charges reported in a timely manner. The phone number to call is
+usually on the back of your payment card. Please see the section that follows this notice for additional steps you may take to protect your information.
+
+                                                                 For More Information
+
+Landry’s and Golden Nugget regret any inconvenience or concern this may have caused. If you have any questions, please call (877) 238-2151 (U.S.
+and Canada), Monday thru Friday from 9:00 am to 7:00 pm EST.
+
+                               MORE INFORMATION ON WAYS TO PROTECT YOURSELF
+We recommend that you remain vigilant by reviewing your account statements and credit reports for any unauthorized activity. You may obtain a copy of
+your credit report, free of charge, once every 12 months from each of the three nationwide credit reporting companies. To order your annual free credit
+report, please visit www.annualcreditreport.com or call toll free at 1-877-322-8228. Contact information for the three nationwide credit reporting
+companies is as follows:
+Equifax, PO Box 740256, Atlanta, GA 30374, www.equifax.com, 1-800-525-6285
+Experian, PO Box 9554, Allen, TX 75013, www.experian.com,1-888-397-3742
+TransUnion, PO Box 2000, Chester, PA 19022-2000, www.transunion.com, 1-800-916-8800
+If you believe you are the victim of identity theft or have reason to believe your personal information has been misused, you should immediately contact
+
+                                                                                                                               converted by W eb2PDFConvert.com
+the Federal Trade Commission and/or the Attorney General’s office in your state. Contact information for the Federal Trade Commission is as follows:
+Federal Trade Commission, Consumer Response Center, 600 Pennsylvania Avenue, NW
+Washington, DC 20580, 1-877-IDTHEFT (438-4338), www.ftc.gov/idtheft
+You can obtain information from these sources about steps an individual can take to avoid identity theft as well as information about fraud alerts and
+security freezes. You should also contact your local law enforcement authorities and file a police report. Obtain a copy of the police report in case you
+are asked to provide copies to creditors to correct your records.
+
+
+
+
+                                                                                                                               converted by W eb2PDFConvert.com

@@ -1,0 +1,88 @@
+<Date>, 2014
+
+<Customer Name>
+<Customer Address>
+
+
+Re:       Account Number <xxx>                                       INCD2013-11-45053417
+
+Dear <Name>:
+
+We are writing to inform you of a recent incident of unauthorized access to a file stored on servers owned and
+managed by a T-Mobile supplier. This file contained personal information, including name, address, Social
+Security number and/or Driver’s License number. In your case, the party or parties making the unauthorized
+access may have viewed your <insert data type >. This access was discovered in late November 2013.
+Although we believe the primary goal of the access was to obtain credit card numbers (which were not included
+in the file), the information that was accessible could also potentially be misused. Our supplier has taken
+immediate measures to secure the impacted servers.
+We are also providing this notice to help you take steps to protect your personal information from possible
+misuse. We have arranged for you to receive one full year of ProtectMyID Elite, an Experian product which
+provides credit monitoring capabilities and assistance for identity theft protection including identity theft
+insurance. ProtectMyID Elite is completely free to you and enrolling in this program will not hurt your credit
+score. Follow the instructions below to activate ProtectMyID. Your enrollment is open until March 31, 2014.
+To activate ProtectMyID Elite:
+1. VISIT the ProtectMyID Web Site to enroll: www.protectmyid.com/enroll
+2. PROVIDE Your Activation Code: <code>
+
+If you have questions or need an alternative to enrolling online, please call 866-579-5479
+
+As soon as you enroll in your complimentary ProtectMyID Elite membership, Experian will begin to monitor your
+credit reports from Experian, Equifax® and TransUnion® on a daily basis and notify you of key changes. This tool
+will help you identify potentially fraudulent use of your information, and provide you with immediate assistance
+if necessary. ProtectMyID Elite includes:
+
+         Internet Scan: Alerts if your personal information is located on sites where compromised data is found,
+          traded or sold.
+         $1 Million Identity Theft Insurance: Immediately covers certain costs including, lost wages, private
+          investigator fees, and unauthorized electronic fund transfers.1
+         Tri-Bureau credit monitoring: Daily monitoring for all three bureaus.
+
+1
+  Identity theft insurance is underwritten by insurance company subsidiaries or affiliates of AIG. The description herein is a summary and
+intended for informational purposes only and does not include all terms, conditions and exclusions of the policies described. Please refer
+to the actual policies for terms, conditions, and exclusions of coverage. Coverage may not be available in all jurisdictions.
+                                                                                                                                         1
+       Access to our Fraud Resolution Agents: Qualified agents will help investigate identity theft incidents.
+       Lost Wallet Protection: If you misplace or have your wallet stolen, an agent will help you cancel your
+        credit, debit, and medical insurance cards.
+
+Once your enrollment in ProtectMyID Elite is complete, you should carefully review your credit reports for
+inaccurate or suspicious items. Additionally, you should contact any one of the three credit bureaus and ask
+them to place a fraud alert on your account. This fraud alert service is free to the public and is therefore not
+included in the ProtectMyID product.
+
+A fraud alert lets creditors know to contact you before opening new accounts in your name, to help prevent
+misuse of your personal information. You can call any one of the three credit bureaus, and they will contact the
+other two on your behalf. Additionally, in some states you may place a “freeze” on your credit file that will
+prevent any accounts from being opened in your name until the freeze is lifted.
+
+    Experian                     Equifax                          TransUnion
+    P.O Box 2002                 P.O Box 740241                   P.O Box 390
+    Allen, TX 75013              Atlanta, GA 30374 – 0241         Springfield, PA 18064-0390
+    888-397-3742                 800-525-6285                     800-680-7289
+
+You can also enroll in a fraud alert online:
+    Experian: https://www.experian.com/fraud/center.html
+    Equifax: https://www.alerts.equifax.com/AutoFraud_Online/jsp/fraudAlert.jsp
+    TransUnion: http://www.transunion.com/personal-credit/credit-disputes/fraud-alerts.page
+
+If you have questions about your ProtectMyID Elite product, need help understanding something on your credit
+report, or suspect an item on your credit report may be fraudulent, please contact Experian customer care at 1-
+866-579-5479 anytime Mon -Fri 6am – 6pm PST, or 8am – 5pm Sat – Sun.
+
+If you find any suspicious activity, you may wish to notify your local law enforcement officials or state attorney
+general. You may obtain additional information about protecting yourself from identity theft from the FTC at 1-
+877-IDTHEFT (438-4338) or at http://www.ftc.gov/idtheft.
+
+We regret any inconvenience this incident may have caused.
+
+Sincerely,
+
+T-Mobile USA, Inc
+
+To contact T-Mobile call 1-877-453-1304 or also 800-937-8997 – or call 611 from your T-Mobile hone
+
+
+
+
+                                                                                                                   2

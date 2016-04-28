@@ -1,0 +1,93 @@
+<DATE>
+
+<First><Last>
+<Address>
+
+Dear <First><Last>,
+
+IEHP has learned that a security breach at a local provider’s office affects some of your
+IEHP Member information.
+
+On October 28, 2014, a desktop computer and other items were reportedly stolen from
+Children’s Eyewear Sight, located on 11940 Foothill Blvd., Ste. 107, Rancho
+Cucamonga, CA, 91739. The local police were involved, and a suspect has been
+apprehended. However, saved to the stolen computer was a file that contained data about
+a number of people, including you.
+
+The information in the file included your name, date of birth, gender, address and contact
+phone number, an email address, IEHP Member ID number, date of appointment, date of
+purchase and the name of the doctor who provided your optical prescription. Your social
+security number was not in this file and is not at risk.
+
+Children’s Eyewear Sight notified IEHP about the incident and are taking steps to secure
+any past, present and future data related to our Members.
+
+The Compliance Department at IEHP has taken appropriate steps to report this incident to
+the Department of Health Care Services (DHCS), the Department of Health and Human
+Services (DHHS), the California Office of Attorney General (OAG) and to local media.
+
+While there is no indication that your information will be used for fraudulent activities,
+IEHP would like to offer you the option of applying a confidentiality alert to the
+electronic record maintained by IEHP. If you are interested, please contact IEHP’s
+Member Services Department at 1-800-440-4347. TTY users can call 1-800-718-4347.
+
+IEHP takes its duty to secure the personal information of our Members very seriously,
+and we appreciate the trust you have placed in us by choosing us as your health plan. We
+apologize for any inconvenience this may cause you.
+
+
+Sincerely,
+
+IEHP Compliance Department
+
+
+
+
+2014 PB-00190/ DHCS 2780
+<DATE>
+
+<First><Last>
+<Address>
+
+Dear <First><Last>,
+
+IEHP has learned that a security breach at a local provider’s office affects some of your
+child’s IEHP Member information.
+
+On October 28, 2014, a desktop computer and other items were reportedly stolen from
+Children’s Eyewear Sight, located on 11940 Foothill Blvd., Ste. 107, Rancho
+Cucamonga, CA, 91739. The local police were involved, and a suspect has been
+apprehended. However, saved to the stolen computer was a file that contained data about
+a number of people, including your child.
+
+The information in the file included your child’s name, date of birth, gender, address and
+contact phone number, an email address, IEHP Member ID number, date of appointment,
+date of purchase and the name of the doctor who provided your child’s optical
+prescription. Your child’s social security number was not in this file and is not at
+risk.
+
+Children’s Eyewear Sight notified IEHP about the incident and are taking steps to secure
+any past, present and future data related to our Members.
+
+The Compliance Department at IEHP has taken appropriate steps to report this incident to
+the Department of Health Care Services (DHCS), the Department of Health and Human
+Services (DHHS), the California Office of Attorney General (OAG) and to local media.
+
+While there is no indication that your child’s information will be used for fraudulent
+activities, IEHP would like to offer you the option of applying a confidentiality alert to
+the electronic record maintained by IEHP. If you are interested, please contact IEHP’s
+Member Services Department at 1-800-440-4347. TTY users can call 1-800-718-4347.
+
+IEHP takes its duty to secure the personal information of our Members very seriously,
+and we appreciate the trust you have placed in us by choosing us as your health plan. We
+apologize for any inconvenience this may cause you and your child.
+
+
+Sincerely,
+
+IEHP Compliance Department
+
+
+
+
+2014 PB-00190/ DHCS 2780

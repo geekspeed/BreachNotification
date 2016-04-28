@@ -1,0 +1,33 @@
+Attention [Mail Merge]
+
+We are writing to you because of an information security incident at Salinas Valley
+State Prison (SVSP) involving your personal information.
+
+On September 26, 2012 it was discovered that a database file containing personal
+information for custody staff, which was located on the institutional server, was
+accessible to all SVSP staff. The database file contained your first and last name,
+Social Security number, personal phone number, address, and institutional-position
+information.
+
+All SVSP staff have been trained on handling sensitive and confidential information in
+the course of their work; however, access to the database file should have been limited
+to only those personnel with an authorized business need to work with this information.
+
+To protect yourself from the possibility of identity theft, we recommend that you place a
+fraud alert on your credit accounts by following the recommended privacy protection
+steps outlined in the enclosure.
+The database file is now secure and has been relocated to a more restricted location on
+the server to limit accessibly to a restricted security group.
+
+For more information on identity theft, you may visit the Web site of the California Office
+of Privacy Protection at www.privacy.ca.gov.
+
+We regret that this incident occurred and want to assure you that we are reviewing and
+revising our procedures and practices to minimize the risk of recurrence. Should you
+need any further information about this incident, please contact the Warden's office, at
+831-678-5906.
+
+
+
+
+Enclosure [Enclose the Security Breach - First Steps Enclosure]

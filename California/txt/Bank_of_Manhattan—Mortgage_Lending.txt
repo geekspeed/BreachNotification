@@ -1,0 +1,168 @@
+<<MemberFirstName>> <<MemberLastName>> <<NameSuffix>>                            <<Date>> (Format: Month Day, Year)
+<<Address1>>
+<<Address2>>
+<<City>>, <<State>> <<Zip Code>>
+
+
+
+
+                                Important Data Security and Protection Notification
+
+     Dear <<MemberFirstName>> <<MemberLastName>>,
+     We believe in acting quickly to protect our customers’ best interests. Thus, we are contacting you
+     to inform you about a recent data security incident at Bank of Manhattan Mortgage Lending. Our
+     investigation is ongoing, but it appears that an employee handled mortgage loan files stored on a
+     removable disk drive in a manner that was contrary to our policies and instructions, and may have
+     resulted in unauthorized disclosure or use of information in those files. These files included a loan that
+     was originated for you at Bank of Manhattan Mortgage Lending, or was owned by Bank of Manhattan
+     Mortgage Lending at one point. The loan files include name, address, loan number, phone numbers,
+     Social Security numbers, birth dates, credit information, tax information, and other financial information.
+     This information is in regards to your loan number ending with <<ClientDef1(Loan Number)>> originated
+     on <<ClientDef2(Origination Date.)>> We conducted a prompt investigation and recovered the original
+     removable disk drive. We have notified law enforcement and appropriate government agencies. We are
+     not aware of any fraudulent or improper use of your information, nor are we aware of any subsequent
+     disclosure of your data. Please be assured that we have taken every step necessary to address the
+     incident to date, and that we will continue to investigate and take any additional steps that may be
+     required. We are committed to fully protecting the information you have entrusted to us.
+     What we are doing to protect your information:
+     In addition to completing the investigation, we are offering services and resources to help protect your
+     information and identity.
+         •	 Credit Monitoring and Identity Theft Protection: We have secured the services of Kroll to provide
+            identity theft protection at no cost to you for 12 months. Your identity theft protection services
+            include Credit Monitoring, Web Watcher, Public Persona, Quick Cash Scan, and Identity Theft
+            Consultation and Restoration. A description of these services is included with this letter.
+         •	 Solution Support Call Center: Call Center professionals are available to you at 1-866-775-4209 to
+            address questions about the data security incident, address specific questions about the services
+            available to you, and answer general questions about identity theft. The Solution Support Center
+            is staffed by licensed investigators from 8 a.m. to 5 p.m., Central Time, Monday through Friday.
+            Licensed investigators can help identify the nature of any fraud and assist you in completing
+            necessary documents. They will also further advise you about resources, processes, and next
+            steps for any identity recovery work.
+         •	 Insurance: You can obtain $1 Million Identity Theft Insurance, at no cost.
+     Visit krollbreach.idMonitoringService.com and follow the online instructions to take advantage of
+     these services. To sign up, you will need to provide your Membership Number.
+     	        Your Membership Number: <<Member ID>>
+
+
+
+
+                                                          -1-                                                      974U43-0615
+What you can do to protect your information:
+There are additional actions you may take to reduce the chances of identity theft or fraud on your
+account(s).
+   •	 Remain vigilant: Pay attention to your credit and financial accounts over the next twelve to twenty-
+      four months, carefully examining all credit card billings and other such statements to verify
+      charges. If anything looks suspicious, promptly report the incident as suspected identity theft.
+   •	 Get more information: The Federal Trade Commission has an identity theft hotline: 877-438-4338;
+      TTY: 1-866-653-4261. They also provide information on-line at www.ftc.gov/idtheft.
+   •	 Place a 90-day fraud alert on your credit file. An initial 90 day security alert indicates to anyone
+      requesting your credit file that you suspect you are a victim of fraud. When you or someone else
+      attempts to open a credit account in your name, increase the credit limit on an existing account,
+      or obtain a new card on an existing account, the lender should takes steps to verify that you have
+      authorized the request. If the creditor cannot verify this, the request should not be satisfied. You
+      may contact one of the credit reporting companies below for assistance.
+	Equifax	                                          Experian	                                   TransUnion
+	1-800-525-6285	                                   1-888-397-3742	                             1-800-680-7289
+	 www.equifax.com 	                                www.experian.com	                           www.transunion.com
+You may also obtain a free copy of your credit report online at www.annualcreditreport.com, by
+calling toll-free 1-877-322-8228, or by mailing an Annual Credit Report Request Form (available at
+www.annualcreditreport.com) to: Annual Credit Report Request Service, P.O. Box 105281, Atlanta, GA,
+30348-5281.
+We apologize for this incident and we very much regret any inconvenience it may cause you. Should
+you have questions or concerns regarding this matter and/or the protections available to you, please
+call 1-866-775-4209.
+Sincerely,
+Bank of Manhattan Mortgage Lending
+
+krollbreach.idMonitoringService.com is only compatible with the current version or one version earlier of Internet Explorer, Chrome,
+Firefox, and Safari.
+To receive credit services, you must be over the age of 18 and have established credit in the U.S., have a Social Security number in your
+name, and have a U.S. residential address associated with your credit file. To receive credit services by mail instead of online, please call
+1-844-263-8605.
+
+
+
+
+                                                                     -2-
+ Take Advantage of Your Identity Theft Protection Services
+ You’ve been provided with access to services from Kroll, a global leader in risk mitigation. Over the past 14 years,
+ Kroll has provided data breach response services for cases impacting more than 100 million individuals including
+ personal consultation to more than 180,000 consumers and worked some 8,000 confirmed identity theft cases.
+ When you need assistance, rest assured that your services are backed by an expert team who can answer any
+ question you may have.
+
+ The following services are included in your Essential Monitoring package:
+
+                                          Kroll employs a team of experienced licensed investigators to provide you with expert,
+                                          one-on-one assistance:
+                                          Consultation: You have unlimited access to consultation with a dedicated licensed
+                                          investigator at Kroll. Support includes best practice tips to assist in ongoing protection,
+                                          explaining your rights and protections under the law, assistance with fraud alerts, and
+                                          interpreting how personal information is accessed and used, including investigating
+                                          suspicious activity that could be tied to an identity theft event.
+       CONSULTATION AND
+      RESTORATION SERVICES
+                                          Restoration: Kroll’s restoration services are the most comprehensive of any provider.
+                                          Should you become a victim of identity theft, a dedicated licensed investigator can work
+                                          on your behalf to resolve related issues. The investigator does more than shoulder the
+                                          bulk of the recovery; they can dig deep to uncover all aspects of the theft, and then
+                                          work with creditors, collection agencies, utilities, government entities, and more …
+                                          to resolve it.
+
+                                          Credit Monitoring through TransUnion: Credit services can be a key tool in detecting
+           CREDIT SERVICES                early warning signs of identity theft. You’ll receive alerts when there are changes to your
+                                          credit data—for instance, when a new line of credit is applied for in your name. If you do
+                                          not recognize the activity, you’ll have the option to call a Kroll investigator, who can help
+                                          you determine if it’s an indicator of identity theft. You’ll also receive “no activity” notices
+                                          if there have been no changes to your data.
+
+                                          Web Watcher: Web Watcher helps to detect if your personal information is being bought
+                                          and sold online. This program monitors hacker chat rooms, forums and other websites
+                                          where criminals are known to trade stolen information. Thousands of sites are monitored,
+           WEB WATCHER                    looking for matches to your personal information, such as Social Security, medical ID,
+         PER S                  ION
+                                          and financial account numbers. If your information is found, you will be promptly alerted
+                 ONA L   PROTECT
+                                          and provided with instructions to contact your investigator. Monitoring starts as soon
+                                          as you enroll and select the information to search.
+
+                                                                                 Your identity theft protection services are continued on back …
+
+
+                                  How to Take Advantage of Your Identity Theft Protection Services
+
+         Visit krollbreach.idMonitoringService.com                                            Help is only a phone call away.
+     and follow the online instructions to take advantage                        If you have a question, need assistance, or feel you may be a
+           of your identity theft protection services.                       victim of identity theft, call Kroll at the toll-free number provided in
+    You can view your services at any time by logging onto Kroll’s             the accompanying letter, and ask to speak with an investigator.
+ identity protection website. When you enroll, be prepared to provide         Take advantage of this no-cost opportunity and let the experts at
+   the membership number included with the accompanying letter.                Kroll help you assess your situation and safeguard your identity.
+
+
+krollbreach.idMonitoringService.com is compatible with the current version or one version earlier of Internet Explorer, Chrome, Firefox or Safari.
+                  Public Persona: Public Persona monitors public record databases for names, aliases
+                  and addresses that are associated with your Social Security number. Records include,
+                  among other data sources, property or deed registration, internet job site providers,
+PUBLIC PERSONA    state occupational license data, and court proceedings. If information is found, an
+     IDENTITY     alert email is sent. If you see a name, address or alias that is not associated with you,
+    MONITORING
+                  contact Kroll’s investigators for more information. Once you have enrolled, you can
+                  view the services at any time by logging onto Kroll’s identity protection website.
+
+                  Quick Cash Scan: Quick Cash Scan monitors thousands of short-term and cash-advance
+                  loan sources, such as rent-to-own or payday lenders. These are sometimes referred to
+                  as “non-credit” loans because the application process does not always include a credit
+QUICK CASH SCAN
+                  check, making it easier to use stolen or fraudulent identity information. You’ll receive an
+                  alert when a loan is reported, and you’ll have the option to call a Kroll investigator for
+                  more information.
+
+                  $1 Million Identity Theft Insurance: Reimburses you for out-of-pocket expenses
+    $
+           I LL
+        1 M ION   totaling up to $1 million in legal costs for any one stolen identity event. Additional
+ IDENTITY THEFT
+                  benefits include a $0 deductible and coverage for fees associated with replacing
+   INSURANCE      documents, traveling expenses, loss of income, child care and elderly care and
+                  fraudulent withdrawals. All coverage is subject to the conditions and exclusions
+                  in the policy.

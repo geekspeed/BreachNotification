@@ -1,0 +1,68 @@
+April 17, 2012
+
+[First Name Last Name]
+[123 Any Street]
+[Any Town, XX 12345]
+
+Dear [First Name Last Name],
+
+I am writing to inform you about a health information privacy matter.
+
+We have learned that on April 6, 2012, a Kaiser Permanente South San Francisco Peri-
+operative Department employee inadvertently sent a report containing information about a
+surgical procedure that is scheduled or is in the process of being scheduled for you, to a non-
+Kaiser Permanente email address. The report can only be read by using specialized Crystal
+report reading software, which is not commonly installed on personal computers.
+
+The incident is currently under review by Kaiser Permanente. We have reached out to the
+owners of the email address and domain in an attempt to get confirmation that the report
+attached to the email was deleted and not read.
+
+Patient Identifiable Information (PII) on the report includes your first and last name, Kaiser
+Permanente medical record number, type of surgery scheduled or to be scheduled in 2012, your
+surgeon’s name, and date of planned surgery if it has been scheduled. Your Social Security
+Number (SSN) was not on the report. While we believe the risk is limited, there is a possibility
+that the information on the report could be accessed if the recipient installs Crystal report
+reading software. This software is not something most people have on their personal computers
+because it is primarily used for business purposes.
+
+Kaiser Permanente respects your right to file a complaint. If you have any questions, concerns
+or wish to file a complaint with us, please contact us at 1-877-608-0048, Monday through Friday
+from 8:00 AM to 5:00 PM (PST); (TTY 1-800-777-1370, Monday through Friday 7:00 AM – 7:00
+PM, Saturday and Sunday 7:00 AM – 3:00 PM, closed holidays.) You also have the right to
+contact the Department of Health and Human Services through the Office for Civil Rights at 1-
+800-368-1019.
+
+On behalf of Kaiser Permanente, we offer our sincerest apology that this unfortunate incident
+occurred. We assure you that safeguarding your information is one of our highest priorities. If
+you have any questions with regard to this matter, please call 1-877-608-0048, Monday through
+Friday from 8:00 AM to 5:00 PM (PST); (TTY 1-800-777-1370, Monday through Friday 7:00 AM
+– 7:00 PM, Saturday and Sunday 7:00 AM – 3:00 PM, closed holidays.)
+
+Sincerely,
+
+
+
+Darlene J. Palewitz
+Compliance & Privacy Officer
+
+[H0524/H6050/H6052]_2801010501 (05/09/2008) nM
+South San Francisco Medical Center
+
+
+Enclosures
+KP Notice of Privacy Practices
+
+
+
+As described in our Notice of Privacy Practices, you have privacy rights under a Federal law that
+protects your health information. We must follow this law to protect your privacy rights. These
+rights are important for you to know. You can exercise these rights, ask questions about them,
+and file a complaint if you think your rights are being denied or your health information has not
+been protected. You may find out more about your privacy rights by reading our Notice. We are
+enclosing a copy for your convenience.
+
+
+
+
+[H0524/H6050/H6052]_2801010501 (05/09/2008) nM

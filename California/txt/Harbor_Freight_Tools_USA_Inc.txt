@@ -1,0 +1,80 @@
+October 31, 2013
+
+
+      ##95427-LV1-0123456 T-0012 ************5-DIGIT 12345
+      SAMPLE A SAMPLE
+      APT. 1A
+      123 MAIN STREET
+      ANYTOWN, US 99999-9999
+      AATFFTADTTAFTDFTFFDFFFFTATDFDFDDDDTFDDDFFDTDAAFTFFATATFDDAATFATDF
+
+
+Dear Sample A Sample:
+
+Over the summer, Harbor Freight Tools' payment processing system was illegally attacked by cyber-criminals.
+The attack was similar to attacks reported by other national retailers. In response, we immediately engaged a
+leading cyber-security company to investigate and notices were posted in every store and on our website. We
+blocked the attack and adopted enhanced security measures to make our systems more secure than ever.
+
+Fortunately, this incident was limited to credit and debit card transactions made in our stores during a relatively
+short seven week period (May 6, 2013 to June 30, 2013). Transactions after June 30, 2013 were not affected.
+For nearly all of these transactions, we believe that the attacker only found "track 2" data— information on the
+card's magnetic stripe that contains only the card account number, expiration date, and card verification
+number. For less than 1% of these transactions, the attacker may have found data that also included the
+cardholder’s name.
+
+Because we cannot identify which specific cards or information were actually taken, we are notifying our
+customers that we have been able to identify whose cards were used during the May 6, 2013 to June 30, 2013
+time frame at each impacted store. We believe your card was in this group.
+
+If you see a fraudulent charge on your card, please immediately contact the bank that issued your card. Major
+credit card companies typically guarantee cardholders will not be responsible for fraudulent charges. Please be
+on the lookout and review your account statements for any unauthorized activity. We have included additional
+information about ways you can protect yourself on the back of this letter.
+
+We regret any inconvenience this may cause. Keeping customer information secure is a top priority at Harbor
+Freight and we will continue to work to make our network more secure. If you have questions, please call us toll
+free at 877-216-4023, Monday through Friday, 9 a.m. –7 p.m. EST, and use the following ten digit reference
+number when calling: 4471100813.
+
+Sincerely,
+
+
+Eric Smidt
+President, Harbor Freight Tools
+
+
+
+
+                                                                                                          95427-LV1
+                                More Information on Ways to Protect Yourself
+
+We recommend that you remain vigilant by reviewing your account statements and credit reports for any
+unauthorized activity. You may obtain a copy of your credit report, free of charge, once every 12 months from
+each of the three nationwide credit reporting companies. To order your annual free credit report please visit
+www.annualcreditreport.com or call toll free at 1-877-322-8228. Contact information for the three nationwide
+credit reporting companies is as follows:
+
+   Equifax, PO Box 740256, Atlanta, GA 30374, www.equifax.com, 1-800-525-6285
+   Experian, PO Box 9554, Allen, TX 75013, www.experian.com, 1-888-397-3742
+   TransUnion, PO Box 6790, Fullerton, CA 92834, www.transunion.com, 1-800-680-7289
+
+If you believe you are the victim of identity theft or have reason to believe your personal information has been
+misused, you should immediately contact the Federal Trade Commission and/or the attorney general’s office in
+your home state. Contact information for the Federal Trade Commission is as follows:
+
+         Federal Trade Commission
+         600 Pennsylvania Avenue, NW
+         Washington, DC 20580
+         www.ftc.gov
+         1-877-438-4338
+
+You can obtain information from these sources about steps an individual can take to avoid identity theft as well
+as information about fraud alerts and security freezes. You should also contact your local law enforcement
+authorities and file a police report. Obtain a copy of the police report in case you are asked to provide copies to
+creditors to correct your records.
+
+
+
+
+                                                                                                          95427-LV1

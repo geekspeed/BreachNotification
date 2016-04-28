@@ -1,0 +1,113 @@
+March 23, 2012
+
+
+[ADDRESS]
+
+
+Dear Manhattan Prep Customer:
+
+
+We are writing to inform you of a security breach involving Manhattan Prep's computer system and database. This
+database included credit card information that you had on file with us.
+
+
+With the help of data security experts, we are currently conducting a thorough investigation of the breach, which
+occurred and was identified on Sunday, March 25. We are also working with law enforcement as part of this
+investigation. At this time, we have determined that an unauthorized third party (a "hacker") temporarily penetrated
+our system and, during the incursion, had access to the following personal information in your account: name, mailing
+address, email address, birth date, username, password, phone number, and credit card details for the following
+card(s) in your account:
+
+
+[CARD TYPE]
+
+
+As a precautionary measure, we have alerted your credit card company that your account information was
+temporarily exposed, and we have asked that charges on your account be closely monitored. Your credit card
+company can provide additional information about precautions put into place to protect your account from
+unauthorized activity.
+
+
+As a further precaution, we have permanently removed from our database all credit card information previously
+associated with your account, and we have also reset your account password on our site. If you are a current student
+or customer who needs to log into your account, please find instructions and a link below for setting a new password.
+
+
+If you use the same password on other accounts, we strongly recommend that you modify that password.
+
+
+We also recommend taking the following immediate steps to identify any potentially fraudulent activity on your card:
+
+
+         Review your credit card statements.
+         Contact your credit card or debit card issuer immediately if you notice any unauthorized activity or
+         transactions.
+You have the option of contacting one of the major credit bureaus listed below to place a fraud alert on your credit
+reports:
+
+
+            Equifax Fraud Division (PO Box 740250, Atlanta, GA 30374)
+            www.equifax.com or 1-800-525-6285
+            Experian Fraud Division (PO Box 1017, Allen, TX 75013)
+            www.experian.com or 1-888-397-3742
+            TransUnionCorp Fraud Division (PO Box 6790, Fullerton, CA 92634)
+            www.transunion.com or 1-800-680-7289
+
+
+
+
+While we have received no indication of identity theft, the Federal Trade Commission provides helpful information
+about how to avoid identity theft. Please visit http://www.ftc.gov/idtheft or call 1-877-ID-THEFT (877-438-4338).
+
+
+Please note that as we resolve this security issue, Manhattan Prep will NOT request any personal information from
+you via email. Please do not respond to any such e-mail requests. If you receive a suspicious request or e-mail
+purporting to be from Manhattan Prep, please contact us at the email address or phone number below to confirm that
+the communication was in fact sent from Manhattan Prep.
+
+
+In addition to the actions taken to mitigate the risk associated with the March 25th incident, we have taken measures
+to protect against future attacks of this nature. These measures include (1) reviewing all data security procedures and
+practices regarding customers' personal information, and (2) modifying our technical infrastructure to increase
+security.
+
+
+Your data security is a top priority for us. As part of our continued effort to get you the information and assistance you
+need, we encourage you to call us or email us directly at:
+
+
+Phone: 1-800-576-4628 or 212-721-7400
+Email: studentservices@manhattangmat.com
+Address: 138 West 25th Street, 7th Floor, New York, NY 10001
+
+
+We regret this incident very much. There is nothing more important to Manhattan Prep than the relationships we've
+built with our students and customers over the years. While this incident pains us, it also strengthens our commitment
+to those we've served and continue to serve. Please don't hesitate to reach out if you have questions or need
+assistance.
+
+
+Sincerely,
+
+
+
+
+Dan Gonzalez
+President
+Manhattan Prep
+
+
+
+
+Instructions for resetting your password:
+
+
+As a precautionary measure, we have reset the password associated with your student account. Follow the below
+instructions to access your account on our website and update your password:
+
+
+    1.   Log into https://www.manhattangmat.com/profile.cfm using the following temporary password:
+         [Password]
+    2.   Enter a new password of your choosing; for security purposes, we recommend you do NOT use a password
+         previously associated with your student account.
+    3.   Click 'Save' to update the information.

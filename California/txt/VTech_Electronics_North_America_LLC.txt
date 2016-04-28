@@ -1,0 +1,42 @@
+Re: Important Security Message for your VTech Learning Lodge Account
+
+
+Dear Valued Customer,
+
+On November 24 HKT we discovered that an unauthorized party accessed VTech
+customer data on our Learning Lodge app store customer database on November 14
+HKT. Our records show that you are a customer of the Learning Lodge.
+
+Our customer database contains general user profile information including name,
+email address, encrypted password, secret question and answer for password
+retrieval, IP address, mailing address and download history.
+
+It is important to note that our customer database does not contain any credit card or
+banking information. VTech does not process or store any customer credit card data
+on the Learning Lodge website. To complete the payment or check-out process of any
+downloads made on the Learning Lodge website, our customers are directed to a
+secure, third party payment gateway.
+
+In addition, our customer database does not contain any personal identification data
+(such as ID card numbers, Social Security numbers or driving license numbers).
+
+Upon discovering the unauthorized access we immediately conducted a thorough
+investigation, which involved a comprehensive check of the affected site and
+implementation of measures to defend against any further attacks. Our investigation
+continues as we look at additional ways to strengthen our Learning Lodge database
+security.
+
+We will contact you again with appropriate further updates. Additionally, updates will
+also be posted on our website at http://www.vtech.com/en/media/press-releases.
+
+In the meantime should you have any questions you can email us at
+vtechkids@vtechkids.com .
+
+
+Yours sincerely,
+
+
+
+King F. Pang
+Group President
+VTech Holdings Limited

@@ -1,0 +1,111 @@
+                                                                                                                Coca-Cola Refreshments
+                                                                                                                   One Coca-Cola Plaza
+                                                                                                                     Atlanta, GA 30313
+                                                                                                                        T 404.676.7664
+
+
+              <<Firstname>> <<Middlename>> <<Lastname>>                                              <<Date>> (Format: Month Day, Year)
+
+              <<Address1>>
+              <<Address2>>
+              <<City>>, <<Stateprovince>> <<Postalcode>>
+
+              <<Intelligent Mail Barcode>>
+
+
+
+              Dear <<Firstname>> <<Middlename>> <<Lastname>>,
+              On behalf of The Coca-Cola Company, I am writing to inform you about a recent incident discovered on
+              December 10, 2013 that involved some of your personal information. We recently discovered the theft
+              of several laptops assigned to current CCR and former CCE users that included personnel information.
+              We began investigating the incident as soon as we learned of it, and are engaged with the appropriate
+              law enforcement in this matter.
+              We deeply regret this incident occurred and take very seriously the security of information on employees
+              and other individuals. We have successfully recovered the laptops, and have determined that your
+              <<ClientDef1(Breach Details Variable Text)>> were included.
+              While we have no indication that your information was misused, we recommend that you review the
+              information provided in this letter for some steps to help protect your personal information. As a precaution,
+              we have arranged for you, at your option, to enroll in a 12 month credit monitoring service, which will be
+              paid for by The Coca-Cola Company. We have engaged Kroll to provide you with its Identity Theft Protection
+              Services. Please see the enclosed brochure for details.
+              You have until April 30, 2014 to activate the free credit monitoring service by using the following membership
+              code: <<MEMBERSHIPNUMBER>>. This code is unique for your use and should not be shared.
+              To receive credit monitoring, you must be over the age of 18 and have established credit in the U.S., have a
+              Social Security number in your name, and have a U.S. residential address associated with your credit file.
+              In addition, we recommend you remain vigilant for incidents of fraud and identity theft, including by
+              regularly reviewing your account statements and monitoring your free credit reports. If you discover
+              any suspicious or unusual activity on your accounts or suspect identity theft or fraud, be sure to report it
+              immediately to your financial institutions. In addition, you may contact the Federal Trade Commission
+              (FTC) or law enforcement to report incidents of identity theft or to learn about steps you can take to
+              protect yourself from identity theft. To learn more, you can go to the FTC’s Web site, at www.consumer.
+              gov/idtheft, call the FTC, at (877) IDTHEFT (438-4338) or write to Federal Trade Commission, Consumer
+              Response Center, 600 Pennsylvania Avenue, NW, Washington, DC 20580.
+              You may also periodically obtain credit reports from each nationwide credit reporting agency If you
+              discover information on your credit report arising from a fraudulent transaction, you can request that the
+              credit reporting agency delete that information from your credit report file. In addition, under federal law,
+              you are entitled to one free copy of your credit report every 12 months from each of the three nationwide
+
+                                                                                                    your letter is continued on the next page …
+
+                                  How to Take Advantage of Your Identity Theft Protection Services
+ Membership Number: <<MEMBERSHIPNUMBER>>                                                  Help is only a phone call away.
+ Visit kroll.idMonitoringService.com and follow the online              If you have a question, need assistance, or feel you may be a victim
+ instructions to take advantage of your identity theft protection       of identity theft, Call 1-855-???-CCus, 8 a.m. to 5 p.m. (Central Time),
+ services. You can view your services at any time by logging onto           Monday through Friday, and ask to speak with an investigator.
+ Kroll’s identity protection website. When you enroll, be prepared
+                                                                         Take advantage of this no-cost opportunity and let the experts at
+ to provide the membership number above.
+                                                                          Kroll help you assess your situation and safeguard your identity.
+930N47-0114
+credit reporting agencies. You may obtain a free copy of your credit report by going to www.AnnualCreditReport.com
+or by calling (877) 322-8228. You may contact the nationwide credit reporting agencies at:
+Equifax                                  Experian                        TransUnion
+(800) 525-6285                           (888) 397-3742                  (800) 680-7289
+P.O. Box 740241                          P.O. Box 9532                   Fraud Victim Assistance Division
+Atlanta, GA 30374-0241                   Allen, TX 75013                 P.O. Box 6790
+www.equifax.com                          www.experian.com                Fullerton, CA 92834-6790
+                                                                         www.transunion.com
+You may obtain additional information from the FTC and the credit reporting agencies about fraud alerts and security
+freezes. You can add a fraud alert to your credit report file to help protect your credit information. A fraud alert can
+make it more difficult for someone to get credit in your name because it tells creditors to follow certain procedures to
+protect you, but it also may delay your ability to obtain credit. You may place a fraud alert in your file by calling just
+one of the three nationwide credit reporting agencies listed above. As soon as that agency processes your fraud alert,
+it will notify the other two agencies, which then must also place fraud alerts in your file. In addition, you can contact
+the nationwide credit reporting agencies regarding if and how you may place a security freeze on your credit report
+to prohibit a credit reporting agency from releasing information from your credit report without your prior written
+authorization.
+If you have any questions or concerns, please call 1-855-???-CCus.
+                                 Sincerely,
+                                 Tom Miller
+                                 Chief Information Officer, CCR
+
+
+
+
+IF YOU ARE AN IOWA RESIDENT: You may contact local law enforcement or the Iowa Attorney General’s Office to
+report suspected incidents of identity theft. You can contact the Iowa Attorney General at:
+Office of the Attorney General
+1305 E. Walnut Street
+Des Moines, IA 50319
+(515) 281-5164
+www.iowa.gov/government/ag
+
+
+IF YOU ARE A MARYLAND RESIDENT: You may obtain information about avoiding identity theft from the FTC or the
+Maryland Attorney General’s Office. These offices can be reached at:
+Federal Trade Commission                         Office of the Attorney General
+Consumer Response Center                         Consumer Protection Division
+600 Pennsylvania Avenue, NW                      200 St. Paul Place
+Washington, DC 20580                             Baltimore, MD 21202
+(877) IDTHEFT (438-4338)                         (888) 743-0023
+http://www.ftc.gov/idtheft/                      www.oag.state.md.us
+
+
+IF YOU ARE A NORTH CAROLINA RESIDENT: You may obtain information about preventing identity theft from the FTC
+or the North Carolina Attorney General’s Office. These offices can be reached at:
+Federal Trade Commission                         North Carolina Department of Justice
+Consumer Response Center                         Attorney General Roy Cooper
+600 Pennsylvania Avenue, NW                      9001 Mail Service Center
+Washington, DC 20580                             Raleigh, NC 27699-9001
+(877) IDTHEFT (438-4338)                         (877) 566-7226
+www.consumer.gov/idtheft                         http://www.ncdoj.com

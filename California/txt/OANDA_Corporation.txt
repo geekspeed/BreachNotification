@@ -1,0 +1,32 @@
+We are writing to inform you of an unauthorized breach affecting some of our clients, which
+occurred on the morning of Monday March 3, 2014. Please note that this incident did not impact
+the fxTrade services, client trades or funds. However;
+
+A historical log of some payments we received via PayPal (prior to 2007) was accessed. No
+passwords or personally identifiable information, outside of your name and email address, was
+exposed.
+
+Usernames and passwords for our “fxPense” expense reporting tool may have been accessed
+(these accounts are not related to fxTrade). If you had registered for this service and use the
+same username and password on any other external websites, we strongly recommend changing
+those passwords.
+
+Immediately upon detecting the breach, the means of access was disabled and OANDA has
+alerted the Federal Bureau of Investigation (FBI), our regulators and the relevant privacy offices
+to report the attack.
+
+We have completed a careful review of our system services and logs, and are currently
+undertaking an additional study of security across all of our systems, above our regular security
+audits. This breach was limited to one server involved with historical data and was not connected
+to our fxTrade system.
+
+OANDA takes the protection of customer information very seriously, and we regret that this
+incident occurred. OANDA is committed to working with you to help minimize any inconvenience
+you may experience as a result.
+
+We will provide further details as we confirm and learn any additional information. For additional
+questions and concerns about your account(s) at this time, please contact our Client Experience
+team by telephone (click here for a list of local numbers) or via frontdesk@oanda.com
+
+Sincerely,
+The OANDA Team

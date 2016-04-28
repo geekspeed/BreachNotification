@@ -1,0 +1,110 @@
+Return Mail Processing Center
+PO Box 6336
+Portland, OR 97228-6336
+
+<<mail id>>
+<<First Name>><<Last Name>>
+<<Street Address>>
+<<City>>, <<State>><<Zip>>
+	<<Date>>
+
+
+
+
+Dear <<FirstName>> <<LastName>>:
+OneStopParking is writing to notify you of an incident that may affect the security of some of your personal
+information.
+What Happened? On December 25, 2014 we learned of a potential exposure of personal information provided to
+OneStopParking. We immediately began an internal investigation into this issue and were able to remediate the
+issue by December 31, 2014. Independent forensic investigators were retained to assist with this investigation. Our
+investigation has determined that customers who used our website between August 1, 2014 and December 31, 2014
+may have been impacted by this incident. Unfortunately we are not able to determine which specific individuals
+may have been affected by this incident. While we cannot determine exactly what information may have been
+compromised, the information potentially compromised includes the customer’s name, address, credit card number,
+credit card expiration date and CVV code. This incident did not compromise the security of your Social Security
+number, which we never request you provide to us as part of the purchasing process.
+What We Are Doing. We remediated the issue that gave rise to the incident. We retained independent computer
+experts to assist in our investigation into what happened and what information is at risk. Our systems have been
+reviewed by third party experts to ensure that they are secure.
+What You Can Do. Enclosed is helpful information on how to protect against identity theft and fraud. To help
+protect your identity, we have engaged Experian®, the largest credit bureau in the US, to offer you complimentary
+Fraud Resolution and identity protection for one-year.
+If you are a victim of fraud, simply call Experian at 866-751-1324 by February 27, 2016 and a dedicated Identity Theft
+Resolution agent will help you restore your identity. Please provide the engagement number in this letter as proof of
+eligibility.
+While Fraud Resolution assistance is immediately available to you, we also encourage you activate the fraud
+detection tools available through ProtectMyID® Elite. This product provides you with superior identity protection
+and resolution of identity theft. To start monitoring your personal information please follows the steps below:
+      •	 Visit www.protectmyid.com/protect
+      •	 Provide your activation code: [code]
+If you have questions or need an alternative to enrolling online, please call 866-751-1324 and provide Engagement
+#: PC92551.
+The security of our customers’ personal information is one of our highest priorities. If you have any questions about
+the contents of this letter, please contact us at 1-866-660-7762. We are sorry for any inconvenience and concern this
+incident may cause you.
+Sincerely,
+
+
+
+Devesh Patel
+CEO
+
+M3641 v.02 03.11.2015
+            ADDITIONAL STEPS YOU CAN TAKE TO PREVENT IDENTITY THEFT AND FRAUD
+You may also take action directly to further protect against possible identity theft or other financial loss. We
+encourage you to be vigilant by reviewing your account statements regularly and monitoring your credit reports for
+suspicious activity. Under U.S. law, you are entitled to one free credit report annually from each of the three major
+credit bureaus. To order your free credit report, visit www.annualcreditreport.com or call, toll-free, 1-877-322-8228.
+You may also contact the three major credit bureaus directly to request a free copy of your credit report.
+At no charge, you can also have these credit bureaus place a “fraud alert” on your file that alerts creditors to take
+additional steps to verify your identity prior to granting credit in your name. Note, however, that because it tells
+creditors to follow certain procedures to protect you, it may also delay your ability to obtain credit while the agency
+verifies your identity. As soon as one credit bureau confirms your fraud alert, the others are notified to place fraud
+alerts on your file. Should you wish to place a fraud alert, or should you have any questions regarding your credit
+report, please contact any one of the agencies listed below. Information regarding security freezes is also available
+from these agencies.
+Equifax                                   Experian                                  TransUnion
+P.O. Box 105069                           P.O. Box 2002                             P.O. Box 2000
+Atlanta, GA 30348                         Allen, TX 75013                           Chester, PA 19022-2000
+800-525-6285                              888-397-3742                              800-680-7289
+www.equifax.com                           www.experian.com                          www.transunion.com
+You can further educate yourself regarding identity theft, fraud alerts, and the steps you can take to protect yourself,
+by contacting the Federal Trade Commission. For North Carolina residents, the Attorney General can be contacted
+at 9001 Mail Service Center, Raleigh, NC 27699-9001, 1-919-716-6400, www.ncdoj.gov. For Maryland residents,
+the Attorney General can be contacted at 200 St. Paul Place, 16th Floor, Baltimore, MD 21202, 1-888-743-0023,
+www.oag.state.md.us. The Federal Trade Commission can be reached at: 600 Pennsylvania Avenue NW, Washington,
+DC 20580, www.ftc.gov /idtheft/, 1-877-ID-THEFT (1-877-438-4338); TTY: 1-866-653-4261. The Federal Trade
+Commission also encourages those who discover that their information has been misused to file a complaint with
+them. You can obtain further information on how to file such a complaint by way of the contact information listed
+above. Instances of known or suspected identity theft should also be reported to law enforcement.
+
+        ADDITIONAL DETAILS REGARDING YOUR 12-MONTH PROTECTMYID MEMBERSHIP:
+A credit card is not required for enrollment.
+You can contact Experian immediately regarding any fraud issues, and have access to the following features once
+you initiate ProtectMyID:
+
+•	    Experian credit report: See what information is associated with your credit file.
+•	    Active Surveillance Alerts: Monitors the Experian file for indicators of fraud.
+•	    Internet Scan: Alerts you if your information is found on sites containing compromised data.
+•	    Address Change Alerts: Alerts you of changes to your mailing address
+•	    Fraud Resolution: Identity Theft Resolution agents are immediately available to help you address credit and non-
+      credit related fraud.
+•	    ExtendCARE: You receive the same high-level of Fraud Resolution support even after your ProtectMyID
+      membership has expired.
+•	    $1 Million Identity Theft Insurance*: Provides coverage for certain costs and unauthorized electronic fund
+      transfers.
+•	    Lost Wallet Protection: Get help replacing credit, debit, and medical insurance cards.
+Integrate your ProtectMyID membership with the BillGuard app for FREE and receive:
+
+•	    Card Fraud Monitoring: Alerts you when your credit/debit cards are used.
+•	    Card Concierge: Resolve billing inquiries and disputes with merchants
+
+If you have any questions about ProtectMyID, need help understanding something on your credit report or suspect
+that an item on your credit report may be fraudulent, please contact Experian’s customer care team at 866-751-1324
+
+* Identity theft insurance is underwritten by insurance company subsidiaries or affiliates of AIG. The description herein is a
+summary and intended for informational purposes only and does not include all terms, conditions and exclusions of the policies
+described. Please refer to the actual policies for terms, conditions, and exclusions of coverage. Coverage may not be available
+in all jurisdictions.
+
+M3642 v.02 03.11.2015

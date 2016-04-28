@@ -1,0 +1,206 @@
+[Client Name]
+[Client Address]
+[Client Address]
+
+
+October 2, 2015
+
+Dear (Recipient Name):
+
+We are writing to share with you important information about a security compromise involving a
+database containing some of your personal information, as well as steps we are taking in response, and
+the resources we are making available to you.
+
+What Happened
+
+Federal law enforcement officials recently informed us that they’ve been investigating cybersecurity
+crimes involving the theft of information from Scottrade and other financial services companies. We
+immediately initiated a comprehensive response.
+
+Based upon our subsequent internal investigation coupled with information provided by the authorities,
+we believe a list of client names and street addresses was taken from our system. Importantly, we have
+no reason to believe that Scottrade’s trading platforms or any client funds were compromised. All client
+passwords remained encrypted at all times and we have not seen any indication of fraudulent activity as
+a result of this incident.
+
+Although Social Security numbers, email addresses and other sensitive data were contained in the
+system accessed, it appears that contact information was the focus of the incident.
+
+The unauthorized access appears to have occurred over a period of several months between late 2013
+and early 2014. We have secured the known intrusion point and conducted an internal data forensics
+investigation on this incident with assistance from a leading computer security firm. We have taken
+appropriate steps to further strengthen our network defenses.
+
+What Happens Now
+
+Federal authorities had requested that they be allowed to complete much of their investigation before
+we notified clients. In coordination with them, we are now able to alert you of this incident. We are fully
+cooperating with law enforcement in their investigation and prosecution of the criminals involved.
+Notices like this one are being sent to all individuals and entities whose information was contained in
+the affected database, and we have included here information about steps you can take to protect
+yourself.
+
+Information about this incident is available online at https://About.Scottrade.com/CyberSecurityUpdate,
+and we will update that web page if new data becomes available.
+
+What You Can Do
+
+As always, we encourage you to regularly review your Scottrade and other financial accounts and report
+any suspicious or unrecognized activity immediately. As recommended by federal regulatory agencies,
+you should remember to be vigilant for the next 12 to 24 months and report any suspected incidents of
+fraud to us or the relevant financial institution. Please also read the important information included on
+ways to protect yourself from identity theft.
+
+We encourage clients to be particularly vigilant against email or direct mail schemes seeking to trick you
+into revealing personal information. Never confirm or provide personal information such as passwords
+or account information to anyone contacting you. Please know that Scottrade will never send you any
+unsolicited correspondence asking you for your account number, password or other private information.
+If you receive any letter or email requesting this information, it is fraudulent and we ask that you report
+it to us at phishing@scottrade.com. Be cautious about opening attachments or links from emails,
+regardless of who appears to have sent them.
+
+Identity Theft Protection
+
+As a precaution, Scottrade has arranged with AllClear ID to help you protect your identity at no cost to
+you for a period of one year. You are pre-qualified for identity repair and protection services and have
+additional credit monitoring options available, also at no cost to you.
+
+You can call AllClear ID with any concerns about your identity at 855.229.0083. This hotline is available
+from 8:00 am to 8:00 pm (central) Monday through Saturday.
+
+We have also included additional steps you could consider at any time if you ever suspect you’ve been
+the victim of identity theft. We offer this out of an abundance of caution so that you have the
+information you need to protect yourself.
+
+We are very sorry that this happened and for any uncertainty or inconvenience this has caused you. We
+know that incidents like these are frustrating. We take the security of your information very seriously
+and are committed to continually strengthening and evolving our defenses based on new and emerging
+threats.
+
+Sincerely,
+Scottrade
+
+
+
+             Brokerage products and services offered by Scottrade, Inc. - Member FINRA and SIPC
+AllClear ID Identity Theft Protection
+
+We have arranged to have AllClear ID help you protect your identity for one year at no cost to you, effective
+Oct. 2, 2015. You are pre-qualified for AllClear SECURE identity repair and protection services and have
+additional credit monitoring options available with AllClear PRO, also at no cost to you.
+
+AllClear SECURE: The team at AllClear ID is ready and standing by if you need identity repair assistance.
+This service is automatically available to you with no enrollment required. If a problem arises, simply call
+855.229.0083 and a dedicated investigator will do the work to recover financial losses, restore your credit
+and make sure your identity is returned to its proper condition.
+
+AllClear PRO: This service offers additional layers of protection including credit monitoring and a $1 million
+identity theft insurance policy. To use the PRO service, you will need to provide your personal information
+to AllClear ID. You may sign up online at https://scottrade.allclearid.com or by phone by calling
+855.229.0083.
+
+This hotline is available from 8:00 am to 8:00 pm (central) Monday through Saturday.
+
+Please note: Additional steps may be required by you in order to activate your phone alerts and monitoring
+options.
+Important Identity Theft Information: Additional Steps You Can Take to Protect Your Identity
+The following are additional steps you may wish to take to protect your identity.
+Review Your Accounts and Credit Reports
+Regularly review statements from your accounts and periodically obtain your credit report from one or
+more of the national credit reporting companies.
+You may obtain a free copy of your credit report online at www.annualcreditreport.com by calling toll-
+free 1.877.322.8228, or by mailing an Annual Credit Report Request Form (available at
+www.annualcreditreport.com) to: Annual Credit Report Request Service. P.O. Box 105281, Atlanta, GA,
+30348-5281. You may also purchase a copy of your credit report by contacting one or more of the three
+national credit reporting agencies listed below.
+
+    •   Equifax, P.O. Box 740241, Atlanta, Georgia 30374-0241. 1.800.685.1111. www.equifax.com
+    •   Experian, P.O. Box 9532, Allen, TX 75013, 1.888.397.3742. www.experian.com
+    •   TransUnion, 2 Baldwin Place, P.O. Box 1000, Chester, PA 19016. 1.800.916.8800.
+        www.transunion.com
+Consider Placing a Fraud Alert
+You may wish to consider contacting the fraud department of the three major credit bureaus to request
+that a “fraud alert” be placed on your file. A fraud alert notifies potential lenders to verify your
+identification before extending credit in your name.
+Equifax:         Report Fraud: 1.800.525.6285
+Experian:        Report Fraud: 1.888.397.3742
+TransUnion:      Report Fraud: 1.800.680.7289
+Security Freeze for Credit Reporting Agencies
+You may wish to request a security freeze on your credit reports. A security freeze prohibits a credit
+reporting agency from releasing any information from a consumer’s credit report without written
+authorization. However, please be aware that placing a security freeze on your credit report may delay,
+interfere with, or prevent the timely approval of any requests you make for new loans, credit mortgages,
+employment, housing or other services. If you have been a victim of identity theft, and you provide the
+credit reporting agency with a valid police report, it cannot charge you to place, lift or remove a security
+freeze. In all other cases, a credit reporting agency may charge you up to $10.00 each to place,
+temporarily lift, or permanently remove a security freeze.
+To place a security freeze on your credit report, you must send a written request to each of the three
+major consumer reporting agencies by regular, certified or overnight mail at the following addresses:
+    •   Equifax Security Freeze, P.O. Box 105788, Atlanta, GA 30348
+    •   Experian Security Freeze, P.O. Box 9554, Allen, TX 75013
+    •   TransUnion Security Freeze, Fraud Victim Assistance Department, 2 Baldwin Place, P.O. Box
+        1000, Chester, PA 19016
+To request a security freeze, you will need to provide the following:
+    •   Your full name (including middle initial, Jr., Sr., Roman numerals, etc.),
+    •   Social Security number
+    •   Date of birth
+    •   Address(es) where you have lived over the prior five years
+    •   Proof of current address such as a current utility bill
+    •   A photocopy of a government-issued ID card
+    •   If you are a victim of identity theft, include a copy of either the police report, investigative
+        report, or complaint to a law enforcement agency concerning identity theft
+    •   If you are not a victim of identity theft, include payment by check, money order, or credit card
+        (Visa, MasterCard, American Express or Discover only). Don’t send cash through the mail.
+The credit reporting agencies have three business days after receiving your request to place a security
+freeze on your credit report. The credit bureaus must also send written confirmation to you within five
+business days and provide you with a unique personal identification number (PIN) or password, or both
+that can be used by you to authorize the removal or lifting of the security freeze.
+To lift the freeze to allow a specific entity or individual access to your credit report, you must call or send
+a written request to the credit reporting agencies by mail and include (1) proper identification (name,
+address, and Social Security number), (2) the PIN number or password provided to you when you placed
+the security freeze; and (3) the identities of those entities or individuals you would like to receive your
+credit report or the specific period of time you want the credit report available. The credit reporting
+agencies have three business days after receiving your request to lift the security freeze for those
+identified entities or for the specified period of time.
+To remove the security freeze all together, you must send a written request to each of the three credit
+bureaus by mail and include proper identification (name, address, and Social Security number) and the
+PIN number or password provided to you when you placed the security freeze. The credit bureaus have
+three business days after receiving your request to remove the security freeze.
+Suggestions if You Are a Victim of Identity Theft
+    •   File a police report. Get a copy of the report to submit to your creditors and others that may
+        require proof of a crime.
+
+    •   Contact the U.S. Federal Trade Commission (FTC). The FTC provides useful information to
+        identity theft victims and maintains a database of identity theft cases for use by law
+        enforcement agencies. File a report with the FTC by calling the FTC’s Identity Theft Hotline: 1-
+        877-IDTHEFT (438-4338); online at http://www.ftc.gov/ idtheft; or by mail at Identity Theft
+        Clearinghouse, Federal Trade Commission, 600 Pennsylvania Ave., N.W., Washington, D.C.
+        20580. Also request a copy of the publication, “Take Charge: Fighting Back Against Identity Theft”
+        from http://www.ftc.gov/bcp/edu/pubs/consumer/idtheft/idt04.pdf.
+
+    •   Keep a record of your contacts. Start a file with copies of your credit reports, the police reports,
+        any correspondence, and copies of disputed bills. It is also helpful to keep a log of your
+        conversations with creditors, law enforcement officials, and other relevant parties.
+Take Steps to Avoid Identity Theft
+Further information can be obtained from the FTC about steps to take to avoid identity theft through
+the following paths: http://www.ftc.gov /idtheft; calling 1-877-IDTHEFT (438-4338); or write to
+Consumer Response Center, Federal Trade Commission, 600 Pennsylvania Ave., N.W., Washington, D.C.
+20580.
+Maryland residents can learn more about preventing identity theft from the Maryland Office of the
+Attorney General, by visiting their web site at http://www.oag.state.md.us/idtheft/index.htm, calling
+the Identity Theft Unit at 410.567.6491, or requesting more information at the Identity Theft Unit, 200
+St. Paul Place, 16th Floor, Baltimore, MD 21202.
+North Carolina residents can learn more about preventing identity theft from the North Carolina Office
+of the Attorney General, by visiting their web site at http://www.ncdoj.gov/Help-for-Victims/ID-Theft-
+Victims.aspx, calling 919.716.6400 or requesting more information from the North Carolina Attorney
+General’s Office, 9001 Mail Service Center Raleigh, NC 27699-9001.
+Vermont residents may learn helpful information about fighting identity theft, placing a security freeze,
+and obtaining a free copy of your credit report on the Vermont Attorney General’s website at
+http://www.atg.state.vt.us
+Massachusetts residents are reminded that you have the right to obtain a police report and request a
+security freeze as described above. The consumer reporting agencies may charge you a fee of up to $10
+to place a security freeze on your account, and may require that you provide certain personal
+information (such as your name, Social Security Number, date of birth and address) and proper
+identification (such as a copy of a government-issued ID card and a bill or statement) prior to honoring
+your request. There is no charge, however, to place, lift or remove a security freeze if you have been a
+victim of identity theft and you provide the consumer reporting agencies with a valid police report.

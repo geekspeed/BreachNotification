@@ -1,0 +1,76 @@
+      <<Firstname>> <<Middlename>> <<Lastname>>                           <<Date>> (Format: Month Day, Year)
+      <<Address1>>
+      <<Address2>>
+      <<City>>, <<Stateprovince>> <<Postalcode>>
+      <<Intelligent Mail Barcode>>
+
+
+
+      Dear <<Firstname>> <<Middlename>> <<Lastname>>,
+      We sent an email to you on May X, 2013, to advise you of an incident that may affect the security
+      of your personal information. We are unaware of any attempted or actual misuse of your personal
+      information, but are providing you additional information relating this incident to ensure that you
+      are aware of the incident and so that you may take steps to monitor your identity, and your credit
+      accounts, should you feel it is necessary to do so.
+      On April 17, 2013, Beachbody became aware that an unknown unauthorized individual(s) hacked into the
+      Powder Blue website. Upon learning that the Powder Blue website had been compromised, Beachbody
+      immediately commenced an internal investigation. Beachbody retained privacy and data legal counsel
+      to assist in its investigations and response to this incident. Beachbody retained third-party forensic
+      experts, Kroll Advisory Solutions (“Kroll”), to identify vulnerabilities on the Powder Blue website. Kroll
+      also assisted Beachbody in identifying the specific data exposed and the individuals affected by this
+      incident. At this time, Kroll determined that your credit card number, email address, mailing address,
+      telephone number, first name, last name, and CVV number were potentially accessed. No social security
+      numbers were in this database.
+      Beachbody takes this matter, and the security of your personal information, seriously. Upon discovering
+      a potential issue with the Powder Blue website, in addition to launching its own internal investigation and
+      retaining Kroll to perform an independent forensic investigation, Beachbody retained a second computer
+      forensic company to ensure that all Powder Blue systems are in compliance with payment card industry
+      standards and to ensure all affected individuals have been identified. Beachbody is also working with the
+      United States Secret Service with its investigation into this incident. Although these investigations are
+      ongoing, at this time we have no evidence to suggest that any of our computer systems outside of the
+      Powder Blue website have been compromised. This notice was not delayed because of law enforcement.
+      We retained Kroll to provide—at no cost to you—one year of its credit monitoring and identity restoration
+      services under its ID TheftSmart program. Kroll is a global leader in risk mitigation and response, and
+                                        TM
+
+
+
+
+      has years of experience when it comes to helping people who have sustained an unintentional exposure
+      of confidential data.
+      Kroll’s ID TheftSmart program includes Continuous Credit Monitoring and Enhanced Identity Theft
+      Consultation and Restoration:
+           Continuous Credit Monitoring. Beachbody is providing you with no-cost access to Kroll’s credit
+           monitoring service for 12 months from the date of this letter. Once activated, you will receive
+           alerts whenever there are certain changes in your credit files, maintained by Experian, Equifax,
+           and TransUnion, that could indicate suspicious activity.
+           Enhanced Identity Theft Consultation and Restoration. Licensed investigators, who understand
+           the problems surrounding identity theft, are available to answer your questions, at no cost, and to
+           offer their expertise regarding any concerns you may have. Should your name and credit be
+           affected by this incident, your investigator will help restore your identity to pre-theft status.
+329-0513                                                                                                  930K50-0513
+To receive credit monitoring, you must be over the age of 18 and have established credit in the U.S.,
+have a Social Security number in your name, and have a U.S. residential address associated with
+your credit file.
+In order to receive credit services, you must follow one of two steps:
+1.	VISIT www.idintegrity.com. Provide your unique membership number: <<MembershipNumber>>,
+   last name, and zip code; for non-military U.S. citizens living abroad use zip code: 00000.
+2.	If you would prefer to receive your alerts through the mail instead of online, fill out the enclosed
+   Consumer Credit Report and Credit Monitoring Authorization Form and return it in the enclosed
+   postage-paid envelope. This option is not available to United States citizens living abroad.
+We have established a confidential assistance line for you to utilize if you have any questions or concerns
+regarding the incident or the contents of this letter, or if you believe you may be a victim of identity theft.
+This confidential assistance line is staffed with professionals trained in identity and credit safeguard and
+restoration. These professionals are also familiar with this incident, and can provide you with additional
+information concerning this incident. You may reach the confidential assistance line by dialing, toll-free,
+(855) 269-6545 Monday through Friday, 8:00 a.m. to 5:00 p.m. C.D.T., excluding major holidays. Please
+have your unique membership number (above) available when calling.
+The enclosed “U.S. State Notification Requirements” sheet provides additional information on how
+to protect against identity theft and fraud. This sheet also contains the contact information for state
+and federal agencies, as well as the three national credit reporting agencies.
+We apologize for any inconvenience or concern that this may have caused you. The safety and security of
+your personal information remains a top priority of Beachbody. Please do not hesitate to take advantage
+of Kroll’s IDTheftSmart program and to contact the privacy line should you have any questions.
+Very truly yours,
+Carl Daikeler
+Chief Executive Officer, Beachbody

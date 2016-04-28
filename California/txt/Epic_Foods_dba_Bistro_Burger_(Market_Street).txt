@@ -1,0 +1,26 @@
+Epic Foods dba Bistro Burger (Market Street)–Legal Notice of Potential Security Incident (4.16.15)
+
+We recently confirmed that unauthorized individuals or entities installed malicious software on computer
+systems used to process credit card transactions at our Market Street Bistro Burger location, located at
+865 Market Street, San Francisco, CA 94103. The incident may have compromised payment card data of
+visitors that made payment card purchases at the Market Street location between January 4, 2015 and
+March 13, 2015, including name, payment card account number, card expiration date and security code.
+While we do not know whether a particular customer’s personal information has been or will be misused,
+as a precaution we are providing this notice to tell customers about the incident and call their attention to
+some steps they may take to help protect themselves.
+
+We sincerely regret any frustration or concern this incident may cause. We have taken steps to help
+prevent this type of incident from recurring at our restaurant. We contained the incident by replacing the
+computer server that was targeted by the malicious software and replacing the firewall protection for our
+servers.
+
+We want to make customers aware of steps they can take to guard against identity theft or fraud. At this
+time, we recommend that customers review their credit and debit card account statements as soon as
+possible in order to determine if there are any discrepancies or unusual activity listed. Customers should
+continue to monitor their statements for unusual activity going forward. If they see anything they do not
+understand or that looks suspicious, or if they suspect that any fraudulent transactions have taken place,
+they should call the bank that issued their credit or debit card immediately.
+
+If you believe you may have been affected by this incident and have additional questions or concerns, you
+may call 510-306-7719 between the hours of 9:00 AM and 5:00 PM (Pacific Time), Monday through
+Friday. Again, we are sorry that this incident occurred and for any worry it may cause our customers.

@@ -1,0 +1,229 @@
+                                                                    Template No.: 2008164.3
+
+                                     [APhA Letterhead]
+
+                                            [Date]
+
+[Resident Name]
+[Address]
+[City, State, Zip Code]
+
+Dear [Resident Name]:
+
+        We are writing to notify you of recent unauthorized access to computer systems that
+contained certain of your personal information, and to inform you of actions you may take to
+protect yourself against any risks of fraud or other misuse of your personal information. We
+sincerely apologize for any inconvenience this incident may cause, and thank you for your
+understanding and cooperation as we continue our investigation.
+
+        On Monday, May 28, 2012, the APhA website was defaced by an unknown
+individual or group. Within minutes of learning of the incident, we shut down our web site
+and related computer servers. APhA then reported the incident to law enforcement, engaged
+an experienced forensic cybersecurity team to conduct an aggressive investigation, and
+implemented a plan to prevent further data access. APhA continues to work with law
+enforcement in connection with the incident.
+
+         The forensic investigation has determined that unauthorized individuals had access to
+certain of our computer servers between April 23, 2012 and May 28, 2012, and copied a file
+containing credit cards used in transactions which occurred on or before February 2008.
+Regrettably, your name and address, along with the number and expiration date of a credit
+card you provided to APhA in a pre-February 2008 transaction, was among the information
+that the unauthorized parties copied.
+
+         Although APhA does not keep records of credit card security codes, and the card in
+question had expired before the date of the incident, we are notifying you to ensure you have
+the opportunity to take appropriate steps to protect your credit card account from
+unauthorized use or other mischief involving your personal information. Attached to this
+letter is information that is intended to help you, including information about how to contact
+APhA if you have additional questions about this incident. The attachments also include
+additional information for residents of certain states. Please carefully review the attachments
+to see if additional information may apply to you.
+
+        APhA regrets that this incident occurred and is taking swift action to avoid a
+recurrence. Again, on behalf of the entire management team, I sincerely apologize for any
+inconvenience this incident may cause you.
+
+                                       Sincerely,
+
+
+
+
+                                              1
+                                   Thomas E. Menighan, BSPharm, MBA, ScD (Hon), FAPhA
+                                   Executive Vice President & CEO
+                               HOW TO REACH APHA
+                  FOR ADDITIONAL INFORMATION ABOUT THIS INCIDENT
+
+       To answer any questions or address any concerns you may have, we have set up a
+telephone number for you to call during regular business hours: 1-202-558-2714.
+
+       You may also contact us by email at: pharmacist.com@aphanet.org.
+
+
+                        CREDIT CARD NUMBER RECOMMENDATION
+
+        To protect yourself from the possibility of identity theft or misuse of the credit card
+number used in the pre-February 2008 transaction with APhA, we recommend that you
+immediately contact the bank which issued the credit card and request a new account number.
+Tell them that your account number may have been compromised and that you would like to
+prevent any possible misuse of the credit card.
+
+
+          COMPLEMENTARY IDENTITY THEFT PROTECTION ARRANGED BY APHA
+
+        To help protect your identity, we are offering you a complimentary one-year
+membership in Experian’s ProtectMyIDTM Alert service. This service helps detect possible
+misuse of your personal information and focuses on immediate identification and resolution
+of identity theft. In order to activate ProtectMyID, follow these three steps:
+
+       1. ENSURE That You Enroll By: [date]
+       2. VISIT the ProtectMyID Web Site www.protectmyid.com/redeem to enroll
+                (or enroll by phone by calling 877-371-7902)
+       3. PROVIDE Your Activation Code: [code]
+
+
+             ADDITIONAL STEPS TO HELP PROTECT AGAINST IDENTITY THEFT
+
+        We also recommend that you protect yourself from the possibility of fraud and
+identity theft and remain vigilant by monitoring your account statements and free credit
+reports for unexplained, suspicious or unauthorized activity. You may obtain a copy of your
+credit report once per year, free of charge, whether or not you suspect any unauthorized
+activity on your account, by contacting each of the nationwide consumer credit reporting
+agencies identified below, or by visiting www.annualcreditreport.com. You may obtain
+information about additional protections, such as fraud alerts and security freezes, from each
+of the three credit reporting agencies shown below. For your convenience, general
+information about requesting a security freeze is enclosed with this letter.
+
+       Equifax                         Experian                       TransUnion
+       (888) 766-0008                  (888) 397-3742                 (800) 680-7289
+       P.O. Box 740256                 P.O. Box 2104                  P.O. Box 6790
+       Atlanta, GA 30374               Allen, TX 75013                Fullerton, CA 92834
+                                              2
+       www.equifax.com                 www.experian.com               www.transunion.com
+
+        The Federal Trade Commission (FTC) recommends that you check your credit
+reports periodically to help you spot problems and address them quickly. If a report shows
+accounts you did not open, inquiries from creditors that you did not initiate, personal
+information, such as a home address, that is inaccurate, or other information you do not
+understand, contact one of the credit reporting agencies immediately. In addition, if you find
+suspicious activity on your credit reports or have reason to believe your personal information
+is being misused, authorities generally recommend that you take two additional steps: First,
+call your local law enforcement agency and file a police report. Get a copy of the report as
+many creditors want the information it contains to absolve you of any fraudulent charges.
+Second, file a complaint with the FTC, which will be added to the FTC’s Identity Theft Data
+Clearinghouse, where it will be accessible to law enforcement agencies for their
+investigations.
+
+         You can file a complaint or obtain additional information about preventing identity
+theft from the Federal Trade Commission:
+
+               Federal Trade Commission
+               600 Pennsylvania Avenue, NW
+               Washington, DC 20580
+               www.ftc.gov/idtheft
+               (877) 438-4338
+
+
+                       SPECIAL NOTICE FOR MARYLAND RESIDENTS:
+
+The Maryland Office of the Attorney General and the Federal Trade Commission (FTC) can
+provide you with additional information about steps you can take to avoid identity theft and
+may be contacted at:
+
+Maryland Office of the Attorney General               Federal Trade Commission
+Consumer Protection Division                          Consumer Response Center
+200 Saint Paul Place                                  600 Pennsylvania Avenue, NW
+Baltimore, Maryland 21202                             Washington, DC 20580
+Toll free: (888) 743-0023                             Toll free: (877) 438-4338
+www.oag.state.md.us/idtheft/                          www.ftc.gov/idtheft
+
+
+
+                   SPECIAL NOTICE FOR NORTH CAROLINA RESIDENTS:
+
+The North Carolina Attorney General’s Office and the Federal Trade Commission (FTC) can
+provide you with additional information about steps you can take to avoid identity theft and
+may be contacted at:
+
+North Carolina Attorney General Roy Cooper            Federal Trade Commission
+9001 Mail Service Center                              600 Pennsylvania Avenue, NW
+Raleigh, NC 27699-9001                                Washington, DC 20580
+                                              3
+(919) 716-6400                                    Toll free: (877) 438-4338
+www.ncdoj.com                                     www.ftc.gov/idtheft
+                            HOW TO REQUEST A SECURITY FREEZE
+
+Following is general information about how to request a security freeze from the three credit
+reporting agencies. While we believe this information is accurate, you should contact each
+agency for the most accurate and up-to-date information.
+
+A security freeze prohibits a credit reporting agency from releasing any information from a
+consumer’s credit report without written authorization. However, please be aware that
+placing a security freeze on your credit report may delay, interfere with, or prevent the timely
+approval of any requests you make for new loans, credit mortgages, employment, housing or
+other services. In some states, if you have been a victim of identity theft, and you provide the
+credit reporting agency with a valid police report, the agency cannot charge you to place, lift
+or remove a security freeze. In all other cases, a credit reporting agency may charge you up
+to $5.00 each to place, temporarily lift, or permanently remove a security freeze.
+
+To place a security freeze on your credit report, you must send a written request to each of
+the three major consumer reporting agencies: Equifax (www.equifax.com); Experian
+(www.experian.com); and TransUnion (www.transunion.com) by regular, certified or
+overnight mail at the addresses below:
+
+ Equifax Security Freeze                        Trans Union
+ P.O. Box 105788                                Security Freeze
+ Atlanta, GA 30348                              Fraud Victim Assistance Department
+ https://www.freeze.equifax.com                 P.O. Box 6790
+                                                Fullerton, CA 92834
+ Experian Security Freeze                       https://freeze.transunion.com
+                                                888-909-8872
+ P.O. Box 9554
+ Allen, TX 75013
+ www.experian.com/freeze
+
+In order to request a security freeze, you will need to provide the following information:
+
+    1. Your full name (including middle initial as well as Jr., Sr., II, III, etc.);
+    2. Social Security Number;
+    3. Date of birth;
+    4. If you have moved in the past five (5) years, provide the addresses where you have
+       lived over the prior five years;
+    5. Proof of current address such as a current utility bill or telephone bill;
+    6. A legible photocopy of a government issued identification card (state driver’s license
+       or ID card, military identification, etc.);
+    7. If you are a victim of identity theft, include a copy of either the police report,
+       investigative report, or complaint to a law enforcement agency concerning identity
+       theft;
+
+
+                                                 4
+    8. If you are not a victim of identity theft, include payment by check, money order, or
+       credit card (Visa, MasterCard, American Express or Discover only). Do not send cash
+       through the mail.
+
+The credit reporting agencies have three (3) business days after receiving your request to
+place a security freeze on your credit report. The credit agencies must also send written
+confirmation to you within five (5) business days and provide you with a unique personal
+identification number (PIN) or password, or both, that can be used by you to authorize the
+removal or lifting of the security freeze.
+
+To lift the security freeze in order to allow a specific entity or individual access to your credit
+report, you must call or send a written request to the credit reporting agencies by mail and
+include proper identification (name, address, and social security number) and the PIN
+number or password provided to you when you placed the security freeze as well as the
+identities of those entities or individuals you would like to receive your credit report or the
+specific period of time you want the credit report available. The credit reporting agencies
+have three (3) business days after receiving your request to lift the security freeze for those
+identified entities or for the specified period of time.
+
+To remove the security freeze, you must send a written request to each of the three credit
+bureaus by mail and include proper identification (name, address, and social security
+number) and the PIN number or password provided to you when you placed the security
+freeze. The credit bureaus have three (3) business days after receiving your request to
+remove the security freeze.
+
+
+
+
+                                                5

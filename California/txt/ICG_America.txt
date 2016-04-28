@@ -1,0 +1,70 @@
+ICG America, Inc.
+2219 Westlake Dr.
+Austin, TX 78746
+
+
+<date of mailing>
+
+<name>
+<street address>
+<city>, <state> <zip code>
+Dear <salutation><name>,
+
+ICG America, which operates a family of companies that includes Amazing Clubs, Flying
+Noodle, MonsterBrew, and California Reds, is committed to protecting your personal
+information. Regrettably, we are writing to inform you of an incident involving some of that
+information.
+
+ICG America was advised by a credit card company on August 5, 2013 that we may have been
+the target of a cyber-attack against our payment processing system. We immediately engaged a
+leading computer security firm to investigate. The security firm found signs of an attack that
+began on January 2, 2013 and continued until August 2, 2013. The attacker installed a program
+on our network that created the ability to decrypt and capture payment card information from our
+system.
+
+Because of the nature of the program used by the attacker, the investigation could not determine
+whether the attacker actually viewed or removed any information from any system.
+Accordingly, we wanted to notify everyone whose information could have been accessed. This
+information may include your name, address, e-mail address, credit or debit card account
+number, expiration date, and card verification value. If you see a fraudulent charge on your card,
+you should immediately contact the bank that issued your card. Major credit card companies
+typically guarantee cardholders will not be responsible for fraudulent charges.
+
+We recommend that you remain vigilant by reviewing your account statements and credit reports
+for any unauthorized activity. You may obtain a copy of your credit report, free of charge, once
+every 12 months from each of the three nationwide credit reporting companies. To order your
+annual free credit report please visit www.annualcreditreport.com or call toll free at 1-877-322-
+8228. Contact information for the three nationwide credit reporting companies is as follows:
+
+   Equifax, PO Box 740256, Atlanta, GA 30374, www.equifax.com, 1-800-525-6285
+   Experian, PO Box 9554, Allen, TX 75013, www.experian.com, 1-888-397-3742
+   TransUnion, PO Box 6790, Fullerton, CA 92834, www.transunion.com, 1-800-680-7289
+
+If you believe you are the victim of identity theft or have reason to believe your personal
+information has been misused, you should immediately contact the Federal Trade Commission
+and/or the attorney general’s office in your home state. Contact information for the Federal
+Trade Commission is as follows:
+  Federal Trade Commission
+  600 Pennsylvania Avenue, NW
+  Washington, DC 20580
+  www.ftc.gov
+  1-877-438-4338
+
+You can obtain information from these sources about steps an individual can take to avoid
+identity theft as well as information about fraud alerts and security freezes. You should also
+contact your local law enforcement authorities and file a police report. Obtain a copy of the
+police report in case you are asked to provide copies to creditors to correct your records.
+
+We want to assure you that we are committed to the security of your personal information and
+are taking this matter seriously. We have conducted an internal review of our practices and
+procedures and are updating our system protections. If you have any questions, or you need
+further assistance, you may contact us at 866-264-1050, Monday through Friday, 9:00 AM until
+7:00 PM, Eastern Time.
+
+Regards,
+
+
+
+Elena Loyola
+Vice President, Operations
+ICG America, Inc.

@@ -1,0 +1,1014 @@
+Return Mail Processing Center
+PO Box 6336
+Portland, OR 97228-6336
+
+<<mail id>>
+<<Name1>>
+<<Name2>>
+<<Address1>>
+<<Address2>>
+<<City>><<State>><<Zip>>
+<<Foreign Country>>	                                                                                         <<Date>>
+
+
+
+
+            RE: NOTICE OF DATA BREACH
+Dear <Name>:
+George Hills Company, Inc., (GHC) is a third party administrator that provides claims administration and litigation
+management services for California’s public sector and private insurance carriers for general liability and property
+claims. Because of the importance of protecting information provided by individuals, GHC is writing to inform you
+of an incident involving information associated with a claim you have with <name of public entity>.
+WHAT HAPPENED?
+Systema Software is a third party service provider to GHC that provides and hosts a website application for claims
+management. Systema Software notified GHC on September 9, 2015, that a security researcher contacted Systema
+Software because he had identified a configuration in the website application that allowed him to gain access to a
+temporary data backup of claims databases. Systema Software was able to immediately correct the permissions for
+the application and eliminate the issue.
+WHAT ARE WE DOING?
+GHC conducted an investigation of the incident and learned that Systema Software had corrected the access issue
+and Systema Software also hired a computer security firm to ensure that the configuration issue was corrected and
+to determine the extent of the access. GHC also learned that the security researcher was the only unauthorized user
+to access the databases. The security researcher, who lives in Texas, also contacted the Texas Attorney General and
+self-reported the issue. The Texas Attorney General investigated the report and obtained an affidavit from the security
+researcher who stated under oath that: (1) he downloaded information from Systema Software’s website application
+to an external hard drive; (2) he delivered the external hard drive to the Texas Attorney General; (3) the hard drive he
+turned over contains the only copy of the information he downloaded; and (4) he has not and will not engage in any
+unauthorized use of the information.
+WHAT INFORMATION WAS INVOLVED?
+The information regarding your claim that was in the database includes your name, driver’s license number, and
+medical information related to your claim.
+WHAT YOU CAN DO.
+Based on the investigation and the researcher’s sworn statement, we do not believe that any information from the
+databases was used for any unauthorized purpose. However, we wanted to let you know about our investigation of
+this incident and included information on what you can do to protect yourself.
+FOR MORE INFORMATION.
+We regret any inconvenience this may cause you. For more information, please contact us at 877-841-8161, Monday
+through Friday, 6:00 am – 6:00 pm PST.
+
+Sincerely,
+
+
+
+John E. Chaquica, CEO
+O3801 v.01 12.03.2015
+                        MORE INFORMATION ON WAYS TO PROTECT YOURSELF
+We recommend that you remain vigilant for incidents of fraud or identity theft by reviewing your account statements
+and free credit reports for any unauthorized activity. You may obtain a copy of your credit report, free of charge,
+once every 12 months from each of the three nationwide credit reporting companies. To order your annual free credit
+report please visit www.annualcreditreport.com or call toll free at 1-877-322-8228. Contact information for the three
+nationwide credit reporting companies is as follows:
+            Equifax, PO Box 740256, Atlanta, GA 30374, www.equifax.com, 1-800-525-6285
+            Experian, PO Box 9554, Allen, TX 75013, www.experian.com,1-888-397-3742
+            TransUnion, PO Box 2000, Chester, PA 19022-2000, www.transunion.com, 1-800-916-8800
+If you believe you are the victim of identity theft or have reason to believe your personal information has been
+misused, you should immediately contact the Federal Trade Commission and/or the state Attorney General’s office.
+Contact information for the Federal Trade Commission is as follows:
+            Federal Trade Commission, Consumer Response Center,
+            600 Pennsylvania Avenue, NW, Washington, DC 20580,
+            1-877-IDTHEFT (438-4338), www.ftc.gov/idtheft
+You can obtain information from these sources about steps an individual can take to avoid identity theft as well as
+information about fraud alerts and security freezes. You should also contact your local law enforcement authorities
+and file a police report. Obtain a copy of the police report in case you are asked to provide copies to creditors to
+correct your records.
+
+
+
+
+O3802 v.01 12.03.2015
+Return Mail Processing Center
+PO Box 6336
+Portland, OR 97228-6336
+
+<<mail id>>
+To the Parent or Guardian of <<Name1>>
+<<Name2>>
+<<Address1>>
+<<Address2>>
+<<City>><<State>><<Zip>>
+<<Foreign Country>>	                                                                                         <<Date>>
+
+
+
+
+            RE: NOTICE OF DATA BREACH
+Dear Parent or Guardian of <Name>:
+George Hills Company, Inc., (GHC) is a third party administrator that provides claims administration and litigation
+management services for California’s public sector and private insurance carriers for general liability and property
+claims. Because of the importance of protecting information provided by individuals, GHC is writing to inform you
+of an incident involving information associated with a claim you have with <name of public entity>.
+WHAT HAPPENED?
+Systema Software is a third party service provider to GHC that provides and hosts a website application for claims
+management. Systema Software notified GHC on September 9, 2015, that a security researcher contacted Systema
+Software because he had identified a configuration in the website application that allowed him to gain access to a
+temporary data backup of claims databases. Systema Software was able to immediately correct the permissions for
+the application and eliminate the issue.
+WHAT ARE WE DOING?
+GHC conducted an investigation of the incident and learned that Systema Software had corrected the access issue
+and Systema Software also hired a computer security firm to ensure that the configuration issue was corrected and
+to determine the extent of the access. GHC also learned that the security researcher was the only unauthorized user to
+access the databases. The security researcher, who lives in Texas, also contacted the Texas Attorney General and self-
+reported the issue. The Texas Attorney General investigated the report and obtained an affidavit from the security
+researcher who stated under oath that: (1) he downloaded information from Systema Software’s website application
+to an external hard drive; (2) he delivered the external hard drive to the Texas Attorney General; (3) the hard drive he
+turned over contains the only copy of the information he downloaded; and (4) he has not and will not engage in any
+unauthorized use of the information.
+WHAT INFORMATION WAS INVOLVED?
+The information regarding your claim that was in the database includes your child’s name and medical information
+related to your claim.
+WHAT YOU CAN DO.
+Based on the investigation and the researcher’s sworn statement, we do not believe that any information from the
+databases was used for any unauthorized purpose. However, we wanted to let you know about our investigation of
+this incident and included information on what you can do to protect yourself.
+FOR MORE INFORMATION.
+We regret any inconvenience this may cause you. For more information, please contact us at 877-841-8161, Monday
+through Friday, 6:00 am – 6:00 pm PST.
+
+Sincerely,
+
+
+
+John E. Chaquica, CEO
+O3791 v.01 12.03.2015
+                        MORE INFORMATION ON WAYS TO PROTECT YOURSELF
+We recommend that you remain vigilant for incidents of fraud or identity theft by reviewing your account statements
+and free credit reports for any unauthorized activity. You may obtain a copy of your credit report, free of charge,
+once every 12 months from each of the three nationwide credit reporting companies. To order your annual free credit
+report please visit www.annualcreditreport.com or call toll free at 1-877-322-8228. Contact information for the three
+nationwide credit reporting companies is as follows:
+            Equifax, PO Box 740256, Atlanta, GA 30374, www.equifax.com, 1-800-525-6285
+            Experian, PO Box 9554, Allen, TX 75013, www.experian.com,1-888-397-3742
+            TransUnion, PO Box 2000, Chester, PA 19022-2000, www.transunion.com, 1-800-916-8800
+If you believe you are the victim of identity theft or have reason to believe your personal information has been
+misused, you should immediately contact the Federal Trade Commission and/or the state Attorney General’s office.
+Contact information for the Federal Trade Commission is as follows:
+            Federal Trade Commission, Consumer Response Center,
+            600 Pennsylvania Avenue, NW, Washington, DC 20580,
+            1-877-IDTHEFT (438-4338), www.ftc.gov/idtheft
+You can obtain information from these sources about steps an individual can take to avoid identity theft as well as
+information about fraud alerts and security freezes. You should also contact your local law enforcement authorities
+and file a police report. Obtain a copy of the police report in case you are asked to provide copies to creditors to
+correct your records.
+
+
+
+
+O3792 v.01 12.03.2015
+Return Mail Processing Center
+PO Box 6336
+Portland, OR 97228-6336
+
+<<mail id>>
+<<Name1>>
+<<Name2>>
+<<Address1>>
+<<Address2>>
+<<City>><<State>><<Zip>>
+<<Foreign Country>>	                                                                                         <<Date>>
+
+
+
+
+            RE: NOTICE OF DATA BREACH
+Dear <Name>:
+George Hills Company, Inc., (GHC) is a third party administrator that provides claims administration and litigation
+management services for California’s public sector and private insurance carriers for general liability and property
+claims. Because of the importance of protecting information provided by individuals, GHC is writing to inform you
+of an incident involving information associated with a claim you have with <name of public entity>.
+WHAT HAPPENED?
+Systema Software is a third party service provider to GHC that provides and hosts a website application for claims
+management. Systema Software notified GHC on September 9, 2015, that a security researcher contacted Systema
+Software because he had identified a configuration in the website application that allowed him to gain access to a
+temporary data backup of claims databases. Systema Software was able to immediately correct the permissions for
+the application and eliminate the issue.
+WHAT ARE WE DOING?
+GHC conducted an investigation of the incident and learned that Systema Software had corrected the access issue
+and Systema Software also hired a computer security firm to ensure that the configuration issue was corrected and
+to determine the extent of the access. GHC also learned that the security researcher was the only unauthorized user
+to access the databases. The security researcher, who lives in Texas, also contacted the Texas Attorney General and
+self-reported the issue. The Texas Attorney General investigated the report and obtained an affidavit from the security
+researcher who stated under oath that: (1) he downloaded information from Systema Software’s website application
+to an external hard drive; (2) he delivered the external hard drive to the Texas Attorney General; (3) the hard drive he
+turned over contains the only copy of the information he downloaded; and (4) he has not and will not engage in any
+unauthorized use of the information.
+WHAT INFORMATION WAS INVOLVED?
+The information regarding your claim that was in the database includes your name and medical information related
+to your claim.
+WHAT YOU CAN DO.
+Based on the investigation and the researcher’s sworn statement, we do not believe that any information from the
+databases was used for any unauthorized purpose. However, we wanted to let you know about our investigation of
+this incident and included information on what you can do to protect yourself
+FOR MORE INFORMATION.
+We regret any inconvenience this may cause you. For more information, please contact us at 877-841-8161, Monday
+through Friday, 6:00 am – 6:00 pm PST.
+
+Sincerely,
+
+
+
+John E. Chaquica, CEO
+O3781 v.01 12.03.2015
+                        MORE INFORMATION ON WAYS TO PROTECT YOURSELF
+We recommend that you remain vigilant for incidents of fraud or identity theft by reviewing your account statements
+and free credit reports for any unauthorized activity. You may obtain a copy of your credit report, free of charge,
+once every 12 months from each of the three nationwide credit reporting companies. To order your annual free credit
+report please visit www.annualcreditreport.com or call toll free at 1-877-322-8228. Contact information for the three
+nationwide credit reporting companies is as follows:
+            Equifax, PO Box 740256, Atlanta, GA 30374, www.equifax.com, 1-800-525-6285
+            Experian, PO Box 9554, Allen, TX 75013, www.experian.com,1-888-397-3742
+            TransUnion, PO Box 2000, Chester, PA 19022-2000, www.transunion.com, 1-800-916-8800
+If you believe you are the victim of identity theft or have reason to believe your personal information has been
+misused, you should immediately contact the Federal Trade Commission and/or the state Attorney General’s office.
+Contact information for the Federal Trade Commission is as follows:
+            Federal Trade Commission, Consumer Response Center,
+            600 Pennsylvania Avenue, NW, Washington, DC 20580,
+            1-877-IDTHEFT (438-4338), www.ftc.gov/idtheft
+You can obtain information from these sources about steps an individual can take to avoid identity theft as well as
+information about fraud alerts and security freezes. You should also contact your local law enforcement authorities
+and file a police report. Obtain a copy of the police report in case you are asked to provide copies to creditors to
+correct your records.
+
+
+
+
+O3782 v.01 12.03.2015
+Return Mail Processing Center
+PO Box 6336
+Portland, OR 97228-6336
+
+<<mail id>>
+The Estate of <<Name1>>
+<<Name2>>
+<<Address1>>
+<<Address2>>
+<<City>><<State>><<Zip>>
+<<Foreign Country>>	                                                                                         <<Date>>
+
+
+
+
+            RE: NOTICE OF DATA BREACH
+Dear The Estate of <Name>:
+George Hills Company, Inc., (GHC) is a third party administrator that provides claims administration and litigation
+management services for California’s public sector and private insurance carriers for general liability and property
+claims. Because of the importance of protecting information provided by individuals, GHC is writing to inform you
+of an incident involving information associated with a claim the deceased had with <name of public entity>.
+WHAT HAPPENED?
+Systema Software is a third party service provider to GHC that provides and hosts a website application for claims
+management. Systema Software notified GHC on September 9, 2015, that a security researcher contacted Systema
+Software because he had identified a configuration in the website application that allowed him to gain access to a
+temporary data backup of claims databases. Systema Software was able to immediately correct the permissions for
+the application and eliminate the issue.
+WHAT ARE WE DOING?
+GHC conducted an investigation of the incident and learned that Systema Software had corrected the access issue
+and Systema Software also hired a computer security firm to ensure that the configuration issue was corrected and
+to determine the extent of the access. GHC also learned that the security researcher was the only unauthorized user
+to access the databases. The security researcher, who lives in Texas, also contacted the Texas Attorney General and
+self-reported the issue. The Texas Attorney General investigated the report and obtained an affidavit from the security
+researcher who stated under oath that: (1) he downloaded information from Systema Software’s website application
+to an external hard drive; (2) he delivered the external hard drive to the Texas Attorney General; (3) the hard drive he
+turned over contains the only copy of the information he downloaded; and (4) he has not and will not engage in any
+unauthorized use of the information.
+WHAT INFORMATION WAS INVOLVED?
+The information regarding the deceased’s claim that was in the database includes the deceased’s name and driver’s
+license number.
+WHAT YOU CAN DO.
+Based on the investigation and the researcher’s sworn statement, we do not believe that any information from the
+databases was used for any unauthorized purpose. However, we wanted to let you know about our investigation of
+this incident and included information on what you can do to protect yourself.
+FOR MORE INFORMATION.
+We regret any inconvenience this may cause you. For more information, please contact us at 877-841-8161, Monday
+through Friday, 6:00 am – 6:00 pm PST.
+
+Sincerely,
+
+
+
+John E. Chaquica, CEO
+O3771 v.01 12.03.2015
+                        MORE INFORMATION ON WAYS TO PROTECT YOURSELF
+We recommend that you remain vigilant for incidents of fraud or identity theft by reviewing your account statements
+and free credit reports for any unauthorized activity. You may obtain a copy of your credit report, free of charge,
+once every 12 months from each of the three nationwide credit reporting companies. To order your annual free credit
+report please visit www.annualcreditreport.com or call toll free at 1-877-322-8228. Contact information for the three
+nationwide credit reporting companies is as follows:
+            Equifax, PO Box 740256, Atlanta, GA 30374, www.equifax.com, 1-800-525-6285
+            Experian, PO Box 9554, Allen, TX 75013, www.experian.com,1-888-397-3742
+            TransUnion, PO Box 2000, Chester, PA 19022-2000, www.transunion.com, 1-800-916-8800
+If you believe you are the victim of identity theft or have reason to believe your personal information has been
+misused, you should immediately contact the Federal Trade Commission and/or the state Attorney General’s office.
+Contact information for the Federal Trade Commission is as follows:
+            Federal Trade Commission, Consumer Response Center,
+            600 Pennsylvania Avenue, NW, Washington, DC 20580,
+            1-877-IDTHEFT (438-4338), www.ftc.gov/idtheft
+You can obtain information from these sources about steps an individual can take to avoid identity theft as well as
+information about fraud alerts and security freezes. You should also contact your local law enforcement authorities
+and file a police report. Obtain a copy of the police report in case you are asked to provide copies to creditors to
+correct your records.
+
+
+
+
+O3772 v.01 12.03.2015
+Return Mail Processing Center
+PO Box 6336
+Portland, OR 97228-6336
+
+<<mail id>>
+<<Name1>>
+<<Name2>>
+<<Address1>>
+<<Address2>>
+<<City>><<State>><<Zip>>
+<<Foreign Country>>	                                                                                         <<Date>>
+
+
+
+
+            RE: NOTICE OF DATA BREACH
+Dear <Name>:
+George Hills Company, Inc., (GHC) is a third party administrator that provides claims administration and litigation
+management services for California’s public sector and private insurance carriers for general liability and property
+claims. Because of the importance of protecting information provided by individuals, GHC is writing to inform you
+of an incident involving information associated with a claim you have with <name of public entity>.
+WHAT HAPPENED?
+Systema Software is a third party service provider to GHC that provides and hosts a website application for claims
+management. Systema Software notified GHC on September 9, 2015, that a security researcher contacted Systema
+Software because he had identified a configuration in the website application that allowed him to gain access to a
+temporary data backup of claims databases. Systema Software was able to immediately correct the permissions for
+the application and eliminate the issue.
+WHAT ARE WE DOING?
+GHC conducted an investigation of the incident and learned that Systema Software had corrected the access issue
+and Systema Software also hired a computer security firm to ensure that the configuration issue was corrected and
+to determine the extent of the access. GHC also learned that the security researcher was the only unauthorized user
+to access the databases. The security researcher, who lives in Texas, also contacted the Texas Attorney General and
+self-reported the issue. The Texas Attorney General investigated the report and obtained an affidavit from the security
+researcher who stated under oath that: (1) he downloaded information from Systema Software’s website application
+to an external hard drive; (2) he delivered the external hard drive to the Texas Attorney General; (3) the hard drive he
+turned over contains the only copy of the information he downloaded; and (4) he has not and will not engage in any
+unauthorized use of the information.
+WHAT INFORMATION WAS INVOLVED?
+The information regarding your claim that was in the database includes your name and driver’s license number.
+WHAT YOU CAN DO.
+Based on the investigation and the researcher’s sworn statement, we do not believe that any information from the
+databases was used for any unauthorized purpose. However, we wanted to let you know about our investigation of
+this incident and included information on what you can do to protect yourself.
+FOR MORE INFORMATION.
+We regret any inconvenience this may cause you. For more information, please contact us at 877-841-8161, Monday
+through Friday, 6:00 am – 6:00 pm PST.
+
+Sincerely,
+
+
+
+John E. Chaquica, CEO
+
+O3761 v.01 12.03.2015
+                        MORE INFORMATION ON WAYS TO PROTECT YOURSELF
+We recommend that you remain vigilant for incidents of fraud or identity theft by reviewing your account statements
+and free credit reports for any unauthorized activity. You may obtain a copy of your credit report, free of charge,
+once every 12 months from each of the three nationwide credit reporting companies. To order your annual free credit
+report please visit www.annualcreditreport.com or call toll free at 1-877-322-8228. Contact information for the three
+nationwide credit reporting companies is as follows:
+            Equifax, PO Box 740256, Atlanta, GA 30374, www.equifax.com, 1-800-525-6285
+            Experian, PO Box 9554, Allen, TX 75013, www.experian.com,1-888-397-3742
+            TransUnion, PO Box 2000, Chester, PA 19022-2000, www.transunion.com, 1-800-916-8800
+If you believe you are the victim of identity theft or have reason to believe your personal information has been
+misused, you should immediately contact the Federal Trade Commission and/or the state Attorney General’s office.
+Contact information for the Federal Trade Commission is as follows:
+            Federal Trade Commission, Consumer Response Center,
+            600 Pennsylvania Avenue, NW, Washington, DC 20580,
+            1-877-IDTHEFT (438-4338), www.ftc.gov/idtheft
+You can obtain information from these sources about steps an individual can take to avoid identity theft as well as
+information about fraud alerts and security freezes. You should also contact your local law enforcement authorities
+and file a police report. Obtain a copy of the police report in case you are asked to provide copies to creditors to
+correct your records.
+
+
+
+
+O3762 v.01 12.03.2015
+Return Mail Processing Center
+PO Box 6336
+Portland, OR 97228-6336
+
+<<mail id>>
+<<Name1>>
+<<Name2>>
+<<Address1>>
+<<Address2>>
+<<City>><<State>><<Zip>>
+<<Foreign Country>>	                                                                                         <<Date>>
+
+
+
+
+            RE: NOTICE OF DATA BREACH
+Dear <Name>:
+George Hills Company, Inc., (GHC) is a third party administrator that provides claims administration and litigation
+management services for California’s public sector and private insurance carriers for general liability and property
+claims. Because of the importance of protecting information provided by individuals, GHC is writing to inform you
+of an incident involving information associated with a claim you have with <name of public entity>.
+WHAT HAPPENED?
+Systema Software is a third party service provider to GHC that provides and hosts a website application for claims
+management. Systema Software notified GHC on September 9, 2015, that a security researcher contacted Systema
+Software because he had identified a configuration in the website application that allowed him to gain access to a
+temporary data backup of claims databases. Systema Software was able to immediately correct the permissions for
+the application and eliminate the issue.
+WHAT ARE WE DOING?
+GHC conducted an investigation of the incident and learned that Systema Software had corrected the access issue
+and Systema Software also hired a computer security firm to ensure that the configuration issue was corrected and
+to determine the extent of the access. GHC also learned that the security researcher was the only unauthorized user
+to access the databases. The security researcher, who lives in Texas, also contacted the Texas Attorney General and
+self-reported the issue. The Texas Attorney General investigated the report and obtained an affidavit from the security
+researcher who stated under oath that: (1) he downloaded information from Systema Software’s website application
+to an external hard drive; (2) he delivered the external hard drive to the Texas Attorney General; (3) the hard drive he
+turned over contains the only copy of the information he downloaded; and (4) he has not and will not engage in any
+unauthorized use of the information.
+WHAT INFORMATION WAS INVOLVED?
+The information regarding your claim that was in the database includes your name, social security number, driver’s
+license number, and medical information related to your claim.
+WHAT YOU CAN DO.
+Based on the investigation and the researcher’s sworn statement, we do not believe that any information from the
+databases was used for any unauthorized purpose. However, we wanted to let you know about our investigation of
+this incident and included information on what you can do to protect yourself.
+FOR MORE INFORMATION.
+We regret any inconvenience this may cause you. For more information, please contact us at 877-841-8161, Monday
+through Friday, 6:00 am – 6:00 pm PST.
+
+Sincerely,
+
+
+
+John E. Chaquica, CEO
+O3751 v.01 12.03.2015
+                        MORE INFORMATION ON WAYS TO PROTECT YOURSELF
+We recommend that you remain vigilant for incidents of fraud or identity theft by reviewing your account statements
+and free credit reports for any unauthorized activity. You may obtain a copy of your credit report, free of charge,
+once every 12 months from each of the three nationwide credit reporting companies. To order your annual free credit
+report please visit www.annualcreditreport.com or call toll free at 1-877-322-8228. Contact information for the three
+nationwide credit reporting companies is as follows:
+            Equifax, PO Box 740256, Atlanta, GA 30374, www.equifax.com, 1-800-525-6285
+            Experian, PO Box 9554, Allen, TX 75013, www.experian.com,1-888-397-3742
+            TransUnion, PO Box 2000, Chester, PA 19022-2000, www.transunion.com, 1-800-916-8800
+If you believe you are the victim of identity theft or have reason to believe your personal information has been
+misused, you should immediately contact the Federal Trade Commission and/or the state Attorney General’s office.
+Contact information for the Federal Trade Commission is as follows:
+            Federal Trade Commission, Consumer Response Center,
+            600 Pennsylvania Avenue, NW, Washington, DC 20580,
+            1-877-IDTHEFT (438-4338), www.ftc.gov/idtheft
+You can obtain information from these sources about steps an individual can take to avoid identity theft as well as
+information about fraud alerts and security freezes. You should also contact your local law enforcement authorities
+and file a police report. Obtain a copy of the police report in case you are asked to provide copies to creditors to
+correct your records.
+
+
+
+
+O3752 v.01 12.03.2015
+Return Mail Processing Center
+PO Box 6336
+Portland, OR 97228-6336
+
+<<mail id>>
+To the Parent or Guardian of <<Name1>>
+<<Name2>>
+<<Address1>>
+<<Address2>>
+<<City>><<State>><<Zip>>
+<<Foreign Country>>	                                                                                         <<Date>>
+
+
+
+
+            RE: NOTICE OF DATA BREACH
+Dear Parent or Guardian of <Name>:
+George Hills Company, Inc., (GHC) is a third party administrator that provides claims administration and litigation
+management services for California’s public sector and private insurance carriers for general liability and property
+claims. Because of the importance of protecting information provided by individuals, GHC is writing to inform you
+of an incident involving information associated with a claim you have with <name of public entity>.
+WHAT HAPPENED?
+Systema Software is a third party service provider to GHC that provides and hosts a website application for claims
+management. Systema Software notified GHC on September 9, 2015, that a security researcher contacted Systema
+Software because he had identified a configuration in the website application that allowed him to gain access to a
+temporary data backup of claims databases. Systema Software was able to immediately correct the permissions for
+the application and eliminate the issue.
+WHAT ARE WE DOING?
+GHC conducted an investigation of the incident and learned that Systema Software had corrected the access issue
+and Systema Software also hired a computer security firm to ensure that the configuration issue was corrected and
+to determine the extent of the access. GHC also learned that the security researcher was the only unauthorized user
+to access the databases. The security researcher, who lives in Texas, also contacted the Texas Attorney General and
+self-reported the issue. The Texas Attorney General investigated the report and obtained an affidavit from the security
+researcher who stated under oath that: (1) he downloaded information from Systema Software’s website application
+to an external hard drive; (2) he delivered the external hard drive to the Texas Attorney General; (3) the hard drive he
+turned over contains the only copy of the information he downloaded; and (4) he has not and will not engage in any
+unauthorized use of the information.
+WHAT INFORMATION WAS INVOLVED?
+The information regarding your claim that was in the database includes your child’s name, social security number,
+and medical information related to your claim.
+WHAT YOU CAN DO.
+Based on the investigation and the researcher’s sworn statement, we do not believe that any information from the
+databases was used for any unauthorized purpose. However, we wanted to let you know about our investigation of
+this incident and included information on what you can do to protect yourself.
+FOR MORE INFORMATION.
+We regret any inconvenience this may cause you. For more information, please contact us at 877-841-8161, Monday
+through Friday, 6:00 am – 6:00 pm PST.
+
+Sincerely,
+
+
+
+John E. Chaquica, CEO
+O3741 v.01 12.03.2015
+                        MORE INFORMATION ON WAYS TO PROTECT YOURSELF
+We recommend that you remain vigilant for incidents of fraud or identity theft by reviewing your account statements
+and free credit reports for any unauthorized activity. You may obtain a copy of your credit report, free of charge,
+once every 12 months from each of the three nationwide credit reporting companies. To order your annual free credit
+report please visit www.annualcreditreport.com or call toll free at 1-877-322-8228. Contact information for the three
+nationwide credit reporting companies is as follows:
+            Equifax, PO Box 740256, Atlanta, GA 30374, www.equifax.com, 1-800-525-6285
+            Experian, PO Box 9554, Allen, TX 75013, www.experian.com,1-888-397-3742
+            TransUnion, PO Box 2000, Chester, PA 19022-2000, www.transunion.com, 1-800-916-8800
+If you believe you are the victim of identity theft or have reason to believe your personal information has been
+misused, you should immediately contact the Federal Trade Commission and/or the state Attorney General’s office.
+Contact information for the Federal Trade Commission is as follows:
+            Federal Trade Commission, Consumer Response Center,
+            600 Pennsylvania Avenue, NW, Washington, DC 20580,
+            1-877-IDTHEFT (438-4338), www.ftc.gov/idtheft
+You can obtain information from these sources about steps an individual can take to avoid identity theft as well as
+information about fraud alerts and security freezes. You should also contact your local law enforcement authorities
+and file a police report. Obtain a copy of the police report in case you are asked to provide copies to creditors to
+correct your records.
+
+
+
+
+O3742 v.01 12.03.2015
+Return Mail Processing Center
+PO Box 6336
+Portland, OR 97228-6336
+
+<<mail id>>
+<<Name1>>
+<<Name2>>
+<<Address1>>
+<<Address2>>
+<<City>><<State>><<Zip>>
+<<Foreign Country>>	                                                                                         <<Date>>
+
+
+
+
+            RE: NOTICE OF DATA BREACH
+Dear <Name>:
+George Hills Company, Inc., (GHC) is a third party administrator that provides claims administration and litigation
+management services for California’s public sector and private insurance carriers for general liability and property
+claims. Because of the importance of protecting information provided by individuals, GHC is writing to inform you
+of an incident involving information associated with a claim you have with <name of public entity>.
+WHAT HAPPENED?
+Systema Software is a third party service provider to GHC that provides and hosts a website application for claims
+management. Systema Software notified GHC on September 9, 2015, that a security researcher contacted Systema
+Software because he had identified a configuration in the website application that allowed him to gain access to a
+temporary data backup of claims databases. Systema Software was able to immediately correct the permissions for
+the application and eliminate the issue.
+WHAT ARE WE DOING?
+GHC conducted an investigation of the incident and learned that Systema Software had corrected the access issue
+and Systema Software also hired a computer security firm to ensure that the configuration issue was corrected and
+to determine the extent of the access. GHC also learned that the security researcher was the only unauthorized user
+to access the databases. The security researcher, who lives in Texas, also contacted the Texas Attorney General and
+self-reported the issue. The Texas Attorney General investigated the report and obtained an affidavit from the security
+researcher who stated under oath that: (1) he downloaded information from Systema Software’s website application
+to an external hard drive; (2) he delivered the external hard drive to the Texas Attorney General; (3) the hard drive he
+turned over contains the only copy of the information he downloaded; and (4) he has not and will not engage in any
+unauthorized use of the information.
+WHAT INFORMATION WAS INVOLVED?
+The information regarding your claim that was in the database includes your name, social security number, and
+medical information related to your claim.
+WHAT YOU CAN DO.
+Based on the investigation and the researcher’s sworn statement, we do not believe that any information from the
+databases was used for any unauthorized purpose. However, we wanted to let you know about our investigation of
+this incident and included information on what you can do to protect yourself.
+FOR MORE INFORMATION.
+We regret any inconvenience this may cause you. For more information, please contact us at 877-841-8161, Monday
+through Friday, 6:00 am – 6:00 pm PST.
+
+Sincerely,
+
+
+
+John E. Chaquica, CEO
+O3731 v.01 12.03.2015
+                        MORE INFORMATION ON WAYS TO PROTECT YOURSELF
+We recommend that you remain vigilant for incidents of fraud or identity theft by reviewing your account statements
+and free credit reports for any unauthorized activity. You may obtain a copy of your credit report, free of charge,
+once every 12 months from each of the three nationwide credit reporting companies. To order your annual free credit
+report please visit www.annualcreditreport.com or call toll free at 1-877-322-8228. Contact information for the three
+nationwide credit reporting companies is as follows:
+            Equifax, PO Box 740256, Atlanta, GA 30374, www.equifax.com, 1-800-525-6285
+            Experian, PO Box 9554, Allen, TX 75013, www.experian.com,1-888-397-3742
+            TransUnion, PO Box 2000, Chester, PA 19022-2000, www.transunion.com, 1-800-916-8800
+If you believe you are the victim of identity theft or have reason to believe your personal information has been
+misused, you should immediately contact the Federal Trade Commission and/or the state Attorney General’s office.
+Contact information for the Federal Trade Commission is as follows:
+            Federal Trade Commission, Consumer Response Center,
+            600 Pennsylvania Avenue, NW, Washington, DC 20580,
+            1-877-IDTHEFT (438-4338), www.ftc.gov/idtheft
+You can obtain information from these sources about steps an individual can take to avoid identity theft as well as
+information about fraud alerts and security freezes. You should also contact your local law enforcement authorities
+and file a police report. Obtain a copy of the police report in case you are asked to provide copies to creditors to
+correct your records.
+
+
+
+
+O3732 v.01 12.03.2015
+Return Mail Processing Center
+PO Box 6336
+Portland, OR 97228-6336
+
+<<mail id>>
+The Estate of <<Name1>>
+<<Name2>>
+<<Address1>>
+<<Address2>>
+<<City>><<State>><<Zip>>
+<<Foreign Country>>	                                                                                         <<Date>>
+
+
+
+
+            RE: NOTICE OF DATA BREACH
+Dear The Estate of <Name>:
+George Hills Company, Inc., (GHC) is a third party administrator that provides claims administration and litigation
+management services for California’s public sector and private insurance carriers for general liability and property
+claims. Because of the importance of protecting information provided by individuals, GHC is writing to inform you
+of an incident involving information associated with a claim the deceased had with <name of public entity>.
+WHAT HAPPENED?
+Systema Software is a third party service provider to GHC that provides and hosts a website application for claims
+management. Systema Software notified GHC on September 9, 2015, that a security researcher contacted Systema
+Software because he had identified a configuration in the website application that allowed him to gain access to a
+temporary data backup of claims databases. Systema Software was able to immediately correct the permissions for
+the application and eliminate the issue.
+WHAT ARE WE DOING?
+GHC conducted an investigation of the incident and learned that Systema Software had corrected the access issue
+and Systema Software also hired a computer security firm to ensure that the configuration issue was corrected and
+to determine the extent of the access. GHC also learned that the security researcher was the only unauthorized user
+to access the databases. The security researcher, who lives in Texas, also contacted the Texas Attorney General and
+self-reported the issue. The Texas Attorney General investigated the report and obtained an affidavit from the security
+researcher who stated under oath that: (1) he downloaded information from Systema Software’s website application
+to an external hard drive; (2) he delivered the external hard drive to the Texas Attorney General; (3) the hard drive he
+turned over contains the only copy of the information he downloaded; and (4) he has not and will not engage in any
+unauthorized use of the information.
+WHAT INFORMATION WAS INVOLVED?
+The information regarding the deceased’s claim that was in the database includes the deceased’s name and social
+security number.
+WHAT YOU CAN DO.
+Based on the investigation and the researcher’s sworn statement, we do not believe that any information from the
+databases was used for any unauthorized purpose. However, we wanted to let you know about our investigation of
+this incident and included information on what you can do to protect yourself.
+FOR MORE INFORMATION.
+We regret any inconvenience this may cause you. For more information, please contact us at 877-841-8161, Monday
+through Friday, 6:00 am – 6:00 pm PST.
+
+Sincerely,
+
+
+
+John E. Chaquica, CEO
+O3721 v.01 12.03.2015
+                        MORE INFORMATION ON WAYS TO PROTECT YOURSELF
+We recommend that you remain vigilant for incidents of fraud or identity theft by reviewing your account statements
+and free credit reports for any unauthorized activity. You may obtain a copy of your credit report, free of charge,
+once every 12 months from each of the three nationwide credit reporting companies. To order your annual free credit
+report please visit www.annualcreditreport.com or call toll free at 1-877-322-8228. Contact information for the three
+nationwide credit reporting companies is as follows:
+            Equifax, PO Box 740256, Atlanta, GA 30374, www.equifax.com, 1-800-525-6285
+            Experian, PO Box 9554, Allen, TX 75013, www.experian.com,1-888-397-3742
+            TransUnion, PO Box 2000, Chester, PA 19022-2000, www.transunion.com, 1-800-916-8800
+If you believe you are the victim of identity theft or have reason to believe your personal information has been
+misused, you should immediately contact the Federal Trade Commission and/or the state Attorney General’s office.
+Contact information for the Federal Trade Commission is as follows:
+            Federal Trade Commission, Consumer Response Center,
+            600 Pennsylvania Avenue, NW, Washington, DC 20580,
+            1-877-IDTHEFT (438-4338), www.ftc.gov/idtheft
+You can obtain information from these sources about steps an individual can take to avoid identity theft as well as
+information about fraud alerts and security freezes. You should also contact your local law enforcement authorities
+and file a police report. Obtain a copy of the police report in case you are asked to provide copies to creditors to
+correct your records.
+
+
+
+
+O3722 v.01 12.03.2015
+Return Mail Processing Center
+PO Box 6336
+Portland, OR 97228-6336
+
+<<mail id>>
+<<Name1>>
+<<Name2>>
+<<Address1>>
+<<Address2>>
+<<City>><<State>><<Zip>>
+<<Foreign Country>>	                                                                                         <<Date>>
+
+
+
+
+            RE: NOTICE OF DATA BREACH
+Dear <Name>:
+George Hills Company, Inc., (GHC) is a third party administrator that provides claims administration and litigation
+management services for California’s public sector and private insurance carriers for general liability and property
+claims. Because of the importance of protecting information provided by individuals, GHC is writing to inform you
+of an incident involving information associated with a claim you have with <name of public entity>.
+WHAT HAPPENED?
+Systema Software is a third party service provider to GHC that provides and hosts a website application for claims
+management. Systema Software notified GHC on September 9, 2015, that a security researcher contacted Systema
+Software because he had identified a configuration in the website application that allowed him to gain access to a
+temporary data backup of claims databases. Systema Software was able to immediately correct the permissions for
+the application and eliminate the issue.
+WHAT ARE WE DOING?
+GHC conducted an investigation of the incident and learned that Systema Software had corrected the access issue
+and Systema Software also hired a computer security firm to ensure that the configuration issue was corrected and
+to determine the extent of the access. GHC also learned that the security researcher was the only unauthorized user
+to access the databases. The security researcher, who lives in Texas, also contacted the Texas Attorney General and
+self-reported the issue. The Texas Attorney General investigated the report and obtained an affidavit from the security
+researcher who stated under oath that: (1) he downloaded information from Systema Software’s website application
+to an external hard drive; (2) he delivered the external hard drive to the Texas Attorney General; (3) the hard drive he
+turned over contains the only copy of the information he downloaded; and (4) he has not and will not engage in any
+unauthorized use of the information.
+WHAT INFORMATION WAS INVOLVED?
+The information regarding your claim that was in the database includes your name, social security number, and
+driver’s license number.
+WHAT YOU CAN DO.
+Based on the investigation and the researcher’s sworn statement, we do not believe that any information from the
+databases was used for any unauthorized purpose. However, we wanted to let you know about our investigation of
+this incident and included information on what you can do to protect yourself.
+FOR MORE INFORMATION.
+We regret any inconvenience this may cause you. For more information, please contact us at 877-841-8161, Monday
+through Friday, 6:00 am – 6:00 pm PST.
+
+Sincerely,
+
+
+
+John E. Chaquica, CEO
+O3701 v.01 12.03.2015
+                        MORE INFORMATION ON WAYS TO PROTECT YOURSELF
+We recommend that you remain vigilant for incidents of fraud or identity theft by reviewing your account statements
+and free credit reports for any unauthorized activity. You may obtain a copy of your credit report, free of charge,
+once every 12 months from each of the three nationwide credit reporting companies. To order your annual free credit
+report please visit www.annualcreditreport.com or call toll free at 1-877-322-8228. Contact information for the three
+nationwide credit reporting companies is as follows:
+            Equifax, PO Box 740256, Atlanta, GA 30374, www.equifax.com, 1-800-525-6285
+            Experian, PO Box 9554, Allen, TX 75013, www.experian.com,1-888-397-3742
+            TransUnion, PO Box 2000, Chester, PA 19022-2000, www.transunion.com, 1-800-916-8800
+If you believe you are the victim of identity theft or have reason to believe your personal information has been
+misused, you should immediately contact the Federal Trade Commission and/or the state Attorney General’s office.
+Contact information for the Federal Trade Commission is as follows:
+            Federal Trade Commission, Consumer Response Center,
+            600 Pennsylvania Avenue, NW, Washington, DC 20580,
+            1-877-IDTHEFT (438-4338), www.ftc.gov/idtheft
+You can obtain information from these sources about steps an individual can take to avoid identity theft as well as
+information about fraud alerts and security freezes. You should also contact your local law enforcement authorities
+and file a police report. Obtain a copy of the police report in case you are asked to provide copies to creditors to
+correct your records.
+
+
+
+
+O3702 v.01 12.03.2015
+Return Mail Processing Center
+PO Box 6336
+Portland, OR 97228-6336
+
+<<mail id>>
+To the Parent or Guardian of <<Name1>>
+<<Name2>>
+<<Address1>>
+<<Address2>>
+<<City>><<State>><<Zip>>
+<<Foreign Country>>	                                                                                         <<Date>>
+
+
+
+
+            RE: NOTICE OF DATA BREACH
+Dear Parent or Guardian of <Name>:
+George Hills Company, Inc., (GHC) is a third party administrator that provides claims administration and litigation
+management services for California’s public sector and private insurance carriers for general liability and property
+claims. Because of the importance of protecting information provided by individuals, GHC is writing to inform you
+of an incident involving information associated with a claim you have with <name of public entity>.
+WHAT HAPPENED?
+Systema Software is a third party service provider to GHC that provides and hosts a website application for claims
+management. Systema Software notified GHC on September 9, 2015, that a security researcher contacted Systema
+Software because he had identified a configuration in the website application that allowed him to gain access to a
+temporary data backup of claims databases. Systema Software was able to immediately correct the permissions for
+the application and eliminate the issue.
+WHAT ARE WE DOING?
+GHC conducted an investigation of the incident and learned that Systema Software had corrected the access issue
+and Systema Software also hired a computer security firm to ensure that the configuration issue was corrected and
+to determine the extent of the access. GHC also learned that the security researcher was the only unauthorized user
+to access the databases. The security researcher, who lives in Texas, also contacted the Texas Attorney General and
+self-reported the issue. The Texas Attorney General investigated the report and obtained an affidavit from the security
+researcher who stated under oath that: (1) he downloaded information from Systema Software’s website application
+to an external hard drive; (2) he delivered the external hard drive to the Texas Attorney General; (3) the hard drive he
+turned over contains the only copy of the information he downloaded; and (4) he has not and will not engage in any
+unauthorized use of the information.
+WHAT INFORMATION WAS INVOLVED?
+The information regarding your claim that was in the database includes your child’s name, social security number,
+and driver’s license.
+WHAT YOU CAN DO.
+Based on the investigation and the researcher’s sworn statement, we do not believe that any information from the
+databases was used for any unauthorized purpose. However, we wanted to let you know about our investigation of
+this incident and included information on what you can do to protect yourself.
+FOR MORE INFORMATION.
+We regret any inconvenience this may cause you. For more information, please contact us at 877-841-8161, Monday
+through Friday, 6:00 am – 6:00 pm PST.
+
+Sincerely,
+
+
+
+John E. Chaquica, CEO
+O3711 v.01 12.03.2015
+                        MORE INFORMATION ON WAYS TO PROTECT YOURSELF
+We recommend that you remain vigilant for incidents of fraud or identity theft by reviewing your account statements
+and free credit reports for any unauthorized activity. You may obtain a copy of your credit report, free of charge,
+once every 12 months from each of the three nationwide credit reporting companies. To order your annual free credit
+report please visit www.annualcreditreport.com or call toll free at 1-877-322-8228. Contact information for the three
+nationwide credit reporting companies is as follows:
+            Equifax, PO Box 740256, Atlanta, GA 30374, www.equifax.com, 1-800-525-6285
+            Experian, PO Box 9554, Allen, TX 75013, www.experian.com,1-888-397-3742
+            TransUnion, PO Box 2000, Chester, PA 19022-2000, www.transunion.com, 1-800-916-8800
+If you believe you are the victim of identity theft or have reason to believe your personal information has been
+misused, you should immediately contact the Federal Trade Commission and/or the state Attorney General’s office.
+Contact information for the Federal Trade Commission is as follows:
+            Federal Trade Commission, Consumer Response Center,
+            600 Pennsylvania Avenue, NW, Washington, DC 20580,
+            1-877-IDTHEFT (438-4338), www.ftc.gov/idtheft
+You can obtain information from these sources about steps an individual can take to avoid identity theft as well as
+information about fraud alerts and security freezes. You should also contact your local law enforcement authorities
+and file a police report. Obtain a copy of the police report in case you are asked to provide copies to creditors to
+correct your records.
+
+
+
+
+O3712 v.01 12.03.2015
+Return Mail Processing Center
+PO Box 6336
+Portland, OR 97228-6336
+
+<<mail id>>
+To the Parent or Guardian of <<Name1>>
+<<Name2>>
+<<Address1>>
+<<Address2>>
+<<City>><<State>><<Zip>>
+<<Foreign Country>>	                                                                                         <<Date>>
+
+
+
+
+            RE: NOTICE OF DATA BREACH
+Dear Parent or Guardian of <Name>:
+George Hills Company, Inc., (GHC) is a third party administrator that provides claims administration and litigation
+management services for California’s public sector and private insurance carriers for general liability and property
+claims. Because of the importance of protecting information provided by individuals, GHC is writing to inform you
+of an incident involving information associated with a claim you have with <name of public entity>.
+WHAT HAPPENED?
+Systema Software is a third party service provider to GHC that provides and hosts a website application for claims
+management. Systema Software notified GHC on September 9, 2015, that a security researcher contacted Systema
+Software because he had identified a configuration in the website application that allowed him to gain access to a
+temporary data backup of claims databases. Systema Software was able to immediately correct the permissions for
+the application and eliminate the issue.
+WHAT ARE WE DOING?
+GHC conducted an investigation of the incident and learned that Systema Software had corrected the access issue
+and Systema Software also hired a computer security firm to ensure that the configuration issue was corrected and
+to determine the extent of the access. GHC also learned that the security researcher was the only unauthorized user
+to access the databases. The security researcher, who lives in Texas, also contacted the Texas Attorney General and
+self-reported the issue. The Texas Attorney General investigated the report and obtained an affidavit from the security
+researcher who stated under oath that: (1) he downloaded information from Systema Software’s website application
+to an external hard drive; (2) he delivered the external hard drive to the Texas Attorney General; (3) the hard drive he
+turned over contains the only copy of the information he downloaded; and (4) he has not and will not engage in any
+unauthorized use of the information.
+WHAT INFORMATION WAS INVOLVED?
+The information regarding your claim that was in the database includes your child’s name and social security number.
+WHAT YOU CAN DO.
+Based on the investigation and the researcher’s sworn statement, we do not believe that any information from the
+databases was used for any unauthorized purpose. However, we wanted to let you know about our investigation of
+this incident and included information on what you can do to protect yourself.
+FOR MORE INFORMATION.
+We regret any inconvenience this may cause you. For more information, please contact us at 877-841-8161, Monday
+through Friday, 6:00 am – 6:00 pm PST.
+
+Sincerely,
+
+
+
+John E. Chaquica, CEO
+
+O3691 v.01 12.03.2015
+                        MORE INFORMATION ON WAYS TO PROTECT YOURSELF
+We recommend that you remain vigilant for incidents of fraud or identity theft by reviewing your account statements
+and free credit reports for any unauthorized activity. You may obtain a copy of your credit report, free of charge,
+once every 12 months from each of the three nationwide credit reporting companies. To order your annual free credit
+report please visit www.annualcreditreport.com or call toll free at 1-877-322-8228. Contact information for the three
+nationwide credit reporting companies is as follows:
+            Equifax, PO Box 740256, Atlanta, GA 30374, www.equifax.com, 1-800-525-6285
+            Experian, PO Box 9554, Allen, TX 75013, www.experian.com,1-888-397-3742
+            TransUnion, PO Box 2000, Chester, PA 19022-2000, www.transunion.com, 1-800-916-8800
+If you believe you are the victim of identity theft or have reason to believe your personal information has been
+misused, you should immediately contact the Federal Trade Commission and/or the state Attorney General’s office.
+Contact information for the Federal Trade Commission is as follows:
+            Federal Trade Commission, Consumer Response Center,
+            600 Pennsylvania Avenue, NW, Washington, DC 20580,
+            1-877-IDTHEFT (438-4338), www.ftc.gov/idtheft
+You can obtain information from these sources about steps an individual can take to avoid identity theft as well as
+information about fraud alerts and security freezes. You should also contact your local law enforcement authorities
+and file a police report. Obtain a copy of the police report in case you are asked to provide copies to creditors to
+correct your records.
+
+
+
+
+O3692 v.01 12.03.2015
+Return Mail Processing Center
+PO Box 6336
+Portland, OR 97228-6336
+
+<<mail id>>
+<<Name1>>
+<<Name2>>
+<<Address1>>
+<<Address2>>
+<<City>><<State>><<Zip>>
+<<Foreign Country>>	                                                                                         <<Date>>
+
+
+
+
+            RE: NOTICE OF DATA BREACH
+Dear <Name>:
+George Hills Company, Inc., (GHC) is a third party administrator that provides claims administration and litigation
+management services for California’s public sector and private insurance carriers for general liability and property
+claims. Because of the importance of protecting information provided by individuals, GHC is writing to inform you
+of an incident involving information associated with a claim you have with <name of public entity>.
+WHAT HAPPENED?
+Systema Software is a third party service provider to GHC that provides and hosts a website application for claims
+management. Systema Software notified GHC on September 9, 2015, that a security researcher contacted Systema
+Software because he had identified a configuration in the website application that allowed him to gain access to a
+temporary data backup of claims databases. Systema Software was able to immediately correct the permissions for
+the application and eliminate the issue.
+WHAT ARE WE DOING?
+GHC conducted an investigation of the incident and learned that Systema Software had corrected the access issue
+and Systema Software also hired a computer security firm to ensure that the configuration issue was corrected and
+to determine the extent of the access. GHC also learned that the security researcher was the only unauthorized user
+to access the databases. The security researcher, who lives in Texas, also contacted the Texas Attorney General and
+self-reported the issue. The Texas Attorney General investigated the report and obtained an affidavit from the security
+researcher who stated under oath that: (1) he downloaded information from Systema Software’s website application
+to an external hard drive; (2) he delivered the external hard drive to the Texas Attorney General; (3) the hard drive he
+turned over contains the only copy of the information he downloaded; and (4) he has not and will not engage in any
+unauthorized use of the information.
+WHAT INFORMATION WAS INVOLVED?
+The information regarding your claim that was in the database includes your name and social security number.
+WHAT YOU CAN DO.
+Based on the investigation and the researcher’s sworn statement, we do not believe that any information from the
+databases was used for any unauthorized purpose. However, we wanted to let you know about our investigation of
+this incident and included information on what you can do to protect yourself.
+FOR MORE INFORMATION.
+We regret any inconvenience this may cause you. For more information, please contact us at 877-841-8161, Monday
+through Friday, 6:00 am – 6:00 pm PST.
+
+Sincerely,
+
+
+
+John E. Chaquica, CEO
+
+O3681 v.01 12.03.2015
+                        MORE INFORMATION ON WAYS TO PROTECT YOURSELF
+We recommend that you remain vigilant for incidents of fraud or identity theft by reviewing your account statements
+and free credit reports for any unauthorized activity. You may obtain a copy of your credit report, free of charge,
+once every 12 months from each of the three nationwide credit reporting companies. To order your annual free credit
+report please visit www.annualcreditreport.com or call toll free at 1-877-322-8228. Contact information for the three
+nationwide credit reporting companies is as follows:
+            Equifax, PO Box 740256, Atlanta, GA 30374, www.equifax.com, 1-800-525-6285
+            Experian, PO Box 9554, Allen, TX 75013, www.experian.com,1-888-397-3742
+            TransUnion, PO Box 2000, Chester, PA 19022-2000, www.transunion.com, 1-800-916-8800
+If you believe you are the victim of identity theft or have reason to believe your personal information has been
+misused, you should immediately contact the Federal Trade Commission and/or the state Attorney General’s office.
+Contact information for the Federal Trade Commission is as follows:
+            Federal Trade Commission, Consumer Response Center,
+            600 Pennsylvania Avenue, NW, Washington, DC 20580,
+            1-877-IDTHEFT (438-4338), www.ftc.gov/idtheft
+You can obtain information from these sources about steps an individual can take to avoid identity theft as well as
+information about fraud alerts and security freezes. You should also contact your local law enforcement authorities
+and file a police report. Obtain a copy of the police report in case you are asked to provide copies to creditors to
+correct your records.
+
+
+
+
+O3682 v.01 12.03.2015

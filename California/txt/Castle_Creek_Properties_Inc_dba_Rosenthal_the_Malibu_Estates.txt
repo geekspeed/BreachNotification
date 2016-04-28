@@ -1,0 +1,43 @@
+	  
+
+
+                  Rosenthal Wine Shop – Legal Notice of Potential Security Incident
+
+We recently learned that unauthorized individuals or entities installed malicious software on computer
+systems used to process credit card transactions at the Rosenthal wine shop. The incident may have
+compromised payment card data of visitors that made payment card purchases at the wine shop tasting
+room including name, address, payment card account number, card expiration date and security code.
+While we do not know whether a particular customer’s personal information has been or will be misused,
+as a precaution we are providing this notice to tell customers about the incident and call their attention to
+some steps they may take to help protect themselves.
+
+We value our relationship with our customers and sincerely regret any inconvenience or concern this
+incident may cause. Keeping personal information secure is of the utmost importance to us, and we are
+taking active steps to help prevent this type of incident from reoccurring. On January 23, 2014, we
+contained the incident by installing an advanced malware protection and eradication system, and by
+reformatting the systems at issue.
+
+We want to make customers aware of steps they can take to guard against identity theft or fraud. At this
+time, we recommend that customers review their credit and debit card account statements as soon as
+possible in order to determine if there are any discrepancies or unusual activity listed. Customers should
+continue to monitor their statements for unusual activity going forward. If they see anything they do not
+understand or that looks suspicious, or if they suspect that any fraudulent transactions have taken place,
+they should call the bank that issued their credit or debit card immediately.
+
+In addition, to help protect our customers’ identities, we are offering a complimentary one-year
+membership of Experian’s® ProtectMyID® Alert. This product helps detect possible misuse of your
+personal information and provides you with identity protection services focused on immediate
+identification and resolution of identity theft. We recommend that customers carefully check their credit
+reports for accounts they did not open or for inquiries from creditors they did not initiate. They should
+also look for personal information in their credit reports, such as home address, that is not accurate. If
+they see anything they do not understand, they should call the credit agency immediately. If they find any
+suspicious activity on their credit reports, they should call their local police or sheriff's office.
+
+If customers affected by this incident wish to enroll for Experian’s® ProtectMyID® Alert services or have
+any questions or concerns, they may call us at (310) 899-8903. Again, we are sorry for any
+inconvenience or concern this event may cause customers.
+
+
+
+
+	  

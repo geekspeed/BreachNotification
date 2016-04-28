@@ -1,0 +1,53 @@
+               SAN FRANCISCO HEAD START/ EARLY HEAD START
+               205 13TH STREET, SUITE #3280
+               SAN FRANCISCO, CA 94103
+
+
+<Date>
+
+<inside address>
+
+Dear <name>
+
+We at San Francisco Head Start/Early Head Start take our responsibility to protect your personal data very seriously.
+For this reason, we are writing to inform you that between August and November 2011, there was a compromise of
+security in the San Francisco Head Start/Early Head Start database and unauthorized person(s) accessed personal
+information contained in this database. The personal records accessed contained names, address and contact
+information, birth dates, Social Security numbers, health data, and other personal information relevant to the Head
+Start program. San Francisco Head Start/Early Head Start considers your confidential personal information
+extremely important, and thus, we are contacting you so that you can take precautionary steps to protect against any
+attempts at identity theft. The incident’s notification was delayed due to an ongoing law enforcement investigation.
+
+To help safeguard you from misuse of your personal information, we have arranged for identity protection from
+AllClear ID at no cost to you.
+
+    AllClear ID offers credit monitoring that delivers secure, credit alerts to you by phone. For a child under
+    18 years old, AllClear ID ChildScan® identifies acts of credit, criminal, medical or employment fraud
+    against children by searching thousands of public databases for use of your child’s information. AllClear
+    ID also includes Identity Theft Insurance Coverage and AllClear Fraud Resolution Services. The AllClear
+    ID service will be valid for 2 years from the date you register. At the end of the 2-year term, you may
+    register for After Care restoration services for ongoing assistance.
+
+You must register directly with AllClear ID to receive this complimentary identity protection service. You will need
+to provide the activation code that is listed at the bottom of this page. You may alternatively register online or by
+phone using the contact information listed below or, by mail using the enclosed mail-in registration form. Please
+also see the enclosure to learn more about AllClear ID and identity theft.
+
+We regret that this incident occurred and want to assure you we are reviewing and revising our procedures and
+practices to minimize the risk of recurrence. We remain dedicated to using our best efforts to regularly assess and
+adapt our physical, administrative and technical security measures in order to protect such data.
+
+We take pride in our service to you and the community and we apologize for any inconvenience or concern that this
+incident may cause.
+
+
+Sincerely,
+
+
+                                                                             Free Identity Protection
+Marjorie Weiss
+                                                                             Activation Code: {ActivationCode}
+Executive Director
+San Francisco Head Start/Early Head Start Program                            Enroll at enroll.allclearid.com/{url}
+                                                                             Assistance Hotline: {AllClearIDPhone}
+Enclosure

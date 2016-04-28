@@ -1,0 +1,197 @@
+                              Data doing good: Mastering technology solutions to prevent homelessness
+
+
+September 25, 2014
+
+«Client_First_Name» «Client_Last_Name»
+«Address_1»
+«Address_2»
+
+       Re: Important Message About Your Personal Information
+
+Dear «Client_First_Name» «Client_Last_Name»,
+
+You are receiving this letter because your personal information was on a laptop that was stolen on July 28,
+2014. At this time, there is no indication that this was anything more than a random theft of a laptop or that
+your personal information on the laptop has actually been accessed or misused. However, we want to make
+you aware of the incident because, in the wrong hands, your personal information can be used to steal your
+identity to open up credit cards and make charges on them, acquire passports and other false identification,
+and engage in other illegal activities in your name. Please read this letter carefully. It includes information
+about what you can do to try to prevent someone from misusing your personal information and to protect
+yourself from identity theft.
+Community Technology Alliance (“CTA”) is a nonprofit organization that administers the Bay Area Homeless
+Management Information Systems (“HMIS”). We help hundreds of organizations (“HMIS Partner Agencies”),
+including those in Santa Cruz, provide efficient and effective programs and services to homeless and low-
+income people (their “Clients”). HMIS contains Client names and other personal information that HMIS
+Partner Agencies are required to collect to get funding to provide those programs and services. On July 28,
+2014, criminals broke into a vehicle parked in a public garage and stole a laptop belonging to CTA which
+contained HMIS data, including some Clients’ personal information. The laptop was password protected,
+some of the files were also password protected, but not encrypted. Upon discovery that same evening, the
+crime was reported to the Oakland Police Department, temporary report number T14011331.
+If you are receiving or have received services from an HMIS Partner Agency in Santa Cruz, you are a Client
+and your personal information may have been exposed by this incident, including your name and Social
+Security number. HMIS Partner Agencies include: Community Action Board, Families in Transition,
+Homeless Services Center, Salvation Army of Watsonville, Pajaro Valley Shelter Services, Housing Authority
+of the County of Santa Cruz, Encompass, Front Street Housing, Inc., Mountain Community Resource Center,
+Catholic Charities, Veterans Resource Center, Santa Cruz County Office of Education, Santa Cruz County
+Health and Human Services Agency, Housing Services Center, Pajaro Rescue Mission, and New Life
+Community Services.
+To protect yourself from identity theft or other unauthorized use of personal information, you can take
+some simple steps. First, we recommend that over the next 12 months you carefully examine any bank
+statements or credit card bills that you may receive for mysterious cash withdrawals or purchases, and
+check your credit report for any unauthorized activity, e.g., adding or changing your address, the opening
+of new credit cards, or charges made on any past or existing credit cards you may have. Promptly report
+any suspected identity theft or fraud to your local police department, the U.S. Federal Trade Commission
+(www.consumer.gov/idtheft), any of your bank(s), credit card companies or other financial institutions,
+and at least one of the three national consumer reporting agencies:
+Experian 1-888-397-3742 (www.experian.com);
+Equifax 1-800-685-1111 (www.equifax.com); and
+TransUnion 1-808-909-8872 (www.transunion.com)
+
+                1671 The Alameda, Suite 300, San Jose, CA 95126 • www.CTAGroup.org • (408) 437-8800
+If you need assistance reporting suspected identity theft or fraud, you may attend one of the following credit
+check clinics hosted by local nonprofits:
+October 20 from 1:00 – 3:00 p.m. at 115 Brennan St., Watsonville, hosted by Pajaro Valley Shelter Services
+October 27 from 10:00 a.m. – 3:00 p.m. at 115 D Coral St., Santa Cruz, hosted by Homeless Services Center
+November 3 from 5:00 – 8:00 p.m. at 115 Brennan St., Watsonville, hosted by Pajaro Valley Shelter Services
+You may wish to contact any of your banks, credit card issuers or other financial institutions now and inform
+them of the laptop theft incident. You may also contact the fraud departments of the above-listed three
+national consumer reporting agencies at any time to discuss your options.
+There are ways to obtain your consumer credit report without charge. Under federal law, you are entitled to
+one free copy of your consumer credit report from each of the three national consumer reporting agencies.
+You may request your free annual consumer credit report by visiting www.annualcreditreport.com or call 1-
+877-322-8228. You may want to obtain copies of your consumer credit report to ensure the accuracy of the
+report information. To learn more and to report incidents of identity theft, you can go to www.ftc.gov/credit,
+www.consumer.gov/idtheft, and www.oag.ca.gov/idtheft.
+Here some answers to questions you might have:
+      Can you tell me for sure whether my information was sold or shared with outsiders?
+       No, we cannot tell you for sure whether your information was sold or shared with outsiders. However,
+       at this point we have no reason to believe that this was anything more than a random theft or that
+       your information has been shared or misused.
+      What can be done to keep someone from stealing my identity?
+       We urge you to contact the three national credit bureaus and your bank or financial institution (if you
+       have one) to notify them that your information could have been stolen or shared. The contact
+       information for the credit bureaus is in this letter. You should also monitor your credit routinely to
+       look for any accounts that you do not recognize.
+      How safe is my information in HMIS?
+       HMIS uses many layers of protection to keep your information safe. CTA is working with all HMIS
+       Partner Agencies to put in place security policies to protect your data, including using encryption
+       software and requiring employees to attend data security training programs on a regular basis.
+       Security policies will include routine checks to make sure people are following these policies. With
+       these policies in place, HMIS will be even more secure than it was before. Giving your information for
+       HMIS helps you because it allows the HMIS Partner Agencies to provide services to people who are
+       experiencing homelessness.
+We take the protection of your personal information very seriously. Further investigation is underway, and
+steps are being taken to address the security of all sensitive personal information and to prevent future data
+breach incidents. We sincerely apologize for the inconvenience this incident may cause you, and you should
+feel free to contact me if you have further questions at (408) 451-0731. You may also contact one of the HMIS
+Partner Agencies named on page 1 of this letter.
+
+Very truly yours,
+
+
+Jen Padgett, CEO
+COMMUNITY TECHNOLOGY ALLIANCE
+
+
+
+
+                                                      2
+                               Data doing good: Mastering technology solutions to prevent homelessness
+
+
+Sept. 25, 2014
+«Client_First_Name» «Client_Last_Name»
+«Address_1»
+«Address_2»
+       Re: Mensaje importante acerca de su informacion personal
+Estimado(a) «Client_First_Name» «Client_Last_Name»,
+Usted esta recibiendo esta carta porque su informacion personal estaba almacenada en una computadora
+robada el 28 de Julio. Al día de hoy, no existe nada que indique algo diferente mas que un robo al azar de una
+computadora o nada que indique que su informacion, almacenada en la computadora, haya sido vista o
+utilizada ilegalmente. Sin embargo, queremos informarle sobre este incidente ya que su informacion, en
+malas manos, puede ser utilizada para robar su identidad y de esta manera abrir y utilizar tarjetas de credito
+bajo su nombre, adquirir un pasaporte o realizar otras actividades ilegales utilizando su identidad. Por favor,
+lea esta carta con cuidado ya que incluye informacion de como usted puede prevenir que alguien utilice su
+informacion personal y así protegerse del robo de identidad.
+La Alianza Tecnologica Comunitaria (Community Technology Alliance o CTA por sus siglas en ingles) es una
+organizacion sin fines de lucro que administra el Sistema de Gestionamiento Informacional de personas sin
+hogar (HMIS por sus siglas en ingles). Nuestra organizacion ayuda a cientos de organizaciones (agencias
+asociadas al HMIS), que incluyen agencias de Santa Cruz, a proveer programas y servicios mas eficientes a
+personas de bajos recursos o sin hogar (clientes de nuestras agencias asociadas). El HMIS posee nombre de
+clientes y otra informacion personal que agencias asociadas deben recolectar para ser financiadas y poder
+proveer programas y servicios. El Julio 28, 2014 unos delincuentes entraron en un carro estacionado en un
+garaje publico y robaron una computadora personal con informacion de CTA que incluía datos personales de
+clientes almacenados en HMIS. La computadora estaba protegida con una clave de acceso, algunos de los
+archivos tambien tienen clases de acceso pero no estaban encriptados. Al instante del suceso, el crimen fue
+reportado al Departamento de Policía de Oakland, bajo en numero de reporte temporal T14011331
+Si usted esta recibiendo o ha recibido servicios de alguna de las agencias asociadas al HMIS en Santa Cruz,
+usted es un cliente y su informacion personal pudo haber sido expuesta por este incidente, incluyendo su
+nombre y su numero de seguro social. Las agencias asociadas incluyen: Community Action Board, Families in
+Transition, Homeless Services Center, Salvation Army of Watsonville, Pajaro Valley Shelter Services, Housing
+Authority of the County of Santa Cruz, Encompass, Front Street Housing, Inc., Mountain Community Resource
+Center, Catholic Charities, Veterans Resource Center, Santa Cruz County Office of Education, Santa Cruz
+County Health and Human Services Agency, Housing Services Center, Pajaro Rescue Mission, and New Life
+Community Services.
+Para protegerse del robo de identidad o de otros usos no autorizados de su informacion personal, usted
+puede tomar las siguientes simples medidas: Primero, le recomendamos que por los siguientes 12 meses
+usted revise todos sus estados de cuenta o cobros de tarjeta cuidadosamente para detectar cualquier retiro
+de dinero o compra misteriosa. De igual forma, revise su reporte crediticio para identificar cualquier
+actividad no autorizada como el cambio en la informacion sobre su direccion de habitacion, la apertura de
+una nueva tarjeta de credito o cambios en antiguas o actuales tarjetas de credito. Reporte inmediatamente
+cualquier sospecha de robo de identidad o fraude al departamento de policía local, a la Comision Federal de
+Comercio de los Estados Unidos (U.S. Federal Trade Commission) (www.consumer.gov/idtheft), a cualquiera
+de sus bancos, companía de credito o instituto financiero y a alguno de las siguientes agencias nacionales de
+reporte de consumo :
+
+
+
+                 1671 The Alameda, Suite 300, San Jose, CA 95126 • www.CTAGroup.org • (408) 437-8800
+Experian 1-888-397-3742 (www.experian.com);
+Equifax 1-800-685-1111 (www.equifax.com);
+TransUnion 1-808-909-8872 (www.transunion.com)
+Si necesita asistencia reportando alguna sospecha de robo o fraude, usted puede atender unas de las
+siguientes clínicas de revision de credito proveídas por organizaciones sin fines de lucro:
+Oct. 20 de 1:00 – 3:00 p.m. en 115 Brennan St., Watsonville, organizado por Pajaro Valley Shelter Services
+Oct. 27 de 10:00 a.m. – 3:00 p.m. en 115 D Coral St., Santa Cruz, organizado por Homeless Services Center
+Nov. 3 de 5:00 – 8:00 p.m. en 115 Brennan St., Watsonville, organizado por Pajaro Valley Shelter Services
+Si usted desea, tambien puede comunicarse con cualquiera de sus bancos, companía de tarjeta de credito o
+institucion financiera e informarles del incidente de la computadora robada. Usted tambien puede contactar
+al departamento de fraudes de la lista anterior de agencias nacionales de reporte de consumo en cualquier
+momento para discutir sus opciones.
+Existen formas de obtener su reporte de consumo crediticio gratis. Bajo la ley Federal, usted tiene derecho a
+una copia gratis de su reporte crediticio proveído por una de las tres agencias nacionales de reporte de
+consumo. Usted puede solicitar copia de su reporte de consumo crediticio gratis visitando el siguiente sitio
+web: www.annualcreditreport.com o llamando al 1-877-322-8228. Si desea, usted puede sacar copia de su
+reporte de consumo crediticio para asegurase de la autenticidad de la informacion reportada. Para aprender
+mas o reportar algun incidente de robo de identidad, usted puede ir a las siguientes paginas de internet
+www.ftc.gov/credit, www.consumer.gov/idtheft, o www.oag.ca.gov/idtheft.
+Aquí le ofrecemos algunas respuestas a preguntas que usted puede tener:
+¿Puede usted decirme con seguridad si mi información fue vendida o compartida con extraños?
+No podemos decirle con seguridad si su informacion fue vendida o compartida con extranos. Sin embargo, al
+día de hoy, no existe nada que nos indique que este no fuese un robo de computadora al azar o que su
+informacion alla sido compartida o mal utilizada.
+¿Qué se puede hacer para evitar que alguien robe mi identidad?
+Lo urgimos a que contacte a las tres agencias nacionales de reporte de consumo, su banco o institucion
+financiera (si usted tiene una) y notificarlos de que su informacion pudo haber sido robado o compartida. La
+informacion para contactar las agencias se puede encontrar en el presente documento. Usted debería
+monitorear rutinariamente su credito para identificar cualquier cuenta que usted no reconozca.
+¿Qué tan segura esta mi información en el HMIS?
+HMIS utiliza muchas capas de seguridad para mantener su informacion segura. CTA trabaja con todas las
+agencias asociadas al HMIS para colocar políticas de seguridad para proteger sus datos, esto incluye
+programas de computacion para encriptacion de informacion y el requerimiento a los empleados a participar
+regularmente en programas de entrenamiento en seguridad datos. Las políticas de seguridad incluyen
+revisiones rutinarias para asegurar el seguimiento de estas políticas por parte de los empleados. Con estas
+políticas, HMIS sera aun mas seguro que antes. Dar su informacion para este sistema ayuda a nuestras
+agencias asociadas a proveer servicios a gente sin hogar.
+Nosotros tomamos la proteccion de su informacion muy en serio. La investigacion continua y medidas se han
+tomado para garantizar la seguridad de toda informacion personal sensible y para proveer futuros incidentes
+de violacion de datos. Nosotros, sinceramente, nos disculpas por los inconvenientes que este incidente puede
+causarle y por favor, sientanse en confianza en contactarme con preguntas al (408) 451-0731. Usted tambien
+puede contactar a alguna de las agencias asociadas al HMIS nombradas en la pagina uno de la presente carta.
+Muy atentamente,
+
+
+Jen Padgett, Directora, COMMUNITY TECHNOLOGY ALLIANCE (Alianza Tecnologica Comunitaria)
+
+                                                     4

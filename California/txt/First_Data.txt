@@ -1,0 +1,71 @@
+May 7, 2012
+
+Via Web Form
+
+California State Attorney General‟s Office
+
+Re: Notification Pursuant to California Law
+
+To Whom It May Concern:
+
+We are writing to inform you of a recent administrative oversight involving the personal information of
+approximately 15,399 California residents. On April 25, 2012, the Privacy Office at First Data Corporation
+(“First Data”) learned that certain limited personal information about approximately 108,500 merchants
+who currently process with First Data or who applied for processing services had been shared outside of
+the company. This information was provided to three firms in connection with First Data„s efforts to
+evaluate effective verification and anti-fraud services. While First Data believes that this data transfer was
+permissible under most of its merchant contracts, it may be ambiguous in some of them. First Data
+strongly believes that no harm will result to the merchants; however, we are notifying you to ensure that
+we are fully compliant with all applicable laws.
+
+As you may already know, First Data is a global technology and payments processing leader, serving
+more than 6 million merchant locations, thousands of card issuers and millions of consumers worldwide.
+We help businesses, such as merchants and financial institutions, safely and efficiently process customer
+transactions and understand the information related to those transactions. These activities require
+collection and processing of personal information of merchant owners, among others, in order to
+authenticate their identities and minimize fraudulent transactions.
+
+To that end, First Data has been testing product offerings from two credit reporting agencies (one of
+which is a First Data subsidiary) and a fraud analytics company. First Data is working to improve its
+customer acceptance experience while reducing fraud. The credit, fraud and risk scores from the entities
+would be used to help improve our ability to achieve these important objectives. As part of this testing
+initiative, in January and February 2012, we sent these three organizations certain limited data, including
+the name, address, and social security number of the aforementioned merchants. All of these individuals
+previously submitted applications to First Data for merchant processing services and the data sent came
+from those applications. The data that we sent to the three companies is the same information routinely
+provided by First Data to credit reporting agencies in the normal course of our merchant application
+underwriting and boarding process.
+
+None of the data came from card transactions, and no PCI data was impacted. The data was obtained
+from credit and risk applications and used for credit and risk purposes. The agencies that received the
+data are required by law to maintain the security and confidentiality of the information. In addition, these
+agencies did not pull credit reports nor did the testing activities in any way impact credit reports or scores,
+as test databases, not live ones, were used. First Data has non-disclosure agreements in place with the
+two external firms. These firms have certified to First Data that they did not further transfer the information
+and have now deleted the data sent from First Data at our request.
+
+As stated above, we believe many of our contracts authorized this activity but it may be ambiguous under
+some. To ensure we are fully complying with all applicable laws, we are notifying you of the foregoing.
+Under the circumstances, we strongly believe there is minimal risk of harm, if any, to any merchant whose
+data was disclosed, but we have elected to notify you in case you would like to request additional
+
+
+
+                                                       1
+information. At present, there is no evidence that any of the merchant application data has been misused.
+Nevertheless, First Data is providing written notification to the merchants, and a sample of our notification
+letter is enclosed.
+
+For more information, please call Tanya Madison Cunningham, Senior Counsel, Privacy and Regulatory
+Compliance, at 302-793-6034.
+
+Very truly yours,
+
+Judy Weichbrodt
+Vice President, Privacy Officer
+First Data Corporation
+
+
+
+
+                                                      2

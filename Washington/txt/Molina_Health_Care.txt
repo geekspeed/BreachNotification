@@ -1,0 +1,134 @@
+ 
+
+                                      September 18, 2015
+
+VIA EMAIL SUBMISSION
+
+Attorney General's Office
+State of Washington
+Attn: Bob Ferguson
+1125 Washington Street SE
+PO Box 40100
+Olympia, WA 98504-0100
+
+Re: Breach of Security of Personal Health Information
+
+
+
+Dear Mr. Ferguson,
+
+This is to notify you of a breach of personal information pertaining to an incident involving the
+suspected unauthorized access or disclosure of personal information pertaining to Molina
+Healthcare of Washington, Inc. (“Molina”) Medicare members. The following provides a
+synopsis of the breach:
+
+On July 20, 2015, CVS, the third party vendor that administers the Over the Counter, “OTC”
+benefit on behalf of Molina, reported an incident to Molina that affected a total of 7,767 Molina
+Medicare members in Washington. In connection with their investigation of potential fraud by a
+former employee of CVS, local law enforcement performed a search of the former CVS
+employee’s home and discovered that the former employee impermissibly transferred personal
+information from CVS’ computer systems and stored it on his personal computer. This occurred
+on or about March 26, 2015. The PHI was removed from CVS’ systems by its former employee
+in violation of CVS’ policies. Upon learning of this incident, CVS took prompt action to
+investigate this issue. Upon learning of the breach from CVS on July 20, 2015, Molina took
+immediate action to work with CVS to investigate the breach and correct the problem.
+ 
+The Molina member information involved in the breach included the following: Full Name; CVS
+ID; CVS ExtraCare Health Card Number; Member ID; Rx Plan Number; Rx Plan State; Start
+Date; and End Date. CVS has not detected any fraud with respect to any of the affected Molina
+Medicare members in Washington.
+
+Molina is working with CVS to prevent similar breaches from occurring in the future. CVS has
+implemented a proactive remediation and mitigation plan which Molina has reviewed and is
+monitoring with CVS to ensure its implementation.
+200 Oceangate Ste. 100
+Long Beach, CA 90801
+Attn: Membership Accounting
+
+
+September 17, 2015
+                                                               First Class Mail
+                                                               CONFIDENTIAL
+<MEMBER NAME>
+<ADDRESS>
+<CITY, STATE, ZIP>
+
+
+Dear <MEMBER NAME>,
+
+This is to let you know that CVS, Molina Healthcare’s Over-the-Counter (OTC) benefits vendor, told us
+on 7/20/15 about a breach of your protected health information (PHI). This is to tell you about this
+incident and what you can do to protect yourself from potential harm.
+
+On or about 3/26/15, a former CVS employee took PHI from CVS’ computers and sent it to his personal
+computer. CVS believes he did this to fraudulently obtain OTC products from CVS. Upon learning of
+this incident, CVS took prompt action to investigate this issue. No fraudulent use of your PHI has been
+found. The PHI involved in the breach is as follows: Full Name; CVS ID; CVS ExtraCare Health Card
+Number; Member ID; Rx Plan Number; Rx Plan State; Start Date; and End Date.
+
+This may put you at risk for identity theft. We think you should place a fraud alert on your credit file. A
+fraud alert tells creditors to call you before opening any new accounts. You can call any one of the
+agencies below to have a fraud alert placed on your file. A fraud alert lasts for 90 days. You can also get
+a free credit report from each agency.
+
+       Equifax                           Experian                         TransUnion
+       1-800-525-6285                    1-888-397-3742                   1-800-680-7289
+
+       TTY/TDD Users:                    TTY/TDD Users: 711               TTY/TDD Users:
+       1-866-478-0030                                                     877-553-7803
+
+Look at your reports when you get them. Look for accounts you do not remember opening. Look for
+requests from creditors that you do not know about. Check for any medical bills that you do not know
+about. Look at all your personal information. Make sure it is correct. Call the credit agency if you have
+any questions about your report.
+
+If there is something wrong with your report, call your local police or sheriff’s office. File an identity
+theft report. Get a copy of this report. You may need to give a copy to other creditors. This will help
+clear your records.
+
+If your credit report is OK, you should still check your credit. Check your credit report every three
+months for the next year. Call one of the numbers above to get your report.
+Keep a copy of this letter for your records. It can help if you have future problems with your medical
+records. You may want to ask for a copy of your medical records from your healthcare providers. It is
+good to have a copy that you can look at in case you ever have problems. You can also get a copy of your
+claims or other PHI held by Molina Medicare Options Plus HMO SNP (Molina Healthcare). To get it
+please call our Member Services department at the toll-free number listed below.
+
+Molina Healthcare regrets this problem. CVS is replacing CVS ExtraCare Health Cards for affected
+individuals who are current Molina Healthcare members with an OTC benefit, unless your CVS
+ExtraCare Health Card was already replaced due to a change in your benefits plan. To further help
+protect your identity, we are offering you a free one-year membership of identity theft protection.
+
+To learn more about subscribing for identity protection, please feel free to contact CVS Customer
+Service at (888) 217-5370. To help stop more breaches we are working with CVS to even better secure
+your data and to ensure this does not happen again.
+
+If there is more Molina Healthcare can do to help you, please call our Member Services Department at
+(800) 665-3086, 7 days a week, 8:00 AM to 8:00 PM local time, (TTY 711).
+
+Sincerely,
+
+
+Molina Healthcare
+Member Services Department
+
+
+
+
+Molina Medicare Options Plus HMO SNP is a Health Plan with a Medicare Contract and a contract with
+the state Medicaid program. Enrollment in Molina Medicare Options Plus depends on contract renewal.
+This information is available in other formats, such as Braille, large print, and audio.
+
+This information is available for free in other languages. Please call our customer service number at
+(800) 665-3086, TTY 711, 7 days a week, 8 a.m. - 8 p.m., local time. Esta informacin estÆ disponible
+gratuitamente en otros idiomas. Por favor, comunquese a nuestro nœmero de telØfono para servicio al
+cliente al (800) 665-3086,TTY 711, los 7 das de la semana , de 8:00 a.m. a 8:00 p.m., hora local.
+
+This information is not a complete description of benefits. Contact the plan for more information.
+Limitations, copayments, and restrictions may apply. Benefits, premiums and/or co-payments/co-
+insurance may change on January 1 of each year.
+
+
+
+
+NSR_16_MMG_253_LRAHCBreachNoticeA

@@ -1,0 +1,168 @@
+                                                                                      4530 Conference Way S.
+                                                                                        Boca Raton, FL 33431
+
+
+
+
+<<Firstname>> <<Middlename>> <<Lastname>>                           <<Date>> (Format: Month Day, Year)
+<<Address1>>
+<<Address2>>
+<<City>>, <<Stateprovince>> <<Postalcode>>
+<<Intelligent Mail Barcode>>
+
+
+
+Subject:	 Security Incident
+Dear <<Firstname>> <<Middlename>> <<Lastname>>,
+We are writing to tell you about a data security incident that may have exposed a limited amount of
+your personal information.
+We take the protection and proper use of information very seriously. We are contacting you directly
+to let you know how we are protecting you personally and how we are strengthening our security.
+
+What Happened?
+TLO is a data solutions provider, providing investigative and risk management tools to law enforcement,
+government agencies and private-sector organizations for due diligence, threat assessment, identity
+authentication, fraud prevention and detection, legislative compliance, and debt recovery purposes.
+On January 15, 2013, we discovered potential fraudulent access to our system. The individual accessed
+a limited set of information which may have included information about you, including your name,
+Social Security number and/or driver’s license number, through what we now believe was a fraudulent
+account. There was limited access to information beginning in August of 2012, with the majority of access
+through this account occurring in January, 2013. Upon discovering the fraudulent access, we immediately
+terminated access and we worked with law enforcement to identify and locate the individual. Law
+enforcement asked that we delay our notification to you so as not to interfere with their investigation.
+The individual has been arrested and his operation has been shut down. To date, no misuse of information
+has been reported to us or, to our knowledge, law enforcement. Law enforcement has lifted its hold
+request, which is why we are notifying you at this time.
+
+
+
+
+     Next Steps
+
+ð    Your membership number is: <<MEMBERSHIPNUMBER>>
+     1.	 Go to www.idintegrity.com to start your credit monitoring
+      	 Please be prepared to provide your membership number. Instructions are provided online.
+     	   If you would prefer to receive your alerts through the mail instead of online, fill out the enclosed
+         Consumer Credit Report and Credit Monitoring Authorization Form and return it in the enclosed
+         postage-paid envelope.
+     2.	 Call 1-866-???-KrIh if you need help or have questions
+     	 8 a.m. to 5 p.m. (Central Time), Monday through Friday
+     	 Kroll representatives are ready to help you.
+
+
+
+                                                                                                    930J99-0313
+What Are We Doing To Protect You?
+We have taken and are taking appropriate measures to enhance our information security program to further
+safeguard against a breach of data security in the future. In addition, we have secured the services of Kroll Advisory
+Solutions to provide identity theft safeguards at no cost to you through its ID TheftSmart program. Kroll Advisory
+                                                                                                 TM
+
+
+
+
+Solutions is a global leader in risk mitigation and response, and their team has extensive experience when it comes
+to helping people who have sustained an unintentional exposure of confidential data.
+Your identity theft safeguards include Continuous Credit Monitoring and Enhanced Identity Theft Consultation
+and Restoration. Instructions on how to receive your services are on the previous page.
+TLO is providing you with access to the following services from Kroll Advisory Solutions, at no cost to you.
+Please note that in order to activate the following services you will need to follow the instructions in the “Next
+Steps” box on the first page of this letter.
+    Continuous Credit Monitoring. We are providing you with no-cost access to Kroll’s credit monitoring service
+    for 12 months from the date of this letter. Once activated, you will receive alerts whenever there are certain
+    changes in your credit file that could indicate an issue.
+    Enhanced Identity Theft Consultation and Restoration. Licensed Investigators, who truly understand the
+    problems surrounding identity theft, are available to listen, to answer your questions, and to offer their expertise
+    regarding any concerns you may have. And should your name and credit be affected by this incident, your
+    investigator will help restore your identity to pre-theft status.
+To receive credit monitoring, you must be over the age of 18 and have established credit in the U.S., have a Social
+Security number in your name, and have a U.S. residential address associated with your credit file.
+
+What Should You Do If You Have Any Questions Or Feel You Have An Identity Theft Issue?
+Call 1-866-???-KrIh, 8 a.m. to 5 p.m. (Central Time), Monday through Friday. Kroll’s Licensed Investigators are
+standing by to answer your questions or help you with concerns you may have. Please have your membership
+number ready.
+Additionally, The Federal Trade Commission (FTC) offers consumers assistance and education materials relating
+to identity theft, privacy issues, and security freezes. The FTC may be contacted at:
+    Federal Trade Commission
+    Consumer Response Center
+    600 Pennsylvania Avenue, NW
+    Washington, D.C. 20580
+    (877) 438-4338
+    www.ftc.gov/bcp/edu/microsites/idtheft/
+
+We deeply regret that this has happened. We trust that the quality and reliability of the services we are offering
+to you demonstrate our continued commitment to your security and satisfaction.
+Sincerely,
+Jaime Brightly
+Compliance Specialist
+
+
+
+P.S.	 Remember, safeguards for your personal data security are available at no cost to you.
+      To enroll:
+	      1.	 Go to www.idintegrity.com to activate your credit monitoring.
+	3.	
+   Call 1-866-???-KrIh if you have an identity theft issue or if you have any questions.
+ 	 Kroll’s licensed investigators are ready to help you.
+
+
+
+
+                            Learn more about Kroll Advisory Solutions at www.krolladvisory.com
+State Notification Requirements
+
+All States.
+You may obtain a copy of your credit report or request information on how to place a fraud alert or security
+freeze by contacting any of the national credit bureaus below. It is recommended that you remain vigilant for
+incidents of fraud and identity theft by reviewing credit card account statements and monitoring your credit
+report for unauthorized activity.
+	Equifax	                              Experian	                         TransUnion
+	 P.O. Box 740241	                     P.O. Box 9554	                    P.O. Box 2000
+	 Atlanta, Georgia 30374	              Allen, TX 75013	                  Chester, PA 19022
+	1-800-525-6285	                       1-888-397-3742	                   1-800-888-4213
+	www.equifax.com	                      www.experian.com	                 www.transunion.com
+
+For residents of Iowa, Maryland, Michigan, Missouri, North Carolina, Oregon, and West Virginia.
+It is required by state laws to inform you that you may obtain a copy of your credit report, free of charge,
+whether or not you suspect any unauthorized activity on your account.
+
+For residents of Iowa.
+State law advises you to report any suspected identity theft to law enforcement or to the Attorney General.
+
+For residents of Oregon.
+State laws advise you to report any suspected identity theft to law enforcement, as well as the Federal
+Trade Commission.
+
+For residents of Illinois, Maryland and North Carolina.
+You can obtain information from the Maryland and North Carolina Offices of the Attorneys General and the
+Federal Trade Commission about steps you can take toward preventing identity theft.
+	   Maryland Office of the	            North Carolina Office of the	      Federal Trade Commission
+	   Attorney General	                  Attorney General	                  Consumer Response Center
+	 Consumer Protection Division	        Consumer Protection Division	      600 Pennsylvania Avenue, NW
+	 200 St. Paul Place	                  9001 Mail Service Center	          Washington, DC 20580
+	 Baltimore, MD 21202	                 Raleigh, NC 27699-9001	            1-877-IDTHEFT (438-4338)
+	1-888-743-0023	                       1-877-566-7226	                    www.ftc.gov/bcp/edu/microsites/idtheft/
+	www.oag.state.md.us	                  www.ncdoj.com
+
+For residents of Massachusetts.
+It is required by state law that you are informed of your right to obtain a police report if you are a victim of
+identity theft.
+
+For residents of Massachusetts and West Virginia.
+You also have the right to place a security freeze on your credit report by contacting any of the credit bureaus
+listed at the top of this page. A security freeze is intended to prevent credit, loans and services from being
+approved in your name without your consent. However, please be aware that placing a security freeze on your
+credit report may delay, interfere with, or prevent the timely approval of any requests you make for new loans,
+credit mortgages, employment, housing, or other services.
+To place a security freeze on your credit report, you may be able to use an online process, an automated
+telephone line or a written request. The following information must be included when requesting a security
+freeze (note that if you are requesting a credit report for your spouse, this information must be provided for
+him/her as well): (1) full name, with middle initial and any suffixes; (2) Social Security number; (3) date of
+birth; (4) current address and any previous addresses for the past five years; and (5) any applicable incident
+report or complaint with a law enforcement agency or the Registry of Motor Vehicles. The request must
+also include a copy of a government-issued identification card and a copy of a recent utility bill or bank or insur-
+ance statement. It is essential that each copy be legible, display your name and current mailing address, and
+the date of issue. The consumer reporting agency may charge a fee of up to $5.00 to place a freeze or lift or
+remove a freeze and free if you are a victim of identity theft or the spouse of a victim of identity theft, and you
+have submitted a valid police report relating to the identity theft incident to the consumer reporting agency.         930L99-0313

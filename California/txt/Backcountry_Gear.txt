@@ -1,0 +1,117 @@
+July 28, 2014
+
+
+<Customer Email Address>
+
+Re: Payment Card Compromise
+
+Dear <Customer Name>:
+
+Our company was founded on a commitment to absolute customer service and satisfaction. We
+believe in transparency and clear communication. We therefore want to alert you that on July
+23, 2014, we discovered that malware (malicious computer code) had been installed on our
+server which compromised customer payment card information submitted with orders to our
+company between April 27 and July 17, 2014. We have reported the matter to law enforcement.
+
+It appears that the malware was installed on April 27, 2014, and that it was subsequently
+detected, contained, and removed from our server by July 23, 2014. It appears that the malware
+caused payment card data to be stolen on orders to our company between April 27 and July 17,
+2014. The payment card data was comprised of customer names, mailing addresses, purchase
+information, and credit card or debit card numbers. Since we do not use or collect debit or credit
+card PINs or bank account numbers in our transactions, none of this data would have been
+present in a transaction and would not have been affected by the breach.
+
+Our site is now secure and measures have been implemented to prevent similar attempts in the
+future. We are not aware of any connection between this breach and cases of fraud. We have
+reported the breach to our merchant bank and to the three major credit bureaus in the United
+States: Equifax, Experian and TransUnion. We did not provide them your personal information.
+
+We deeply regret the inconvenience this may cause you. We take the security of your
+information very seriously and encourage you to contact us should you have any questions. You
+can call us at 800-953-5499 ext. 5, email us at data@backcountrygear.com, or visit us at
+www.backcountrygear.com/data-notification. In the meanwhile, in addition to the notification
+advisories on the following pages, we encourage you to change the password to the account you
+hold with us. We also recommend that you closely monitor your financial accounts and that you
+promptly contact your financial institution if you notice any unauthorized activity.
+
+Again, we apologize for any inconvenience this may create. We know we are one of many
+companies to experience a data breach, but we are frustrated on your behalf. We will do our best
+to serve you as completely and as quickly as possible. On behalf of each member of our team,
+thank you for your patience and loyalty.
+
+Sincerely,
+
+
+Michael Monson,
+Co-Founder and Owner of Backcountrygear.com
+
+                Please see State Notification Requirements on the following pages
+
+
+                                                1
+                               State Notification Requirements
+
+All States: You may obtain a copy of your credit report at www.annualcreditreport.com or 877-
+322-8228. You may also request information on how to place a fraud alert or security freeze by
+contacting any of the following national credit bureaus. It is recommended that you remain
+vigilant for any incidents of fraud or identity theft by reviewing credit card account statements
+and your credit report for unauthorized activity.
+
+Equifax                       Experian                      TransUnion
+P.O. Box 740241               P.O. Box 2104                 P.O. Box 2000
+Atlanta, GA 30374             Allen, TX 75013               Chester, PA 19022
+www.equifax.com               www.experian.com              www.transunion.com
+800-525-6285                  888-397-3742                  800-680-7289
+
+For residents of Massachusetts: It is required by state law that you be informed of your right to
+obtain a police report if you are a victim of identity theft.
+
+For residents of Massachusetts and West Virginia: It is required by state law that you be
+informed of your right to place a security freeze on your credit report by contacting any of the
+credit bureaus listed above. A security freeze is intended to prevent credit, loans and services
+from being approved in your name without your consent. The security freeze is free of charge if
+you are a victim of identity theft and you provide a copy of an identity theft report made to law
+enforcement or the Department of Motor Vehicles. The consumer reporting bureau may charge
+a fee (generally $5.00) to lift or remove a security freeze.
+
+To place a security freeze on your credit report, you may be able to use an online process, an
+automated telephone line or a written request. Written requests can be made to the addresses
+referenced above. Online and telephonic requests can be made to the following sites and
+numbers: Equifax – https://www.freeze.equifax.com and 800-349-9960; Experian -
+https://www.experian.com/freeze/center.html and 888-397-3742; and TransUnion -
+http://www.transunion.com/personal-credit/credit-disputes/credit-freezes.page and 888-909-
+8872. The following information must be included when requesting a security freeze: full name
+and any suffixes; complete address; Social Security Number; date of birth; proof of
+identification; and the identify theft report referenced above.
+
+For residents of Iowa, Maryland, Michigan, Missouri, North Carolina, Oregon, and West
+Virginia: It is required by state laws that you be informed that you may obtain a copy of your
+credit report, free of charge, whether or not you suspect any unauthorized activity on your
+account.
+
+For residents of Iowa: State law advises you to report any suspected identity theft to law
+enforcement or to the Attorney General.
+
+For residents of Oregon: State law advises you to report any suspected identity theft to law
+enforcement and to the Federal Trade Commission.
+
+For residents of Illinois, Maryland and North Carolina: You can obtain information from the
+Federal Trade Commission, and for residents of Maryland and North Carolina, from your
+respective state Office of the Attorney General, about steps you can take toward preventing
+identity theft. These addresses are set forth on the following page.
+
+                                                2
+Federal Trade Commission                  Maryland Office of the        North Carolina Office
+Consumer Response Center                  Attorney General              of the Attorney General
+600 Pennsylvania Avenue, NW               Consumer Protection           Consumer Protection
+Washington, D.C. 20580                    Division                      Division
+www.ftc.gov/bcp/edu/microsites/idtheft/   http://www.oag.state.md.us/   http://www.ncdoj.gov/
+877-IDTHEFT (438-4338)                    888-743-0023                  877-566-7226
+
+For residents of Vermont: State law advises you not to provide personal information in
+response to electronic communications regarding security breaches.
+
+
+
+
+                                               3

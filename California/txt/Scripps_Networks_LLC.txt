@@ -1,0 +1,45 @@
+Subject: Food.com Security Incident
+
+Dear Valued Food.com User:
+
+We recently learned of a potential unauthorized intrusion into the Food.com system that may have
+affected your email/username and password for logging into your Food.com account used for managing
+your recipe box and posting recipes on the site. These credentials can also be used to log into your user
+account on the Foodnetwork.com website as well as the Food Network In the Kitchen and Food.com mobile
+applications. We have been actively working with an experienced cybersecurity forensic investigator to
+assist with our investigation of the incident.
+
+Our investigation has determined that there was an illegal intrusion into the Food.com system between
+August 8, 2015 and September 2, 2015 that resulted in unauthorized access to, and potential acquisition of,
+some Food.com registered user emails/usernames and passwords for logging into Food.com accounts,
+including yours. Please note that on Food.com, your email serves as your username. The investigation also
+indicates that some users’ dates of birth may have been acquired, but there is no indication that home
+addresses or any other information that you may have provided to Food.com was accessed or acquired. No
+credit card or other financial information, or government issued identification numbers (i.e. social security
+numbers, tax ID numbers, social insurance numbers) are collected or stored by Food.com.
+
+In light of this incident, we recommend that you change the password to your Food.com account. To do so,
+please log in to your Food.com account and from your account settings page follow the link to change your
+password. When your Food.com account password is changed on the Food.com site, the password also will
+be updated for the Foodnetwork.com website and the Food Network In the Kitchen and Food.com mobile
+apps. If you have any questions regarding how to change your password please visit
+www.food.com/howtochangeyourpassword for detailed instructions. In addition to changing your
+Food.com password, we recommend that you change your password for any other website or system
+where you use the same or a similar email/username and password combination. According to
+government-recommended practices, strong passwords are long and include a mix of upper and lowercase
+letters, numbers and symbols.
+
+Please remember that Food.com will never ask you to provide personal or account information in an e-mail
+or over the phone. Therefore, please exercise caution if you receive any emails or phone calls asking for
+your personal information, as those communications could be a “phishing” attack (unlawful
+communications designed to entice you to turn over your personal information).
+
+The Food.com team is strongly committed to protecting the privacy and security of our customer
+information, and we have taken steps to ensure that this type of intrusion does not happen again. If you
+have any questions regarding this incident or if you desire further information or assistance please call 800-
+380-6336 between 9am – 7pm EST Monday to Friday. Please use the reference number 1031100715 when
+contacting the call center.
+
+Sincerely,
+
+The Food.com Team

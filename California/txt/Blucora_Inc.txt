@@ -1,0 +1,124 @@
+January 11, 2016
+
+Name
+Street address
+City, State, Zip
+
+
+                                          Notice of Data Breach
+
+What happened?
+
+Fighting tax-related identity theft is a high priority for TaxAct. We have been working diligently with the
+IRS, state regulators and other tax software providers to identify new security measures we can use to
+deter such fraudulent activity. As part of that ongoing process, we recently discovered suspicious activity
+related to your TaxAct account.
+
+We have concluded that an unauthorized third party accessed your TaxAct account between November
+10 and December 4, 2015. We have no evidence that any TaxAct system has been compromised and
+believe the third party used username and password combinations obtained from sources outside of our
+own system. In order to stop this unauthorized access, we have temporarily disabled your account.
+
+What information was involved?
+
+In addition to your username and password, we have reviewed our website logs for account activity
+after this attempted access, and found that the tax return(s) stored in your account may have been
+opened or printed. These documents may contain your name and Social Security number, and may also
+contain your address, driver’s license number, and bank account information.
+
+What are we doing?
+
+We have investigated the incident and taken the necessary steps to prevent this unauthorized access
+from recurring as well as mitigate its effect on you.
+
+To help ensure you are protected in the future, we are offering you free credit monitoring and
+restoration services through ID Experts®. ID Experts’ MyIDCare includes 12 months of credit monitoring,
+a $1,000,000 insurance reimbursement policy, exclusive educational materials and complete access to
+its fraud resolution representatives. With this protection, ID Experts will help you resolve issues if your
+identity is compromised. We encourage you to contact ID Experts with any questions and to enroll in the
+free services by calling 877-276-7335 or going to www.myidcare.com/taxactinfo . You will need to
+reference the following access code when calling or enrolling on the website, so please do not discard
+this letter. Your access code is: [Enrollment code]. ID Experts is available Monday through Friday from 6
+am - 6 pm Pacific Time. Please note the deadline to enroll is April 18, 2016.
+
+
+
+
+                                                                                                         1
+What you can do
+
+To protect your TaxAct account and the information therein:
+
+    1. Go to www.taxact.com. Click on the sign in button. When you enter your user name and
+       password, the system will identify that your account has been disabled. It will then walk you
+       through a process to verify your identity.
+    2. Once you access your account, click on the “My Info” tile to verify your personal information.
+    3. Go back to My Account and select the “My Preferences” tile. Make sure your email address is
+       correct.
+    4. Go back to My Account again. Click on the “My taxes” tab. Select your return, navigate to the
+       “Filing” step and verify your bank account information.
+    5. If you find that any of this information has been changed without your knowledge, please
+       update it accordingly.
+
+In addition, to prevent unauthorized access to your other online accounts (those separate from any
+TaxAct account(s)), you should immediately change your password for any other service where you use
+the same username and password.
+
+We also strongly recommend that you obtain an Identity Protection Pin (IP PIN) from the IRS. This is a
+unique pin assigned you which would be required to file your tax return. Further, it will ensure that
+someone else cannot file a return with your social security number without the IP PIN. You can obtain
+this pin when the IRS begins offering them, estimated to be in late January, by going to
+https://www.irs.gov/Individuals/Get-An-Identity-Protection-PIN.
+
+We encourage you to monitor your credit reports for fraudulent transactions or accounts. You may
+obtain a free copy of your credit report maintained by each of the three credit reporting agencies by
+visiting www.annualcreditreport.com or by calling toll-free 877-322-8228. Review the reports carefully,
+and if you find anything you do not understand or that is incorrect, contact the appropriate credit
+reporting agency. If you suspect fraudulent activity, you can contact your local law enforcement agency,
+the attorney general of your state, and the Federal Trade Commission.
+
+You may also consider contacting the credit reporting agencies directly if you wish to put in place a fraud
+alert or security freeze. A fraud alert will notify any merchant checking your credit history that you may
+be the victim of identity theft and that the merchant should take additional measures to verify the
+application. Contacting any one of the three agencies will place an alert on your file at all three. A
+security freeze restricts all creditor access to your account, but might also delay any requests you might
+make for new accounts. Inquire with the credit reporting agencies for their specific procedures
+regarding security freezes.
+
+       Equifax: 1-800-525-6285; www.equifax.com; P.O. Box 740241, Atlanta, GA 30374-0241
+
+
+
+                                                                                                         2
+       Experian: 1-888-EXPERIAN (391-3742); www.experian.com; Fraud Victim Assistance Division,
+        P.O. Box 9532, Allen, TX 75013
+       TransUnion: 1-800-680-7289; www.transunion.com; Fraud Victim Assistance Division, P.O. Box
+        6790, Fullerton, CA 92834-6790
+
+The Federal Trade Commission also provides information about how to avoid identity theft and what to
+do if you suspect your identity has been stolen.
+
+The Federal Trade Commission
+Identity Theft Clearinghouse
+600 Pennsylvania Avenue NW
+Washington, D.C. 20580
+www.consumer.ftc.gov
+1-877-ID-THEFT (877-438-4338)
+
+For more information
+
+You may contact us in writing at TaxAct, attn.: Account Access, 1425 60th Street, Cedar Rapids, IA 52402
+or you can call us at 877-276-7335.
+
+On behalf of the entire TaxAct team, we regret any inconvenience this may cause you.
+
+
+Sincerely,
+Chief Operating Officer
+Rob Gettemy
+[Signature]
+
+
+
+
+                                                                                                           3

@@ -1,0 +1,459 @@
+                                       KORN/FERRY INTERNATIONAL
+
+
+
+
+AMERICAS
+ATLANTA
+BOGOTA            October 11, 2012
+BOSTON
+BUENOS AIRES
+CALGARY
+CARACAS
+                  We are writing to inform you about a recent incident involving our data network. We recently
+CHICAGO
+DALLAS
+                  learned that we were the victim of a sophisticated cyber attack. We deeply regret that this incident
+DENVER            occurred and take very seriously the security of our network.
+HOUSTON
+LIMA
+LOS ANGELES
+MEXICO CITY
+                  We began investigating the incident as soon as we learned of it. While our investigation is
+MIAMI
+MINNEAPOLIS
+                  ongoing, we have determined that, although the affected databases were not designed or structured
+MONTERREY         to receive sensitive personal information, a small percentage of the files nevertheless included an
+MONTREAL
+NEWPORT BEACH     individual’s name in combination with his or her driver’s license number, government-issued
+NEW YORK
+PHILADELPHIA      identification number, Social Security number, credit card numbers or health information. It is
+PRINCETON
+QUITO             important to note that we have no evidence that access to personal information was the goal of the
+RIO DE JANEIRO
+SAN FRANCISCO
+                  attack.
+SANTIAGO
+SÃO PAULO
+SEATTLE           Korn/Ferry has already taken a number of steps to enhance the security of the relevant computer
+SILICON VALLEY
+STAMFORD          network. In addition to these steps, we have been working with law enforcement in connection
+TORONTO
+TYSONS CORNER
+                  with their investigation of the incident. Korn/Ferry quickly secured its network against the attack,
+VANCOUVER
+WASHINGTON D.C.
+                  which appears to have been underway for a number of months, shortly after discovering it in
+                  August 2012. Korn/Ferry was asked by federal law enforcement officials, however, to delay
+EUROPE
+AMSTERDAM         disclosure of the existence of the attack until now.
+ATHENS
+BARCELONA
+BIRMINGHAM
+BRUSSELS
+                  Thus far in our investigation, we have found no evidence to suggest that your personal information
+BUCHAREST
+BUDAPEST
+                  has been misused. Nevertheless, as a precautionary measure, we are reaching out to you so that
+COPENHAGEN        you are aware of the incident and can take steps to further protect your personal information. A
+FRANKFURT
+GENEVA            list of those steps is outlined in the attached “Important Steps to Consider.”
+GOTHENBURG
+HELSINKI
+ISTANBUL
+LONDON
+                  In addition to those precautions, Korn/Ferry is offering you a one year enrollment in Experian
+LUXEMBOURG
+MADRID
+                  Consumer Direct’s “Protect My ID Alert®” service. This product helps detect possible misuse of
+MILAN             your personal information and provides you with identity protection services focused on
+MOSCOW
+OSLO              immediate identification and resolution of possible identity theft found on Experian, Equifax or
+PARIS
+ROME              TransUnion credit reports. More information about the service, including instructions for
+STOCKHOLM
+VIENNA
+                  activating the service if you so choose, are included in the enclosed description. If you choose to
+WARSAW
+ZURICH
+                  activate this service, Korn/Ferry will pay for a one-year subscription on your behalf.
+ASIA/PACIFIC
+AUCKLAND          Korn/Ferry places a high value on the trust of our candidates and clients. We regret any
+BANGKOK
+BEIJING           inconvenience this may have caused and encourage you to contact us at 1-800-971-5875 if you
+BOMBAY
+HONG KONG
+                  have any questions regarding this matter.
+JAKARTA
+KUALA LUMPUR
+MELBOURNE                                                                  Sincerely,
+NEW DELHI
+SEOUL
+SHANGHAI
+SINGAPORE
+SYDNEY
+TOKYO
+WELLINGTON
+                                                                           Thom Steinhoff
+                                                                           Chief Technology Officer
+                                        KORN/FERRY INTERNATIONAL
+
+
+
+
+AMERICAS                                             Important Steps to Consider
+ATLANTA
+BOGOTA
+BOSTON
+BUENOS AIRES      While as noted in the attached letter, we have not found any indication that personal information
+CALGARY
+CARACAS
+                  has been misused, as a precaution, you may wish to consider the following steps.
+CHICAGO
+DALLAS
+DENVER            You should remain vigilant for incidents of fraud and identity theft, including by regularly
+HOUSTON
+LIMA              reviewing your account statements and credit reports. If you discover any suspicious or unusual
+LOS ANGELES
+MEXICO CITY       activity on your accounts or suspect identity theft or fraud, be sure to report it immediately to your
+MIAMI
+MINNEAPOLIS
+                  financial institutions. In addition, you may contact the Federal Trade Commission (“FTC”) or law
+MONTERREY
+MONTREAL
+                  enforcement to report incidents of identity theft or to learn about steps you can take to protect
+NEWPORT BEACH     yourself from identity theft. To learn more, you can contact the FTC at:
+NEW YORK
+PHILADELPHIA
+PRINCETON
+QUITO                     Federal Trade Commission
+RIO DE JANEIRO
+SAN FRANCISCO             Consumer Response Center
+SANTIAGO
+SÃO PAULO                 600 Pennsylvania Avenue, NW
+SEATTLE
+SILICON VALLEY            Washington, DC 20580
+STAMFORD
+TORONTO                   (877) IDTHEFT (438-4338)
+TYSONS CORNER
+VANCOUVER                 http://www.ftc.gov/idtheft/
+WASHINGTON D.C.
+
+EUROPE
+AMSTERDAM
+                  In addition, you can visit http://www.ftc.gov/bcp/edu/pubs/consumer/idtheft/idt04.pdf to review
+ATHENS            an online copy of “Taking Charge: What To Do If Your Identity Is Stolen,” a comprehensive
+BARCELONA
+BIRMINGHAM        guide from the FTC to help you guard against and deal with identity theft. You may also request a
+BRUSSELS
+BUCHAREST         hard copy of this comprehensive guide by calling the number provided in the attached letter.
+BUDAPEST
+COPENHAGEN
+FRANKFURT         You may periodically obtain credit reports from each nationwide credit reporting agency and, if
+GENEVA
+GOTHENBURG        you discover information on your credit report arising from a fraudulent transaction, you should
+HELSINKI
+ISTANBUL          request that the credit reporting agency delete that information from your credit report file. Under
+LONDON
+LUXEMBOURG        federal law, you are entitled to one free copy of your credit report every 12 months from each of
+MADRID
+MILAN
+                  the three nationwide credit reporting agencies. You may obtain a free copy of your credit report
+MOSCOW
+OSLO
+                  by going to www.AnnualCreditReport.com or by calling (877) 322-8228. You may contact the
+PARIS             nationwide credit reporting agencies at:
+ROME
+STOCKHOLM
+VIENNA
+WARSAW                    Equifax                           Experian                    TransUnionCorp
+ZURICH
+                          P.O. Box 105873                   P.O. Box 2002               P.O. Box 1000
+ASIA/PACIFIC
+AUCKLAND                  Atlanta, GA 30348                 Allen, TX 75013-2002 Chester, PA 19022
+BANGKOK
+BEIJING                   800-525-6285                      888-397-3742                800-680-7289
+BOMBAY
+HONG KONG                 www.equifax.com                   www.experian.com            www.transunion.com
+JAKARTA
+KUALA LUMPUR
+MELBOURNE
+NEW DELHI
+                  You also may obtain additional information from the FTC and the nationwide credit reporting
+SEOUL             agencies about fraud alerts and security freezes. A fraud alert can make it more difficult for
+SHANGHAI
+SINGAPORE         someone to get credit in your name because it tells creditors to follow certain procedures to protect
+SYDNEY
+TOKYO             you, but it also may delay your ability to obtain credit. You may place a fraud alert by calling just
+WELLINGTON
+                  one of the nationwide credit reporting agencies listed above. As soon as that agency processes
+                  your fraud alert, it will notify the other two agencies, which then must also place fraud alerts in
+                                       KORN/FERRY INTERNATIONAL
+
+
+
+
+AMERICAS          your file. A security freeze is a different fraud prevention tool that prohibits anyone from
+ATLANTA
+BOGOTA            accessing your credit history without your authorization. There is normally a small fee for
+BOSTON
+BUENOS AIRES      obtaining a security freeze, which is generally waived if you are a victim of identity theft. If you
+CALGARY
+CARACAS           request a security freeze, you must unfreeze your credit file before applying for credit or other
+CHICAGO
+DALLAS
+                  services that require accessing your credit history. You should be aware that placing a security
+DENVER            freeze on your credit report may delay, interfere with, or prevent the timely approval of any
+HOUSTON
+LIMA              requests you make for new loans, credit mortgages, employment, housing, or other services.
+LOS ANGELES
+MEXICO CITY
+MIAMI
+MINNEAPOLIS
+                  IF YOU ARE A MARYLAND RESIDENT: You may obtain information about avoiding identity
+MONTERREY
+MONTREAL
+                  theft from the FTC or the Maryland Attorney General. These offices can be reached at:
+NEWPORT BEACH
+NEW YORK
+PHILADELPHIA              Federal Trade Commission                 Attorney General of Maryland
+PRINCETON
+QUITO                     Consumer Response Center                 Consumer Protection Division
+RIO DE JANEIRO
+SAN FRANCISCO             600 Pennsylvania Avenue, NW              200 St. Paul Place
+SANTIAGO
+SÃO PAULO
+                          Washington, DC 20580                     Baltimore, MD 21202
+SEATTLE                   (877) IDTHEFT (438-4338)                 (888) 743-0023
+SILICON VALLEY
+STAMFORD                  http://www.ftc.gov/idtheft/              http://www.oag.state.md.us
+TORONTO
+TYSONS CORNER
+VANCOUVER
+WASHINGTON D.C.   IF YOU ARE A NORTH CAROLINA RESIDENT: You may obtain information about avoiding
+EUROPE
+                  identity theft from the FTC or the Attorney General of North Carolina. These offices can be
+AMSTERDAM
+ATHENS
+                  reached at:
+BARCELONA
+BIRMINGHAM
+BRUSSELS                  Federal Trade Commission                 North Carolina Department of Justice
+BUCHAREST
+BUDAPEST                  Consumer Response Center                 Attorney General Roy Cooper
+COPENHAGEN
+FRANKFURT
+                          600 Pennsylvania Avenue, NW              9001 Mail Service Center
+GENEVA
+GOTHENBURG
+                          Washington, DC 20580                     Raleigh, NC 27699-9001
+HELSINKI                  (877) IDTHEFT (438-4338)                 (877) 566-7226
+ISTANBUL
+LONDON                    http://www.ftc.gov/idtheft/              http://www.ncdoj.gov/
+LUXEMBOURG
+MADRID
+MILAN
+MOSCOW
+                  IF YOU ARE AN IOWA RESIDENT: You may also report suspected incidents of identity theft to
+OSLO
+PARIS
+                  local law enforcement or the Iowa Attorney General. This office, like the credit bureaus and the
+ROME              FTC, can provide you with information about steps you can take to avoid identity theft.
+STOCKHOLM
+VIENNA            Additional contact information for the Attorney General of Iowa is as follows:
+WARSAW
+ZURICH
+
+ASIA/PACIFIC
+                          Attorney General of Iowa
+AUCKLAND
+BANGKOK
+                          1305 E. Walnut Street
+BEIJING                   Des Moines, IA 50319
+BOMBAY
+HONG KONG                 http://www.iowaattorneygeneral.gov
+JAKARTA
+KUALA LUMPUR              (888) 777-4590
+MELBOURNE
+NEW DELHI
+SEOUL
+SHANGHAI
+SINGAPORE
+SYDNEY
+TOKYO
+WELLINGTON
+                                        KORN/FERRY INTERNATIONAL
+
+
+
+
+AMERICAS                                          Experian’s® ProtectMyID® Alert
+ATLANTA
+BOGOTA
+BOSTON
+BUENOS AIRES      To help protect your identity, Korn/Ferry International is offering a complimentary one-year
+CALGARY
+CARACAS           membership of Experian’s® ProtectMyID® Alert. This product helps detect possible misuse of
+CHICAGO
+DALLAS
+                  your personal information and provides you with superior identity protection services focused on
+DENVER            immediate identification and resolution of identity theft.
+HOUSTON
+LIMA
+LOS ANGELES
+MEXICO CITY                              Activate ProtectMyID® Alert Now in Three Easy Steps
+MIAMI
+MINNEAPOLIS
+MONTERREY
+MONTREAL
+NEWPORT BEACH     1.   ENSURE That You Enroll By: January 31, 2013
+NEW YORK
+PHILADELPHIA
+                  2.   VISIT the ProtectMyID® Alert Web Site: www.protectmyid.com/redeem or call 877-371-7902
+PRINCETON              to enroll
+QUITO
+RIO DE JANEIRO    3.   PROVIDE Your Activation Code: [code]
+SAN FRANCISCO
+SANTIAGO
+SÃO PAULO
+SEATTLE
+                  Once your ProtectMyID® Alert membership is activated, your credit report will be monitored
+SILICON VALLEY    daily for 50 leading indicators of identity theft. You’ll receive timely Credit Alerts from
+STAMFORD
+TORONTO           ProtectMyID® Alert on any key changes in your credit report which could include new inquiries,
+TYSONS CORNER
+VANCOUVER         new credit accounts, medical collections and changes to public records.
+WASHINGTON D.C.
+
+EUROPE            ProtectMyID® Alert provides you with powerful identity protection that will help detect, protect
+AMSTERDAM
+ATHENS            and resolve potential identity theft. In the case that identity theft is detected, ProtectMyID® Alert
+BARCELONA
+BIRMINGHAM        will assign a dedicated U.S.-based Identity Theft Resolution Agent who will walk you through the
+BRUSSELS
+BUCHAREST
+                  process of fraud resolution from start to finish for seamless service.
+BUDAPEST
+COPENHAGEN
+FRANKFURT                     Your complimentary 12-month ProtectMyID® Alert membership includes:
+GENEVA
+GOTHENBURG
+HELSINKI
+ISTANBUL
+                          Credit Report: A free copy of your Experian® credit report
+LONDON
+LUXEMBOURG
+                          Daily 3 Bureau Credit Monitoring: Alerts you of suspicious activity including new
+MADRID                     inquiries, newly opened accounts, delinquencies, or medical collections found on your
+MILAN
+MOSCOW                     Experian®, Equifax® and TransUnion® credit reports.
+OSLO
+PARIS                     Identity Theft Resolution: If you have been a victim of identity theft, you will be
+ROME
+STOCKHOLM
+                           assigned a dedicated, U.S.-based Experian® Identity Theft Resolution Agent who will
+VIENNA                     walk you through the fraud resolution process, from start to finish.
+WARSAW
+ZURICH                    ExtendCARE: Full access to the same personalized assistance from a highly-trained Fraud
+ASIA/PACIFIC               Resolution Agent even after your initial ProtectMyID® Alert membership expires.
+AUCKLAND
+BANGKOK
+                          $1 Million Identity Theft Insurance*: As a ProtectMyID® Alert member, you are
+BEIJING                    immediately covered by a $1 Million insurance policy that can help you cover certain
+BOMBAY
+HONG KONG                  costs including, lost wages, private investigator fees, and unauthorized electronic fund
+JAKARTA
+KUALA LUMPUR               transfers.
+MELBOURNE
+NEW DELHI
+SEOUL
+SHANGHAI
+SINGAPORE                          Activate your membership today at www.protectmyid.com/redeem
+SYDNEY
+TOKYO                               or call 877-371-7902 to register with the activation code above.
+WELLINGTON
+
+                  Once your enrollment in ProtectMyID® Alert is complete, you should carefully review your credit
+                                       KORN/FERRY INTERNATIONAL
+
+
+
+
+AMERICAS          report for inaccurate or suspicious items. If you have any questions about ProtectMyID® Alert,
+ATLANTA
+BOGOTA            need help understanding something on your credit report or suspect that an item on your credit
+BOSTON
+BUENOS AIRES      report may be fraudulent, please contact Experian’s® customer care team at 877-371-7902.
+CALGARY
+CARACAS
+CHICAGO
+DALLAS
+DENVER
+HOUSTON
+LIMA
+LOS ANGELES
+MEXICO CITY
+MIAMI
+MINNEAPOLIS
+MONTERREY
+MONTREAL
+NEWPORT BEACH
+NEW YORK
+PHILADELPHIA
+PRINCETON
+QUITO
+RIO DE JANEIRO
+SAN FRANCISCO
+SANTIAGO
+SÃO PAULO
+SEATTLE
+SILICON VALLEY
+STAMFORD
+TORONTO
+TYSONS CORNER
+VANCOUVER
+WASHINGTON D.C.
+
+EUROPE
+AMSTERDAM
+ATHENS
+BARCELONA
+BIRMINGHAM
+BRUSSELS
+BUCHAREST
+BUDAPEST
+COPENHAGEN
+FRANKFURT
+GENEVA
+GOTHENBURG
+HELSINKI
+ISTANBUL
+LONDON
+LUXEMBOURG
+MADRID
+MILAN
+MOSCOW
+OSLO
+PARIS
+ROME
+STOCKHOLM
+VIENNA
+WARSAW
+ZURICH
+
+ASIA/PACIFIC
+AUCKLAND
+BANGKOK
+BEIJING
+BOMBAY
+HONG KONG
+JAKARTA
+KUALA LUMPUR
+MELBOURNE
+NEW DELHI
+SEOUL
+SHANGHAI
+SINGAPORE
+SYDNEY
+TOKYO
+WELLINGTON

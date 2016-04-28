@@ -1,0 +1,731 @@
+                           Notice of Medical Informatics Engineering Data Incident
+
+HIPAA Covered Entif:                                     [name of covered entity]
+Number of ladividuals:                                   To be determined
+Notice Date:                                             June 1,2015
+Medical Informatics Engineering Contact:                 [name, Title], [telephone numbed
+
+Medical Informatics Eugineering ("MIE") is writing to provide notice of a data security compromise
+thatmay have affectedthe security ofsomeprotectedhealth information contained on our network,
+relating to certain [client name] patients. We ask that you provide this correspondence to appropriate
+administuative and/or managerial staff at your company to ensure this incident is brought to t}e
+attention of all necessary members of your organization.
+
+On May 26,2015, the technical team at MIE discovered suspicious activity relating to one of our
+seryers. We immediately initiated our Incident Response Plan and co*-enced an investigation to
+identifr and remediate any identified security vulnerability. Our team, including independent third-
+party forensics experts, has been working continuously to understand the nature and scope ofthe
+incident and to confimr the security of our systems. This investigation is ongoing. OnMay 26,
+2015, we also reported this incident to the FBI Cyber Squad, and are cooperating with the FBI's
+investigation.
+
+While our investigation and law enforcement's investigation into this incident €ne ongoing, we
+determined thatsomeprotectedhealthinformationcontainedonournetworkrelatingtoasoontobe
+confrmed number of patients was exposed as a result of this incident. The affected data may
+include patient name, home address, email address, date of birth, and for some patients a Social
+Security number. Other protected health inforrnation affected by this incident may include lab
+results, dictated reports and medical conditions. Our forensic investigation indicates the unauthorized
+accessto our network occurred on May 7,2015 through May 8, 2015. The attackers regained
+uaauthorized accessed to our network onMay 25,2015.
+
+'We
+    take the security of your patients' fuformation very seriously, and apologize for any concern and
+i-nconvenience this may cause you or yow patients. Certain legal duties may exist as a result of this
+exposwe, and we would like to assist you in satisfring these duties.
+
+Under applicable law, you may be required to provide notice ofthis incidentto your patients, as well
+as certain federal and state regulators, and/or the national consumer reporting agencies. We retained
+Lewis Brisbois Bisgaard & Smith, LLP C'LBBS") to assist us in determining what legal obligations
+may exist as a result of this incident.
+
+Your company's precise notice obligations, and the time in which you may be required to satisfu
+such obligations, are determined by HIPAA aad potentially various states' laws. Based on your risk
+assessment, the incident may reqrdre you to report details to the U.S. Departrnent of Health and
+Human Serviceg ('HHS") and to the [client name] patients whose information was contained on our
+network at the time of the attack. Notification duties to affected individuals, state regulators and the
+national consumer reporting agencies may also be required undertle data breach notification laws of
+the states where your patients reside. This notice does not constitute legal or compliance advice.
+
+
+
+4   8   t6-55 82-3 396.1
+Should you require specific legal guidance, we encourage you to discuss the contents ofthis letter,
+and ltdp's proposed actions, with independent legal counsel. If you wish to provide notice of this
+incidenttoyourpatienfsdirectly,weencourageyoutoconsultlegalcounsel. LBBSwouldbehappy
+to discuss this matter with your legal counsel.
+
+We would like to provide notice of this incident, on your company's behalfl to your affected
+patients, the national consumer reporting agencies, IIHS, and applicable State Attorneys Geueral.
+Attached as Exttibtt A is a list of the regulators MIE will nofify regarding this incident. We are
+notifuing only the regulators identified nExltibitA.If your company has reporting obligations to
+other regulators, including the Califomia Department of Public Health, that notice will be have to be
+submitted directly by your company. If you would like MIE to provide notice of this incident to
+your affected patients, the national con$utrer reporting agencies, and the regulators identified in
+Exhibit A, please confirm that we have your authority to provide these notices as soon as possible
+but, because time is of the essence, no later than [DATE]. [FOR applicable clients requiring
+system review: We also need our autho                       urc m a ts              ntained on our
+nefwork       determine the i            of the arffected        rlnh e dtieirts :nnd th recrse
+nrotecfed health information relatin f to these individu els. that hai been affected bv this
+incidentl. Consent to provide these notices on your company's behalf may be sent to [Eric Jones
+contact information].
+
+We take the security of protected health information very seriously. With your authorization, in
+addition to mailing notice to your affected patients, we will also provide your affected patients with
+the opporhrrity to enroll in identity monitoring and protection services at no cost to them should they
+feel it is appropriate to do so.
+
+We will establish a toll-free number that individuals can call if they have any questions regarding
+this incident. That nrunber will be provided in the notices to affected individuals.
+
+We are continuing to investigate this incident, and we are working diligently to address any
+identified security vulnerability associated with this incident. We are also reviewing ow security
+practices to enhance the security of protected health inforrnation at MIE.
+
+A11 questions regarding this notice and questions regarding the provision ofmailing addresses should
+be directed to our privacy and data secwity counsel, James Prendergast at (215) 977-4067.
+
+Our investigation into this incident is ongoing. We         will   update you with any substantial
+developments in this matter. We remain committed to the privacy of protected health inforrnation,
+and sincerely regret any inconvenience or concern that this may have caused you.
+
+
+
+Sincereln
+
+
+[signatory]
+[title]
+
+
+
+48 l6-5582-3395,   I
+                  Notice of Medical Informatlcs Engineering Data Incident
+
+HIPAA Covered Entity:                                 [namo of covered entity]
+Number of Individuals Impacted:                       To be determined
+Notice Date:                                          June 1, 2015
+NMClMedical Informatiss Engineering Contact:          lnamg Tidel, fhlephone numborl
+
+NoMoreClipboard (NMC") is writing to provide notice of a data security compromise that may
+have affected the security of some proteoted health information relating to certain individuals
+who used a NMC patient portal/personal heatth record sponsored by your organization. We ask
+that you provide this correspondence to appropriate administsative and./or managerial staff at
+your company to ensuro this incident is brought to the attention ofall necessary members of your
+organization,
+
+On May 26, 2015, the technical team at our parent company (Medical Informatios Engineering)
+discovered suspicious activity relating to one of its servers. We immediately initiated our
+Incident Response PIan and commenced an investigation to identifi and remediate any identified
+seourity vulnerability, Our team, including independent third-party foronsics experts, has been
+working continuously to understand the nature and scope of the incident and to confirm the
+security of our systems, This investigation i8 ongoing. On May 26, 2015, we also reported this
+incident to the FBI Q,ber Squad, and are cooperating with tho FBI's investigation.
+
+While our investigation and law enforcement's investigation into this incident are ongoing, we
+determined that some protected health information contained on our network, including
+information relating to a soon to be confirmed number of individuals who used a NMC portal
+sponsored by your organization, was exposed as a result of this incident' The affected data may
+include patient name, home address, email address, date of birth and Social Security number. No
+financial or credit card information was compromised, as we do not collect or store this
+information, Our forensic investigation indicates the unauthorized access to our network
+occuned on May 7,2015 through May 8,2015. The attackers regained unauthorized accessed to
+our network on May 25,2OL5,
+
+[Our investigation thus far indicates that Patient records from your Medical Informatics
+Engineering eleitronio health resord have not been lCoppiomise(..1..-----.-..-                      &imjment    [ss{r   NMC   dtens   rlso
+                                                                                                    I   IEeHR
+
+
+We take the security ofyour patients' information very seriously, and apologize for any concern
+and inconvenience this may cause you or your patients. Certain legal duties may exist as a result
+of *ris exposure, and we would like to assist you in satisffing these duties.
+
+Under applicable law, you may be required to provide notice of this incident to your patients, as
+well as certain federal and state regulators, and/or the nationa[ consumer reporting agencies. We
+retained Lewis Brisbois Bisgaard & Smith, LLP ('LBBS') to assist us in determining what tegal
+obligations may exist as a result of this incident,
+
+Your company's precise notice obligations, and the time in which you may be required to satisfy
+such obligations, are determined by HIPAA and potentially various states' laws. Based on your
+
+
+
+484*754L-O11L1
+risk assessmen! the incident may require you to rsport details to the U.S, Department of Health
+and Human Services ("IIHS') and to the [client name] patients whose information was contained
+on our network at the time of the attack. Notification duties to affected individuals, state
+regulators and the national consumer reporting agencies may also be required under the data
+breach notification laws of the states where your patients reside. This notice does not constitute
+legal or compliance advice.
+
+
+Should you require specific legal guidancg we encourage you to discuss the contents of this
+letter, and NMC's proposed actions, with legal counsel. If you wish to provide notice of this
+incident to your patients directly, we encourage you to consult legal counsel. LBBS would be
+happy to discuss this matter with your legal counsel,
+
+NMC would like to provide notice of this incidenl on your company's behalf, to your affected
+patients, the national consumer reporting agencies, HHS, and applicable State Attomeys General.
+ Altached u ExhlbJlzl is a list of the regulators NMC will notify regarding this incident. We are
+notifying only the regulators identificd in Exhlbtt A.lfyour company has reporting obligations
+to other regulators, including the Califomia Department ofPublio Health, that notice will have to
+be submitted directly by your company. If you would like NMC to provide notice of dris
+incident to your affected patients, the national consumer reporting agencies, and the regulators
+identified in Exhibil A, please confirm that we have your authority to provide these notices as
+soon as possible but, because time is of the essence, no later than Friday' June lzt 2015.
+Consent to provide these notices on your company's behalf may be sent to [Eric Jones contact
+informationl.
+NMC takes the security of proteoted health information very seriously. With your authorization,
+in addition to mailing notice to your affected patients, we   will   also provide your affected patients
+with the opportunity to enroll in identity monitoring and proteotion services at no co6t to them
+should they feel it is appropriate to do so.
+
+Wewill establish a toll-free number that individuals can call ifthey have any questions regarding
+this incidenL That number will be provided in the notices to affected individuals.
+
+We are continuing to investigate this incident, and we are working diligently to address any
+identified security vulnerability associated with this incident. We are also reviewing our security
+practices to enhance the seourity ofprotected health information at NMC.
+
+Allquestions regalding this notice and qucstions regarding the provision of mailing addresses
+should be directed to our privacy and data security counsel, James Prendergast at Ql5) 977-
+4067.
+
+Our investigation into this incident is ongoing, We will update you with any substantial
+developments in this matter. We remain committed to the privacy of protected health
+information, and sincerely regret any inconveniense or concern that this may have caused you.         .
+
+
+
+
+4848-7541-0212,1
+EXHIBIT B
+                            Meilical Informatics Engineering Notifies
+                           Individuals of a Data Security Compromise
+
+
+Fort Wayne, Indiana, June 10, 2015 - On behalf of itself and its affected clients,
+Medical Inforrratics Engineering is writing to provide notice of a data security compromise that has
+afflected the security of some protected health i:rformation relating to certain patients affiiiated with
+certain Medical Informatics Engineering clients. We emphastze that the patients of only certain
+cltents of Medical Informatics Engineeringwere affectedby this compromise andthose clients hqve
+all been notified. Clients include; Concenfrq Fort Wayne Neurological Center, Franciscan St.
+Francis Hea1th Indianapolis, Gynecology Center, Inc. Fort Wayne, and Rochester Medical Group.
+
+ OnMay26,2015, Medicallnformatics Engineering discovered suspicious acfivityrelatingto one of
+its servers. Medical Idormatics Engineering immediately began an investigation to identify and
+remediate anyidentifled securityvulnerability. Medical L:forrnatics Engineering'steam, including
+independent third-parfy forensics experts, has been working continuowly to investigate the attaok
+and enhance data security and protection. On May 25, 2015, Medical Iaformatics Engineering also
+reported this incident to law enforcement including the FBI Cyber Squad. Law enforcement is
+actively investigating this matter, and Medical Informatics Engineering is cooperating with law
+enforcement's investigation. Medical lnformatics Engineering's forensic investigationindicatest]re
+unauthorized access to our network began on May 7,2015. The investigatiou indicates this is a
+sophisticated cyber attack.
+
+Compromised information
+
+While investigations into this incident are ongoing, Medical Informatics Engineering determined the
+security of some protected health infonnation contained on Medical Informatics Engineering's
+network has been affected. The protected health information affected by this incident relates to
+patients affiliated with certain Medical Inforrratics Engineering clients identified above and may
+include the patients' name, mailing address, email address, date of birth, and for some patients a
+social security number, lab results, dictated repods, and medical conditions. No financial or credit
+card information has been compromised, as we do not collect or store this hfonnation.
+
+Medical Informatics Engineering also determined that this cyber attack compromised protected
+health information for its NoMoreClipboard subsidiary, Separate notice is being issued for affected
+clients and patients associated with NoMoreC1ipboard.
+
+Notification
+
+On June 2,201.5, Medical Informatics Engineering began contacting and mailing notice letters
+dlssl6sing this incident to affected Medical Informatics Engineering clients.
+
+Affected patients for whom Medical Inforrnatics Engineering has a valid postal address will be
+notifiedofthisincidentthroughU.S.mail. MedicallnformaticsEngineeriugwillalsobedisclosing
+this incident to certain state and federal regulators,
+
+
+
+
+48t4-t0u-ts24.l
+Identity protection s eryices
+
+As the investigations continue, and out of an abundance of caution, Medical Irformatics Engineering
+is offering credit monitoring and identity protection seryices to affected patients, free of charge, for
+the next 24 months.
+
+Medical Informatics Engineering has established a toll-free call center to answer questions relating
+to tlis data security event and the support and services being provided.
+
+Fraud prevention tips
+
+Medicat Informatics Engineering suggests that aflected patients remain vigilant and seek to protect
+againstpossible identitytheft or otlier financialloss by reviewing account statements, notifyingtheir
+credit card companies, healthcare providers, and insurers of fle data compromise, and monitoring
+their credit reports. Affected patients may also review Explanation of Benefits statements for
+irregularities. if an individual does not receive regular Explanation of Benefits statements, he or she
+can contact his or her health plan and request thern to send such statements following the provision
+of services.
+
+UnderU.S.law, patients are entitledto one ftee creditreport annually from each of thetlree major
+credit brueaus, To obtain a free credit report, visit www.annualcreditreport.com or call, toll-free,
+(877)322-8228.
+
+At no charge, potentially affected patients can also have these credit bureaus place a "fraud alert" on
+their frles that alerts creditors to take additional steps to veri$r their identity prior to granting credit
+in their names. Piease note, however, that because it tells creditors to foilow certain procedures to
+protectthe individual's credit, itmay also delaythe abilityto obtaincreditwhilethe agenoy verifies
+the individual's identity. As soon as one credit bureau confirms an individual's fraud alert, the others
+are notified to place fraud alerts on that individual's file. Any individual wishing to place a fraud
+ale{ or who. has questions regarding their credit report, can contact any one of the following
+agencies: Eqriifax, P.O. Box 105069, Atlarfa, GA 30348-5069, 800-525-6285, www.equifax.com;
+Experian, P.O. Box 2002, AILen, TX 75013, 888'397-3742, wwv.experian'com; or TransUnion,
+P.O. Box 2000, Chester, PA 19022-2000, 800-680-7289, www.transuaion.com. l:fonnation
+regarding security freezes may also be obtained from these sources.
+
+The Federal Trade Commission (FTC) also encouragesthosewho discover tlattheirinforrnationhas
+been misused to file a complaint with them, To file a complaint with the FTC, or to obtain additional
+information on identity theft and ttre steps that can be taken to avoid identity theft, the FTC can be
+reached at: 600 Pennsylvania AvenueNW, Washington, D.C. 20580, or atvnvw.ftc.gov/idtheft, or
+(877) ID-TImFT (877 -438-433 S); TTY: (566) 6fi-A61. This notice has not been delayed because
+oflaw enforcementl however, instances ofknown or suspected identify theft should be reported to
+law enforcement, the Attomey General in the individual's state of residence, and the FTC' State
+Attorneys General may also have advice on preventing identity theft. Patients can also leam more
+about placing a fraud alert or security freeze on their credit files by contacting the FTC or their
+state's Attomey General. For North Carolina residents, the Attomey General can be contacted at
+9001    Mail Service Center, Raleieh, NC 27699-9001, (919) 716-6400, www.ncdoj,gov- For
+
+
+481+1027-1524.1
+Maryland residents, the Attomey General can be contacted at 200 St. Paul Place, 16th Floor,
+Baltimore, lv} 27202,(888) 743-0023, www.oag.state.md.us. ForKentuclcy residens, the Attomey
+General canbe contacted at700 Capitol Avenue, Suite 118, Frankfort, Kentucky 40601-3449,502-
+696-5389, wwwag.lry.gov,
+
+Tolt-free hotline
+
+To better assist those who may potentialLy have been afflected, Medical Informatics Engineering has
+established a confidential, toll-free hotline to answer questions. This hotline is available Monday
+through Friday, 9:00 a.m. to 9:00 p.m. E.T., and can be reached at (86 6) 328-1987 . Updates will be
+posted to this website.
+
+We take the security of health inforrration very seriously and understand that such incidents cause
+real concern. We apologize sincerely and thank our customers for their continued loyalty and
+patience as we work through this challenge.
+
+
+
+
+Massachusetts residents can click here for additional information.
+
+
+
+
+48t4-t027-ls14.l
+                                  NoMoreClipboard Notice to
+                          Individuals of a Data Security Compromise
+
+
+Fort Wayne, Indiana, June 10, 2015 On behatf of itself and its af[ected clients, NoMoreClipboard
+is witing to provide notice of a data security compromise ttrat has afflected the security of some
+protected- neatn inforrration relating to certiain clients and individuals who have used a
+NoMoreClipboard personal health record or patient portal'
+
+ OnMay 26,2015, we discovered suspicious activity in one of ow seryers. We immediately began an
+investigation to identiff and remediate any identified security vulnerability. Our first priority is to
+safeguard the security of patient health infomratioq and we are working with a team of third-party
+experts to investigate the attack and enhance data security and protection. This investigation is
+ongoing. On May 26,?015. we also reported this incident to law enforcement including the FBI
+Cyber Squad. Law enforcement is actively investigating this matt6r, and we are cooperating firlly
+with law enforcement's investigation. The investigation indicates this is a sophisticated cyber attack.
+
+Information ComFro mised
+
+While investigations into this incident are ongoing, we determined that the sectuity of some
+protected health information contained in NoMoreCiipboard accounts has been affected. The
+affected data relating to individuals who used aNoMoreClipboard portaVpersonal health record may
+iucl.ude an individuals' name, home address, usetname, hashed password, security question and
+answer, email address, date of birtll health infomration, and Social Security uumber. No financial or
+credit card information has been compromised, as we do not collect or store this information. Our
+forensis investigation indicates fhe unauthorized access to our network began on May 7,2015, Al
+this time we are working to quantifu the number of patients affected by this incident.
+
+We strongly encourage all NoMoreClipboard users to change their passwords. We also strongly
+encowage everyone to use diflerent passwords for each of their various accounts. Do not use the
+same password tarice. The next time a NoMoreClipboard user logs in, we will prompt a password
+change. As part ofthe password change process, users will be sent a 5 digit PIN code to either a cell
+phone, via an automated phone call, or to ao email address already associated with the
+NoMoreClipboard account. Users will have to enter this 5 digit code to reset their password. We are
+also emailingNoMoreClipboard users to encourage this password change.
+
+Notification
+
+On June 2,2015, we began contacting and mailing notice letters disclosing this    incidentto affected
+NoMoreClipboard clients.
+
+Affected individuals for whom we have a valid postal address will also be notified of tbis incident
+through U.S. mail. We will also be disclosing this incident to certain state and federal regulators.
+
+
+
+
+4825-58n-8',140.1
+Identity protection s ervices
+
+As the investigations continue, and out of an abundance of caution, we are offering creditmonitoring
+and identity protection services to affected individuals, free ofcharge, for the next 24 months.
+
+W'e have estabLished atoll-free call centerto answer questions relatingto this datasecurityevent aod
+the support and services being provided.
+
+X'raud prevention tips
+
+We suggest tlat affleoted individuals remain vigilant and seek to protect against possible identity
+theft or other financial loss by reviewing account statements, notifying their credit cad companies,
+healthcare providers, and insurers of the data compromise, and monitoring their credit reports.
+A-ffected individuals may also teview Explanation of Benefits statements for inegularities. If an
+individual does not receive regular Expianation ofBenefits statements, he or she can contact his or
+her health plan and request them to send such statements following the provision of services.
+
+Under U.S. law, individuals axe entifled to one free credit report annually from each of the tbree
+major credit bureaus. To obtain a free credit report, visit www,annualcreditreport.com or call, toll-
+ftee, (877) 322-8228.
+
+At no charge, potentially affected individuals can also have these credit bureaus place a "fraud alert"
+on their files that alerts creditors to take additional steps to veri8' their identity prior to granting
+credit in their names. Please note, however, that because it tells creditors to follow certain
+procedures to protect fhe individual's credit, it may also detay tho ability to obtain credit while the
+agencyverifiestheindividual's identity. As soonas one creditbureauconfiuns anindividual'sftaud
+alert, the others are notified to place fraud alerts on that individual's file. Any individual wishing to
+place a fraud alert, or who has questions regarding their credit report, can contact any one ofthe
+following agencies: Equifax, P.O. Box 105069, Atlanta, GA 30348-5069, 800-525-6285,
+www.equifax.com; Experian, P.O. Box 2002, Allen, TX 75013, 888-397-3742, www.experian.com;
+or TransUnion, P.O. Box 2000, Chester,PA19022-2000, 800-680-7289, www.tuansunion.com.
+Information regarding security freezes may also be obtained ftom these sources.
+
+The Federal Trade Commission (FTC) also encouragesthosewho discoverthattheirinformationhas
+been misusEd to file a complaint with them. To file a complaint wrth the FTC, or to obtain additional
+information on identity theft aad the steps that can be taken to avoid identity theft, the FTC can be
+reached at: 600 PennsylvaniaAvenue NW, Washington, D.C. 20580, or at www.ftc.gov/idtheft, or
+(877)ID-THEFT(877-435-4338);TTY: (566)653-426l.Thisnoticehasnotbeendelayedbecause
+oflaw enforcement; however, instances ofknown or suspected identity theft should be reported to
+law enforcemen! the Attorney General in the individual's state of residence, and the FTC' State
+Attomeys General may also have advice on preventing identity theft. krdividuals can also leam more
+about placing a fraud alert or security fteeze on their credit fiies by contacting the FTC or their
+state's Attorney General, For North Carolina residents, the Attomey General can be contacted at
+9001 Mail Service Center, RaleigtL NC 27699-9001, (919) 716-6400, www.ncdoj.gov. For
+Marytand residents, the Attomey General can be contacted at 200 St. Paul Place, 16th Floor,
+
+
+
+4825-5812-87 40.1
+Baltimore, MD 212;02,(888) 743-0023, www.oag.state.md.us. ForKentuckyresidents, theAttorney
+General canbe contacted at700 Capitol Avenue, Suite 118, Fran1don, Kentuclry 40601-3449,502'
+696-5389, www.ae.kv.gov.
+
+Toll-free hotline
+
+To better assist those who may potentially have been affected, we have established a confi.dential,
+toll-free hotline to answer questions. This hofline is available Monday through Friday, 9:00 a.m. to
+9:00 p.m, 8.T., and can be reached at (856) 328-1,987. Updated will be posted to this website.
+
+We take the securit5r of health information very seriously and understand that such incidents
+cause real concem. We apologize siucerely and thank our customers for their continued loyalty
+and patience as we work ttrrough this challenge.
+
+
+
+
+Massachusetts residents can cliok here for additional infonnation.
+
+
+
+
+4825-5877-8740.1
+EXHIBIT C
+                                             PRESS   CONTACT: MELANIE THOMAS
+                                                         urthomas@jnformtheagency. com
+                                                                          202-390-7887
+
+
+          STATEMENT REGARDING MEDICAL INFORMATICS
+             BNGINEERING'S RECENT CYBER ATTACK
+
+A Message from Eric Jones
+Co-Founder & COO, Medical Informatics Engineering
+June 10,2015
+
+A  sophisticated cyber attack has compromised some of the protected health infomration
+contained on our Medical Informatics Engineering and NoMoreClipboard networks. As
+soon as we detected suspicious activity on May 26, we launched an intemal investigation,
+retained independent third-parry forensics experts, and alerted law enforcement,
+including the FBI Cyber Squad. Our initial investigation indicates that the unauthorized
+access to our network began on May 7,2015.
+
+Our first priority is to safeguard the security of patient health information. We are
+working with a team of IT security experts to investigate the attack and enhance data
+security and protection.
+
+Afflected data includes names, addresses, dates ofbirth, social security numbers and other
+protected health information. No financial or credit card information has been
+compromised, as we do not collect or store that inforrnation.
+
+'We
+    are working diligently to determine how many patients were afflected by this incident,
+arrd we have notified affected healthcare provider clients and business associates.
+Individuals will be notified by letter if their information was compromised.
+
+We are offering credit monitoring and identity protection services to affected individuals,
+ftee of charge, for the next 24 months. We have also established a toll-free call center to
+answer questions about this attack and the support and services being provided.
+
+We take the security of health information very seriously and understand that such
+incidents cause real concem. We apologize sincerely and thank our customers for their
+continued loyalty and patience as we work through this challeuge.
+
+For more information, please contact the toll-ftee call center at 866-328-1987   .
+                           Medical Informatics Engineering notifies
+                           Patients of a Data Security Compromise
+
+
+tr'ort Wayne, Indiana, June 10, 2015 - On behalf of itself and its affected clients,
+Medical lnformatics Engineering is writing to provide notice of a data security compromisethathas
+afflected the security of some protectedhealthinformationrelatingto certainpatients affrliatedwith
+certain Medical Informatics Engineering clierts. We emphasize that the patients of only certain
+clients of Medical Informatics Engineeringwere affected by this compromise and those clients have
+att beei notified. Clients include: Concentra, Fort Wayne Neurological Center, Franciscan St'
+Francis Health Indianapolis, Gynecology Ceuter, Inc. Fort Wayne, and Rochester Medical Gtoup.
+
+ OnMay26,2015, Medical. tnformatics Engineering discovered suspicious activityrelatingto oneof
+its servers. Medical Informatics Engineering immediately began an investigation to identify and
+remediate any identified security wlaerability. Medical Informatics Engineering's team, including
+independent third-party forensics experts, has been working continuously to investigate the attack
+and enhance data security and protection, OnMay 26,2015, Medical Informatics Engineering also
+reported this incident to law enforcement including the FBI Cyber Squad. Law enforcement is
+actively investigating this matter, and Medical Inforrnatics Engineering is cooperating with law
+enforcement's investigation. Medical Infon:ratics Engineering's forensic investigation indicates ttre
+unauthorized access to our network began on May 7,2015. The investigation indicates this is a
+sophisticated cyber attack.
+
+Compromised information
+
+While investigations into this incident are ongoing Medical Informatics Engineering determined the
+security of some protected health information contained on Medical Informatics Engineering's
+network has been affected. The protected health information affected by this incident relates to
+patients afflrliated with certain Medical Informatics Engineering clients idenffied above and nray
+include the patient's name, mailing address, email address, date of birth, and for some patients a
+social security number, lab results, dictated reports, and medical conditions. No financial or credit
+card inforrnation has been compromised, as we do not collect or store this information.
+
+Medical Informatics Engineering also determined that this cyber attack compromised protected
+health infounation for its NoMoreClipboard subsidiary. Separate notice is being issued for affected
+clients and patients associated with NoMoreClipboard.
+
+Notification
+
+On June 2,2015, Medical Informatics Engineering began contacting and mailing notice letters
+disclosing this incident to affected Medical Informatics Engineering clients.
+
+A-ffected patients for whom Medical Informatics Engineering has a valid postal address will be
+notified ofthis incident t}rough U.S. mail. The same infomration contained in the notice letter will
+also be available at the Medical Informatics Engineering website www.mi
+                                                                     -                    m. Medical
+Informatics Engineering will also be disclosing this incident to certaia state and federal regulators.
+
+
+
+48t4-t027-1524.1
+klentity protection s ervices
+
+As the investigations conthu6, and out of an abundance of caution, Medical lnformatics Engineering
+is offering crJdit monitoring and identity protection services to affected patients, free of chargq for
+the next 24 months.
+
+Medical 6formatics Engineering has established a toll-free oall center to answer questions relating
+to this data security event and the support and services being provided.
+
+Fraud prevention tips
+
+Medical lnformatics Engineering zuggests that affectedpatients remainvigilant and seekto protect
+againstpossible identitytheftor otlerfinancial loss by reviewing account statements, notiffingtheir
+.t"ait.rra companies, healthcare providers, and insurers of the data compromise, and monitoring
+their credit r"po.ts. Affected patieuts may also review Explanation of Benefits statements for
+irregularities. If an individual does not receive regular Explanation of Benefits statements, he or she
+can contact his or her health plan and request them to send such statements following the provision
+of services.
+
+Under U.S. Iaw, patients are entitled to one free cedit report annually from each of the three major
+credit bureaus. Tt obtain a free credit report, visit www.annualcrediteport.com or call, toll-ftee,
+(877)322-8228.
+
+At no chargg potentially affected patients can also have these credit bureaus place a "fraud alert" on
+tLeir files that alerts creditors to take additional steps to veriff their identity prior to granting credit
+in their names. Ptease note, however, that because it tells creditors to follow certain procedures to
+protect the individual's credit, it may also delay the ability to obtain credit while the agency verifies
+ihe individual's identity. As soon as one creditbureau confirms anindividual's ftaud alert, the others
+are notified to place fraud alerts on that individual's f,le. Any individual wishing to place a ftaud
+alert, or who has questions regarding their credit report, can contact any one ofthe following
+agencies: Equifax, P.O. Box 105069, Atlanta, GA 30348-5069, 800-525-6285, www.equifax.com;
+Experian, P.O. Box 2002, Aller4 TX 75013, 888-397-3742, www.experian.com; or TransUnion,
+P.O. gox 2000, Chester, PA 19022:2000, 800-680-7289, www.transunion,com. Information
+regarding security fi'eezes may also be obtained from these sources.
+
+The Federal Trade Commissiou (FTC) also encourages those who discover that their information has
+beenmisusedto file acomplaintwiththem. To file acomplaintwiththe FTC, orto obtajnadditional
+infonnation on identity theft and the steps that can be taken to avoid identity theft, the FTC can be
+reached at: 600 Peunsylvarda Avenue NW, Washington, D.C. 20580, or at www.ftc.gov/idtheft, or
+(877) ID-TIIEFT (S't7 438-4338); TTY: (566) 653-4261 . This notice has not been delayed because
+oflaw enforcement; however, instaaces ofknown or suspected identity theft should be reported to
+law enforcement, the Attorney General in the individual's state of residence, and the FTC. State
+Attorneys General may also have advice on preventing identity theft. Patients can also leam more
+                                                                by contacting the FTC or their
+about placing a ftaud alert or security fteeze on their credit files
+state's Attomey General. For North Carolina residents, the Attomey General can be contacted at
+
+
+
+
+481+L@',1-ts24.l
+9001 Mail Service Center, Raleigh, NC 27699-9001, (919) 716'6400, wwwncdoj.gov. For
+Maryland residents, the Attorney General can be contacted al 200 St. Paul Place, 161tr Floor,
+Baltimore, MD 21202, (888) 743-0023, www.ops.state.md.us. ForKentuciqyresidents,theAttorney
+General can be contacted at 700 Capitol Avenue, Suite 118, Frankfort, Kentucky 40601-3449, 502-
+696-5389, www.ag.ky.gov.
+
+Toll-free hotline
+
+To better assistthose rvho maypotentially have been affected Medical Informatics Engineeringhas
+established a conf.dential, toll-free hotline to answer questions. This hofline is available Monday
+tlrough Friday, 9:00 a.m. to 9:00 p.m. E.T., and can be reached at (866) 328-1987. Affectedpatients
+can also visit www.mieweb.com for additional information and updates.
+
+We take the security of health information very seriously and understand that such incidents cause
+real concem. We apologize sincerely and thank our customers for their continued loyalty and
+patience as we work through this challenge.
+
+
+
+
+48t+1027-rsz4.1
+                                  NoMoreClipboard Notice to
+                          Individuals of a Data Security Compromise
+
+
+Fort Wayne, Indiana, June 10, 2015 On behalf of itself and its affected clients, NoMoreClipboard
+is v'vriting to provide notice of a data security compromise that has affected the security of some
+protected health information relating to certain clients and individuals who have used a
+NoMoreClipboard personal health record or patient portal.
+
+ OnMay26,2015, we discovered suspicious activityin oneof ourseryers. Weirnmediatelybeganan
+investigation to identiff and remediate any identified security wlnerability. Our first priority is to
+safeguard the security of patient health irformation, and we are working with a team of third-parly
+experts to investigate the attack and enhauce data security and proteotion. This investigatiou is
+ongoing. On May 26,2015, we also reported this incident to law enforcement including the FBi
+Cyber Squad. Law enforcement is actively investigating this matter, and we are cooperating fuIly
+with law enforcement's investigation. The investigation indicates this is a sophisticated cyber attack.
+
+Information compromised
+
+While investigations into this incident are ongoing, we determined that the security of some
+protected health information contained in NoMoreClipboard accounts has been affected. The
+affected datarelatingto individuals who usedaNoMoreClipboardportaVpersonal healthrecordmay
+include an individuals' name, home address, username, hashed password, security question and
+answer, email address, date of birth, health information, and Social Security number. No financial or
+credit card information has been compromised, as we do not collect or store this information. Our
+forensic investigation indicates the unauthorized access to our network began on May 7, 2015. At
+this time we are working to quanti-& the number of patients affected by this incident.
+
+We strongly encourage all NoMoreClipboard users to change their passwords. W'e also strongly
+encourage everyone to use different passwords for eaoh of their various accounts. Do not use the
+same password twice. The next time a NoMoreClipboard user logs in, we will prompt a password
+change. As part ofthepassword change process, users will be sent a 5 digit PIN code to either a cell
+phonq via an automated phone call, or to arr email address already associated with the
+NoMoreClipboard account. Users will have to enter this 5 digit code to reset their password. We are
+also emailing NoMoreClipboard users to encourage this password change.
+
+Notilication
+
+On June 2, 2015, we began contacting aud mailing notice letters disclosing this incident to affected
+NoMoreClipboard clients.
+
+Affected individuals for whom we have a valid postal address will also be notified of this inoident
+through U.S.  mail. The same information contained in the notice letter will also be available at
+www.NoMoreClipboard.com. We will also be disclosing this incident to certain state and federal
+regulators.
+
+
+
+
+4825-5812-87 40.1
+Identity protection services
+
+As the investigations continue, and out of an abundance of caution, we are offering creditmonitoring
+and identity protection services to affected individuals, fiee ofcharge, for the next 24 months.
+
+We have established a toll-free call center to answer questions relating to this data security event aad
+the support and services being provided.
+
+n'raud prevention tips
+
+We suggest that affected individuals remain vigilant and seek to protect against possible identity
+theft or other financial loss by reviewing account statements, notifying their credit card companies,
+healthcare providers, and insurers of tlle data compromise, and monitoriug their credit reports'
+Affected individuals may also review Explanation of Benefits statemetrts for inegularities. If an
+individual does not receive regular Explanation ofBenefits statements, he or she can contact his or
+her health plan and request them to send such statements following the provision of services.
+
+Under U.S. law, iadividuals are entitled to one free credit report annually from each of the tfuee
+major credit bureaus. To obtain a &ee credit report, visit www,annualcrediteport.com or call, toll-
+free, (877) 322-8228.
+
+At no charge, potentially affected individuals can also have these creditbureaus place a "ftaud alert"
+on their files that alerts creditors to take additional steps to veriff their identity prior to granting
+credit in their names. Please uote, however, that because it tells creditors to follow certain
+procedures to proteot the individual's credi! it may also delay the ability to obtain credit while the
+agencyverifies the individual's identity. As soonas one creditbureauconfirms anindividual's fraud
+alert, the others are notified to place ftaud alerts on that individual's file. Any individual wishing to
+place a ftaud alert, or who has questions regarding their credit report, can contact any one of the
+following agencies: Equifax, P.O. Box 105069, Atlanta, GA 30348-5069, 800-525-6285,
+www,equifax.com; Experian, P.O. Box 2002, AIIen, TX 75013, 888-397-3742, www.experian.com;
+or TransUnion, P.O, Box 2000, Chester,PA L9022-2000, 800-680-7289, www.transunion.com.
+Inforsration regarding security freezes may also be obtained from these sotuces'
+
+The Federal Trade Commission (FTC) also encourages those who discover that their information has
+been misused to file a complaint with them. To file a complaint with the FTC, or to obtain additional
+information on identity theft and the steps that can be taken to avoid identity theft, the FTC can be
+reached at: 600 PennsylvaniaAvenueNW', Washington, D.C.20580, or atwww.ftc.gov/idtheft' or
+(877) ID-TIIEFT (877 -438-433 8); TTY: (866) 653-4261 , This notice has not been delayed because
+oflaw enforcement; however, instances ofknown or suspected identity theft should be reported to
+law enforcemen! the Attomey General in the individual's state of residencg and the FTC' State
+Attorneys General may also have advice on preventing identity theft. Individuals can also learn mote
+about placing a ftaud alert or security fteeze on their credit fiIes by contacting the FTC or their
+state's Attomey General. For North Carolina residents, the Attorney General can be contacted at
+
+
+
+
+4825-59t2-8140.1
+9001 Mail Service center, Raleigh NC 27699-9001, (919) 716-6400, www.ncdoj.gov. For
+Maryland residents, the Attomey General can be contacted at 200 St. Paul Place, 16th Floor,
+Baltimore, MD 2L202,(888)743-0023, www.oas.state.md.us. ForKentuckyresidents,theAttomey
+General canbe contacted at700 CapitolAvenue, Suite 118, Fran}Jort, Kentucky 40601-3449,502-
+69 6-5389, www. as.ky. gov.
+
+
+Toll-free hotline
+
+To better assist those who may potentially have been affected we have established a confidential,
+toll-free hotline to answer questions. This hotline is avaiiable Monday through Friday,9:00 a.m. to
+9:00 p.m. E.T., and can be reached at (866) 328-1987. Affected individuals can also visit
+www.NoMoreClipboard.com for additionai information and updates.
+
+We take the security of health infonnation very seriously and understand that such incidents
+cause realconcem. We apologize sincerely and thank our customers for their continued loyalty
+and patience as we work tlrough this challenge.
+
+
+
+
+48U-58724740.1

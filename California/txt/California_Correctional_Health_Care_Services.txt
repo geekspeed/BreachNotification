@@ -1,0 +1,41 @@
+Date
+
+
+
+
+Inmate FirstName LastName
+CDCR #, Bed Location #
+Institution Name
+Address
+City, State Zip code
+
+
+Dear FirstName LastName,
+
+We are contacting you because of a security incident involving your personal
+information.
+
+On June 19, 2013, dental records were reported missing from a California
+Correctional Health Care Services (CCHCS) staff member’s possession while off the
+premises of a correctional institution. The missing documents contained information
+such as patient name, CDCR number, date of birth, and dental treatment plan. It is
+possible that your dental record may have been included in the missing documents.
+CCHCS has conducted an investigation of this incident and is taking steps to locate
+the missing documents.
+
+We regret this incident occurred and want to assure you CCHCS has taken steps to
+mitigate these types of events, including information security training for staff
+associated with this event. We do not believe there are any further protective
+measures you need to take at this time. If you have further inquiries please contact
+the Controlled Correspondence Unit, PO Box 588500, Sacramento, CA 95758-8500.
+
+
+California Correctional Health Care Services
+
+cc:    CCU
+
+
+
+
+                                                                                 P.O. Box 588500
+                                                                       Sacramento, CA 95758-8500

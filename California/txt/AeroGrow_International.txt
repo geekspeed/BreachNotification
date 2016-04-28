@@ -1,0 +1,126 @@
+June 2, 2015
+
+Dear Valued Customer,
+
+Here at AeroGrow International, Inc., we take the security of our customers’ information seriously. Unfortunately, like
+many companies in today’s global digital economy, we recently received information suggesting that we may have
+experienced a data compromise. We immediately hired cybersecurity specialists to investigate the incident. As a result of
+this investigation, we learned on May 5, 2015, that a hacker likely used malicious software (malware) to infiltrate our on-
+line servers, which are hosted by a leading service provider. Within days of being notified of the hacking event, the cause
+of the compromise had been eradicated.
+
+However, as a result of this unauthorized event some information linked to credit cards may have been acquired. This
+information may include name, address, payment card account number, expiration date, and CCV/CVV number.
+AeroGrow does not collect other personal information about its customers, such as Social Security number, personal
+identification number (PIN), driver’s license number, or financial account information, and as a result, none of this type of
+personal information was at risk of being compromised.
+
+Of course we regret that this malicious hacking event occurred, but we want you to know a few important things:
+
+•   It is safe to shop at AeroGarden.com. The malware used to capture personal information has been eliminated.
+
+•   Order information that you provided during the period of October 15, 2014 - April 27, 2015 may have been acquired. If
+    your credit card information was compromised, it does not mean you are a victim of fraud. If you suspect that your
+    credit card was used fraudulently, simply notify the credit card company promptly and you will not be responsible for
+    those charges.
+
+•   We do not store, and have never stored, your credit card information on any of our systems. Any information
+    obtained was captured by the malware in the fraction of a second between data entry and the transmission to our
+    credit card processing company.
+
+•   As noted above, we do not collect any PIN information. As a result, even if someone gained access to your card
+    information, without your PIN they cannot visit an ATM with a fraudulent debit card and withdraw cash.
+
+•   Out of an abundance of caution and at no cost to you, we are offering you free access to ProtectMyID Elite, an
+    identity protection product provided by Experian, a leading national credit bureau. Full details of this program are
+    provided on page 2.
+
+I am personally troubled and offended by this criminal activity. As a result, we have alerted law enforcement authorities in
+an effort to help eradicate this type of crime and to help protect anyone who uses a credit card for shopping. In addition,
+on page 2 you will find a detailed list of strategies on how best to protect credit card information in today’s digital
+economy.
+
+If you have any questions about this situation, our Customer Service team is available toll-free at 1-866-348-1808 from
+8 am - 5 pm Mountain Time, Monday - Friday.
+
+I want to sincerely apologize for this incident, and I regret any inconvenience it may have caused you. As we’ve all read
+in the news in the past few years, many of us have been impacted by security breaches at major retailers and institutions.
+In fact, I was personally affected by one of those large breaches, so I’ve taken an emotional and personal interest in this
+topic. I want to assure you that we take this criminal act very seriously and have addressed it thoroughly.
+
+Thank you for your continued confidence and support.
+
+
+
+
+J. Michael Wolfe
+President & CEO
+
+
+
+
+                                   AeroGrow International, Inc. - PO Box 18450, Boulder, CO 80308 USA
+                              Steps To Protect the Security of Your Personal Information
+
+By taking the following steps, you can help reduce the risk that your personal information may be misused.
+
+1. Enroll in ProtectMyID Elite, the product that we are providing at no cost to you. You must personally activate the
+identity protection product for it to be effective. If you wish to enroll in ProtectMyID Elite, please do the following:
+
+            •   VISIT The ProtectMyID Elite Web Site: http://www.protectmyid.com/protect
+                or call 1-866-751-1324 to enroll
+            •   PROVIDE Your Activation Code: PEBGB5P3K Enrollment Deadline: Aug. 31, 2015
+
+If you prefer to enroll over the phone for delivery of your membership via US mail, please call Experian at 1-866-751-1324
+and provide Engagement #: PC94340. Enrolling in ProtectMyID Elite will not affect your credit score.
+
+Experian’s ProtectMyID Elite product will provide the following:
+   • Credit Report: A free copy of your Experian credit report.
+   • Daily Credit Monitoring: Alerts you of suspicious activity including new inquiries, newly opened accounts,
+       delinquencies, or medical collections.
+   • Identity Theft Resolution: If you have been a victim of identity theft, you will be assigned a dedicated, U.S.-
+       based Experian Identity Theft Resolution Agent who will walk you through the fraud resolution process.
+   • $1 Million Identity Theft Insurance: As a ProtectMyID Elite member, you are immediately covered by a $1
+       Million insurance policy that may help you cover certain costs, such as lost wages, private investigator fees, and
+       unauthorized electronic fund transfers.
+
+2. Review your credit reports. You can receive free credit reports by placing a fraud alert (described below). Under
+federal law, you also are entitled every 12 months to one free copy of your credit report from each of the three national
+credit bureaus. To obtain a free annual credit report, go to www.annualcreditreport.com or call 1-877-322-8228. You may
+wish to stagger your requests so that you receive a free report from one of the three credit bureaus every four months.
+
+3. Review your account statements. You should carefully review for suspicious activity the statements that you receive
+from credit card companies, banks, utilities, and other service providers.
+
+4. Remain vigilant and respond to suspicious activity. If you receive an e-mail or mail alert from Experian, contact a
+ProtectMyID Elite fraud resolution representative Toll-Free at 1-866-751-1324 or http://www.protectmyid.com/protect. If
+you notice suspicious activity on an account statement, report it to your credit card company or service provider and
+consider closing the account. You also should consider reporting such activity to your local police department, your state’s
+attorney general, and the Federal Trade Commission.
+
+5. Consider placing a fraud alert with one of the three national credit bureaus. You can place an initial fraud alert by
+contacting one of the three national credit bureaus listed below. For 90 days, an initial fraud alert tells creditors to follow
+certain procedures, including contacting you, before they open any new accounts or change your existing accounts. For
+that reason, placing a fraud alert can protect you but also may delay you when you seek to obtain credit. If you decide to
+enroll in ProtectMyID Elite, you should place the fraud alert after enrolling. Contact information for all three bureaus is:
+
+Equifax                          Experian                               TransUnion
+P.O. Box 105069                  P.O. Box 2104                          P.O. Box 2000
+Atlanta, GA 30348-5069           Allen, TX 75013                        Chester, PA 19022
+1-800-525-6285                   1-888-397-3742                         1-800-680-7289
+www.equifax.com                  www.experian.com                       www.transunion.com
+
+7. Additional Information. You can obtain additional information about steps you can take to avoid identity theft from
+   the following:
+
+Identity Theft Clearinghouse
+Federal Trade Commission
+600 Pennsylvania Avenue, NW
+Washington, DC 20580
+http://www.ftc.gov/bcp/edu/microsites/idtheft/
+(877) IDTHEFT (438-4338)
+TDD: (866) 653-4261
+
+
+
+                                   AeroGrow International, Inc. - PO Box 18450, Boulder, CO 80308 USA

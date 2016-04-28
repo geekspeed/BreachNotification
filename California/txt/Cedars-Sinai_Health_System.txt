@@ -1,0 +1,77 @@
+Media Contact: Sally Stewart
+Telephone: 310-248-6566
+Email: sally.stewart@cshs.org
+
+cedars-sinai.edu
+
+Cedars-Sinai Health System Issues Notice of Data Incident
+LOS ANGELES (Aug. 22, 2014) – Although there is no indication of any actual or attempted unauthorized
+access to health information, Cedars-Sinai Health System will be notifying certain patients who have the
+potential to be affected by the theft of a Cedars-Sinai-issued laptop computer that may have contained
+some of their health information. There is no indication that the laptop contained complete medical or billing
+records of any patient. Remote access from this laptop to the Cedars-Sinai computer network has been
+terminated.
+
+While the laptop was password-protected, it did not contain additional encryption software, a violation of
+Cedars-Sinai policy. As a result, some information was potentially stored in temporary files on the laptop’s
+hard drive at the time of the theft.
+
+“Cedars-Sinai takes the security of our patients’ health information very seriously, and has multiple security
+safeguards in place to protect health information,” said David Blake, Cedars-Sinai’s chief privacy officer.
+“Even a potential data security incident on a single computer, as has occurred here, is not acceptable to us.
+We apologize to the people affected by this incident, and have taken actions to prevent any re-occurrence.”
+The laptop, which was used by the employee for troubleshooting software used for clinical laboratory
+reporting, was stolen along with personal items of the employee in a June 23 burglary at the employee’s
+home. (The employee’s duties included being available outside of normal business hours to troubleshoot
+software problems as they occurred, which is why the laptop was at the home.) The employee immediately
+notified Cedars-Sinai and the local police of the theft. The local police investigation is ongoing, no arrests
+have been made, and the laptop has not been recovered.
+
+Cedars-Sinai initiated a comprehensive investigation immediately after the laptop was reported stolen on
+June 23. Cedars-Sinai retained independent experts in computer forensics to manually and electronically
+review the files that may have been on the laptop at the time of the theft and to identify any Cedars-Sinai
+patients whose information may have been stored on the stolen device. This investigation is ongoing.
+
+Cedars-Sinai is mailing letters next week to those identified as being potentially affected by the incident.
+Should the ongoing file review identify any additional individuals affected, Cedars-Sinai will notify them as
+well.
+
+The specific information potentially available on the laptop varied depending on the individual, but consisted
+in general of some combination of medical record number, patient identification number, lab testing
+
+
+
+
+                                                     (more)
+2 | Page                                                                         Cedars-Sinai Media Contact: Sally Stewart
+MISC - Data 08-22-14 (2)                                                  Tel. 310-248-6566 Email: sally.stewart@cshs.org
+
+information, treatment information and diagnostic information. A small percentage of the files also
+contained the patient’s Social Security number or other personal information.
+
+In an abundance of caution, Cedars-Sinai’s letter recommends that the potentially affected patients
+regularly review any Explanation of Benefits statement received from health insurance companies, and
+contact the health insurance company if there are services listed that the individual has not
+received. Cedars-Sinai is also recommending that all concerned individuals review account statements and
+monitor credit reports for suspicious activity. Under U.S. law, individuals are entitled to one free credit
+report annually from each of the three major credit reporting bureaus. Free credit reports can be ordered at
+www.annualcreditreport.com or by calling 1-877-322-8228. The three major credit bureaus can also be
+contacted directly to request a free credit report: Equifax P.O. Box 105069, Atlanta, GA 30348-5069, 800-
+525-6285, www.equifax.com; Experian P.O. Box 2002, Allen, TX 75013, 888-397-3742,
+www.experian.com; TransUnion P.O. Box 2000, Chester, PA 19022, 800-680-7289, www.transunion.com.
+For information about medical privacy rights, you may visit the website of the California Department of
+Justice, Privacy Enforcement and Protection Unit at www.privacy.ca.gov.
+
+Cedars-Sinai is providing a confidential assistance line for individuals seeking additional information
+regarding this incident. The confidential assistance line operates is available at 877-218-2930 between 7
+a.m. and 4 p.m. Pacific Time, Monday through Friday. (Callers should use reference number 3528081314
+when calling the confidential assistance line.)
+
+
+                                                          ###
+
+
+
+
+VIDEOLINK ENABLED - Thanks to a new, state-of-the-art in-house studio, Cedars-Sinai Medical Center can now instantly
+broadcast high-definition video directly to newsrooms around the world.

@@ -1,0 +1,99 @@
+                                    SCHUERING ZIMMERMAN
+                                        & DOYLE, LLP
+                                                Attorneys at Law
+400 University Avenue                                                                    Leo H. Schuering, Jr.
+Sacramento, CA 95825-6502                                                               Robert H. Zimmerman
+(916) 567-0400                                                                               Thomas J. Doyle*
+FAX: 568-0400                                                                         Lawrence Scott Giardina*
+                                                                                             Keith D. Chidlaw
+Website: www.szs.com                            August 5, 2013                          Dominique A. Pollara*
+                                                                                        Theodore D. Poppinga
+                                                                                              Glenn M. Holley
+                                                                                                     Kat Todd
+                                                                                            Erik M. Aanestad*
+                                                                                              Jason S. Barnas*
+       FIELD(prefix) FIELD(first) FIELD(Last)                                             Michael J. Campbell
+                                                                                            Chad C. Couchot*
+       FIELD(address)                                                                      James R. Cummins
+                                                                                              Christian Koster
+       FIELD(city)                                                                          Andrew S. Larsen
+                                                                                         Matthew B. Robinson
+                                                                                            David J. Van Dam
+                                                                                            Preston R. Young
+
+       Re:     Notification of Privacy Breach                                              *Also admitted in Nevada
+
+
+       Dear FIELD(Prefix) FIELD(last):                                                Steven T. Scully (1948-1994)
+
+
+       The security, confidentiality, integrity and privacy of patient personal information are
+       highly valued by Kathleen Whisman, M.D. We are writing you because of a disclosure of
+       your personally identifiable information.
+
+       On or about April 11, 2013, Dr. Whisman received a telephone call from the San Ramon
+       Police Department indicating that they were in the process of breaking up an identity theft
+       ring and found information on the suspect's computer concerning some of her patients.
+       Dr. Whisman can only speculate that the information on the suspect's computer was
+       removed from a recently stolen computer. In 1999, Dr. Whisman was changing billing
+       companies and she believes that the patient information had been stored on the stolen
+       computer to assist with this transition. In April 2013, the investigation was on-going and
+       Dr. Whisman was asked to delay notification to allow the investigation to be completed
+       by the police.
+
+       Dr. Whisman has now been advised to proceed with her breach notifications. Based on
+       a copy of the information provided by the police, the database contained the following
+       information on her 1998-1999 patients:
+
+                       Full Name,
+                       Address,
+                       Telephone number,
+                       Date of Birth,
+                       Social Security Number, and
+                       Insurance plan information.
+
+       In light of the ongoing investigation into the identity theft ring, we ask that you
+       immediately check with your banks and obtain credit reports. Since we have no idea
+       how long this ring has been operating and how long they were in possession of the
+FIELD(prefix) FIELD(first) FIELD(Last)
+August 5, 2013
+Page 2
+
+
+patient information, it may be that you have already suffered from identity theft. If you
+have had any problems caused by identity theft, please immediately contact the Contra
+Costa County District Attorney's Office at:
+
+Renier Hernandez, Sr. Inspector
+Contra Costa County District Attorney’s Office
+Northern California Computer Crimes Task Force
+(707) 253-4226
+Email: Rhernandez@nc3tf.org
+
+We believe you should consider a credit monitoring service, to daily check your credit
+rating and scan the internet for use of your name or social security number, changes of
+addresses, etc. For this purpose, we are offering to provide you with a monitoring service
+from Experian, either the Experian ProtectMyID™ Elite program for adults, or, for minor
+patients, the Experian Family Secure™ program, free of charge for one year. To receive
+the appropriate code to logon and begin the program, please contact the undersigned as
+soon as possible.
+
+Dr. Whisman sincerely apologizes for this breach of protected personal information. The
+circumstances that resulted in this breach were unforseen and Dr. Whisman assures you
+that office procedures and protections currently in place making it extremely unlikely
+there will be any future, similar circumstances.
+
+If you have any questions and/or wish to discuss the credit monitoring service offered,
+please contact our office directly. Our toll free telephone number is (888) 233-2305.
+
+Very truly yours,
+
+SCHUERING ZIMMERMAN
+& DOYLE, LLP
+
+
+
+Christian Koster
+
+CK:slb
+4003/9572

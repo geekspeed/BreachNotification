@@ -1,0 +1,51 @@
+April 19, 2012
+
+[Name of Recipient]
+[Street Address]
+[City/State/Zip]
+
+
+Dear [NAME OF RECIPIENT]:
+
+For more than 27 years, Desert AIDS Project (D.A.P.) has been committed to providing comprehensive
+health care and other services to its clients. As part of that commitment, D.A.P. strives to protect the
+security and confidentiality of its client records. I am writing to inform you of an information security
+incident that may affect you, and to share with you the steps that D.A.P. is taking to address it.
+
+On Thursday, April 12, 2012, a thief gained unauthorized access to D.A.P.’s offices and stole the
+computer assigned to the receptionist. We reported the incident to the Palm Springs Police Department
+promptly after discovering the theft the next morning. D.A.P. is cooperating fully in the investigation.
+
+In addition to notifying the police, we promptly conducted an internal investigation to identify the
+information stored on the computer. Fortunately, the computer did not contain any medical details and
+is protected by a strong password. The computer also did not contain any personally identifying
+information, such as Social Security number, driver’s license number, credit or debit card number, or
+health insurance or other account number. However, the computer did contain a spreadsheet which
+included client name, assigned staff person, client status (active, discharged, etc.), internal client
+identification number, and date of birth. The spreadsheet itself does not include D.A.P.’s name. Other
+documents stored on the stolen computer may reveal its connection to D.A.P.
+
+We have no reason to believe that the thief stole the computer to obtain the information stored on it.
+The computer was not used by our professional or accounting staff. Consequently, the computer would
+not be a likely target for someone seeking information that could be used for an improper purpose.
+
+Rest assured that we are proactively responding to this incident. We are conducting a comprehensive
+review of our security procedures. We already have taken steps to enhance security at our site and will
+take additional steps, as necessary, in light of our on-going review.
+
+I deeply regret that we need to inform you of this incident, and I apologize to you. If you have any
+questions about this incident, please do not hesitate to call us at 760-969-5746 or send us an e-mail at
+info@desertaidsproject.org.
+
+Sincerely,
+
+
+
+David Brinkman, MBA
+CEO, Desert AIDS Project
+Firmwide:110549820.1 058623.1000
+
+
+                              1695 North Sunrise Way Palm Springs, CA 92262 760-323-2118
+
+                                              www.desertaidsproject.org

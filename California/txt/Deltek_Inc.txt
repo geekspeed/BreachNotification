@@ -1,0 +1,143 @@
+                                                   NOTICE TEMPLATE FOR CALIFORNIA RESIDENTS
+
+Person's Name
+Street Address
+City, State ZIP
+
+
+Dear Full Name:
+
+We are writing to inform you of a security incident involving Deltek’s GovWin IQ website. On behalf of the
+Deltek team, I want to apologize for any inconvenience this may cause you and provide you with some
+information on what happened, as well as the steps we are taking to protect you further in the future.
+
+What Happened?
+
+On March 13, 2014, Deltek discovered that, despite the security protocols that we have in place within
+GovWin IQ, we, along with a number of U.S. governmental agencies, were one of thousands of
+organizations that were subject to a sophisticated cyber attack. Based on the evidence we have, we
+believe the cyber attack on Deltek’s GovWin IQ website occurred sometime between July 3, 2013, and
+November 2, 2013. We have learned that a hacker gained unauthorized access to Deltek’s GovWin IQ
+website and was able to obtain certain personal information about you, and we wanted to notify you of
+this situation. Deltek is cooperating with law enforcement’s investigation into this matter, and I am
+pleased to report that the individual believed primarily to be responsible has been arrested. While we
+have received no indication that any information that was unlawfully accessed has been misused, see
+below for more information on protecting your credit and obtaining credit monitoring services. The
+information that we believe was accessed includes:
+
+    •   Name, billing address, telephone number, and business e-mail address
+    •   Credit card number and expiration date used to make purchases through GovWin IQ’s
+        eCommerce system for reports, documents, and event registrations
+    •   GovWin IQ login and password combination
+
+We have taken extensive steps to address this incident quickly and effectively, and we remain committed
+to safeguarding the information that you have provided to us.
+
+What Is Deltek Doing to Protect You?
+
+We have remedied the security vulnerability that we believe the hacker exploited in order to gain
+unauthorized access to our GovWin IQ system. We have increased the overall security of GovWin IQ,
+including by reviewing and improving our data security procedures and changing our practices for
+handling personal information. We also have hired one of the nation’s premier cybersecurity forensic
+firms to conduct a detailed investigation of this matter and to make recommendations for how we can
+minimize the chances that this will happen again in the future.
+
+We have taken steps to notify your credit card company that your credit card may have been accessed
+during this incident. Your credit card company may contact you to verify charges if it detects any unusual
+pattern of activity. If it suspects your account has been compromised, you may even receive a new credit
+card. While we have taken steps to notify your credit card company proactively, we recommend that
+you also immediately notify your credit card issuing bank and follow its advice with regard to your
+credit card.
+
+What Action Should You Take?
+
+While we have no reason to believe that this security incident has led to the misuse of your personal
+information, out of an abundance of caution and to help protect your identity, we have made
+arrangements to provide you with a one-year membership to TransUnion Monitoring at no charge to
+you. TransUnion Monitoring gives you access to credit monitoring services, provided by TransUnion
+Interactive (a subsidiary of TransUnion, one of the three nationwide credit reporting companies).
+Enrolling in this program will not hurt your credit score. Due to privacy laws, we are not able to enroll you
+directly. For more information on TransUnion Monitoring and instructions on how to activate your free
+one-year membership, please see the last page of this letter.
+
+With respect to your credit card, remain vigilant by carefully reviewing your account statements and alert
+your credit card issuing bank to any suspicious charges. If you notice any suspicious charges on your
+credit card, please report them immediately to your credit card issuing bank. This is the most important
+step that you can take to detect and prevent any unauthorized use of your credit card number.
+
+With respect to your GovWin IQ login, on the evening of April 8, 2014, we implemented a change to
+GovWin IQ that requires users to change their GovWin IQ passwords the next time they login to
+www.govwin.com. Further, we will now require users to change their passwords every 90 days. If you
+previously used your GovWin IQ login and password to access any other network, financial account, e-
+mail or social media account, we strongly recommend that you change those passwords immediately.
+
+We also suggest that you consider contacting one of the major credit bureaus listed below to place a
+fraud alert or security freeze on your credit reports:
+
+             Equifax                     Experian                         TransUnion
+             (800) 685-1111              (888) 397-3742                   (800) 680-7289
+             P.O. Box 740241             P.O. Box 9532                    P.O. Box 2000
+             Atlanta, GA 30374           Allen, TX 75013                  Chester, PA 19022
+             www.equifax.com             www.experian.com                 www.transunion.com
+
+If you want to learn more about how to avoid identity theft, please visit the U.S. government’s identity theft
+information website, http://www.consumer.gov/idtheft. You can also contact the Federal Trade
+Commission via phone at 1-877-ID-THEFT (877-438-4338) or via mail at: Federal Trade Commission -
+Consumer Response Center, 600 Pennsylvania Avenue, NW, Washington, DC 20580.
+
+Please note that in the aftermath of security breaches such as this, some criminals seek to fraudulently
+obtain the personal information of affected individuals by claiming to be the business experiencing the
+breach. Do NOT respond to any e-mails or other requests from entities requesting your sensitive
+personal information in relation to this breach. Deltek will NOT ask you for your sensitive
+personal information. If you receive any written or electronic request via e-mail purporting to be from
+Deltek and it looks suspicious, please call us for assistance at the following phone numbers that we have
+set up for our customers who have questions about this incident: 844-487-3334 toll free in the United
+States and +1 571-262-0219 for international dialing. You will be asked to verify your identity, so please
+have this letter ready when you call. In addition, we have also set up an email inbox where you can
+submit questions to this email address: protect@deltek.com.
+
+We understand that you may be very concerned after learning about this matter, as were we. The
+security of our customers is, and always will remain, a top priority. We have taken aggressive action in
+this matter, and we will continue to constantly examine ways we can better protect you and your
+information.
+
+
+Sincerely,
+
+
+
+
+Michael Corkery
+President and Chief Executive Officer
+Deltek, Inc.
+                            TransUnion Monitoring Enrollment Information
+
+
+1. You Must Enroll By: August 31, 2014
+2. TransUnion Monitoring Website: www.transunionmonitoring.com
+3. Your Activation Code: [insert code]
+
+
+To enroll in this service, go to the TransUnion Monitoring website at www.transunionmonitoring.com
+and in the space referenced as “Activation Code”, enter the following unique 12-letter Activation Code
+<<Insert Unique 12-letter Activation Code>> and follow the simple three steps to receive your credit
+monitoring service online within minutes.
+
+
+If you do not have access to the Internet, as an alternative, you may enroll in a similar offline paper based
+three-bureau credit monitoring service, via U.S. Mail delivery, by calling the TransUnion Fraud Response
+Services toll-free hotline at 1-855-288-5422 and when prompted, enter the following 6-digit telephone
+pass code: 464033. You can sign up for the online or offline credit monitoring service anytime between
+now and August 31, 2014. Due to privacy laws, we cannot register you directly. Please note that credit
+monitoring services might not be available for individuals who do not have a credit file with TransUnion, or
+an address in the United States (or its territories) and a valid Social Security number.
+
+
+Once you are enrolled, you will be able to obtain one year of unlimited access to your TransUnion credit
+report and credit score. The daily three-bureau credit monitoring service will notify you if there are any
+critical changes to your credit files at TransUnion, Experian and Equifax, including fraud alerts, new
+inquiries, new accounts, new public records, late payments, change of address and more.
+
+
+The service also includes up to $1,000,000 in identity theft insurance with no deductible. (Policy
+limitations and exclusions may apply.)

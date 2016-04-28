@@ -1,0 +1,45 @@
+                                         Breach Notification.txt
+{SysDate}
+
+
+
+{RespFName} {RespLName}
+{RespAddr}
+{RespCity},{RespState} {RespZip}
+
+
+
+Dear {RespFName} {RespLName} and Household,
+
+We are contacting you about a recent burglary in our office that may result in an identity theft problem.
+The theft involved computer equipment that contained patient insurance information that may be
+compromised. We are actively working with the Riverside Police Department to fasciliate their
+investigation and to resolve this incident as soon as possible.
+
+We recommend that you place a fraud alert on your credit file. A fraud alert tells creditors to contact you
+before they open any new accounts or change any existing accounts. You may call any of the three major
+credit bureaus. A report to one bureau will notify the other two of a fraud alert.
+
+             Equifax    ( 800) 525-6285
+             Experian ( 888) 397-3742
+             TransUnion          ( 800) 680-7289
+
+If you do find suspicious activity on your credit report or have reason to believe your information is
+being misused, call the Riverside Police Department at (951) 787-7911 and file a police report. Many
+creditors require a report to absolve you of fraudulent debts. You may also file a complaint with the FTC
+at www.ftc.gov/bcp/edu/microsites/idtheft or at 1-877-ID-THEFT ( 438-4338 ).
+
+
+We apologize for any inconvenience this may cause you.
+
+
+Sincerely,
+
+
+Dr. Robert B. Perry
+Dr. Stephanie R. Perry
+
+
+
+
+                                                  Page 1

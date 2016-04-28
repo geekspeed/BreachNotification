@@ -1,0 +1,61 @@
+SAMPLE Notification Letter                                         CDSS Incident ID: 14‐101Staff
+Letter addressed to adult staff of affected facilities              CISO Incident ID: 14‐0826
+
+
+Dear Firstname Lastname:
+
+We are writing to inform you of a security incident involving your personal information. On July 17,
+2014, the California Department of Social Services (CDSS) was informed of the unauthorized release
+of documentation that may have included your personal information. Confidential documents were
+accidentally discarded and removed from the office for disposal prior to shredding. The documents
+may have contained your name, mailing address, date of birth and Social Security number. The
+incident was immediately investigated and determined to be accidental in nature; however, the
+documents could not be retrieved. These documents were associated with children's residential and
+senior care facilities in various counties of California.
+
+To protect yourself from the possibility of identity theft, we recommend that you place a fraud alert on
+your credit files by following the privacy protection steps "Privacy Protection Recommendations: What
+to Do If Your Personal Information Is Compromised," included with this letter.
+
+It is important to keep a copy of this notice for your records. For more information on identity theft,
+you may visit the Web site of the California Department of Justice Privacy Enforcement and
+Protection at www.privacy.ca.gov.
+
+We regret that this incident occurred and want to assure you that appropriate actions have been
+taken to minimize the risk of recurrence, including reviewing and revising our procedures and
+practices. Should you need any further information about this incident, please contact the CDSS
+Information Security Office at (855) 729-2484 or iso@dss.ca.gov and reference [reference number
+supplied on letter mailed to affected individual].
+SAMPLE Notification Letter                                         CDSS Incident ID: 14‐101Fosters
+Letter addressed to County Foster Care supervisor                   CISO Incident ID: 14‐0826
+
+
+Dear Firstname Lastname:
+
+We are writing to you, the child welfare agency with placement and care responsibility for the above
+named child, to inform you of a security incident that may have involved personal information of some
+children in foster care.
+
+On July 17, 2014, the California Department of Social Services (CDSS) was informed of the
+unauthorized release of documents that may have included this child’s personal information.
+Confidential documents were accidentally discarded and removed from the office for disposal prior to
+shredding. Documents may have included children’s names, mailing addresses, dates of birth and
+Social Security numbers. The incident was immediately investigated and determined to be accidental
+in nature; however, the documents could not be retrieved. These documents were associated with
+children's residential and senior care facilities in various counties of California. The above referenced
+child is currently placed in one of those children’s facilities and information about this child could have
+been included.
+
+To protect the child from the possibility of identity theft, we recommend that you follow the
+recommended privacy protection steps outlined in the enclosure, "Privacy Protection
+Recommendations: What to Do If Your Child’s Social Security Number Has Been Compromised."
+
+It is important to keep a copy of this notice in the child’s records. For more information on identity
+theft, you may visit the Web site of the California Department of Justice, Privacy Enforcement and
+Protection at www.privacy.ca.gov.
+
+We regret that this incident occurred and want to assure you that appropriate actions have been
+taken to minimize the risk of recurrence, including reviewing and revising our procedures and
+practices. Should you need any further information about this incident, please contact the CDSS
+Information Security Office at (855) 729-2484 or iso@dss.ca.gov and reference [reference number
+supplied on letter mailed to affected individual].

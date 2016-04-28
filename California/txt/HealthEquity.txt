@@ -1,0 +1,130 @@
+                                                                                      15 West Scenic Pointe Drive, Suite 100
+                                                                                      Draper, UT 84020
+
+
+
+
+<<MemberFirstName>> <<MemberLastName>>                                               <<Date>> (Format: Month Day, Year)
+<<Address1>>
+<<Address2>>
+<<City>>, <<State>> <<Zip Code>>
+
+
+
+
+Notice of Data Breach
+Dear <<MemberFirstName>> <<MemberLastName>>,
+We are writing to tell you about a data security incident that may have exposed some of your personal information.
+We take the protection and proper use of your information very seriously. For this reason, we are contacting you
+directly to explain the circumstances of the incident.
+What happened?
+On December 14, 2015, we discovered that a HealthEquity employee inadvertently sent an email on December 11
+containing some of your personal information to another employer with whom HealthEquity does business with. We
+took immediate actions to correct it, including confirming that the recipients had deleted the e-mail.
+What information was involved?
+Your personal information included your name and Social Security number.
+What we are doing.
+We are taking steps to prevent this from occurring again in the future. Given the circumstances, we believe this
+represents a low risk of identity theft for you.
+To help relieve concerns and restore confidence following this incident, we have secured the services of Kroll to provide
+identity monitoring at no cost to you for one year. Kroll is a global leader in risk mitigation and response, and their team
+has extensive experience helping people who have sustained an unintentional exposure of confidential data. Your identity
+monitoring services include Credit Monitoring, Web Watcher, Public Persona, Quick Cash Scan, $1 Million Identity Theft
+Insurance, and Identity Theft Consultation and Restoration.
+
+ Visit <<IDMonitoringURL>> to enroll and take advantage of your identity monitoring services.
+ Membership Number: <<Member ID>>
+
+To receive credit services by mail instead of online, please call 1-???-???-????. Additional information describing your
+services is included with this letter.	
+What you can do.
+Please review the enclosed “Additional Resources” section included with this letter. This section describes additional
+steps you can take to help protect yourself, including recommendations by the Federal Trade Commission regarding
+identity theft protection and details on how to place a fraud alert or a security freeze on your credit file.
+For more information.
+If you have questions, please call 1-???-???-????, Monday through Friday from 8:00 a.m. to 5:00 p.m. Central Time.
+Please have your membership number ready.
+Protecting your information is important to us. We trust that the services we are offering to you demonstrate our
+continued commitment to your security and satisfaction.
+Sincerely,
+HealthEquity Member Services                                                                                       ??????-1215 Ad
+ADDITIONAL RESOURCES
+Contact information for the three nationwide credit reporting agencies is:
+   Equifax, PO Box 740241, Atlanta, GA 30374, www.equifax.com, 1-800-685-1111
+   Experian, PO Box 2104, Allen, TX 75013, www.experian.com, 1-888-397-3742
+   TransUnion, PO Box 2000, Chester, PA 19022, www.transunion.com, 1-800-888-4213
+Free Credit Report. It is recommended that you remain vigilant for incidents of fraud and identity theft by reviewing
+account statements and monitoring your credit report for unauthorized activity. You may obtain a copy of your credit
+report, free of charge, once every 12 months from each of the three nationwide credit reporting agencies. To order
+your annual free credit report please visit www.annualcreditreport.com or call toll free at 1-877-322-8228. You can
+also order your annual free credit report by mailing a completed Annual Credit Report Request Form (available from
+the U.S. Federal Trade Commission’s (“FTC”) website at www.consumer.ftc.gov) to: Annual Credit Report Request
+Service, P.O. Box 105281, Atlanta, GA 30348-5281.
+   For residents of Iowa, Maryland, Michigan, Missouri, North Carolina, Oregon, and West Virginia: You may obtain
+   a copy of your credit report, free of charge, whether or not you suspect any unauthorized activity on your account.
+Fraud Alert. You may place a fraud alert in your file by calling one of the three nationwide credit reporting agencies
+above. A fraud alert tells creditors to follow certain procedures, including contacting you before they open any new
+accounts or change your existing accounts. For that reason, placing a fraud alert can protect you, but also may delay
+you when you seek to obtain credit.
+Security Freeze. You have the right to place a security freeze on your credit report.
+A security freeze is intended to prevent credit, loans and services from being approved in your name without your
+consent. To place a security freeze on your credit report, you may be able to use an online process, an automated
+telephone line, or a written request to any of the three credit reporting agencies listed above. The following
+information must be included when requesting a security freeze (note that if you are requesting a credit report for
+your spouse, this information must be provided for him/her as well): (1) full name, with middle initial and any suffixes;
+(2) Social Security number; (3) date of birth; (4) current address and any previous addresses for the past five years;
+and (5) any applicable incident report or complaint with a law enforcement agency or the Registry of Motor Vehicles.
+The request must also include a copy of a government-issued identification card and a copy of a recent utility bill or
+bank or insurance statement. It is essential that each copy be legible, display your name and current mailing address,
+and the date of issue. The credit reporting agencies may charge a fee of up to $5.00 to place a freeze, or lift or
+remove a freeze. There will be no charge, if you are a victim of identity theft or the spouse of a victim of identity theft,
+and you have submitted a valid police report relating to the identity theft incident to the credit reporting agencies.
+Federal Trade Commission and State Attorney General’s Offices. If you believe you are the victim of identity
+theft or have reason to believe your personal information has been misused, you should immediately contact the
+Federal Trade Commission and/or the Attorney General’s office in your home state. Contact information for the
+Federal Trade Commission is Federal Trade Commission, Consumer Response Center, 600 Pennsylvania Avenue,
+NW, Washington, DC 20580, www.ftc.gov/bcp/edu/microsites/idtheft/, 1-877-IDTHEFT (438-4338).
+   For residents of Maryland: You may contact the Maryland Attorney General’s Office at Maryland Office of the
+   Attorney General, Consumer Protection Division, 200 St. Paul Place, Baltimore, MD 21202, www.oag.state.md.us,
+   1-888-743-0023.
+   For residents of North Carolina: You may contact the North Carolina Attorney General’s office at North Carolina
+   Office of the Attorney General, Consumer Protection Division, 9001 Mail Service Center, Raleigh, NC 27699-9001,
+   www.ncdoj.com, 1-877-566-7226.
+Reporting of identity theft and obtaining a policy report.
+   For residents of Iowa: You are advised to report any suspected identity theft to law enforcement or to the Iowa
+   Attorney General.
+   For residents of Massachusetts: You have the right to obtain a police report if you are a victim of identity theft.
+   For residents of Oregon: You are advised to report any suspected identity theft to law enforcement, the Federal
+   Trade Commission, and the Oregon Attorney General.
+TAKE ADVANTAGE OF YOUR IDENTITY MONITORING SERVICES
+You’ve been provided with access to the following services1 from Kroll:
+
+Credit Monitoring through TransUnion
+You’ll receive alerts when there are changes to your credit data—for instance, when a new line of credit is applied for
+in your name. If you do not recognize the activity, you’ll have the option to call a Kroll investigator, who can help you
+determine if it’s an indicator of identity theft.
+
+Web Watcher
+Web Watcher monitors internet sites where criminals buy, sell, and trade personal information. You’ll be promptly
+notified if evidence of your identity information being traded or sold is discovered.
+
+Public Persona
+Public Persona monitors public record databases for names, aliases, and addresses that are associated with your
+Social Security number. If information is found, an alert email is sent.
+
+Quick Cash Scan
+Quick Cash Scan monitors thousands of short-term and cash-advance loan sources. You’ll receive an alert when a
+loan is reported, and you can call a Kroll investigator for more information.
+
+$1 Million Identity Theft Insurance
+Reimburses you for out-of-pocket expenses totaling up to $1 million in legal costs for any one stolen identity event.
+All coverage is subject to the conditions and exclusions in the policy.
+
+Kroll employs a team of experienced licensed investigators to provide you with expert, one-on-one assistance:
+Consultation provides you with unlimited access to a dedicated licensed investigator at Kroll. Support includes best
+practice tips to assist in ongoing protection, explaining your rights and protections under the law, assistance with
+fraud alerts, and interpreting how personal information is accessed and used.
+Kroll’s Restoration Services are the most comprehensive of any provider. Should you become a victim of identity
+theft, a dedicated licensed investigator can work on your behalf to resolve related issues. Your investigator can dig
+deep to uncover all aspects of identity theft; and then work with creditors, collection agencies, utilities, government
+entities, and more to resolve it.

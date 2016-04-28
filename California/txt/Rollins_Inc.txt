@@ -1,0 +1,110 @@
+<<Firstname>> <<Middlename>> <<Lastname>>                              <<Date>> (Format: Month Day, Year)
+<<Address1>>
+<<Address2>>
+<<City>>, <<Stateprovince>> <<Postalcode>>
+<<Intelligent Mail Barcode>>
+
+
+
+
+Dear <<Firstname>> <<Middlename>> <<Lastname>>,
+We are writing to inform you of an incident that came to our attention on March 12, which may have
+involved the unintentional exposure of your Social Security number (SSN). This occurred as a result of
+a system mistake involving the recent Rollins TODAY mailing. This distribution may have inadvertently
+displayed your SSN in a number sequence on the mailing label.
+While you may recognize your own SSN upon review of the mailing label, we believe that anyone
+else handling the quarterly issue probably would not know its meaning given how it was displayed.
+The most recent Rollins TODAY was mailed during the week of March 4th, so you should be receiving
+it shortly if you have not already received it. We recommend that you remove and destroy the Rollins
+TODAY mailing label or black out your SSN so that it is not legible.
+It is important to recognize that this incident was not the result of any sort of “hacking incident” of
+our electronic records and systems. There is no indication that this information has been misused.
+If you are still concerned and to restore confidence following this incident, Rollins has secured the
+services of Kroll Advisory Solutions to provide identity theft safeguards at no cost to you. Kroll
+Advisory Solutions is the global leader in risk mitigation and response, and their team has more
+experience than any other organization when it comes to helping people who have sustained an
+unintentional exposure of confidential data.
+Your identity theft safeguards include Continuous Credit Monitoring and Enhanced Identity Theft
+Consultation and Restoration. Instructions on how to receive your services are below.
+
+
+     Next Steps
+
+ð    Your membership number is: <<MEMBERSHIPNUMBER>>
+     1.	 Go to www.idintegrity.com to start your credit monitoring
+      	 Please be prepared to provide your membership number. Instructions are provided online.
+     	   If you would prefer to receive your alerts through the mail instead of online, fill out the enclosed
+         Consumer Credit Report and Credit Monitoring Authorization Form and return it in the enclosed
+         postage-paid envelope.
+     2.	 Call 1-???-???-???? if you need help or have questions
+     	 8 a.m. to 5 p.m. (Central Time), Monday through Friday
+     	 Kroll representatives are ready to help you.
+
+
+
+
+            Rollins, Inc., 2170 Piedmont Road N.E., Atlanta, Georgia 30324 Telephone (404) 888-2002   XXXXXX-0313
+We are providing you with access to the following services from Kroll Advisory Solutions, at no cost to you.
+Please note that in order to activate the following services you will need to follow the instructions in the
+“Next Steps” box on the first page of this letter.
+  Continuous Credit Monitoring. We are providing you with no-cost access to Kroll’s credit monitoring service
+  for 12 months from the date of this letter. Once activated, you will receive alerts whenever there are certain
+  changes in your credit file that could indicate an issue.
+  Enhanced Identity Theft Consultation and Restoration. Licensed Investigators, who truly understand the
+  problems surrounding identity theft, are available to listen, to answer your questions, and to offer their
+  expertise regarding any concerns you may have. And should your name and credit be affected by this incident,
+  your investigator will help restore your identity to pre-theft status.
+To receive credit monitoring, you must be over the age of 18 and have established credit in the U.S., have a Social
+Security number in your name, and have a U.S. residential address associated with your credit file.
+
+What Should You Do If You Have Any Questions Or Feel You Have An Identity Theft Issue?
+Call 1-???-???-????, 8 a.m. to 5 p.m. (Central Time), Monday through Friday. Kroll’s Licensed Investigators are
+standing by to answer your questions or help you with concerns you may have. Please have your membership
+number ready.
+We apologize for this situation and regret that this incident occurred. We take the privacy and security of our
+employees and retirees personal information seriously. Be assured that we will take appropriate steps to keep
+this type of problem from happening again in the future.
+In closing, we have no reason at this time to believe that any SSNs have been misused. We are however including
+information about additional steps that you can take to protect yourself from identify theft.
+Sincerely,
+
+
+
+
+John Wilson
+President and COO, Rollins, Inc.
+Steps You Can Take If You Are Concerned About The Possibility Of Identity Theft
+•	 Monitor and Review Your Credit Reports and Account Statements Carefully and Report Suspicious Activity.
+   You should remain vigilant and review your credit reports and financial account statements frequently for
+   suspicious activity which may indicate the occurrence of fraud or identity theft. When you review your credit
+   reports look for accounts you did not open, debts that do not involve you, inquiries by companies that you
+   have not or do not do business with, or other errors. If your financial account statements include transactions
+   you do not recognize or did not authorize, contact your financial institution. If there are errors on your credit
+   report, such as debts that are not yours or accounts you did not open, contact the credit bureaus. Errors can
+   simply be mistakes but they also may be indicators of possible identity theft so it is important to contact the
+   credit bureaus if you believe information in your credit reports is inaccurate.
+•	 Place a Fraud Alert or Security Freeze on Your Credit Reports. Consider placing a fraud alert or security freeze
+   on your credit files with the credit bureaus. A fraud alert will warn potential creditors to take additional steps
+   when reviewing applications in cases where they request credit reports as part of their account processes.
+   A security freeze will restrict access to your credit reports. Be aware, however, that it could take longer for you
+   to obtain new credit because of these additional steps. The credit bureaus can be contacted at:
+  Credit Bureau	       Website	                    Mailing Address	                           Phone
+  Equifax	             www.equifax.com	            P.O. Box 740241, Atlanta, GA 30374	        1-888-766-0008
+  Experian	            www.experian.com	           P.O. Box 2002, Allen, TX 75013	            1-888-397-3742
+  Transunion	          www.transunion.com	         P.O. Box 6790, Fullerton, CA 92834	        1-800-680-7289
+•	 Other possible actions. If you detect any unauthorized transactions in your financial account, promptly notify
+   your payment card company or financial institution. You can obtain additional information about fraud alerts
+   and security freezes from the three national credit bureaus, the Federal Trade Commission (“FTC”), or your state
+   Attorney General’s office.
+  In addition, if you believe that you have been a victim of identity theft you can file a report with the FTC, 600
+  Pennsylvania Ave NW, Washington DC, 20580, www.ftc.gov/complaint or at (877) ID-THEFT (438-4338). Reports
+  are added to the FTC’s Identity Theft Data Clearinghouse, where they are accessible to law enforcement for
+  their investigations.
+  You also may be able to obtain additional information about identity theft from, and report suspected identity
+  theft to, your state Attorney General’s office and/or local law enforcement.
+  Maryland Residents: For additional information about identity theft, in addition to the FTC, credit bureaus, and
+  other sources above, you also may contact: Office of the Attorney General, 200 St. Paul Place, Baltimore, MD
+  21202. www.oag.state.md.us. 1 (888) 743-0023.
+  North Carolina Residents: For additional information about identity theft, in addition to the FTC, credit bureaus,
+  and other sources above, you also may contact: North Carolina Department of Justice, Attorney General’s Office,
+  9001 Mail Service Center, Raleigh, NC 27699-9001. http://www.ncdoj.gov/. (877) 566-7266.

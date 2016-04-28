@@ -1,0 +1,98 @@
+June  28,  2012
+
+Dear  USC  Faculty,  Staff,  Students,  and  Visitors:
+
+The  university  recently  identified  a  security  breach  affecting  credit  card  purchases  made  at  food  outlets  
+on  the  USC  University  Park  and  Health  Sciences  campuses.
+
+We  are  still  investigating  this  matter  but  we  want  to  share  with  you  what  we  have  discovered  to  date.
+
+Credit  card  numbers  were  obtained  illegally  through  a  breach  in  a  third-­party  software  system  used  to  
+process  credit  card  transactions  in  some  USC  dining  halls,  including  Ronald  Tutor  Campus  Center,  
+Seeds,  the  Lab  on  Figueroa  St.  and  Starbucks  on  the  Health  Sciences  Campus  during  the  period  from  
+May  21  to  June  21,  and  possibly  earlier.
+
+Only  credit  card  numbers  were  exposed.    No  personally  identifiable  information  was  compromised.
+
+Upon  learning  of  the  breach,  the  university  promptly  disabled  the  compromised  system.  
+
+The  university  has  notified  the  vendor  of  the  security  breach  and  has  requested  that  the  vendor  take  
+appropriate  corrective  actions  to  secure  its  system.  
+
+USC's  Department  of  Public  Safety  and  the  Los  Angeles  Police  Department  are  investigating  the  
+incident.
+
+If  you  recently  used  your  credit  card  at  a  USC  dining  facility,  we  recommend  that  you  check  carefully  
+all  credit  card  statements  that  you  receive  over  the  next  several  months,  and  as  a  precautionary  
+measure,  that  you  also  check  statements  for  the  past  several  months  for  any  unusual  charges.    If  you  
+discover  unauthorized  or  suspicious  activity  in  any  of  these  accounts,  contact  your  credit  card  company  
+or  other  account  issuer  immediately.    By  law,  you  should  not  be  liable  for  any  unauthorized  charges.
+
+The  FAQ  below  provides  additional  information  about  the  incident.    You  can  also  call  the  customer  
+service  center  at  213.821.1863  if  you  have  questions.  
+
+We  apologize  for  any  inconvenience  or  concern  that  this  notification  may  cause.    As  a  member  of  our  
+Trojan  family  or  a  visitor  to  our  campus,  we  want  to  ensure  that  we  do  all  that  we  can  to  
+maintain  your  trust  and  confidence.    The  university  takes  these  matters  very  seriously  and  we  will  do  
+all  that  we  can  to  prevent  such  breaches  in  future.
+
+Sincerely,
+
+Dan  Stimmler
+Associate  Senior  Vice  President
+USC  Auxiliary  Services
+
+                     University of Southern California R Los Angeles, California 90089 R Tel: 213 740 2311
+                 Questions  and  Answers  about  Theft  of  Credit  Card  Numbers  Used  at  USC
+
+What  numbers  were  stolen,  where  and  when?
+
+Access  was  gained  to  a  third-­party  software  system  that  is  used  to  process  credit  card  transactions  at  some  USC  food  
+venues,  including  those  at  the  Ronald  Tutor  Campus  Center,  the  Lab,  Seeds  and  Starbucks  on  the  Health  Sciences  
+Campus.
+
+USC  engaged  Ernst  &  Young  to  conduct  a  forensic  investigation  to  determine  the  duration  of  unauthorized  access  and  the  
+number  of  credit  card  transactions  exposed.    To  date,  we  believe  that  impacted  transactions  occurred  between  May  21  and  
+June  21,  but  we  have  not  ruled  out  earlier  instances.
+
+How  was  the  problem  discovered?
+
+USC’s  Department  of  Public  Safety  received  calls  from  several  individuals  reporting  credit  card  fraud  who  had  recently  
+purchased  food  at  the  above  locations.
+
+USC  Auxiliary  Services  investigated  the  complaints,  confirmed  that  the  system  had  been  compromised  and  stopped  use  of  
+the  system  to  process  credit  card  charges  on  June  21.
+
+What  if  I  purchased  food  by  credit  card  at  USC  after  June  21?
+
+The  compromised  system  has  been  disabled  and  will  remain  offline  until  the  university  can  be  sure  that  the  security  
+breach  has  been  fixed  and  data  is  secure.
+
+What  information  was  compromised?
+
+The  information  consisted  only  of  credit  card  numbers.    No  personally  identifiable  information  was  exposed.  As  a  result,  
+cardholders  are  not  at  risk  of  identity  theft  from  this  incident.
+
+Does  this  incident  affect  my  USCard?
+
+No,  USCard  information  was  not  compromised.    This  incident  should  not  affect  your  continued  use  of  the  USCard.    
+
+What  do  I  do  if  someone  used  my  credit  card  number  without  my  knowledge?
+
+Check  your  credit  card  statements  carefully.    Immediately  report  any  unauthorized  charges  to  your  credit  card  company.  
+Your  credit  card  company  will  instruct  you  on  your  options  to  further  protect  or  replace  your  card.
+
+Am  I  responsible  for  any  fraudulent  charges?
+
+By  federal  law,  you  should  not  be  responsible  for  charges  made  using  a  stolen  credit  card  number  while  the  card  itself  
+remains  in  your  possession.    More  information  on  what  to  do  if  your  credit  card  is  compromised  is  available  at  
+http://www.ftc.gov/bcp/edu/pubs/consumer/credit/cre04.shtm
+
+How  will  you  notify  everyone  who  may  have  been  affected?
+
+The  university  is  notifying  faculty,  students,  and  staff  directly.    We  also  have  posted  the  notification  on  the  USC  web  site  
+and  distributed  the  link  through  the  media  and  our  social  media  channels.
+
+We  are  unable  to  notify  all  potentially  impacted  individuals  directly  because  the  names  of  the  credit  card  holders  are  
+known  only  to  the  banks  that  issued  the  credit  cards.    For  privacy  reasons,  the  issuing  banks  will  not  share  names  and  
+contact  information  of  the  credit  card  holders.

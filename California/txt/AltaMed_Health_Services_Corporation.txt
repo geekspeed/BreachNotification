@@ -1,0 +1,90 @@
+Processing Center · P.O. Box 3825 · Suwanee, GA 30024
+
+
+
+
+          [First_Name] [Last_Name]                                                        September 2, 2014
+          [Address_Line_1]
+          [Address_Line_2]
+          [City], [State] [Zip]
+
+
+Dear [First_Name] [Last_Name],
+
+The purpose of this letter is to inform you of a recent incident that may affect the security of your personal and
+protected health information. We are providing this notice to ensure that you are aware of the incident, so that you
+may take steps to protect your information should you feel it is appropriate to do so.
+
+On June 30, 2014, the Arcadia Police Department informed us that it was investigating a former AltaMed employee
+on suspicion of identity theft. During their investigation, law enforcement stated it had recovered a hard drive and
+other evidence containing the personal information of individuals. They believed the information recovered had
+been used by individual(s) to commit or attempt to commit identity theft or fraud. However, citing its ongoing
+investigation, law enforcement would not disclose whether those records were AltaMed records, the identities of the
+individuals to whom the information related, or the reason for its belief that the information had been misused.
+
+Upon learning of this, AltaMed launched an internal investigation into the matter to determine what records this
+individual may have accessed during her employment. Our investigation is ongoing; however, we’ve determined
+that during her employment this individual accessed certain information on AltaMed patients and individuals
+seeking insurance coverage information at AltaMed locations in Orange and Los Angeles Counties, among those
+records was a record containing your name, {Client_Def1} and your address.
+
+We take the security of your personal information very seriously. At this time, we cannot confirm whether the
+information recovered from this former employee included information relating to you; however, out of an
+abundance of caution we are providing notice of this incident to you and information on how to protect yourself
+against identity theft and fraud. In addition to providing written notice of this incident to you, we are providing
+written notice of this incident to the California Department of Public Health, to the U.S. Department of Health and
+Human Services, and to the California Attorney General’s office.
+
+In order to help further safeguard against any potential misuse of your personal information, we have arranged to
+have AllClear ID protect your identity for 12 months at no cost to you. The following identity protection services
+start on the date of this notice and you can use them at any time during the next 12 months.
+
+AllClear SECURE: The team at AllClear ID is ready and standing by if you need help protecting your identity.
+This protection is automatically available to you with no enrollment required. If a problem arises, simply call (877)
+579-2263 and a dedicated investigator will do the work to recover financial losses, restore your credit and make sure
+your identity is returned to its proper condition. AllClear maintains an A+ rating at the Better Business Bureau.
+
+AllClear PRO: This service offers additional layers of protection including credit monitoring. To use the PRO
+service, you will need to provide your personal information to AllClear ID. You may sign up online at
+enroll.allclearid.com or by phone by calling (877) 579-2263 using the following redemption code:
+{Redemption_Code}.
+
+Please note: Additional steps may be required by you in order to activate your phone alerts.
+In addition to enrolling and receiving the monitoring services described above, we encourage you to remain
+vigilant, to review your account statements, and to monitor your credit reports and explanation of benefits forms for
+suspicious activity. Under U.S. law you are entitled to one free credit report annually from each of the three major
+credit reporting bureaus. To order your free credit report, visit www.annualcreditreport.com or call, toll-free, 1-877
+-322-8228. You may also contact the three major credit bureaus directly to request a free copy of your credit report.
+
+At no charge, you can also have these credit bureaus place a “fraud alert” on your file that alerts creditors to take
+additional steps to verify your identity prior to granting credit in your name. Note, however, that because it tells
+creditors to follow certain procedures to protect you, it may also delay your ability to obtain credit while the agency
+verifies your identity. As soon as one credit bureau confirms your fraud alert, the others are notified to place fraud
+alerts on your file. Should you wish to place a fraud alert, or should you have any questions regarding your credit
+report, please contact any one of the agencies listed below.
+
+Equifax                                   Experian                                 TransUnion
+P.O. Box 105069                           P.O. Box 2002                            P.O. Box 2000
+Atlanta, GA 30348                         Allen, TX 75013                          Chester, PA 19022-2000
+800-525-6285                              888-397-3742                             800-680-7289
+www.equifax.com                           www.experian.com                         www.transunion.com
+
+You can also further educate yourself regarding identity theft, and the steps you can take to protect yourself, by
+contacting your state Attorney General or the Federal Trade Commission. The Federal Trade Commission also
+encourages those who discover that their information has been misused to file a complaint with them. The Federal
+Trade Commission can be reached at: 600 Pennsylvania Avenue, NW, Washington, DC 20580, www.ftc.gov/bcp/
+edu/microsites/idtheft/, 1-877-ID-THEFT (1-877-438-4338); TTY: 1-866-653-4261. Instances of known or
+suspected identity theft should be reported to law enforcement, your Attorney General, and the FTC. You can also
+further educate yourself about placing a fraud alert or security freeze on your credit file by contacting the FTC or
+your state’s Attorney General.
+
+The safety and privacy or protected health information is our utmost priority and we deeply regret this has
+happened. We’ve established a confidential inquiry line, staffed with professionals trained in identity and credit
+protection and restoration, and familiar with this incident and the contents of this letter. This confidential inquiry
+line is available Monday through Saturday, 6:00 a.m. to 6:00 p.m. P.S.T. at (877) 579-2263.
+
+Sincerely,
+
+
+
+Shauntara Jones RHIA, CHDA, CHPS, Privacy Officer

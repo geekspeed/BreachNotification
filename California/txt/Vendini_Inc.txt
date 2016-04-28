@@ -1,0 +1,96 @@
+                      IMPORTANT INFORMATION. PLEASE READ IN ITS ENTIRETY.
+May 22, 2013
+
+Dear Patron:
+
+We regret to inform you that on April 25, 2013, Vendini, Inc. detected an unauthorized intrusion into
+its systems. Vendini provides box-office and online ticketing services to hundreds of entertainment
+venues, which include tour, casino, sports, and arts organizations across the U.S. and Canada. Based
+on our records, you used a credit card to make a purchase for an event that was processed through
+Vendini’s service, and your information may have been involved in this incident.
+
+We are actively cooperating with federal law enforcement, and this notification to you was delayed
+specifically to support law enforcement’s investigation. In addition, a full-scale, internal investigation
+is under way at Vendini with outside computer forensic and cyber security experts. Although our
+internal investigation is ongoing, we believe that in late March, a third-party criminal actor used hacking
+technologies to access our databases and may have accessed your personal information, such as name,
+mailing address, email address, phone number, and credit card numbers and expiration dates. We do
+not collect credit card security access codes (e.g., CVV, CVV2, PINs), social security numbers, usernames
+or passwords.
+
+Upon discovering this intrusion, we engaged computer forensic and cyber security experts to commence
+an investigation. We implemented enhanced security measures designed to prevent a recurrence of this
+type of incident. We notified our merchant banks; and credit card companies have been alerted.
+
+In addition, please note the following:
+
+    ●   To protect against the possibility of identity theft or fraud, we urge you to remain vigilant, and
+        to regularly review your credit card account statements and credit reports for any unauthorized
+        activity.
+    ●   If you suspect that you may be a victim of identity theft or fraud, immediately contact your
+        local law enforcement agency, your State Attorney General’s office and the Federal Trade
+        Commission. We have enclosed a Resources Guide for your reference.
+    ●   Do NOT respond to any requests for sensitive personal information in relation to this incident.
+        Vendini will never request such information via email or telephone unless it is absolutely
+        necessary to respond directly to you regarding how this incident may impact you.
+
+We sincerely regret this incident. Protecting data privacy and security is a top priority for our company.
+For more information regarding this incident, please contact us toll-free at 1-800-836-0473 or visit us at
+www.vendini.com/info.
+
+Sincerely,
+
+
+Mark Tacchi
+President and CEO
+                                                   Resources Guide
+
+For Residents of Maryland and North Carolina: For information about fraud alerts, security freezes, and steps
+you can take to protect against identity theft, contact the U.S. Federal Trade Commission (see contact information
+below), or as applicable:
+
+  Maryland’s Office of the Attorney General: 200 Saint Paul Place, Baltimore, MD 21202; Tel: (410) 576-6300;
+  or Visit: www.oag.state.md.us
+
+  North Carolina’s Attorney General’s Office: 9001 Mail Service Center, Raleigh, NC 27699-9001; Tel: (919) 716-
+  6400; Fax: (919) 716-6750; or Visit: http://www.ncdoj.com
+
+
+U.S. Federal Trade Commission (FTC): The FTC has helpful information about how to avoid identity theft and
+other steps that consumers can take to protect themselves.
+  Write to: Consumer Response Center, 600 Pennsylvania Ave., NW, H-130, Washington, D.C. 20580
+  Call Toll-Free: 1-877-IDTHEFT (438-4338); or Visit: http://www.ftc.gov/idtheft
+
+
+Free Annual Credit Report: You may obtain a free copy of your credit report once every 12 months (or
+purchase of obtain additional copies of your credit report). Call Toll-Free: 1-877-322-8228; or Visit: https://
+www.annualcreditreport.com; or Contact any one or more of the national consumer reporting agencies:
+  Equifax:        P.O. Box 740241, Atlanta, GA 30374-0241          (800) 685-1111       www.equifax.com
+  Experian:       P.O. Box 2002, Allen, TX 75013                   (888) 397-3742       www.experian.com
+  TransUnion:     P. O. Box 1000, Chester, PA 19022                (800) 888-4213       www.transunion.com
+
+
+“Fraud Alerts” and “Security Freezes”
+
+  Fraud Alert - You have the right to place a fraud alert in your file to alert potential creditors that you may be
+  a victim of identity theft. Creditors must then follow certain procedures to protect you; therefore, a fraud
+  alert may delay your ability to obtain credit. An “initial fraud alert” stays in your file for at least 90 days. An
+  “extended fraud alert” stays in your file for 7 years, and will require an identity theft report (usually, a filed police
+  report). You may place a fraud alert by calling any one of the three national consumer reporting agencies:
+    Equifax: 1-800-525-6285            Experian: 1-888-397-3742             TransUnion: 1-800-680-7289
+
+  Security Freeze – Some U.S. states provide the right to place a security freeze on your credit file, which prevents
+  credit, loans and services from being approved in your name without your consent. Using a freeze may
+  interfere with or delay your ability to obtain credit. To place a freeze, send a request by mail to each consumer
+  reporting agency (addresses below) with the following (if you are requesting a credit report for your spouse, this
+  information must be provided for him/her as well): (1) Full name, with middle initial and any suffixes; (2) Social
+  Security Number; (3) Date of Birth; (4) Current address and any previous addresses for the past two years; and
+  (5) Any applicable incident report or complaint with a law enforcement agency or the Registry of Motor Vehicles.
+  You must also include a copy of a government-issued identification card and a copy of a recent utility bill or bank
+  or insurance statement. Each copy must be legible, display your name and current mailing address, and the date
+  of issue. The credit reporting agency may charge a fee up to $5.00 to place, lift, and/or remove a freeze, unless
+  you are a victim of identity theft or the spouse of a victim of identity theft, and you have submitted a valid police
+  report relating to the identity theft incident to the consumer reporting agency.
+    Equifax Security Freeze: P.O. Box 105788, Atlanta, Georgia 30348
+    Experian Security Freeze: P.O. Box 9554, Allen, TX 75013
+    TransUnion (Fraud Victim Assistance Division): P.O. Box 6790, Fullerton, CA 92834-6790

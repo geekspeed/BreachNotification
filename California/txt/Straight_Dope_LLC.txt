@@ -1,0 +1,46 @@
+From: The Straight Dope <reply@suntimesmail.com>
+Date: Tue, Jan 7, 2014 at 4:48 PM
+Subject: Important Message about your Straight Dope Account and Password 1/7/2014
+To:
+
+
+
+
+ Our security team recently discovered that the Straight Dope message board forum was
+ targeted and hacked. This resulted in the illegal acquisition of message board users'
+ information, namely usernames, email addresses, and Straight Dope message board
+ passwords. Given this incident, we recommend that you take the following steps as promptly
+ as possible:
+
+     1. Change your Straight Dope Password: Visit the Straight Dope Message Board forums
+        at http://boards.straightdope.com/sdmb/profile.php?do=editpassword. Please
+        promptly choose a new password (do not use the same password you used with us
+        previously). Changing your password will help ensure that your account is not used
+        by an unauthorized individual.
+     2. Protect Your Passwords Across the Web: We highly recommend that if you used the
+        same password on other online accounts or to access your email account, you choose
+        a new password on those websites and for your email accounts. In general, security
+        experts strongly recommend that you not use the same password across multiple
+        websites (this includes not using the same password to access your email accounts).
+
+ All passwords in our system were protected using hashing, which is a scrambled version of
+ your password. Thus if your password isn't very complex, the hacker could use brute force to
+ figure out your password by trying lots of combinations. For this reason we recommend that
+ you take the steps we have outlined above. In addition, we are taking several steps to prevent
+ unauthorized access to our systems to protect your information. We are also working with
+ law enforcement officials and conducting our own investigations. Go to
+ http://www.straightdope.com/pages/about_identity_theft.html for other steps you can take to
+ protect yourself when faced with potential identity theft, as well as helpful contact numbers
+ where you can obtain more information about preventing identity theft.
+
+ We apologize for any inconvenience this has caused. As a reminder, the Straight Dope
+ message board does not collect or store any social security numbers or credit card numbers,
+ and thus no such information was impacted in this incident.
+
+ If you have any additional questions or concerns, please feel free to contact our support team
+ at 1-800- 645-0375 or support@straightdope.com.
+ Copyright © 2014 Sun-Times Media, LLC.
+
+ This email was sent by: Sun-Times Media, LLC
+ 350 Orleans St., 10th Floor
+ Chicago, IL, 60654 USA

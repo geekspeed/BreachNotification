@@ -1,0 +1,97 @@
+[Date]
+
+[Name]
+[Address]
+[City, State Zip]
+
+Dear [Name]:
+
+We are writing to notify you of an incident that may affect the security of your personal information. We are
+unaware of any attempted or actual misuse of your personal information, but are providing this notice to ensure
+that you are aware ofthe incident and so that you may take steps to monitor your identity, and your credit
+accounts, should you feel it is necessary to do so.
+
+R.T. Jones Capital Equities Management, Inc.("R.T. Jones") is, or was, the managed account provider for your
+current or former employer. On July 26, 2013, R.T. Jones learned of the possibility that the web hosting facility
+that hosts its Artesys website was the subject of a cyber-attack originating from an IP address in China on July 22,
+2013. Upon learning of this event, R.T. Jones immediately commenced an internal investigation to determine the
+scope ofthis incident. R.T. Jones also retained two separate independent forensic experts to conduct their own
+investigations into this incident, as well as specialized data security counsel to guide the company through its
+response to this incident. R.T. Jones also reported these attacks to the FBI, the Secret Service, and local law
+enforcement. Although these investigations are ongoing, on August 7, 2013 the forensic cyber experts hired by
+R.T. Jones confirmed that this cyber-attack could result in the unauthorized access to a database containing your
+name, Social Security number,[email address],[discretionary account number managed by R.T. Jones], and date
+of birth.
+
+R.T. Jones takes this matter, and the security of your personal information, seriously. R.T. Jones is unaware of
+any actual or attempted misuse of your personal information. Out of an abundance of caution and in order to help
+safeguard you from misuse of your personal information, we have arranged monitoring of activity within the
+United States for 12 months at no cost to you. You can enroll in a professional identity monitoring service (First
+Watch ID) provided by First Watch Technologies, Inc. You can sign up for this service anytime between now
+and                ,using the verification code listed below. To enroll in this service, simply ca11866-264-1054
+Monday through Friday between the hours of9 AM.and 7 PM.EST or go to www.firstwatchid.com and:
+
+            * Click on the Verification Code button on the upper right-hand corner ofthe First Watch ID
+            homepage.
+
+            * Enter the appropriate information, including your unique 12-digit verification code:
+            [XXXXXXXXXXXX]
+
+After enrollment, you will receive one year of proactive identity monitoring. First Watch ID will monitor
+thousands of databases and billions of records on your behalfto look for suspicious activity that could indicate the
+beginning steps of identity theft. If suspicious activity is found, First Watch will place a personal phone call to
+you (at the telephone number that you provide)to determine ifthe suspicious activity is potentially fraudulent.
+
+Additionally, if you enroll, First Watch provides you with easy online access to monitor your credit activiTy using
+the three major credit bureau services. Each credit bureau will provide you one free credit report annually. First
+Watch suggests you request your free credit report from one bureau at a time every four months. This allows you
+to monitor credit activity three times per year. First Watch will send you an email(at the email address you
+provide)every four months reminding you to request your free credit report from the appropriate bureau.
+
+The First Watch ID service also includes up to $25,000 of identity theft insurance with $0 deductible,(certain
+limitations and exclusions may apply).
+To further protect against possible identity theft or other financial loss, we encourage you to remain vigilant, to
+review your account statements, and to monitor your credit reports for suspicious activity. Under U.S. law, you
+are entitled to one free credit report annually from each of the three major credit bureaus. To order your free
+credit report, visit www.annualcreditreport.com or call, toll-free, 1-877-322-8228. You may also contact the three
+major credit bureaus directly to request a free copy of your credit report.
+
+At no charge, you can also have these credit bureaus place a "fraud alert" on your file that alerts creditors to take
+additional steps to verify your identiTy prior to granting credit in your name. Note, however, that because it tells
+creditors to follow certain procedures to protect you, it may also delay your ability to obtain credit while the
+agency verifies your identity. As soon as one credit bureau confirms your fraud alert, the others are notified to
+place fraud alerts on your file. Should you wish to place a fraud alert, or should you have any questions regarding
+your credit report, please contact any one of the agencies listed below. Information regarding security freezes is
+also available from these agencies.
+
+Equifax                              Experian                                  TransUnion
+P.O. Box 105069                      P.O. Box 2002                             P.O. Box 6790
+Atlanta, GA 30348                    Allen, TX 75013                           Fullerton, CA 92834
+800-525-6285                         888-397-3742                              800-680-7289
+www.equifax.com                      www.experian.com                          www.transunion.com
+
+You can also further educate yourself regarding identity theft, security freezes, and the steps you can take to
+protect yourself, by contacting your state Attorney General or the Federal Trade Commission. For North
+Carolina residents, the Attorney General can be contacted at 9001 Mail Service Center, Raleigh, NC 27699-
+9001, 1-919-716-6400, www.ncdo,~gov. For Maryland residents, the Attorney General can be contacted at 200
+St. Paul Place, 16th Floor, Baltimore, MD 21202, (888) 743-0023, www.oag.state.md.us. The Federal Trade
+Commission can be reached at:               600 Pennsylvania Avenue NW, Washington, DC 20580,
+www.ftc. ov/bcpledu/microsites/idtheft/, 1-877-ID-THEFT (877-438-4338); TTY: 866-653-4261. The Federal
+Trade Commission also encourages those who discover that their information has been misused to file a
+complaint with them. You can also obtain further information on how to file such a complaint by way of the
+contact information listed above. Instances of known or suspected identity theft should also be reported to law
+enforcement.
+
+We have established a confidential privacy line, staffed with professionals trained in credit and identity protection
+and familiar with this incident. If you have any questions regarding the incident or the information in this letter,
+please contact this confidential privacy line at 1-(866)264-1054. This line is available Monday through Friday,
+9:00 a.m. to 7:00 p.m. E.S.T.
+
+We apologize for any inconvenience or concern that this may have caused you.
+
+Very truly yours,
+
+
+
+Robert T. Jones
+CEO/Chairman

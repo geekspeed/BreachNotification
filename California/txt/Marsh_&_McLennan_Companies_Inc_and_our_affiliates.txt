@@ -1,0 +1,138 @@
+<<Date>>
+
+<<FirstName>> <<LastName>>
+<<AddressLine1>>
+<<AddressLine2>>
+<<City>>, <<State>> <<ZipCode>>
+
+Dear <<FirstName>> <<LastName>>,
+
+We are writing to inform you that a data incident has taken place at Kroll Background
+Screening Services (Kroll) involving personal information. Kroll performs background
+checks for many companies, including Marsh & McLennan Companies, Inc. and our
+affiliates (collectively, “we”, “us”, or, the “Company”). According to available records we
+believe that you provided personal information to Kroll for a background check
+performed in connection with your application for employment or performance of
+services for the Company. Some of your personal information, including your name,
+Social Security Number, address, employment, and academic histories may have been
+on Kroll servers or networks impacted by this data incident.
+
+On September 25, 2013, Kroll notified us that its systems were targeted by third parties
+for the purpose of obtaining background check information maintained by Kroll. Kroll
+told us that this intrusion into Kroll’s network began in June 2013 and continued until the
+second week of September. According to Kroll and published press reports, Kroll was
+one of several companies whose systems were targeted.
+
+We have received briefings from Kroll and understand that Kroll is continuing its
+investigation into this incident. We also understand that a federal criminal investigation
+is underway into the persons behind this intrusion.
+
+At this time, the Company has no evidence that your personal information has been
+taken. However, given the circumstances surrounding this incident, we concluded that
+the best course of action was to notify you and other potentially affected individuals of
+this incident and to advise you of complimentary credit protection services that we are
+making available. We have arranged to have AllClear ID provide identity protection
+services at no cost to you. These identity protection services, described below by AllClear
+ID, start on the date of this notice and you can use them at any time during the two years
+following that date:
+
+   AllClear SECURE: The team at AllClear ID is ready and standing by if you need help
+   protecting your identity. You are automatically eligible to use this service — there is no
+   additional action required on your part. If a problem arises, call +1 877 313 1409 and
+   an investigator will work to recover financial losses, restore your credit, and return
+   your identity information to its proper condition. AllClear maintains an A+ rating at the
+   Better Business Bureau.
+   AllClear PRO: This service offers additional layers of protection and phone alerts,
+   including credit monitoring and a $1 million identity theft insurance policy. To use the
+   PRO service, you will need to provide your personal information to AllClear ID. You
+   can sign up online at enroll.allclearid.com, by mail with the enclosed mail-in
+   registration form, or by phone by calling +1 877 313 1409 using the following
+   redemption code: {RedemptionCode}.
+
+Please note: Additional steps may be required by you in order to activate your phone
+alerts. Mailed registrations may take up to ten (10) business days before the registration
+is received and you are able to log in to your account.
+
+Whether or not you use the complimentary identity protection services that the
+Company is offering, we encourage you to review the enclosed information about
+identity theft protection. This document contains information on how to contact the three
+national consumer reporting agencies — Experian, Equifax, and TransUnion.
+
+In addition, we recommend that you remain vigilant and review your account statements
+and credit reports regularly, whether or not you enroll in the AllClear Pro service. If you
+detect any suspicious activity on an account, you should promptly notify the financial
+institution or company with which the account is maintained. You also should promptly
+report fraudulent activity or any suspected incidence of identity theft to appropriate local
+law enforcement authorities.
+
+We have also notified state regulators and law enforcement officials, as appropriate,
+and the three national consumer reporting agencies.
+
+Our Company is committed to the protection of personal information entrusted to us. If
+you have further questions or concerns about this incident, please contact AllClear ID at
++1 877 313 1409 between 8 a.m. and 8 p.m. Central time, Monday through Saturday.
+
+Sincerely,
+
+Scott Gilbert                                     Laurie Ledford
+Chief Risk and Compliance Officer                 SVP, Chief Human Resources Officer
+Marsh & McLennan Companies                        Marsh & McLennan Companies
+                                         US State Notification Information
+
+It is required by state laws to inform you that you may obtain a copy of your credit report, free of charge, whether or not you suspect any
+unauthorized activity on our account. It is recommended by state law that you remain vigilant for incidents of fraud and identity theft by
+reviewing credit card account statements and monitoring your credit report for unauthorized activity. You may obtain a free copy of your
+credit report by contacting any one or more of the following national consumer reporting agencies:
+
+           Equifax                             Experian                          TransUnion
+           P.O. Box 740241                     P.O. Box 2002                     P.O. Box 2000
+           Atlanta, Georgia 30374              Allen, TX 75013                   Chester, PA 19022
+           +1 800 685 1111                     +1 888 397 3742                   +1 800 888 4213
+           www.equifax.com                     www.experian.com                  www.transunion.com
+
+You can obtain information from the Federal Trade Commission about steps you can take to avoid identity theft
+
+                                               Federal Trade Commission
+                                               Consumer Response Center
+                                               600 Pennsylvania Avenue, NW
+                                               Washington, DC 20580
+                                               +1 877 IDTHEFT (438 4338)
+                                               www.ftc.gov/bcp/edu/microsites/idtheft
+
+______________________________________________________________________________
+For residents of California
+Notification regarding this data incident was not delayed as a result of law enforcement investigation.
+_______________________________________________________________________________
+For residents of Iowa
+State law advises you to report any suspected identity theft to law enforcement or to the Attorney General.
+
+For residents of Oregon
+State laws advise you to report any suspected identity theft to law enforcement, as well as the Federal Trade
+Commission.
+
+For residents of Maryland and North Carolina
+You can obtain information from the Maryland and North Carolina Offices of the Attorneys General as well as the
+Federal Trade Commission about steps you can take to avoid identity theft.
+ Maryland Office of the                    North Carolina Office of the
+ Attorney General                          Attorney General
+ Consumer Protection Division              Consumer Protection Division
+ 200 St. Paul Place                        9001 Mail Service Center
+ Baltimore, MD 21202                       Raleigh, NC 27699-9001
+ +1 888 743 0023                           +1 877 566 7226
+ www.oag.state.md.us                       www.ncdoj.com
+
+For residents of Massachusetts and West Virginia
+It is required by state law that you are informed of your right to obtain a police report if you are a victim of identity theft. You also have
+the right to place a security freeze on your credit report. A security freeze is intended to prevent credit, loans and services from being
+approved in your name without your consent; however, using a security freeze may delay your ability to obtain credit.
+
+To place a security freeze on your credit report, you need to send a request to a consumer reporting agency at the addresses provided
+above by certified mail, overnight mail, or regular stamped mail. The following information must be included when requesting a security
+freeze (note that if you are requesting a credit report for your spouse, this information must be provided for him/her as well): (1) full
+name, with middle initial and any suffices; (2) Social Security number; (3) date of birth; (4) current address and any previous addresses
+for the past five years; and (5) any applicable incident report or complaint with a law enforcement agency or the Registry of Motor
+Vehicles. The request must also include a copy of a government-issued identification card and a copy of a recent utility bill or bank or
+insurance statement. It is essential that each copy be legible, display your name and current mailing address, and the date of issue.
+The consumer reporting agency may charge a fee of up to $5.00 to place a freeze or lift or remove a freeze, unless you are a victim of
+identity theft or the spouse of a victim of identity theft, and you have submitted a valid police report relating to the identity theft incident
+to the consumer reporting agency.

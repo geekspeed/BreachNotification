@@ -1,0 +1,50 @@
+Compliance Department                                                                 UC Davis Health System
+Sherman Building, Suite 3100                                                          2315 Stockton Boulevard
+Telephone: (916) 734-8808; Fax: (916) 734-0222                                          Sacramento, CA 95817
+
+
+
+January 30, 2014
+
+
+Dear Patient:
+
+UC Davis Health System (UCDHS) is committed to maintaining the privacy and security of our
+patients’ health information. For this reason, it is important to us that we make you aware of a privacy
+issue potentially involving your personal information.
+
+We recently learned that one of our medical provider’s email accounts was impacted by an email
+“phishing” scam. This means that malicious software was potentially used to access the medical
+provider’s email account.
+
+Given the nature of most phishing scams, we believe that direct access to the information contained in
+this provider’s emails is unlikely; however, we are unable to determine the specific nature of access, if
+any. Therefore, we are sending a letter to all patients who may have had medical information contained
+in this provider’s email account. Specifically, you are receiving this letter because the following
+information about you was contained in this provider’s email: name, medical record number and the date
+of a clinic visit. None of your financial information, such as credit card or Social Security numbers, was
+included in the email.
+
+Please note that UCDHS’s email system is encrypted and there were several measures in place to
+prevent events like this one from occurring, including staff training and education, email filtering, and
+cyber surveillance. Immediate actions were also taken to protect your privacy as soon as we discovered
+this incident, including deleting the phishing email from other staff accounts, blocking access to the
+phishing website, and actively warning staff about this threat.
+
+UCDHS is committed to providing quality care, including protecting your personal information, and we
+want to assure you that we have policies and procedures to protect your privacy. If you have any
+questions regarding this incident, please contact the UCDHS Compliance Department at (916) 734-
+8808. You may also contact us by email at privacyprogram@ucdmc.ucdavis.edu.
+
+
+Sincerely,
+
+
+
+
+Shara Merritt Reed
+Privacy Program Director
+UC Davis Health System
+
+
+CN# 14-008e

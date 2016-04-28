@@ -1,0 +1,161 @@
+C/O ID Experts
+PO Box 6336
+Portland, OR 97228-6336
+
+<<mail id>>
+<<Name1>>
+<<Address1>>
+<<Address2>>
+<<City>><<State>><<Zip>>
+	<<Date>>
+
+
+
+
+Dear <<Name1>>:
+We are writing to let you know of a security incident that resulted in the exposure of certain Protected Health
+Information (“PHI”) of patients of Cottage Health’s (“CH”) affiliated hospitals including Goleta Valley Cottage
+Hospital, Santa Ynez Valley Cottage Hospital and Santa Barbara Cottage Hospital. Our preliminary investigation
+indicates that your PHI may have been included in the exposure. However, we have no indication that your information,
+or any patient’s information, has been misused.
+We are working with forensics experts to investigate the cause and scope of the security incident, and currently
+understand that the PHI of approximately 11,000 patients residing on a server may have been inadvertently exposed
+to the internet during the period of October 26 to November 8, 2015. When we discovered the exposure on or about
+November 8, 2015, we immediately took the server off line and began investigating the incident. CH continues
+to both monitor internet search engines for patient PHI and to submit take-down requests when any such data is
+identified on the internet.
+While we are still investigating the type of information exposed, we currently believe that the exposed files contained
+patient and/or guarantor names, addresses, social security numbers, health insurance carrier and account numbers
+and limited medical information such as diagnosis and/or procedure. We currently understand that the files did not
+contain any driver’s license numbers, bank account numbers or any other financial information.
+Although it is unlikely that your information has been or will be misused, in an abundance of caution, we are offering
+identity theft protection services through ID Experts to provide you with MyIDCare™ PHI Edition at no cost. ID
+Experts has been awarded the American Hospital Association’s exclusive endorsement for breach response services.
+The provided services include:
+      •	    12 months of single-Bureau Credit Monitoring - Monitors any changes reported by TransUnion credit
+            bureau to your credit report.
+      •	    Access to the ID Experts Team - Access to an online resource center for up-to-date information on new
+            identity theft scams, tips for protection, legislative updates and other topics associated with maintaining the
+            health of your identity.
+      •	    Should you believe that you are a victim of identity theft, ID Experts will work with you to assess, stop, and
+            reverse identity theft issues.
+      •	    In the event of a confirmed identity theft, you may be eligible for reimbursement of up to $1,000,000 for
+            expenses related to that theft.
+You will find detailed instructions for enrollment on the enclosed Recommended Steps document, or you can enroll
+online at www.myidcare.com/chenroll. You will need the following access code when calling or enrolling on the
+website, so please do not discard this letter: [insert access code]. Please note the deadline to enroll is March 1, 2016.
+
+
+
+
+O3461 v.01 11.24.2015
+Because your Social Security number may have been exposed, we recommend that you place a fraud alert on your
+credit files. A fraud alert requires potential creditors to use “reasonable policies and procedures” to verify your
+identity before issuing credit in your name. A fraud alert lasts for 90 days. You can place a fraud alert by calling one
+of the three credit reporting agencies at a number below. This will let you automatically place an alert with all of the
+agencies. You will receive letters from all three agencies, confirming the fraud alert and letting you know how to get
+a free copy of your credit report from each agency.
+Experian 1-888-397-3742
+Equifax 1-800-525-6285
+TransUnion 1-800-680-7289
+When you receive your credit reports, look them over carefully. Look for accounts you did not open, inquiries from
+creditors that you did not initiate, and for personal information, such as home address and Social Security number,
+that is not accurate. If you see anything you do not understand, call the credit reporting agency at the telephone
+number on the report. If you do find suspicious activity on your credit reports, call your local police or sheriff’s office
+and file a police report of identity theft.
+We take our obligation to protect your personal information very seriously and sincerely apologize for any
+inconvenience and concern this may cause you. If you have any questions regarding this incident, ID Experts is
+standing by to assist you Monday through Friday from 6 am - 6 pm Pacific Time, and can be reached by calling toll-
+free 877-866-6056.
+
+Sincerely,
+
+
+
+Kevin Nelson
+Chief Compliance Officer, Privacy and Security Officer
+Cottage Health
+
+
+
+
+O3462 v.01 11.24.2015
+                              Recommended Steps to help Protect your Information
+Please Note: Minors, under the age of 18, should not have a credit history established and are under the age
+to secure credit. Therefore credit monitoring may not be applicable at this time. All other services provided
+in the membership will apply. No one is allowed to place a fraud alert on your credit report except you, please
+follow the instructions below to place the alert.
+1. Website and Enrollment. Go to www.myidcare.com/chenroll and follow the instructions for enrollment using
+your Access Code provided above. Once you have completed your enrollment, you will receive a welcome letter by
+email (or by mail if you do not provide an email address when you sign up). The welcome letter will direct you to the
+exclusive ID Experts’ Member Website where you will find other valuable educational information.
+2. Activate the credit monitoring provided as part of your membership with ID Experts. Credit monitoring is
+included in the membership, but you must personally activate it for it to be effective. Note: You must have established
+credit and access to a computer and the internet to use this service. If you need assistance, ID Experts will be able
+to assist you.
+3. Telephone. Contact ID Experts at 877-866-6056 to gain additional information about this event and speak with
+knowledgeable representatives about the appropriate steps to take to protect your credit identity.
+4. Review your credit reports. We recommend that you remain vigilant by reviewing account statements and
+monitoring credit reports. Under federal law, you also are entitled every 12 months to one free copy of your credit
+report from each of the three major credit reporting companies. To obtain a free annual credit report, go to www.
+annualcreditreport.com or call 1-877-322-8228. You may wish to stagger your requests so that you receive a free
+report by one of the three credit bureaus every four months.
+If you discover any suspicious items and have enrolled with ID Experts, notify them immediately by calling or by
+visiting their Member website and filing a theft report.
+If you file a theft report with ID Experts, you will be contacted by a member of the Recovery Department who will
+help you determine the cause of the suspicious items. In the unlikely event that you fall victim to identity theft as a
+consequence of this incident, you will be assigned an ID Experts Recovery Advocate who will work on your behalf
+to identify, stop and reverse the damage quickly.
+You should also know that you have the right to file a police report if you ever experience identity fraud. Please note
+that in order to file a crime report or incident report with law enforcement for identity theft, you will likely need to
+provide some kind of proof that you have been a victim. A police report is often required to dispute fraudulent items.
+You can report suspected incidents of identity theft to local law enforcement or to the Attorney General.
+5. Place Fraud Alerts with the three credit bureaus. If you choose to place a fraud alert, we recommend you do this
+after activating your credit monitoring. You can place a fraud alert at one of the three major credit bureaus by phone
+and also via Experian’s or Equifax’s website. A fraud alert tells creditors to follow certain procedures, including
+contacting you, before they open any new accounts or change your existing accounts. For that reason, placing a fraud
+alert can protect you, but also may delay you when you seek to obtain credit. The contact information for all three
+bureaus is as follows:
+
+Credit Bureaus
+ Equifax Fraud Reporting                 Experian Fraud Reporting                 TransUnion Fraud Reporting
+ 1-800-525-6285                          1-888-397-3742                           1-800-680-7289
+ P.O. Box 740241                         P.O. Box 9554                            P.O. Box 2000
+ Atlanta, GA 30374-0241                  Allen, TX 75013                          Chester, PA 19022-2000
+ www.alerts.equifax.com                  www.experian.com                         www.transunion.com
+
+It is necessary to contact only ONE of these bureaus and use only ONE of these methods. As soon as one of the three
+bureaus confirms your fraud alert, the others are notified to place alerts on their records as well. You will receive
+confirmation letters in the mail and will then be able to order all three credit reports, free of charge, for your review.
+
+
+
+
+O3463 v.01 11.24.2015
+6. Security Freeze. By placing a security freeze, someone who fraudulently acquires your personal identifying
+information will not be able to use that information to open new accounts or borrow money in your name. You will
+need to contact the three national credit reporting bureaus listed above in writing to place the freeze. Keep in mind
+that when you place the freeze, you will not be able to borrow money, obtain instant credit, or get a new credit card
+until you temporarily lift or permanently remove the freeze. The cost of placing the freeze varies by the state you live
+in and for each credit reporting bureau. The Credit Bureau may charge a fee of up to $5.00 to place a freeze, lift, or
+remove a freeze. However, if you are a victim of identity theft and have filed a report with your local law enforcement
+agency or submitted an ID Theft Complaint Form with the Federal Trade Commission, there may be no charge to
+place the freeze.
+7. You can obtain additional information about the steps you can take to avoid identity theft from the following
+agencies. The Federal Trade Commission also encourages those who discover that their information has been misused
+to file a complaint with them.
+California Residents: Visit the California Office of Privacy Protection (www.privacy.ca.gov) for additional
+information on protection against identity theft.
+Kentucky Residents: Office of the Attorney General of Kentucky, 700 Capitol Avenue, Suite 118 Frankfort, Kentucky
+40601, www.ag.ky.gov, Telephone: 1-502-696-5300.
+Maryland Residents: Office of the Attorney General of Maryland, Consumer Protection Division 200 St. Paul Place
+Baltimore, MD 21202, www.oag.state.md.us/Consumer, Telephone: 1-888-743-0023.
+North Carolina Residents: Office of the Attorney General of North Carolina, 9001 Mail Service Center Raleigh,
+NC 27699-9001, www.ncdoj.com/, Telephone: 1-919-716-6400.
+All US Residents: Identity Theft Clearinghouse, Federal Trade Commission, 600 Pennsylvania Avenue, NW
+Washington, DC 20580, www.consumer.gov/idtheft, 1-877-IDTHEFT (438-4338), TDD: 1-202-326-2502.
+
+
+
+
+O3464 v.01 11.24.2015

@@ -1,0 +1,172 @@
+                                                                                           Web.com Group, Inc.
+                                                                                   12808 Gran Bay Parkway West
+                                    TM                                                    Jacksonville, FL 32258
+                                                                                                T 904 680 6600
+                                                                                                F 904 880 0350
+                                              2Or                r.                          NASDAQ: WWWW
+
+
+  August 18, 2015
+                                                                               RECEIVED
+
+  1125 Washington Street SE                                                       4U6 2 rj zois
+  P0 Box 40100
+                                                                            CONSUMER PROTECTION OMSIOM
+/ Olympia, WA 98504-0100                                                           SEATTLE
+  Dear Attorney General Ferguson:
+
+       We are writing to inform you that on August 13, 2015, Web.com Group, Inc. ("Web.com"),
+  discovered that it had been the victim of a a sophisticated criminal cyber security attack. Through
+  an extensive forensics examination it was revealed that customer personal information including
+  credit card information, name, and address may have been accessed. There were 1,595
+  Washington residents affected.
+
+        Please be assured that Web.com is taking this matter very seriously. We have been working
+  diligently to investigate the unauthorized activity and remediate the method of unauthorized access.
+  Upon discovering this unauthorized activity, we began working with a nationally recognized IT
+  security firm to conduct a thorough investigation into the extent of this unauthorized activity. We
+  have notified the credit card companies and have provided them with the affected credit card
+  numbers so they can notify the banks that issued the affected credit cards. We have also notified
+  law enforcement officials of the attack and are cooperating with their investigation.
+
+       A copy of the notification letter sent to the affected customers is enclosed. Please feel free to
+  contact me at 904-680-6600 or at Ieqakweb,com if you have any questions.
+
+
+                                                    Sincerely,
+
+
+
+                                                    Matthew P. McClure
+                                                    Chief Legal Counsel and Secretary
+
+ Enclosure
+                                   David Brown Letter/Email to Customers
+
+Dear (Web.com Customer Name),
+
+We regret to inform you that an attack on one of our computer systems was discovered on August 13,
+2015 that may have compromised your credit/debit card ending in XXXX, including the card number,
+name and address associated with the account. The card validation code (CVV) was not disclosed, and
+no other information on your account was accessed.
+
+Please accept my sincere apology for any inconvenience this may cause you. We take this incident very
+seriously. It was a crime against Web.com and most importantly against you our valued customer.
+                                                                             -
+
+
+
+
+We want you to know a few important things:
+   • The company uncovered the unauthorized activity through its ongoing security monitoring and
+      immediately shut it down.
+    •   We are working with the credit card processors, federal and local authorities, and a leading IT
+        forensic specialist to address the issue.
+    •   No social security numbers were compromised. We do not store social security numbers on our
+        systems. Your login and password information associated with your Web.com services were not
+        compromised.
+        There was no service interruption associated with your services.
+        While you are not responsible for any fraudulent activity on your account, we urge you to
+        closely monitor your account for any suspicious or unusual activity. We encourage you to
+        contact your bank immediately to discuss any unusual activity that you see. We also advise you
+        to monitor your own credit reports.
+
+As additional protection, Web.com is providing you with one-year of free credit monitoring services.
+Please read the information at the end of this letter to enroll in the credit monitoring program.
+
+At Web.com, your security is critically important to us. We value our relationship with you and
+continually work to create a secure and reliable web environment for you. We appreciate your
+understanding and patience on this unfortunate incident, and most importantly, we value the trust you
+place in us.
+
+For more information about this security incident, you may call 877-218-2561 and reference
+#2761081715 or go to the list of Frequently Asked Questions on http://security-facis.web.com.
+
+I thank you for your patience, understanding and trust in Web.com.
+
+(David's Signature Here)
+David L. Brown
+Chairman, CEO and President, Web. corn
+
+                                  Credit Monitoring Enrollment Information
+
+What we are doing to protect your information:
+To help protect your identity, we are offering a complimentary one-year membership of Experian's
+
+
+
+
+8/18/2015 3:58 PM18 August 2015
+ProtectMyID Alert. This product helps detect possible misuse of your personal information and provides
+you with superior identity protection support focused on immediate identification and resolution of
+identity theft.
+
+Activate ProtectMylD Now in Three Easy Steps:
+1. Ensure that you enroll by: November 30, 2015 -The reference number will not work after this date.
+2. To enroll: Call 877-297-7780 or go to: www.protectmyid.com/alert. The confidential inquiry line is
+    available Monday through Friday, 9:00 a.m. to 7:00 p.m. ET at 877-297-7780.
+3. Please use your unique activation code found on your email and letter sent to you by Web.com.
+
+Additional details regarding your 12-MONTH ProtectMylD Membership:
+A CREDIT CARD IS NOT REQUIRED FOR ENROLLMENT. ONCE YOUR PROTECTMYID MEMBERSHIP IS
+ACTIVATED, YOU WILL RECEIVE THE FOLLOWING FEATURES:
+• Free copy of your Experian credit report
+' Surveillance Alerts for:
+       o Daily Bureau Credit Monitoring: Alerts of key changes & suspicious activity found on your
+            Experian credit report.
+   Identity Theft Resolution & ProtectMylD ExtendCARETM: Toll-free access to US-based customer care
+   and a dedicated Identity Theft Resolution agent who will walk you through the process of fraud
+   resolution from start to finish for seamless service. They will investigate each incident; help with
+   contacting credit grantors to dispute charges and close accounts including credit, debit and medical
+   insurance cards; assist with freezing credit files; contact government agencies.
+       o It is recognized that identity theft can happen months and even years after a data breach.
+            To offer added protection, you will receive ExtendCARETM, which provides you with the
+            same high-level of Fraud Resolution support even after your ProtectMylD membership has
+            expired.
+   $1 Million Identity Theft Insurance*: Immediately covers certain costs including, lost wages, private
+   investigator fees, and unauthorized electronic fund transfers.
+
+Once your enrollment in ProtectMylD is complete, you should carefully review your credit report for
+inaccurate or suspicious items. If you have any questions about ProtectMylD, need help understanding
+something on your credit report or suspect that an item on your credit report may be fraudulent, please
+call 877-297-7780.
+
+* Identity theft insurance is underwritten by insurance company subsidiaries or affiliates of AIG. The description herein is a summary and
+intended for informational purposes only and does not include all terms, conditions and exclusions of the policies described. Please refer to
+the actual policies for terms, conditions, and exclusions of coverage. Coverage may not be available in all jurisdictions.
+
+
+                                   Contact Information       -   National Credit Reporting Agencies
+
+Note: if you decide to place a 90-day fraud alert on your account, you only need to contact one of the three credit
+reporting agencies listed below. Once you have requested an alert with one agency, your request will be
+automatically sent to the other two agencies. In most cases, the alert will be placed on your credit file with all
+three agencies within 48 hours.
+
+You may also place a security freeze on your credit report. A security freeze prohibits a credit reporting agency
+from releasing any information from a consumer's credit report without written authorization. However, please be
+aware that placing a security freeze on your credit report may delay, interfere with, or prevent the timely approval
+of any requests you make for new loans, credit mortgages, employment, housing or other services.
+
+
+
+
+8/18/2015 3:58 PM18 August 2015
+The cost for placing a security freeze varies by state, so please call or visit the credit reporting agencies' websites
+to find that information for your state. To place a security freeze on your credit report, you must send a written
+request with the following information to each of the three major consumer reporting agencies by regular,
+certified or overnight mail at the addresses listed below.
+
+    • Your full name (including middle initial as well as Jr., Sr., II, Ill, etc.);
+    • Social Security number;
+    • Date of birth;
+    • If you have moved in the past five (5) years, the addresses where you lived over the prior five years;
+    • Proof of current address such as a current utility bill or telephone bill;
+    • A legible photocopy of a government-issued ID card (state driver's license or ID card, military ID, etc.);
+    • If you are a victim of identity theft, include a copy of the police report, investigative report, or complaint to
+       a law enforcement agency concerning identity theft.
+
+
+
+
+8/18/2015 3:58 PM18 August 2015

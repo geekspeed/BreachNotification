@@ -1,0 +1,139 @@
+Return Mail Processing Center
+PO Box 6336
+Portland, OR 97228-6336
+
+
+<<Name>>
+<<Address1>>
+<<Address2>>
+<<City, State ZIP>>
+	<<Date>>
+
+
+
+
+Dear <<Name>>,
+
+As a follow up to my previous correspondence, I am writing to provide you with additional information about the
+January 5, 2015 burglary at our office and helpful information on how to protect against identity theft and fraud. We
+remain unaware of any actual misuse of your personal and protected health information.
+
+What happened? As you know, our office was burglarized on January 5, 2015. Among other things, the intruder(s)
+took a server containing patient and responsible party information. While our investigation into this incident is
+ongoing, we’ve determined that your address, [date of birth], [telephone number], [Social Security number], [insurance
+information], [medical information], [treatment information], [billing information] and name were stored on the
+server at the time of the theft. The server did not contain your bank account or credit/debit card information, as
+we do not store this information.
+
+What we are doing. We reported this matter to law enforcement and filed a police report immediately upon discovery
+of the burglary. Since the burglary, we have increased physical security and surveillance of the premises. We have
+also encrypted patient and responsible party information, and enhanced physical security of the server on which
+this information is stored. We previously provided notice of this incident to you, and are providing you additional
+information about the incident and helpful information on protecting against identity theft and fraud. To help protect
+your identity, we are offering a complimentary one-year membership of Experian’s® ProtectMyID® Alert. This
+product helps detect possible misuse of your personal information and provides you with superior identity protection
+support focused on immediate identification and resolution of identity theft.
+
+Activate ProtectMyID Now in Three Easy Steps
+
+1.	ENSURE That You Enroll By: May 31, 2015 (Your code will not work after this date.)
+2.	 Visit the ProtectMyID Web Site to enroll: www.protectmyid.com/redeem
+3.	PROVIDE Your Activation Code: [code]
+
+If you have questions or need an alternative to enrolling online, please call 877-371-7902 and provide engagement #:
+PC91983
+
+Additional details regarding your 12-MONTH ProtectMyID Membership:
+
+A credit card is not required for enrollment.
+
+Once your ProtectMyID membership is activated, you will receive the following features:
+   ▪▪ Free copy of your Experian credit report
+   ▪▪ Surveillance Alerts for:
+       ◦◦ Daily Bureau Credit Monitoring: Alerts of key changes & suspicious activity found on your Experian,
+           Equifax® and TransUnion® credit reports.
+
+
+
+N1181 v.01 02.13.2015
+      ▪▪    Identity Theft Resolution & ProtectMyID ExtendCARE: Toll-free access to US-based customer care
+            and a dedicated Identify Theft Resolution agent who will walk you through the process of fraud resolution
+            from start to finish for seamless service. They will investigate each incident; help with contacting credit
+            grantors to dispute charges and close accounts including credit, debit and medical insurance cards; assist
+            with freezing credit files; contact government agencies.
+            ◦◦ It is recognized that identity theft can happen months and even years after a data breach. To offer added
+                protection, you will receive ExtendCARETM, which provides you with the same high-level of Fraud
+                Resolution support even after your ProtectMyID membership has expired.
+      ▪▪    $1 Million Identity Theft Insurance*: Immediately covers certain costs including, lost wages, private
+            investigator fees, and unauthorized electronic fund transfers.
+
+Once your enrollment in ProtectMyID is complete, you should carefully review your credit report for inaccurate or
+suspicious items. If you have any questions about ProtectMyID, need help understanding something on your credit
+report or suspect that an item on your credit report may be fraudulent, please contact Experian’s customer care team
+at 877-371-7902.
+
+What you can do. You can review the enclosed helpful information on how to protect against identity theft and fraud.
+You can also enroll to receive the free year of credit monitoring and identity restoration services we are offering to
+you. Should you have any questions about the content of this letter, enrollment in the Experian ProtectMyID product,
+or ways you can protect yourself from the possibility of identity theft or fraud, please call our confidential hotline
+between 6:00 a.m. PST to 6:00 p.m. PST, Monday to Friday, at 888-653-5244.
+
+The security of our patients’ personal information is of the utmost concern to us, and we are sorry for any inconvenience
+and concern this incident may cause you.
+
+Sincerely,
+
+
+
+
+Dr. Cathrine Steinborn, DDS
+
+
+
+
+* Identity theft insurance is underwritten by insurance company subsidiaries or affiliates of AIG. The description herein is a
+summary and intended for informational purposes only and does not include all terms, conditions and exclusions of the policies
+described. Please refer to the actual policies for terms, conditions, and exclusions of coverage. Coverage may not be available in
+all jurisdictions.
+
+N1182 v.01 02.13.2015
+                                     NOTICE OF PRIVACY SAFEGUARDS
+
+To further protect against possible identity theft or other financial loss, we encourage you to remain vigilant, review
+your account statements, and monitor your credit reports for suspicious activity. Under U.S. law, you are entitled
+to one free credit report annually from each of the three major credit bureaus. To order your free credit report, visit
+www.annualcreditreport.com or call, toll-free, 1-877-322-8228. You may also contact the three major credit bureaus
+directly to request a free copy of your credit report:
+
+                    Equifax                           Experian                             TransUnion
+               P.O. Box 105069                     P.O. Box 2002                          P.O. Box 2000
+              Atlanta, GA 30348                   Allen, TX 75013                     Chester, PA 19022-2000
+                 800-525-6285                      888-397-3742                           800-680-7289
+              www.equifax.com                    www.experian.com                      www.transunion.com
+
+At no charge, you can also have these credit bureaus place a “fraud alert” on your file that alerts creditors to take
+additional steps to verify your identity prior to granting credit in your name. Note, however, that because it tells
+creditors to follow certain procedures to protect you, it may also delay your ability to obtain credit while the agency
+verifies your identity. As soon as one credit bureau confirms your fraud alert, the others are notified to place fraud
+alerts on your file. Should you wish to place a fraud alert, or should you have any questions regarding your credit
+report, please contact any one of the agencies listed above.
+
+You can also further educate yourself regarding identity theft, and the steps you can take to protect yourself, by
+contacting your state Attorney General or the Federal Trade Commission. For North Carolina residents, the
+Attorney General can be contacted at 9001 Mail Service Center, Raleigh, NC 27699-9001, 1-919-716-6400,
+www.ncdoj.gov. For Maryland residents, the Attorney General can be contacted at 200 St. Paul Place, 16th Floor,
+Baltimore, MD 21202, (888) 743-0023, www.oag.state.md.us. The Federal Trade Commission also encourages those
+who discover that their information has been misused to file a complaint with them. The Federal Trade Commission
+can be reached at: 600 Pennsylvania Avenue, NW, Washington, DC 20580, www.ftc.gov/idtheft, 1-877-ID-THEFT
+(1-877-438-4338); TTY: 1-866-653-4261. Instances of known or suspected identity theft should be reported to law
+enforcement, your Attorney General, and the FTC. You can also further educate yourself about placing a fraud alert
+or security freeze on your credit file by contacting the FTC or your state’s Attorney General.
+
+For information on your medical privacy rights, we suggest you visit the website of the California Office of Privacy
+Protection, at www.privacy.ca.gov.
+
+
+
+
+N1183 v.01 02.13.2015
+N1184 v.01 02.13.2015

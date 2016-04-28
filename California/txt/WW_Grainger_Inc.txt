@@ -1,0 +1,93 @@
+<<COMPANY LETTERHEAD>>
+
+<<DATE>>
+
+<<Name>>
+<<Address1>>
+<<Address2>>
+<<City>><<State>><<Zip>>
+
+Dear <<Name>>:
+
+At Grainger, we take data privacy and security very seriously. As part of a system review, Grainger’s
+IT team recently identified a coding error in the Grainger.com mobile apps for iPhone and Android
+that resulted in the collection and storage of unsecured user names and passwords on the Grainger
+system. We learned on October 27, 2015 that the information was inadvertently stored in a system file
+that was at potential risk of unauthorized access. The issue was immediately fixed, and we continue to
+work with outside experts to further strengthen our coding review protocols. Please note that no
+payment card information or other personal information were affected by this issue. In addition, we
+have not received any reports of ID theft or fraud attributable to this matter.
+
+As a precaution, we have implemented a reset for your password to the Grainger.com system, and of
+course, you should always use strong, complex passwords and avoid using the same password on more
+than one site or application. If you have questions or require assistance with your password reset,
+please call the Grainger System Support Center at 847.647.3275. We have also attached some general
+information on security tips and resources that you may find helpful.
+
+We apologize for any inconvenience and we thank you for your partnership and support as we
+continue to take more aggressive action to enhance our security protocols and processes.
+
+Sincerely,
+
+<</s/>>
+
+Marty Belle
+Vice President of Human Resources
+Grainger
+
+Attachment
+                                                  TIPS AND RESOURCES
+
+What Can You Do To Help Protect Your Identity?
+  Always remain vigilant against threats of ID theft or fraud. Regularly review your bank/credit card statements and
+     credit reports for unauthorized withdrawals, charges or other suspicious activity, and immediately report issues to
+     your financial institution. If you suspect ID theft or fraud, file a police report and obtain a copy of it.
+  Be alert to “phishing” by anyone who acts like a colleague or friend and requests sensitive information over email.
+     We will NOT ask you for sensitive information over email.
+
+What Government Agencies Provide Resources?
+  U.S. Federal Trade Commission (FTC): The FTC has helpful information about how to avoid and protect against ID
+     theft. Write to: Consumer Response Center, 600 Pennsylvania Ave., NW, H-130, Washington, D.C. 20580. Call
+     Toll-Free: 1-877-IDTHEFT (438-4338); or Visit: http://www.ftc.gov/idtheft
+  State Attorney General Offices: You may contact the Attorney General’s office in the state in which you reside for
+     more information about preventing and managing ID theft.
+
+How Do I Get A Free Credit Report?
+   You may obtain one (1) free copy of your credit report once every 12 months, and may purchase additional copies.
+     Call Toll-Free: 1-877-322-8228; or Visit: https://www.annualcreditreport.com; or contact: Equifax, P.O. Box
+     740241, Atlanta, GA 30374-0241 (800) 685-1111 (www.equifax.com); Experian P.O. Box 2002, Allen, TX 75013,
+     (888) 397-3742 (www.experian.com) TransUnion, P. O. Box 1000, Chester, PA 19022, (800) 888-4213
+     (www.transunion.com).
+
+What is a “Fraud Alert”?
+  You may have the right to place a fraud alert in your file to alert potential creditors that you may be a victim of
+      identity theft. Creditors must then follow certain procedures to protect you. You should know that a fraud alert
+      may delay your ability to obtain credit. An “initial fraud alert” stays in your file for at least 90 days. An “extended
+      fraud alert” stays in your file for 7 years, and will require an identity theft report, which is usually a filed police
+      report. You may place a fraud alert by calling any one of the three national consumer reporting agencies: Equifax:
+      1-800-525-6285; Experian: 1-888-397-3742; TransUnion: 1-800-680-7289
+
+What is a “Security Freeze”?
+  Certain U.S. state laws allow a security freeze, which prevents credit, loans or services from being approved in your
+      name without your consent. A security freeze can interfere with or delay your ability to obtain credit.
+  To place a freeze, send a request by mail to each consumer reporting agency (addresses below) with the following
+      (for each individual): (1) Full name, middle initial and any suffixes; (2) Social Security Number; (3) Date of Birth; (4)
+      proof of current address (such as a utility bill or telephone bill) and list of previous addresses for past five years; (5)
+      copy of government issued ID card, and (6) copy of police report, investigative report or complaint to law
+      enforcement regarding ID theft. You may be charged a fee up to $5.00 to place, lift, and/or remove a freeze, unless
+      you are a victim of ID theft or the spouse of a victim, and you have submitted a valid police report relating to the ID
+      theft incident to the consumer reporting agency. The consumer reporting agencies have three business days after
+      receiving your letter to place a security freeze on your credit report. The credit bureaus must also send written
+      confirmation to you within five (5) business days and provide you a unique PIN or password that can be used by
+      you to authorize the removal or lifting of the security freeze.
+  To lift the security freeze to allow a specific entity or individual access to your credit report, you must call or send a
+      written request to the consumer reporting agencies by mail and include proper identification (name, address, and
+      SSN) and the PIN number or password provided to you when you placed the security freeze as well as the
+      identities of entities or individuals you would like to receive your credit report or the specific period of time you
+      want the credit report available. The consumer reporting agencies have three business days after receiving your
+      request to lift the security freeze for the identified entities or specified time period.
+  To remove the security freeze, you must send a written request to each of the three credit bureaus by mail and
+      include proper identification (name, address, and SSN) and the PIN number or password provided to you when you
+      placed the security freeze. The credit bureaus have three business days after receiving your request to remove the
+      freeze. Equifax Security Freeze: P.O. Box 105788, Atlanta, Georgia 30348; Experian Security Freeze: P.O. Box
+      9554, Allen, TX 75013; TransUnion (Fraud Victim Assistance Division): P.O. Box 6790, Fullerton, CA 92834-6790.

@@ -1,0 +1,42 @@
+                                                                                             May 20, 2014
+
+
+
+
+To:
+
+From:    Chris Xanthos, Associate Vice President for Business Operations & CIO
+
+San Diego State University recently discovered a database containing your personal information. The database was
+managed by the Pre-College Institute and contains your name, Social Security number, date of birth, address, and
+other personal information needed to provide pre-college students various services. You were or are enrolled in one
+of the Pre-College Institute programs. The database was intended to be used only by Pre-College Institute employees,
+but it was misconfigured to enable any computer connected to the SDSU wired network, with the program
+“FileMaker”, to open it. The SDSU wired network consists of offices, some labs and the library.
+
+SDSU takes its responsibility to protect your personal data very seriously, and we apologize for the misconfiguration
+of the database. Upon learning of this situation, the Pre-College Institute reconfigured the database to be available
+only to employees working at the Institute supporting the pre-college students.
+
+Although we have no evidence of malicious access to the database, we are alerting you to the fact that your personal
+information may have been viewed by an unauthorized user, so that you can determine what further actions you would
+like to take to prevent any personal harm. If you have concerns about any potential harm, please consult the resources
+below; these websites have helpful information to protect you from potential identify theft, including how to receive
+a free copy of your credit report either through the Fair Credit Reporting Act or as a result of placing a fraud alert on
+your credit files:
+
+         California Office of Attorney General http://oag.ca.gov/idtheft
+         Social Security Office http://www.ssa.gov/pubs/10064.html
+         Free Credit Report https://www.annualcreditreport.com
+
+The three credit bureaus are also a good source of information regarding identity theft:
+
+         Equifax (800) 525-6285 www.equifax.com
+         Experian (888) 397-3742 www.experian.com
+         TransUnion (800) 680-7289 www.transunion.com
+
+If you become aware of suspicious activity after reviewing your credit reports or accounts, please contact law
+enforcement and the credit bureaus to investigate the incident.
+
+If you have any other questions or concerns about this incident, please contact Felecia Vlahos, the Information Security
+Officer, at iso@sdsu.edu or via phone at toll free (855) 594-0142 and refer to incident #H05007.

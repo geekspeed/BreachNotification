@@ -1,0 +1,78 @@
+E-MAIL FOR LIVINGSOCIAL CUSTOMERS WITH PASSWORD INFO
+
+Subject: LivingSocial.com Security Update – Create New Password
+
+LivingSocial recently experienced a cyber-attack on our computer systems that
+resulted in unauthorized access to some customer data from our servers. We are
+actively working with law enforcement to investigate this issue.
+
+The information accessed includes names, email addresses, date of birth for some
+users, and encrypted passwords -- technically ‘hashed’ and ‘salted’ passwords. We
+never store passwords in plain text.
+
+The database that stores customer credit card information was not affected or
+accessed.
+
+Although your LivingSocial password would be difficult to decode, we want to take
+every precaution to ensure that your account is secure, so we are expiring your old
+password and requesting that you create a new one.
+
+For your security, please create a new password by clicking the button below.
+
+       [INSERT CREATE NEW PASSWORD BUTTON]
+
+We also encourage you, for your own personal data security, to consider changing
+password(s) on any other sites on which you use the same or similar password(s).
+
+The security of your information is our priority. We always strive to ensure the
+security of our customer information, and we are redoubling efforts to prevent any
+issues in the future.
+
+Please note that LivingSocial will never ask you directly for personal or account
+information in an email. We will always direct you to the LivingSocial website – and
+require you to login – before making any changes to your account. Please disregard
+any emails claiming to be from LivingSocial that request such information or direct
+you to a different website that asks for such information.
+
+If you have additional questions about this process, please visit
+livingsocial.com/createpassword. There you can find instructions on creating a new
+password, answers to frequently asked questions, and a tool to submit a support
+request online.
+
+We are sorry this incident occurred, and we look forward to continuing to introduce
+you to new and exciting things to do in your community.
+EMAIL FOR FACEBOOK CONNECT CUSTOMERS AND USERS WITHOUT PASSWORDS
+
+Subject: LivingSocial.com Account Update
+
+LivingSocial recently experienced a cyber-attack on our computer systems that
+resulted in unauthorized access to some customer data from our servers. We are
+actively working with law enforcement to investigate this issue.
+
+The information accessed includes names, email addresses, date of birth for some
+users, and encrypted passwords -- technically ‘hashed’ and ‘salted’ passwords. We
+never store passwords in plain text.
+
+Two things you should know:
+
+   1. The database that stores customer credit card information was not affected
+      or accessed.
+   2. If you connect to LivingSocial using Facebook Connect, your Facebook
+      credentials were not compromised.
+
+You do not need to take any action at this time, but we wanted to be sure you were
+fully informed of what happened.
+
+The security of your information is our priority. We always strive to ensure the
+security of our customer information, and we are redoubling efforts to prevent any
+issues in the future.
+
+Please note that LivingSocial will never ask you directly for personal or account
+information in an email. We will always direct you to the LivingSocial website – and
+require you to login – before making any changes to your account. Please disregard
+any emails claiming to be from LivingSocial that request such information or direct
+you to a website that asks for such information.
+
+We are sorry this incident occurred, and we look forward to continuing to introduce
+you to new and exciting things to do in your community. If you have additional
+questions about this process, please visit livingsocial.com/createpassword.

@@ -1,0 +1,145 @@
+108 Jefferson Ave.
+Des Moines, IA 50314
+P# 888-885-2002
+
+Consumer Name
+Address
+City, State
+
+Dear Consumer:
+
+You are a valued customer of JB Autosports, Inc., which is why you are receiving this notice about a security
+breach at http://subispeed.com and http://ft86speedfactory.com (“the websites”) that may have affected your
+personal information.
+
+From approximately August 1, 2015 through November 9, 2015, the websites’ checkout page where customers
+input their payment information to purchase products from JB Autosports was the target of a cyberattack
+originating from a Russian IP address. The breach affected customers who used Visa, MasterCard, Discover,
+and American Express branded cards to pay for their purchases from the websites. The breach allowed
+cyberattackers to intercept customer names, addresses, credit card numbers, credit card expiration dates, CID
+numbers, CAV2 numbers, CVC2 numbers, and CVV2 numbers (“Customer Information”). The Customer
+Information was intercepted after it was entered on the checkout page as it was being transmitted to PayPal for
+processing. JB Autosports’ policy is to not store customer credit card information.
+
+Since detecting the breach, JB Autosports has made every effort to mitigate the damage by contracting with a
+third-party vendor to identify the source of the breach and implement security solutions to prevent a recurrence
+of the breach. JB Autosports has also improved its cybersecurity defenses to prevent future breaches of
+Customer Information. In addition, JB Autosports has had major credit card networks and PayPal notified of the
+breach. No law enforcement investigation delayed this notice.
+
+Nevertheless, as a result of the data breach you may become the target of identity theft, including credit and
+debit card fraud. Cyberattackers may have already tried to commit fraud using your Customer Information, or
+they may be waiting to do so in the future. You should monitor your credit and account statements to ensure
+that you are not the victim of fraudulent activity. You may want to contact your financial institution to discuss
+fraud prevention programs that might be available to you.
+
+You may also obtain a free copy of your credit report from each of the three major credit reporting agencies
+once every 12 months by visiting http://www.annualcreditreport.com, calling toll-free 877-322-8228, or by
+completing an Annual Credit Report Request Form and mailing it to Annual Credit Report Request Service,
+P.O. Box 105281, Atlanta, GA 30348. You should also be aware that you can obtain information about your
+credit report and ways to detect fraudulent activity by contacting each of the national consumer reporting
+agencies:
+
+Equifax Information Services
+Credit report dispute address:         Equifax Information Services, LLC.
+                                       P.O. Box 740256
+                                       Atlanta, GA 30348
+
+General address:                       Equifax Credit Information Services, Inc.
+                                       P.O. Box 740241
+                                       Atlanta, GA 30374
+108 Jefferson Ave.
+Des Moines, IA 50314
+P# 888-885-2002
+
+Fraud alert phone number:               (888)766-0008
+
+Credit report dispute phone number:     (866)349-5191
+
+Website:                                http://www.equifax.com
+Experian
+Credit report dispute address:          P.O. Box 4500
+                                        Allen, TX 75013
+
+Fraud alert phone number:               (888)397-3742
+
+Credit report phone number:             (877)284-7942
+
+Website:                                https://www.experian.com
+TransUnion
+Credit report address:                  Annual Credit Report Request Service
+                                        P.O. Box 105281
+                                        Atlanta, GA 30348-5281
+
+Fraud alert address:                    TransUnion LLC
+                                        P.O. Box 2000
+                                        Chester, PA 19016
+
+Fraud alert phone number:               (800)680-7289
+
+Credit report dispute phone number:     (800)916-8800
+
+Website:                                https://www.transunion.com
+
+You may obtain information from Equifax, Experian, and TransUnion on how to place a security freeze on your
+credit report. A security freeze prohibits a credit reporting agency from releasing any information from a
+consumer’s credit report without written authorization. However, please be aware that placing a security freeze
+on your credit report may delay, interfere with, or prevent the timely approval of any requests you make for new
+loans, credit mortgages, employment, housing or other services. You may find information about how to place a
+security freeze on your credit report by visiting the following websites for each of the credit reporting agencies:
+
+Equifax: https://www.freeze.equifax.com/
+Experian: https://www.experian.com/freeze/center.html
+Transunion: http://www.transunion.com/credit-freeze/place-credit-freeze
+
+You can also obtain information about protecting yourself from identity theft by reviewing resources provided
+by the Iowa Attorney General at the following web address:
+https://www.iowaattorneygeneral.gov/for-consumers/general-consumer-information/identitytheft/.
+108 Jefferson Ave.
+Des Moines, IA 50314
+P# 888-885-2002
+
+Finally, you should remain vigilant for identity theft, and report any incident or suspected incident of identity
+theft to law enforcement. You can obtain further information about identity theft from, and report suspicious
+activity to, the following:
+
+Office of the Attorney General of Iowa              Office of the Attorney General of Iowa
+Crime Victim Assistance Division                    Consumer Protection Division
+Lucas State Office Building                         Hoover State Office Building
+321 East 12th Street                                1305 E. Walnut Street
+Des Moines, IA 50319                                Des Moines, Iowa 50319
+Phone: (515)281-5044                                Phone: (515)281-5926
+Toll-Free: (800)373-5044                            Toll Free: (888)777-4590 (outside of the Des
+FAX: (515)281-8199                                  Moines metro area)
+                                                    Fax: (515)281-6771
+                                                    consumer@iowa.gov
+
+Maryland Attorney General                           Federal Trade Commission
+Office of the Attorney General                      600 Pennsylvania Avenue, NW
+Attn: Security Breach Notification                  Washington, DC 20580
+200 St. Paul Place                                  (202) 326-2222
+Baltimore, MD 21202                                 877-FTC-HELP (382-4357)
+Attn: Security Breach Notification                  https://www.ftc.gov/contact
+(410) 576-6566
+(888) 743-0023
+Idtheft@oag.state.md.us
+http://www.oag.state.md.us/idtheft/businessgl.htm
+
+North Carolina Attorney General
+9001 Mail Service Center
+Raleigh, NC 27699-9001
+Telephone: (919) 716-6400
+Fax: (919) 716-6750
+Toll Free: (877) 566-7226
+http://www.ncdoj.gov/
+
+We appreciate your understanding after this unfortunate event. JB Autosports takes the importance of customer
+confidentiality very seriously and is working hard to avoid any future breaches with newly implemented live
+monitoring security services. JB Autosports values your business and will continue providing you with high
+quality products and services. Please contact our customer service number if you have any additional questions
+at (888) 885-2002 between the hours of 8:00 am to 5:00 pm central standard time.
+
+Regards,
+Jeremy Boysen
+President
+JB Autosports, Inc.

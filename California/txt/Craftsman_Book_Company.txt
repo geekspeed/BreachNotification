@@ -1,0 +1,38 @@
+On Tuesday, May 27, we discovered unauthorized activity on a website maintained by our company,
+Craftsman Book Company. On May 28 we sent a message recommending a change of your password on
+the Craftsman site: http://craftsman-book.com/products/index.php?main_page=login.
+
+Since then, we have discovered unauthorized activity that could result in a fraudulent charge to your
+credit or debit card – such as a charge of $100 for a “Starbucks Card Reload” or a purchase at
+Zappos.Com. We have no way of knowing if you are affected. So we’re sending this message as a
+precaution as quickly as possible -- before all details are known and before any investigation by law
+enforcement authorities.
+
+Here’s what we know so far.
+
+By making repeated attempts beginning March 9, 2014, a hacker was able to break through password
+security on the Craftsman site Construction-Contracts.net. No personal information is stored on this site.
+But using what’s called a “SQL injection attack,” the hacker was able to access Craftsman-Book.com, a
+website hosted on the same server as construction-contract.net. Once admitted to Craftsman-
+Book.com, the hacker found sensitive files, including customer names, billing addresses, credit card
+numbers and expiration dates. No CVV numbers and no financial passwords were compromised because
+Craftsman does not collect that information.
+
+Since May 27, we have:
+* Taken the Construction-Contracts.net website offline until we fix security problems.
+* Placed restrictions on access between Craftsman websites.
+* Found and resolved several SQL injection vulnerabilities in our code.
+* Reduced to a minimum the time credit card information remains on our server.
+* Improved monitoring of log files to identify attacks in progress and blacklist offending IP addresses.
+
+This was Craftsman’s mistake. But it should not be your loss. Federal law limits losses reported to a
+credit card company within 60 days after delivery of your statement. If you see suspicious activity, ask
+your credit card company to block the card, furnish a dispute form and provide a new card.
+
+Again, we offer a sincere apology.
+
+Sincerely,
+
+Gary Moselle
+Craftsman Book Company
+800-829-8123

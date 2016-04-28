@@ -1,0 +1,69 @@
+                                                                                             05/22/2012
+
+
+
+[NAME]
+[Address]
+
+RE:     Notification of Breach of Customer Information
+Dear        :
+
+        We value the relationship with you and we look forward to serving your future needs.
+ Regrettably, we must inform you that between May 6th and May 10th, 2012, unauthorized access by
+ an unknown third party concerning customers' personal information associated with pending and
+ recently shipped orders occurred. Accessed personal information includes your name, address,
+ email address, phone number, ECS customer account password, debit or credit card number, credit
+ or debit card expiration date, and debit or credit card security code or access code. We have taken
+ prompt action to secure the system to prevent any further compromises.
+
+        Please be assured that ECS Tuning Incorporated is taking this matter very seriously. We
+have been working diligently to investigate the unauthorized activity and have identified and
+secured the method of unauthorized access. We have notified the credit card companies and have
+provided them with information they have requested so they can notify the banks that issued the
+affected credit cards. We have also filed a case with the local Wadsworth, Ohio Police Department
+(Case# 21205162) and are cooperating with their investigation.
+
+        We have done the following to better secure our customer information: ECS Tuning has
+integrated PayPal’s Payflow Pro to add additional security to the ECS checkout process and removed
+the storage of credit and debit cards for any length of time regardless of order status. In addition to
+already meeting PCI Compliance standards, we have added extra layers of security to ensure our
+customer privacy, such as scanning all inbound and outbound traffic. With these modifications, we
+are confident ECS Tuning Inc. is protecting your customer information.
+
+         We want to describe certain steps that you can take to protect yourself against identity theft.
+First, we have enclosed instructions on how you can contact the three major credit bureaus to place a
+90-day fraud alert on your account, inquire about any unusual activity on your accounts, and request
+a free credit report. We also suggest that you carefully review all bills and account statements you
+may receive over the next several months, and report any suspicious activity to the financial
+institution of the account at issue. If you think that your personal information is being improperly
+used in any manner, you can also contact local law enforcement to file a police report and contact
+your state Attorney General and/or the Federal Trade Commission at 1-877-ID THEFT (877-438-
+
+                                                                                            Page 1 of 3
+4338). Additionally, the FTC's Web site at www.ftc.gov/idtheft has information to help individuals
+guard against and deal with identity theft.
+
+       We value and appreciate your business. We regret this situation and any inconvenience or
+concern it may cause you. ECS Tuning, Inc. is committed to maintaining the security and privacy of
+customer information and taking all reasonable measures to prevent future breaches.
+
+      If you have further questions about this matter, please contact our Customer Service
+Manager, Thomas Lilly, at tilly@ecstuning.com or (800)924-5172.
+Sincerely,
+
+
+
+
+Alek Mergy – General Manager
+ECS Tuning, Inc.
+1000 Seville Road
+Wadsworth, Ohio 44281
+
+        /
+Encl.
+
+
+
+
+                                                                                        Page 2 of 3
+Page 3 of 3

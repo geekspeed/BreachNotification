@@ -1,0 +1,110 @@
+Return Mail Processing Center
+PO Box 6336
+Portland, OR 97228-6336
+
+<<First Name>><<Last Name>>
+<<Address 1>>
+<<Address 2>>
+<<City>>,<<State>><<Zip>>
+
+
+
+                                                                                                           <<Date>>
+
+
+
+Dear<<Name>>:
+Point Loma Nazarene University (the “University”) is writing to inform you of a data incident that may affect the
+security of your personal information. There is currently no evidence that your information was viewed or removed,
+and we are unaware of any actual or attempted misuse of your personal information, but we are nevertheless providing
+notice of this incident to you so that you may take steps to monitor your identity and accounts should you feel it is
+necessary to do so.
+What Happened
+Between October 7, 2014 and October 20, 2014, the University became aware of and remediated instances of
+unauthorized access to five employee email accounts that occurred during this time period as a result of phishing
+attacks. Upon learning of this matter, we immediately launched an investigation and retained outside forensic
+experts to determine the scope of this incident. While the investigation into the matter is ongoing, the external
+forensics experts have confirmed that the following categories of your personal information were potentially subject
+to unauthorized access:
+         • Name                                       • <<Credit card number and CVV code or expirate date>>
+         • Social Security number                     • <<User name and password>>
+         • <<Date of birth>>                          • <<Driver’s license number>>
+
+What We Are Doing
+The University takes this matter, and the security of the personal information in its care, seriously and has taken
+measures to ensure that this type of exposure does not occur again. The University disabled the affected accounts,
+changed the passwords, and ensured that they were not used to access any portions of the University’s system. The
+University has informed individuals who may have been the target of the phishing attack to be on alert and instructed
+them to change passwords if phishing links were clicked; has sent educational emails on how to avoid phishing attacks;
+has blocked the URL associated with the phishing attack; and has implemented or is in the process of implementing
+two-factor authentication for all Point Loma accounts that may handle sensitive information.
+Additionally, we are offering you access to a complimentary one-year membership to Experian’s® ProtectMyID® Alert
+triple bureau. This service helps detect possible misuse of your personal information and provides you with superior
+identity protection support that is focused on immediate identification and resolution of identity theft.
+Activate ProtectMyID Now in Three Easy Steps
+    1. ENSURE That You Enroll By: February 28, 2015 (Your code will not work after this date.)
+    2. Visit the ProtectMyID Web Site to enroll: http://www.protectmyid.com/redeem
+    3. PROVIDE Your Activation Code: <<code>>
+If you have questions or need an alternative to enrolling online, please call is 877-371-7902 and provide engagement
+#: PC90493.
+
+
+M9461 v.01 12.10.2014
+A credit card is not required for enrollment. Once your ProtectMyID membership is activated, you will receive the
+following features:
+        ▪ Free copy of your Experian credit report
+        ▪ Surveillance Alerts for Daily Bureau Credit Monitoring for all three major credit bureaus
+        ▪ Identity Theft Resolution & ProtectMyID ExtendCARE: Toll-free access to US-based customer care
+             and a dedicated Identity Theft Resolution agent who will walk you through the process of fraud resolution
+             from start to finish for seamless service. To offer added protection, you will receive ExtendCARETM,
+             which provides you with the same high-level of Fraud Resolution support even after your ProtectMyID
+             membership has expired.
+        ▪ $1 Million Identity Theft Insurance.*
+Once your enrollment in ProtectMyID is complete, you should carefully review your credit report for inaccurate or
+suspicious items. If you have any questions about ProtectMyID, need help understanding something on your credit
+report or suspect that an item on your credit report may be fraudulent, please contact Experian’s customer care team
+at 877-371-7902.
+To further protect against possible identity theft or other financial loss, we encourage you to remain vigilant, to
+review your account statements, and to monitor your credit reports for suspicious activity. Under U.S. law, you are
+entitled to one free credit report annually from each of the three major credit bureaus. To order your free credit
+report, visit www.annualcreditreport.com or call, toll-free, 1-877-322-8228. You may also contact the three major
+credit bureaus directly to request a free copy of your credit report.
+At no charge, you can also have these credit bureaus place a “fraud alert” on your file that alerts creditors to take
+additional steps to verify your identity prior to granting credit in your name. Note, however, that because it tells
+creditors to follow certain procedures to protect you, it may also delay your ability to obtain credit while the agency
+verifies your identity. As soon as one credit bureau confirms your fraud alert, the others are notified to place fraud
+alerts on your file. Should you wish to place a fraud alert, or should you have any questions regarding your credit
+report, please contact any one of the agencies listed below. Information regarding security freezes is also available
+from these agencies.
+                       Equifax                      Experian                       TransUnion
+                   P.O. Box 105069               P.O. Box 2002                    P.O. Box 2000
+                  Atlanta, GA 30348             Allen, TX 75013             Chester, PA 19022-2000
+                    800-525-6285                  888-397-3742                    800-680-7289
+                  www.equifax.com             www.experian.com                www.transunion.com
+You can also further educate yourself regarding identity theft, security freezes, and the steps you can take to protect
+yourself, by contacting the Federal Trade Commission. The Federal Trade Commission can be reached at: 600
+Pennsylvania Avenue NW, Washington, DC 20580; www.ftc.gov/bcp/edu/microsites/idtheft/; 1-877-ID-THEFT
+(877-438-4338); and TTY: 866-653-4261. The Federal Trade Commission also encourages those who discover that
+their information has been misused to file a complaint with them. For North Carolina residents, you can obtain
+information about preventing identity theft from the North Carolina Attorney General’s Office: the Attorney General
+can be contacted by mail at 9001 Mail Service Center, Raleigh, NC 27699-9001; toll-free at 1-877-566-7226; by phone
+at 1-919-716-6400; and online at www.ncdoj.gov. For Maryland residents, the Attorney General can be contacted at:
+200 St. Paul Place, 16th Floor, Baltimore, MD 21202; (888) 743-0023; and www.oag.state.md.us. You can also obtain
+further information on how to file such a complaint by way of the contact information listed above. You should report
+known or suspected identity theft or fraud to law enforcement.
+We apologize for any inconvenience or concern this incident may have caused. Should you have any questions about
+the content of this letter, enrollment in Experian’s services or ways you can protect yourself from identity theft,
+please call our confidential inquiry line between 6 a.m. and 6 p.m. PST at 888-288-9323.
+Sincerely,
+
+
+
+
+Corey Fling
+Chief Information Officer
+Point Loma Nazarene University
+*Identity theft insurance is underwritten by insurance company subsidiaries or affiliates of AIG . The description herein
+is a summary and intended for informational purposes only and does not include all terms, conditions and exclusions of
+the policies described. Please refer to the actual policies for terms, conditions, and exclusions of coverage. Coverage may
+not be available in all jurisdictions.
+M9462 v.01 12.10.2014

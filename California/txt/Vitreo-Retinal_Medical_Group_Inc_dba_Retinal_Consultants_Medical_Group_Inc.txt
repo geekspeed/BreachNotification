@@ -1,0 +1,81 @@
+               July 31, 2013
+
+
+
+               [Patient name]
+               [Address]
+               [City, State, ZIP]
+
+               Dear [Patient]:
+
+               We are sending this letter to you as part of Retinal
+               Consultant Medical Group’s commitment to the privacy and
+               security of your protected health information (PHI). We take
+               patient privacy very seriously, and it is important to us that
+               you are made fully aware of the following PHI security
+               incident:
+
+               On June 7, 2013, it was discovered that a laptop computer,
+               which was a component of a diagnostic imaging machine,
+               was stolen sometime after our office closed on June 5, 2013.
+               The laptop computer contained the following types of
+               unsecured PHI: names, dates of birth, gender, race, and
+               OCT (optical coherence tomography) images.
+
+               Please be assured that information such as your Social
+               Security Number, Driver’s License, and address was not on
+               the laptop.
+
+               As a result of our investigation we are not aware of any
+               unauthorized use of the PHI by an unauthorized individual, or
+               that the PHI was actually acquired or accessed.
+
+               It is nevertheless very important that you take steps to
+               eliminate or minimize any potential harm that could be
+               caused by the theft. This includes, but is not limited to,
+               obtaining credit reports from one or more of the major credit
+               reporting agencies, and monitoring your financial and
+               banking accounts for unauthorized activity.
+
+{00071100.3}
+               By law, consumers may request a free copy of their credit
+               report once every 12 months from each of the three major
+               credit reporting agencies (i.e., Equifax, Experian, Trans
+               Union). You can request a free credit report by phone at 1-
+               877-322-8228, or by mail addressed to: Annual Credit Report
+               Request Service, P.O. Box 105281, Atlanta, GA 30348-5281,
+               or online at www.annualcreditreport.com.
+
+               The above matter has been reported to the local police
+               department. While we hope to recover the stolen computer
+               and PHI, that may not be possible. In an attempt to prevent
+               further breaches of PHI, we are increasing the physical
+               security of imaging and other equipment stored at our
+               offices, increasing the interior and exterior security of our
+               offices, and requiring additional information when confirming
+               a patient’s identity on the phone. We are also in the process
+               of determining how we can further secure laptop data and
+               strengthening other aspects of our internal HIPAA security
+               program.
+
+               Retinal Consultants Medical Group is committed to providing
+               quality care, including the preservation of the confidentiality
+               of your protected health information. If you have further
+               questions or concerns, you may contact us for additional
+               information by calling (855) 848-1335 toll-free, or by mailing
+               me at the address below:
+
+               Chris Mentink, Privacy Official
+               Retinal Consultants Medical Group, Inc.
+               3939 J Street, Suite 104
+               Sacramento, CA 95819
+
+               Sincerely,
+
+
+
+               Chris Mentink
+               Privacy Official
+
+
+{00071100.3}

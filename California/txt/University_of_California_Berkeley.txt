@@ -1,0 +1,85 @@
+C/O ID Experts
+PO Box 6336
+Portland, OR 97228-6336
+
+<<mail id>>
+<<First Name>> <<Last Name>>
+<<Address>>
+<<City>><<State>><<Zip>>
+                                                                                                              <<Date>>
+
+
+
+
+Dear <<Name>>,
+The security and privacy of the personal information you provide to the University of California, Berkeley, is of utmost
+importance to us. Regrettably, we are writing to inform you of a recent data breach in the Real Estate Division that may
+have resulted in unauthorized access to some of that information. Although we have no evidence that an unauthorized
+individual has actually acquired and used your personal information, we are bringing this incident to your attention, in
+accordance with California law, so that you can be alert to signs of any possible misuse of your personal information.
+The data breach involved unauthorized access to servers used to support a number of Real Estate programs and work
+stations, specifically those in the units formerly known as Capital Projects and Physical Plant-Campus Services. None
+of the identified servers or workstations were primary storehouses for personally identifiable information but some of
+them stored individual files that included some personal information. Servers were breached in mid- to late September
+and were shut down as soon as investigations indicated they were compromised. In subsequent weeks, the university,
+with the assistance of a consultant data security firm, has been reviewing the data stored on the servers to identify
+any personally identifying information and identify and locate all the individuals affected. That identification process
+concluded this week.
+We regret that your information may have been subject to unauthorized access. As part of the follow-up, we have
+taken protective measures including review of all data involved in the breach as well as review and enhancement
+of information security controls in the Real Estate Division. In an abundance of caution, we are providing you with
+details of the information that may have been acquired and with a free year of credit monitoring and identity restoration
+services for your protection.
+Personal information that may have been accessed includes individual names along with social security numbers,
+credit card numbers and driver’s license numbers.
+Again, we have no evidence that an unauthorized individual has misused your personal information; however, there
+are some steps you should consider taking to protect yourself.
+First, you may place a fraud alert on your credit file to let creditors know to contact you before opening a new account
+in your name. Simply call any one of the three credit reporting agencies at the phone numbers listed below to request
+that a fraud alert be placed on your account; the agency you call will notify the other two so a fraud alert will be
+enacted by all three companies.
+Equifax 1-888-766-0008
+Experian 1-888-397-3742
+Trans Union 1-800-680-7289
+Second, if you have not already done so within the last 12 months, you should order a free credit report from each
+agency. You can do that by phone or online at annualcreditreport.com, a website approved by the US Federal Trade
+Commission.
+
+
+
+
+M9341 v.02 12.11.2014
+Third, when you receive your credit reports, look them over carefully for accounts you did not open or for inquiries
+from creditors that you did not initiate. Review your personal information, such as home address and Social Security
+number, for accuracy. If you see anything you do not understand, call the credit agency at the telephone number on the
+report. Please note that the University will not contact you again to confirm any of your personal information, so if an
+unknown person should contact you, do not give out any additional information.
+If you find any suspicious activity on your credit reports, call your local police or sheriff’s office. The UCPD case
+number to cite is 14-0304.
+We have contracted with ID Experts®, a company that specializes in identity theft protection and fraud
+resolution, to provide you with a comprehensive one-year membership in their program. As part of your one year
+membership, you will receive credit monitoring and protection services for 12 months at no cost. We encourage
+you to contact ID Experts with any questions and to enroll in the free services by calling 877-846-6340 or going to
+www.myidcare.com/ucbinfo. ID Experts is available Monday through Friday from 6 am - 6 pm Pacific Time. Please
+note the deadline to enroll is March 20, 2015.
+                                       Enrollment Code: [Enrollment Code]
+
+Additional information about identify theft can be obtained from the California Office of Privacy Protection at http://
+oag.ca.gov/privacy
+The University of California is committed to maintaining the privacy of personal information and takes many
+precautions to safeguard personal information. We regret this breach and possible access to your personal information
+and will continue to expand and strengthen our efforts to protect University systems and servers from unauthorized
+access.
+
+Sincerely,
+
+
+
+
+Grace Crvarich, Chief Operating Officer
+UC Berkeley, Division of Real Estate
+
+
+
+
+M9342 v.02 12.11.2014

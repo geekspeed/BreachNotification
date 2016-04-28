@@ -1,0 +1,109 @@
+ 
+From: REI [mailto:REI_Coop_Membership@notices.rei.com]
+Sent: Friday, July 25, 2014 4:45 PM
+To: [Name]
+Subject: Unauthorized Access to Personal Data on REI.com - Action Required
+
+
+
+
+            July 25, 2014
+
+            Dear Valued Members and Customers,
+
+            On July 23, REI discovered that a third-party may have accessed your account without
+            authorization, having apparently obtained your email address and password from a
+            security breach at a site or service unassociated with REI and unknown to the co-op.
+            Between July 4 and 18, the user was able to confirm your log-in credentials at REI.com
+            and access the following information in your account—your billing and shipping
+            address, order history, and dividend amount. This type of illegal activity often results
+            from consumers using the same user ID and password combination across multiple
+            websites or applications.
+
+            We take these issues very seriously and we are working quickly to address and
+            resolve this situation.
+
+            What we know at this time:
+              • Your email address and password were used to access your stored account
+                information on REI.com.
+              • REI’s fraud systems detected a pattern of apparently fraudulent activity originating
+                from overseas IP addresses. The activity involved a small number of
+                REI.com accounts.
+              • We have no evidence that our networks and systems were breached or that our
+                password files were compromised.
+
+            Out of an abundance of caution, REI reset your password. We also deleted any stored
+            credit card information, even though on REI.com we retain only the last four digits of
+            that information in our system.
+
+            We are notifying you of this incident promptly so that you can take additional action to
+            prevent unauthorized use of your account or information stored there.
+
+            Preventative steps you should take:
+               • Create a new secure password, as instructed below.
+                                                            1
+            • Immediately report any suspicious activity on your account to REI and your credit
+              card company.
+            • You should also change your password on any other site or service for which you
+              use the same password.
+
+        You can reset your account password by copying and pasting
+        https://www.rei.com/ResetYourPassword into your browser’s address bar or through
+        the following steps:
+
+            1.   Visit www.rei.com.
+            2.   Select the "Log In" link in the upper right corner of REI.com.
+            3.   Select the "Forgot your password?" link above the orange log in button.
+            4.   Enter your email address and select the "send password" button.
+            5.   An email will be sent with further instructions on how to reset your password.
+
+        We also encourage you more generally to take measures to protect your personal
+        information in your online accounts. Among those measures are:
+            • Install the latest security updates and anti-virus software on your computer to help
+              prevent malware and viruses.
+            • Reset your e-mail account password.
+            • Use complex passwords (a minimum of 7 alpha/numeric cAsE sEnsitive
+              characters).
+            • Do not use the same password on more than one website.
+            • Do not share passwords with others.
+            • Sign out/log off website sessions so that your session is closed and cannot be
+              accessed by another user on the same computer, especially when using a public
+              computer or terminal.
+            • Visit this additional resource: http://www.us-cert.gov/ncas/tips/ST04-002
+
+
+        If you have further questions about this incident, please contact us at privacy@rei.com
+        or 1-800-426-4840. Our contact center is available Monday through Sunday, 4 a.m. to
+        11 p.m. Pacific Time.
+
+        Thank you for your attention to this important security information. We appreciate your
+        vital assistance in securing your personal information. It is a privilege to be a resource
+        for your outdoor adventures and we appreciate your continued patronage.
+
+        Sincerely yours,
+
+
+
+
+        Jerry Stritzke
+        REI President and CEO
+
+
+
+
+July 25, 2014
+This email was sent to [email address].
+
+For information about our privacy practices, see our Privacy Policy.
+
+Have a question, comment, concern or compliment?
+We'll respond quickest if you call 1-800-426-4840, email or write to REI Membership
+
+
+                                                                       2
+Services at REI, 6750 S. 228th St., Kent, WA 98032.
+
+
+
+
+                                                      3

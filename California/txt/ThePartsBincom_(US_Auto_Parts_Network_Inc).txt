@@ -1,0 +1,75 @@
+C/O ID Experts
+PO Box 6336
+Portland, OR 97228-6336
+
+
+
+[Name]
+[Address1]
+[Address2]
+[City, State Zip]
+
+
+
+
+This letter is in reference to your credit card ending in: _____.
+
+Dear [Name],
+
+I am writing to let you know of a security incident occurring between April 9, 2012, and June 12, 2012,
+involving our website, www.ThePartsBin.com. Due to this incident, we have reason to believe that your
+name and credit card information may have been accessed without authorization.
+
+We have taken several steps to protect customer information since the discovery of this incident. We
+have added extra security to ThePartsBin.com site and servers to prevent similar attacks from occurring.
+We have notified law enforcement, and we are continuing to investigate the incident. We have also
+informed the payment networks and credit reporting agencies so that they may take appropriate action.
+
+Even though to date we have not received any reports of misuse of information, we recommend that you
+monitor your financial accounts and credit reports for fraudulent transactions. Please consider contacting
+the credit reporting agencies if you wish to put in place a fraud alert or obtain a free copy of your credit
+report. If you see anything you do not recognize or understand, call the credit agency’s number listed on
+the report. Examples of suspicious activity include accounts you did not open, inquiries from creditors you
+did not initiate, or an inaccurate home address or Social Security Number. Contact information for the
+credit reporting agencies is below should you have questions about fraud alerts or need help reading your
+credit report. You can protect yourself from the possibility of identity theft with respect to your credit card
+information by immediately contacting your credit card issuer to close, freeze, or re-issue your account.
+
+Equifax: 1-800-525-6285; www.equifax.com; P.O. Box 740241, Atlanta, GA 30374-0241
+
+Experian: 1-888-EXPERIAN (397-3742); www.experian.com; P.O. Box 9532, Allen, TX 75013
+
+TransUnion: 1-800-680-7289; www.transunion.com/fraud; Fraud Victim Assistance Division, P.O. Box
+6790, Fullerton, CA 92834-6790
+
+As you monitor your transaction records and credit reports, if you suspect fraudulent transactions have
+occurred, contact your local law enforcement agency or credit card issuer.
+
+In addition, the Federal Trade Commission web site at www.consumer.gov/idtheft contains information
+and tips to help individuals guard against identity theft.
+
+
+K4301 v.03 06.22.2012
+For updated information on this incident go to: http://www.thepartsbin.com/customernotification.html
+
+You may also contact us in writing at ThePartsBin.com, 16941 Keegan Ave., Carson, CA 90746 Attention:
+C.O.O.; or you can also call our response team at ID Experts® at 1-877-866-6619. If you call, you will
+need to reference the following access code for verification purposes, so please have this letter handy.
+
+Your Access Code: [Insert ID Experts codes]
+
+On behalf of ThePartsBin.com, we take our responsibility to protect and preserve customer information
+very seriously. We work diligently to protect customer information, and we deeply regret any
+inconvenience or concern this incident may cause you.
+
+Sincerely,
+
+
+
+
+Aaron E. Coleman, C.O.O.
+
+
+
+
+K4302 v.03 06.22.2012

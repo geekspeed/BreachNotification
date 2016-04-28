@@ -1,0 +1,252 @@
+                        Return Mail Processing Center
+                        PO Box 6336
+                        Portland, OR 97228-6336
+
+                        <<mail id>>
+                        <<Name1>>
+                        <<Name2>>
+                        <<Address1>>
+                        <<Address2>>
+                        <<City>><<State>><<Zip>>
+
+                        <<Date>>
+
+                        Dear <<Insert Client Name>>:
+                        We are writing to inform you of a data security incident that may have resulted in the
+                        disclosure of your personal information, including your name, address, diagnosis, date of
+                        birth, age, gender and telephone number. Your Social Security number, financial account
+                        numbers, medications or universal client identification number were not exposed and
+                        remain secure. We take the security of your personal information very seriously, and
+                        sincerely apologize for any inconvenience this incident may cause. This letter contains
+                        information about steps you can take to protect your information.
+                        On September 8, 2015, Community Catalysts of California was notified by an employee
+                        that a thumb drive was stolen from the employee’s car, which was parked in a locked garage.
+                        As soon as the theft was discovered, the employee promptly notified law enforcement and
+                        is cooperating with their investigation. We also immediately began an investigation to
+                        identify what information was on the device.
+                        As soon as we learned of the theft, we began implementing additional safeguards to try
+                        and prevent this from occurring in the future, including retraining our staff on company
+                        policies and procedures and ensuring that all employees are using encrypted devices, per
+                        our policy. Community Catalysts of California is committed to maintaining the privacy of
+                        information and takes the security of your personal information very seriously. Although
+                        we are not aware of any misuse of your personal information, we would like to make you
+                        aware of some steps you can take to protect yourself.
+                        First, you may want to place a fraud alert on your credit file to let creditors know to
+                        contact you before opening a new account in your name. Call any one of the three credit
+                        reporting agencies at the phone numbers listed below: You should (1) request that a fraud
+                        alert be placed on your account and (2) order a free credit report from the agency.
+                                    Equifax 1-888-766-0008
+                                    Experian 1-888-397-3742
+                                    Trans Union 1-800-680-7289
+                        Second, when you receive your credit reports, look them over carefully for accounts you
+                        did not open or for inquiries from creditors that you did not initiate. If you see anything
+                        you do not understand, call the credit agency at the telephone number on the report.
+
+
+
+
+O1601 v.02 10.14.2015                                                                                     2D
+                        Third, if you find any suspicious activity on your credit reports, call your local police or
+                        sheriff’s office.
+                        Please note that Community Catalysts of California will not contact you to confirm any of
+                        your personal information, so if an unknown person should contact you requesting such
+                        information, you should decline to do so. Additional information about identify theft can
+                        be obtained from the California Office of Privacy Protection (http://oag.ca.gov/privacy).
+                        We deeply regret any inconvenience or concern that this incident may cause you, and
+                        remain dedicated to protecting your information. Should you have further questions about
+                        this matter, please call Alesia Forte at (888) 344-1237 Monday through Friday from 8:30
+                        a.m. through 5:00 p.m., Pacific Time.
+                        Sincerely,
+
+
+
+
+                        Jim Jenkins, CEO
+                        Community Catalysts of California
+
+
+
+
+O1602 v.02 10.14.2015                                                                                      2D
+                                                                             DRA
+                                                                              FT
+                             October 16, 2015
+
+
+ O U R O F F I C E S
+                             Client Name
+      El Centro
+    760-352-2033             Address
+       Fresno
+    559-347-6848             Dear [Insert Client Name]:
+      Manteca
+    209-624-5140             We are writing to inform you of a data security incident that may have
+       Merced
+                             resulted in the disclosure of your personal information, including your
+    209-725-4700             name, address, social security number, diagnosis, date of birth, age,
+       Salinas
+                             gender, telephone number and. Your financial account numbers,
+    831-769-0934             medications or universal client identification number were not exposed and
+     San Marcos
+                             remain secure. We take the security of your personal information very
+    760-471-3700             seriously, and sincerely apologize for any inconvenience this incident may
+     Santa Clara
+                             cause. This letter contains information about steps you can take to protect
+    408-553-0960             your information.
+        Ukiah
+    707-462-2395             On September 8, 2015, Community Catalysts of California was notified by
+       Visalia               an employee that a thumb drive was stolen from the employee’s car, which
+    559-738-5555             was parked in a locked garage. As soon as the theft was discovered, the
+                             employee promptly notified law enforcement and is cooperating with their
+    V E T E R A N
+                             investigation. We also immediately began an investigation to identify
+S E R V I C E A R E A S
+                             what information was on the device.
+   Imperial County
+  Riverside County
+  San Diego County           As soon as we learned of the theft, we began implementing additional
+   1-800-974-9909            safeguards to try and prevent this from occurring in the future, including
+                             retraining our staff on company policies and procedures and ensuring that
+                             all employees are using encrypted devices, per our policy. Community
+                             Catalysts of California is committed to maintaining the privacy of
+                             information and takes the security of your personal information very
+                             seriously.
+
+                             Although we are not aware of any misuse of your information, as an added
+                             precaution, we have arranged to have AllClear ID protect your identity and
+                             monitor your credit for 12 months at no cost to you. The following
+
+
+
+
+                          2328878v.4
+identity protection services start on the date of this notice and you can use
+them at any time during the next 12 months:
+
+       AllClear SECURE: The team at AllClear ID is ready and
+       standing by if you need help protecting your identity. You are
+       automatically eligible to use this service – there is no action
+       required on your part. If a problem arises, simply call 1-866-
+       979-2595 and a dedicated investigator will do the work to
+       recover financial losses, restore your credit and make sure your
+       identity is returned to its proper condition. AllClear maintains
+       an A+ rating at the Better Business Bureau.
+
+       AllClear PRO: This service offers additional layers of
+       protection including credit monitoring and a $1 million identity
+       theft insurance policy. To use the PRO service, you will need
+       to provide your personal information to AllClear ID. You may
+       sign up online at enroll.allclearid.com or by phone by calling 1-
+       866-979-2595, using the following redemption code:
+       <<RedemptionCode>>.
+
+       Please note: Additional steps may be required by you in order
+       to activate your phone alerts.
+
+Please note that Community Catalysts of California will not contact you to
+confirm any of your personal information, so if an unknown person should
+contact you requesting such information, you should decline to do so.
+Additional information about identify theft can be obtained from the
+California Office of Privacy Protection (http://oag.ca.gov/privacy).
+
+We deeply regret any inconvenience or concern that this incident may cause
+you, and remain dedicated to protecting your information. Should you have
+further questions about this matter, please call Alesia Forte at (888) 344-1237
+Monday through Friday from 8:30 am to 5 pm, Pacific Time.
+
+Sincerely,
+
+
+Jim Jenkins, CEO
+Community Catalysts of California
+
+                                                                              2
+2328878v.4
+                                            U.S. State Notification Requirements
+
+For residents of all states:
+
+Fraud Alerts: You can place fraud alerts with the three credit bureaus at one of the three major credit bureaus by phone and also via
+Experian’s or Equifax’s website. A fraud alert tells creditors to follow certain procedures, including contacting you, before they open any
+new accounts or change your existing accounts. For that reason, placing a fraud alert can protect you, but also may delay you when you
+seek to obtain credit. The contact information for all three credit bureaus is below:
+Monitoring: You should always remain vigilant and monitor your accounts for suspicious or unusual activity.
+Security Freeze: You also have the right to place a security freeze on your credit report. A security freeze is intended to
+prevent credit, loans and services from being approved in your name without your consent. To place a security freeze on your
+credit report, you need to send a request to each consumer reporting agency by certified mail, overnight mail, or regular
+stamped mail. The following information must be included when requesting a security freeze (note that if you are requesting a
+credit report for your spouse, this information must be provided for him/her as well): (1) full name, with middle initial and any
+suffixes; (2) Social Security number; (3) date of birth; (4) current address and any previous addresses for the past five years; and
+(5) any applicable incident report or complaint with a law enforcement agency or the Registry of Motor Vehicles. The
+request must also include a copy of a government-issued identification card and a copy of a recent utility bill or bank or
+insurance statement. It is essential that each copy be legible, display your name and current mailing address, and the date of
+issue. The consumer reporting agency may charge a fee of up to $5.00 to place a freeze or lift or remove a freeze, but is free
+if you are a victim of identity theft or the spouse of a victim of identity theft, and you have submitted a valid police report
+relating to the identity theft incident to the consumer reporting agency. You may obtain a security freeze by contacting any
+one or more of the following national consumer reporting agencies:
+Equifax Security Freeze                      Experian Security Freeze                    TransUnion (FVAD)
+P.O. Box 105788                              P.O. Box 9554                               P.O. Box 2000
+Atlanta, GA 30348                            Allen, TX 75013                             Chester, PA 19022
+www.equifax.com                              http://www.experian.com/freeze               www.transunion.com
+
+More information can also be obtained by contacting the Federal Trade Commission:
+
+Federal Trade Commission
+Consumer Response Center
+600 Pennsylvania Avenue, NW
+Washington, DC 20580
+1-877-IDTHEFT (438-4338)
+www.ftc.gov/bcp/edu/microsites/idtheft
+                                                       AllClear Secure Terms of Use
+If you become a victim of fraud using your personal information without authorization, AllClear ID will help recover your financial losses and restore
+your identity. Benefits include:
+         12 months of coverage with no enrollment required;
+         No cost to you – ever. AllClear Secure is paid for by the participating Company.
+Services Provided
+If you suspect identity theft, simply call AllClear ID to file a claim. AllClear ID will provide appropriate and necessary remediation services
+(“Services”) to help restore the compromised accounts and your identity to the state prior to the incident of fraud. Services are determined at the
+sole discretion of AllClear ID and are subject to the terms and conditions found on the AllClear ID website. AllClear Secure is not an insurance
+policy, and AllClear ID will not make payments or reimbursements to you for any financial loss, liabilities or expenses you incur.
+Coverage Period
+Service is automatically available to you with no enrollment required for 12 months from the date of the breach incident notification you received
+from Company (the “Coverage Period”). Fraud Events that occurred prior to your Coverage Period are not covered by AllClear Secure services.
+Eligibility Requirements
+To be eligible for Services under AllClear Secure coverage, you must fully comply, without limitations, with your obligations under the terms herein,
+you must be a citizen or legal resident eighteen (18) years of age or older, and have a valid U.S. Social Security number. Minors under eighteen
+(18) years of age may be eligible, but must be sponsored by a parent or guardian. The Services cover only you and your personal financial and
+medical accounts that are directly associated with your valid U.S. Social Security number, including but not limited to credit card, bank, or other
+financial accounts and/or medical accounts.
+How to File a Claim
+If you become a victim of fraud covered by the AllClear Secure services, you must:
+      Notify AllClear ID by calling 1.855.434.8077 to report the fraud prior to expiration of your Coverage Period.
+      Provide proof of eligibility for AllClear Secure by providing the redemption code on the notification letter you received from the sponsor
+          Company.
+      Fully cooperate and be truthful with AllClear ID about the Event and agree to execute any documents AllClear ID may reasonably require;
+      Fully cooperate with AllClear ID in any remediation process, including, but not limited to, providing AllClear ID with copies of all available
+          investigation files or reports from any institution, including, but not limited to, credit institutions or law enforcement agencies, relating to the
+          alleged theft;
+Coverage under AllClear Secure Does Not Apply to the Following:
+Any expense, damage or loss:
+     Due to
+        o    Any transactions on your financial accounts made by authorized users, even if acting without your knowledge
+        o    Any act of theft, deceit, collusion, dishonesty or criminal act by you or any person acting in concert with you, or by any of your
+             authorized representatives, whether acting alone or in collusion with you or others (collectively, your “Misrepresentation”)
+     Incurred by you from an Event that did not occur during your coverage period;
+     In connection with an Event that you fail to report to AllClear ID prior to the expiration of your AllClear Secure coverage period.
+Other Exclusions:
+     AllClear ID will not pay or be obligated for any costs or expenses other than as described herein, including without limitation fees of any
+        service providers not retained by AllClear ID; AllClear ID reserves the right to investigate any asserted claim to determine its validity;
+     AllClear ID is not an insurance company, and AllClear Secure is not an insurance policy; AllClear ID will not make payments or
+        reimbursements to you for any loss or liability you may incur; and
+     AllClear ID is not a credit repair organization, is not a credit counseling service, and does not promise to help you improve your credit
+        history or rating beyond resolving incidents of fraud;
+     AllClear ID reserves the right to reasonably investigate any asserted claim to determine its validity. All recipients of Secure coverage are
+        expected to protect their personal information in a reasonable way at all times. Accordingly, recipients will not deliberately or recklessly
+        disclose or publish their Social Security number or any other personal information to those who would reasonably be expected to
+        improperly use or disclose that Personal Information.
+Opt-out Policy
+If for any reason you wish to have your information removed from the eligibility database for AllClear Secure, please contact AllClear ID:
+               E-mail                                Mail                                    Phone
+               support@allclearid.com                AllClear ID, Inc.                       1.855.434.8077
+                                                     823 Congress Avenue Suite 300
+                                                     Austin, Texas 78701

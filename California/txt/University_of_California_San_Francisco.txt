@@ -1,0 +1,56 @@
+C/O ID Experts
+PO Box 6336
+Portland, OR 97228-6336
+
+
+<<MAIL_ID>>
+<<MAIL_ID>>
+
+<<NAME1>>
+<<ADDRESS1>>
+<<ADDRESS2>>
+<<CITY>>, <<STATE>> <<ZIP>>
+<<COUNTRY>>                                                                                                          <<Date>>
+
+
+
+                          Dear <<FULL NAME>>,
+                          We are writing to inform you of an incident involving some of your health information. On September
+                          25, 2013, UCSF learned that an unencrypted personal laptop was stolen from the locked vehicle of a
+                          physician in the Division of Gastroenterology at the UCSF School of Medicine. Given the physician’s
+                          various UCSF responsibilities, it was determined that the physician had the information appropriately.
+                          UCSF immediately began a technical analysis to identify what information was on the laptop. On
+                          November 13, 2013, UCSF determined that the laptop contained information that included your name
+                          and some health information. The files may have also contained other identifiable information, such as
+                          your date of birth or medical record number. The files did not contain your social security number.
+                          We sincerely apologize that this has happened, as using an unencrypted laptop for business purposes
+                          is against UCSF’s policy and practice. We encourage you to contact UCSF/ID Experts, who are
+                          well-versed in this matter, with any questions by calling 1-800-981-7567 (international callers,
+                          please dial 1-503-597-7671). While there is no evidence of any attempted access or attempted use
+                          of the information involved in this incident, should an unknown person contact you, we encourage
+                          you to not release any of your personal information. Additional information about identify theft may
+                          be obtained from the following agencies:
+                              •	   California Office of the Attorney General
+                              	    http://www.oag.ca.gov/idtheft
+                              •	   Federal Trade Commission
+                              	    http://www.ftc.gov/bcp/edu/microsites/idtheft
+                          Again, we apologize that this has happened. The University of California is committed to maintaining
+                          the privacy of personal information and has taken additional steps to secure that information,
+                          including strengthening our educational and operational processes for information security.
+                          Should you have any questions about this matter, please contact the UCSF/ID Experts informational
+                          line at 1-800-981-7567 (international callers, please dial 1-503-597-7671). UCSF/ID Experts will
+                          be able to assist you.
+                          You will need to reference the following access code when calling, so please do not discard this
+                          letter.
+
+                                                                  Access Code: 37375
+
+                          Sincerely,
+
+
+
+
+                          Averil Ma, M.D.					                                   Norah Terrault, MD, MPH
+                          Chief, Division of Gastroenterology		                  Director, Viral Hepatitis Center
+                          UCSF School of Medicine				                            UCSF School of Medicine
+L7171 v.05 11.21.2013

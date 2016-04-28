@@ -1,0 +1,150 @@
+[VERSION A – All States Except Massachusetts]
+
+                                                                                        Your identity is protected.
+                                                                                        If you suspect identity theft, simply call
+                                                                                        <<Opportunity_Customer_Service_Number>>
+                                                                                        and AllClear ID will work to recover financial
+                                                                                        losses and restore your credit.
+                                                                                        No sign-up required. This letter is your proof of
+                                                                                        identity protection coverage for 1 year.
+
+
+ [Customer Name]
+ [Address]                                                                           June ___, 2013
+ [Address]
+ [Address]
+ Dear [Customer Name],
+
+ This letter is being sent to you because our records indicate that you were a guest at Anasazi Hotel LLC (“Anasazi”) sometime
+ between June 18, 2012 and March 21, 2013, and one or more credit cards was used as payment at our facility in connection with your
+ stay with us. As described in more detail below, we have discovered that cards processed at Anasazi during that time period may
+ have been accessed by an unauthorized person. We wanted to inform you of our investigation of this incident, let you know of the
+ steps we suggest you take to protect yourself against any potential identity theft, and offer you an identity theft protection service at no
+ charge to you, as described in greater detail below and in the enclosed materials.
+
+ Around March 21, 2013 we were notified by the credit card processing vendor that Anasazi was identified as the “common point of
+ purchase” for a number of credit cards involved in fraudulent transactions with other merchants. The notice of common point of
+ purchase was simply to alert Anasazi that it, perhaps with other merchants, was a merchant common to subsequent suspected
+ fraudulent uses of payment cards used at our facility. In response to the notice, we quickly locked down our computer network and all
+ computer systems and engaged forensic investigators, who analyzed all aspects of our data systems to determine whether credit card
+ information was in fact accessed without authorization. The forensic experts uncovered evidence that Anasazi was the target of cyber-
+ attackers seeking to access parts of our internal network and data systems. The forensic experts found evidence that as early as June
+ 18, 2012 the cyber-attackers installed malware apparently designed to perform certain functions, including eventually transmitting
+ credit card data outside the secure network. While the forensic experts found no actual evidence that credit card information was in
+ fact transmitted to the attackers, the forensic experts have concluded that the malware discovered on the Anasazi systems is
+ consistent with that typically used to gather and transmit sensitive credit card data. Out of an abundance of caution, we are providing
+ this notice to you even in the absence of hard evidence that your credit card data was in fact taken by the attackers.
+
+ The portion of our computer system where the malware appears to have been installed contained names and credit card information of
+ certain patrons of Anasazi. We believe information about the cardholder whose card was used as payment for your room at Anasazi,
+ including the name and credit card information, could have been viewed without authorization. We do not collect Social Security
+ Numbers or dates of birth of our hotel patrons; thus, no Social Security Numbers or dates of birth were compromised. As of the date of
+ this letter, our systems have been restored and are fully functional and operating with heightened system security, including
+ restructured password protections, enhanced security software, and advanced firewall safeguards. Our efforts to enhance our security
+ are ongoing and countermeasures will soon include real-time monitoring by a leading worldwide security services provider. We have
+ reported these cyber-attacks to the U.S. Secret Service and will work with law enforcement authorities to identify and pursue the
+ perpetrators involved for any and all laws that may have been broken. The law enforcement authorities did not advise us to delay any
+ notifications in connection with this incident.
+
+ To protect yourself from any possible identity theft as a result of this incident, you should monitor your account activity from June,
+ 2012, and report suspected fraud or suspected incidents of identity theft to your credit card company/bank, your local law enforcement,
+ your state’s Attorney General, and/or the Federal Trade Commission. As an added precaution, we have arranged to have AllClear ID
+ protect your identity for one year at no cost to you. The following identity protection services start on the date of this notice and you can
+ use them at any time during the next year.
+
+ AllClear SECURE: The team at AllClear ID is ready and standing by if you need help protecting your identity. You are automatically
+ eligible to use this service – there is no action required on your part. If a problem arises, simply call
+ <<Opportunity_Customer_Service_Number>> and a dedicated investigator will do the work to recover financial losses, restore your
+ credit and make sure your identity is returned to its proper condition. AllClear ID has a 100% success rate in resolving financial
+ identity theft issues and maintains an A+ rating at the Better Business Bureau.
+
+ AllClear PLUS: This service offers additional layers of protection including credit monitoring and a $1 million identity theft insurance
+ policy. To use the PLUS service, you will need to provide your personal information to AllClear ID and use the following redemption
+ code {RedemptionCode}. You may sign-up online at enroll.allclearid.com, by mail using the enclosed mail-in registration form, or by
+ phone at <<Opportunity_Customer_Service_Number>>. Please note: Additional steps may be required by you in order to activate your
+ phone alerts. Mailed registrations may take up to ten (10) business days before the registration is received and you are able to log-in
+ to your account.
+
+ We take the protection of your personal information seriously and sincerely apologize for any inconvenience or concern this may have
+ caused. If we can be of further assistance, if you would like additional information, including information on what types of information,
+ if any, Anasazi maintained about your or others in general, or if you have questions or concerns that have not been adequately
+ addressed by AllClear ID at the toll free number <<Opportunity_Customer_Service_Number>>, please contact us directly at the toll-
+ free number listed below.
+                                                                          Sincerely,
+
+
+                                                                           Kenneth Carone, Controller
+                                                                           Anasazi Hotel LLC, [TOLL FREE NUMBER]
+ATL 414441v.7
+                                           Information About Identity Theft Prevention
+
+We recommend that you regularly review statements from your credit card accounts and other accounts and periodically obtain
+your credit reports from the national consumer credit reporting agencies. You may obtain a free copy of your credit report online
+at www.annualcreditreport.com, by calling toll-free 1-877-322-8228, or by mailing an Annual Credit Report Request Form
+(available at www.annualcreditreport.com) to: Annual Credit Report Request Service, P.O. Box 105281, Atlanta, GA, 30348-
+5281. You may also purchase a copy of your credit report by contacting one or more of the three national consumer credit
+reporting agencies listed below:
+
+    Equifax, P.O. Box 740241, Atlanta, GA 30374-0241, 1-800-685-1111, www.equifax.com
+    Experian, P.O. Box 9532, Allen, TX 75013, 1-888-397-3742, www.experian.com
+    TransUnion, P.O. Box 6790, Fullerton, CA 92834-6790, 1-800-916-8800, www.transunion.com
+
+When you receive your credit reports from the above consumer credit reporting agencies, review them carefully. Look for
+accounts or creditor inquiries that you did not initiate or do not recognize. Look for information such as a home address or
+Social Security Number that is not accurate. If you see anything you do not understand, call the consumer credit reporting
+agency at the telephone number on the report.
+
+We recommend you remain vigilant in reviewing your account statements and monitoring your free credit reports and promptly
+report any fraud, suspicious activity or suspected identity theft to your credit card company/bank, the proper law enforcement
+authorities, including local law enforcement, your state’s Attorney General and/or the Federal Trade Commission (“FTC”). You
+may contact the FTC and your state’s regulatory authority to obtain additional information about the steps you can take to avoid
+identity theft. To contact the FTC, write to the Federal Trade Commission Consumer Response Center, 600 Pennsylvania
+Avenue, NW, Washington, DC 20580, call 1-877-IDTHEFT (438-4338), or visit their website, www.ftc.gov/idtheft.
+
+For Maryland residents: You may also obtain information about preventing and avoiding identity theft from the Maryland Office
+of the Attorney General: Maryland Office of the Attorney General, Consumer Protection Division, 200 St. Paul Place, Baltimore,
+MD 21202, 1-888-743-0023, www.oag.state.md.us.
+
+For Massachusetts residents: You may also obtain information about preventing and avoiding identity theft from the
+Massachusetts Office of Consumer Affairs and Business Regulation, Ten Park Plaza, Suite 5170, Boston, MA 02116, Phone:
+(617) 973-8700, Fax: (617) 973-8799, Consumer Hotline: (617) 973-8787 or 888-283-3757 toll free (MA only),
+mass.gov/consumer.
+
+For North Carolina residents: You may also obtain information about preventing and avoiding identity theft from the North
+Carolina Attorney General’s Office, Consumer Protection Division, 9001 Mail Service Center, Raleigh, NC 27699-9001, 1-877-5-
+NO-SCAM, www.ncdoj.gov.
+
+Fraud Alerts: There are two types of fraud alerts that you can place on your credit report to put your creditors on notice that you
+may be a victim of fraud: an initial alert and an extended alert. You may ask that an initial fraud alert be placed on your credit
+report if you suspect you have been, or are about to be, a victim of identity theft. An initial fraud alert stays on your credit report
+for at least 90 days. You may have an extended alert placed on your credit report with the appropriate documentary proof if you
+have previously been a victim of identity theft. An extended fraud alert stays on your credit report for 7 years. You can place a
+fraud alert on your credit report by calling the toll-free fraud number of any of the three national consumer credit reporting
+agencies listed above. You can obtain additional information about fraud alerts from the consumer credit reporting agencies
+and the FTC at the contact information listed above.
+
+Credit Freezes: You may have the right to put a credit freeze, also known as a security freeze, on your credit file by registering
+with each of the three consumer credit reporting agencies listed above, so that no new credit can be opened in your name
+without the use of a PIN number that is issued to you when you initiate a credit freeze. A credit freeze is designed to prevent
+potential creditors and other third parties from accessing your credit report without your consent. If you place a credit freeze on
+your credit file, potential creditors and other third parties will not be able to get access to your credit report unless you
+temporarily lift the freeze. Therefore, using a credit freeze may delay your ability to obtain credit. In addition, you may incur
+fees to place, temporarily lift and/or remove a credit freeze. The cost of placing, temporarily lifting, and removing a credit freeze
+also varies by state, but is generally $5 to $20 per action at each consumer credit reporting agency. The cost of credit freezes is
+not included in the services the company has arranged through AllClear ID. Unlike a fraud alert, you must separately place a
+credit freeze on your credit file at each consumer credit reporting agency. You can obtain additional information about credit
+freezes from the consumer credit reporting agencies and the FTC at the contact information listed above. For Massachusetts
+residents: The consumer credit reporting agency is not allowed to charge a fee to identity theft victims or their spouses for
+placing, removing for a specific period or party, or removing a security freeze on a credit report for Massachusetts residents. To
+prove you are a victim of identity theft, you must send to the consumer reporting agency a valid copy of a police report. All other
+consumers who are Massachusetts residents must pay a $5 fee for each placing, temporary lifting or removing of a security
+freeze. In order to request a security freeze, you will need to provide the following information (note, some requirements differ
+for each of the three credit bureaus): 1. Your full name (including middle initial as well as Jr., Sr., II, III, etc.); 2. Your Social
+Security Number; 3. Your date of birth; 4. If you have moved in the past five years, the address where you have lived over the
+prior five years; 5. Proof of your current address (e.g., your current utility bill or telephone bill); 6. A legible photocopy of your
+government issued identification card (e.g., state driver’s license or ID card, military identification); 7. If you are a victim of
+identity theft, a copy of either the police report, investigative report, or complaint to a law enforcement agency concerning
+identity theft; and 8. If you are not a victim of identity theft, payment by check, money order, or credit card (VISA, MasterCard,
+American Express or Discover only). Do not send cash through the mail.
+
+ATL 414441v.7

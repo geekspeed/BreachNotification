@@ -1,0 +1,70 @@
+October 8, 2013
+
+
+«First_Name» «Last_Name»
+«Address1»
+«City», «State» «Zipcode»
+
+
+Dear «First_Name»:
+
+Radiant Systems, Inc. provides point of sale and back office technology to The
+Fisherman’s Restaurant. We regret to inform you of an incident Radiant recently
+discovered that has put some of your personal information potentially at risk. We are
+writing to provide you with information about the incident and advise you of steps you
+may wish to take.
+
+On September 23, 2013, Radiant learned that certain personal information concerning
+employees of The Fisherman’s Restaurant had been erroneously transmitted over a period
+of time to another Radiant Systems restaurant customer. These data transmissions took
+place from approximately May 3, 2013 through September 24, 2013. You are among the
+employees whose information was mistakenly transmitted to the other customer. The
+personal information transmitted may include, to the extent it was included in your
+records:
+
+      Your first, middle and last name and       Your address and telephone number
+       your nickname
+      Your date of birth                         Your Social Security Number
+      Your gender                                Your veteran’s status
+      Your marital status and your number        Certain employment-related
+       of dependents                               information about you, such as your
+                                                   dates of hire and termination, and
+                                                   whether you were a rehire.
+
+Radiant promptly launched an investigation into the incident, and, as of this time, the
+investigation has uncovered no evidence of misuse of your personal information. In
+addition, Radiant took steps to stop the erroneous data transmission and worked with the
+recipient to delete your personal information from its systems. However, as a precaution
+we believe it is important that we advise you of this incident and give you information
+about how to protect yourself.
+Please see the information in the “Information about Identity Theft Prevention”
+attachment about how you can place a fraud alert and/or credit freeze on your credit file
+and how you can obtain a free copy of your credit report.
+
+In addition, to help protect your identity we are offering a complimentary one-year
+membership to Experian’s® ProtectMyID® Alert. This product helps detect possible
+misuse of your personal information and provides you with superior identity protection
+support focused on immediate identification and resolution of identity theft. To activate
+your ProtectMyID account, follow these three easy steps:
+
+   1. Ensure that you enroll by: January 31, 2014 (Your code will not work after this date.)
+   2. Visit the ProtectMyID website to enroll: www.protectmyid.com/redeem
+   3. Provide your activation code: «Experian_Activation_Code»
+
+Radiant and The Fisherman’s Restaurant take data security very seriously. We apologize
+for any concern or inconvenience this matter may have caused you. If you have any
+questions or would like to discuss this matter, please feel free to contact Bob Novello,
+Regional Director at (949) 498-6390. If you have questions regarding Experian’s
+ProtectMyId or need an alternative to enrolling online, please call (877) 371-7902.
+
+
+Sincerely,
+
+
+John Pearson                                           Bob Novello
+
+
+
+
+Director of Data Security & Compliance                 Regional Director
+Radiant Systems, Inc.                                  The Fisherman’s Restaurant

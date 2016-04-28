@@ -1,0 +1,153 @@
+April ___, 2015
+
+Dear Customer,
+
+        We are contacting you as a precautionary measure to let you know about a data security incident
+that might affect your customer information.
+
+                                    Potential Data Security Breach
+
+        We identified that between approximately February 11, 2015 and March 16, 2015, electronic data
+may have been improperly obtained through unauthorized access to the website for MyFreedomSmokes
+(“MFS”). Specifically, on March 16, 2015, we discovered unauthorized code on the website and,
+although the code was encrypted, we believe that this code may have been used to obtain customer data as
+customers entered the information into the site’s shopping cart while making a purchase on the website.
+This data could include customer name, physical address, email address, telephone number, credit card
+number, expiration date and card verification value (“CVV”) number, if provided by the customer while
+placing an order with MFS through the website during the time period mentioned above. As soon as this
+code was discovered, MFS removed the code and began immediate efforts to restore the security of the
+website, secure customer information and determine the scope of the unauthorized access and how it
+occurred. We also retained the services of a nationally recognized cyber security firm and engaged in
+enhancements to the security of our website. MFS does not retain full credit card numbers or CVV
+numbers of our customers. Further, although MFS’ website uses encrypted SSL links with customers and
+although MFS’ card processor gateway during this period also was encrypted, MFS has changed its
+process for taking orders online and has moved to an enhanced system to protect customer information.
+
+        We have no evidence confirming that illegal use of any personal information has occurred or that
+any material harm will result to any customer as a result of this incident, however, some customers have
+reported fraudulent charges on their payment cards during the period noted above. Therefore, we want to
+alert you of this risk and inform you of actions that you can take to help protect against identity theft.
+
+                           Recommendations for Protecting Your Identity
+
+   Use good judgment in not responding to emails or other inquiries by those posing as a financial
+    institution or other entities seeking your personal information.
+   Carefully review all account statements and, if anything seems suspicious, place a fraud alert on your
+    credit file. A fraud alert tells creditors to contact you before opening any new accounts or changing
+    your existing accounts.
+   Check your credit reports periodically. Victim information sometimes is held for use or shared
+    among a group of thieves at different times. Checking your credit reports periodically can help you
+    spot problems and address them quickly.
+
+                          Steps You Can Take to Protect Your Information
+
+   Review Your Account Statements and Notify Law Enforcement of Suspicious Activity
+
+        As a precautionary measure, we recommend that you remain vigilant by reviewing your account
+statements and credit reports closely. If you detect any suspicious activity on an account, you should
+promptly notify the financial institution or company with which the account is maintained. You also
+should promptly report any fraudulent activity or any suspected incidence of identity theft to proper law
+enforcement authorities, your state attorney general, and/or the Federal Trade Commission (“FTC”).
+
+
+                                                    1
+                                                                                                      CA
+       To file a complaint with the FTC, go to www.ftc.gov/idtheft or call the toll-free number 1-877-
+IDTHEFT (1-877-438-4338). Complaints filed with the FTC will be added to the FTC’s Identity Theft
+Data Clearinghouse, which is a database made available to law enforcement agencies.
+
+   Copy of Credit Report
+
+         You may obtain a free copy of your credit report from each of the three major credit reporting
+agencies once every 12 months by visiting http://www.annualcreditreport.com, calling toll-free 1-877-
+322-8228, or by completing an Annual Credit Report Request Form and mailing it to Annual Credit
+Report Request Service, PO Box 105281, Atlanta, GA 30348. You can print a copy of the request form at
+https://www.annualcreditreport.com/manualRequestForm.action. Or you can elect to purchase a copy of
+your credit report by contacting one of the three national credit reporting agencies. Contact information
+for the three national credit reporting agencies for the purpose of requesting a copy of your credit report
+or for general inquiries is as follows:
+
+     Equifax                           Experian                           TransUnion
+     (800) 685-1111                    (888) 397-3742                     (800) 888-4213
+     www.equifax.com                   www.experian.com                   www.transunion.com
+     PO Box 740241                     475 Anton Blvd.                    2 Baldwin Place
+     Atlanta, GA 30374                 Costa Mesa, CA 92626               PO Box 1000
+                                                                          Chester, PA 19022
+
+   Fraud Alert
+
+         An initial fraud alert on your credit report is free and will stay on your credit file for at least 90
+days. The alert informs creditors of possible fraudulent activity within your report and requests that the
+creditor contact you prior to establishing any accounts in your name. To place a fraud alert on your credit
+report, contact any of the three credit reporting agencies using the contact information below:
+
+     Equifax                           Experian                           TransUnion
+     (888) 766-0008                    (888) 397-3742                     (800) 680-7289
+     www.alerts.equifax.com            www.experian.com/fraud             www.transunion.com
+     PO Box 740241                     475 Anton Blvd.                    PO Box 2000
+     Atlanta, GA 30374                 Costa Mesa, CA 92626               Chester, PA 19022-2000
+
+   Security Freeze
+
+         In California, you have the right to put a security freeze on your credit file. This will prevent a
+credit reporting agency from releasing your report without your express authorization. A security freeze
+is designed to prevent potential creditors from accessing your credit report without your consent. As a
+result, using a security freeze may interfere with or delay your ability to obtain credit. You must
+separately place a security freeze on your credit file with each credit reporting agency. If you request a
+security freeze from a consumer reporting agency there may be a small fee to place, lift or remove the
+security freeze.
+
+        You can obtain information from the FTC or any of the three credit reporting agencies about
+fraud alerts and security freezes using the contact information provided above.
+
+
+
+
+                                                      2
+                                                                                                           CA
+   Additional Free Resources on Identity Theft
+
+        The FTC provides tips on how to avoid identity theft. For more information, please visit
+http://www.ftc.gov/idtheft or call 1-877-ID-THEFT (1-877-438-4338). A copy of “Taking Charge: What
+to Do if Your Identity is Stolen,” a comprehensive guide from the FTC to help you guard against and
+respond     to    identity     theft,     can  be     found    on    the    FTC’s     website     at
+http://www.ftc.gov/bcp/edu/pubs/consumer/idtheft/idt04.shtm.
+
+                                  Suspicious Activity and Questions
+
+If you find suspicious activity on your credit reports, have reason to believe your information is being
+misused, or otherwise have any questions or concerns, please contact us toll-free at 855-705-4246,
+8 a.m. - 5 p.m. EST, Monday through Friday.
+
+If you provided MFS with a military APO or FPO address, please see the attached addendum for
+additional information.
+
+We apologize for any inconvenience or anxiety this may cause you. Please know that securing your
+information is a priority. Finally, we thank you for being an MFS customer.
+
+Sincerely,
+
+Mark Schaffner, COO
+
+Freedom Smokes, Inc.
+
+
+
+
+                                                   3
+                                                                                                    CA
+                                              Addendum
+
+
+
+
+An APO or FPO address does not indicate a military member’s legal place of residence. If you provided
+MyFreedomSmokes with an APO or FPO address, please contact us as soon as possible to provide us
+with your legal residence as your state’s notice requirements may differ from the information provided to
+you above.
+
+
+
+
+                                                   4
+                                                                                                     CA

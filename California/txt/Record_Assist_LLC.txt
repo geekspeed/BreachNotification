@@ -1,0 +1,50 @@
+Record Assist, LLC
+June 20, 2014
+
+<name>
+<street address>
+<City, State, zip>
+
+On May 28, 2014, we discovered that, earlier that morning, someone obtained unauthorized access to our
+order processing system for ExpressVitals.com. The access was immediately terminated. However, this
+incident may have resulted in unauthorized access to information obtained from you during a recent order,
+including your name, address, credit card number, security code, and social security number.
+
+We have investigated the incident and taken the necessary steps to prevent it from recurring as well as
+mitigate its effect on you. We have notified and are continuing to investigate this incident with law
+enforcement. We have also informed the credit reporting agencies and payment card networks about this
+incident so that they may take appropriate action regarding your credit card account.
+
+We recommend that you monitor your credit card transaction records and credit reports for fraudulent
+transactions or accounts. You may obtain a free copy of your credit report maintained by each of the three
+credit reporting agencies by visiting www.annualcreditreport.com or by calling toll-free 877-322-8228.
+Review the reports carefully, and if you find anything you do not understand or that is incorrect, contact the
+appropriate credit reporting agency. In addition, if you suspect fraudulent activity, you can contact your
+credit card company, local law enforcement agency, the attorney general of your state, and the Federal Trade
+Commission.
+
+You may also consider contacting the credit reporting agencies directly if you wish to put in place a fraud
+alert or a security freeze. A fraud alert will notify any merchant checking your credit history that you may be
+the victim of identity theft and that the merchant should take additional measures to verify the application.
+Contacting any one of the three agencies will place an alert on your file at all three. A security freeze restricts
+all creditor access to your account, but might also delay any requests you might make for new accounts.
+Enquire with the credit reporting agencies for their specific procedures regarding security freezes.
+    •   Equifax: 1-800-525-6285; www.equifax.com; P.O. Box 740241, Atlanta, GA 30374-0241
+    •   Experian: 1-888-EXPERIAN (397-3742); www.experian.com; P.O. Box 9532, Allen, TX 75013
+    •   TransUnion: 1-800-680-7289; www.transunion.com; Fraud Victim Assistance Division, P.O. Box
+        6790, Fullerton, CA 92834-6790
+The Federal Trade Commission also provides information about how to avoid identity theft and what to do if
+you suspect your identity has been stolen.
+The Federal Trade Commission
+Identity Theft Clearinghouse
+600 Pennsylvania Avenue, NW
+Washington, D.C. 20580
+www.consumer.ftc.gov
+1-877-ID-THEFT (877-438-4338)
+
+You may also contact us in writing at Record Assist LLC, P.O. Box 19686, Houston, TX 77224-9868, or you can
+call us at 844-245-5654.
+
+On behalf of Record Assist, LLC, we truly regret any inconvenience this may cause you.
+Sincerely,
+Record Assist, LLC

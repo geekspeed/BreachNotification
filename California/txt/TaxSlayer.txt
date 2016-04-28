@@ -1,0 +1,104 @@
+c/o ID Experts
+PO Box 6336
+Portland, OR 97228-6336
+
+<<mail id>>
+<<Name1>>
+<<Address1>>
+<<Address2>>
+<<City>><<State>><<Zip>>                                                                                    <<Date>>
+
+
+
+
+                                               Notice of Data Breach
+
+Dear <<Name>>:
+
+What Happened
+
+As a result of ongoing security reviews, TaxSlayer identified on January 13, 2016 that an unauthorized third party,
+whom we believe obtained your username and password from another online service, may have accessed your
+TaxSlayer account between 10/10/2015 and 12/21/2015. In order to protect your account, we have temporarily disabled
+access. You will need to reset your password via the “forgot password” utility on the login page and authenticate
+yourself via multi-factor authentication. We have no evidence indicating that the technical security of
+TaxSlayer systems has been compromised.
+
+What Information Was Involved
+
+The unauthorized third party may have obtained access to any information you included in a tax return or draft
+tax return saved on TaxSlayer, including your name and address, your Social Security number, the Social Security
+numbers of your dependents, and other data contained on your 2014 tax return.
+
+What We Are Doing
+
+We care about our customers and security of their data. To help protect you, we are offering you free credit monitoring
+and restoration services through ID Experts®. ID Experts’ MyIDCare includes 12 months of credit monitoring, a
+$1,000,000 insurance reimbursement policy, educational materials, and access to its fraud resolution representatives.
+
+What You Can Do
+
+You can contact ID Experts with questions or to enroll in the free services by calling 866-328-1984 or going to
+www.myidcare.com/protectts. Please do not discard this letter; you will need to reference the following access
+code when enrolling:
+
+            Your access code is: <<Enrollment code>>
+
+ID Experts is available Monday through Friday from 6 a.m.–6 p.m. Pacific Time. Please note that the deadline to
+enroll is April 29, 2016.
+
+For More Information
+
+We recommend that you immediately change your username and password for any other online account for which
+you use the same username and password. We also strongly recommend that you obtain an Identity Protection PIN
+(IP PIN) from the IRS. This is a unique PIN assigned to you that would be required to file your tax return.
+
+
+O6481 v.01 01.27.2016
+It will ensure that someone else cannot file a return with your Social Security number. You can
+obtain this PIN when the IRS begins offering them, estimated to be in late January, by going to
+https://www.irs.gov/Individuals/Get-An-Identity-Protection-PIN.
+
+We encourage you to monitor your credit reports for fraudulent transactions or accounts. You may obtain a free copy
+of your credit report maintained by each of the three credit reporting agencies by visiting www.annualcreditreport.
+com or by calling toll-free 877-322-8228. Review the reports carefully, and if you find anything you do not understand
+or that is incorrect, contact the appropriate credit reporting agency. If you suspect fraudulent activity, you can
+contact your local law enforcement agency, the attorney general of your state, and the Federal Trade Commission.
+
+You may also consider contacting the credit reporting agencies directly if you wish to put in place a fraud alert or
+security freeze. A fraud alert will notify any merchant checking your credit history that you may be the victim of
+identity theft and that the merchant should take additional measures to verify the application. Contacting any one
+of the three agencies will place an alert on your file at all three. A security freeze restricts all creditor access to
+your account but might also delay any requests you might make for new accounts. Inquire with the credit reporting
+agencies for their specific procedures regarding security freezes.
+
+      •	    Equifax: 1-800-525-6285; www.equifax.com; P.O. Box 740241, Atlanta, GA 30374-0241
+      •	    Experian: 1-888-EXPERIAN (391-3742); www.experian.com; Fraud Victim Assistance Division, P.O. Box
+            9532, Allen, TX 75013
+      •	    TransUnion: 1-800-680-7289; www.transunion.com; Fraud Victim Assistance Division, P.O. Box 6790,
+            Fullerton, CA 92834-6790
+
+The Federal Trade Commission also provides information about how to avoid identity theft and what to do if you
+suspect your identity has been stolen.
+
+            The Federal Trade Commission
+            Identity Theft Clearinghouse
+            600 Pennsylvania Avenue NW
+            Washington, D.C. 20580
+            www.consumer.ftc.gov
+            1-877-ID-THEFT (877-438-4338)
+
+You may also contact us with any questions: 866-328-1984. We regret any inconvenience you may experience as a
+result of this incident.
+
+Sincerely,
+
+
+
+Lisa Daniel
+Director, Customer Support
+
+
+
+
+O6482 v.01 01.27.2016

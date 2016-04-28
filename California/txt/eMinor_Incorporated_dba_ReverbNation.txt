@@ -1,0 +1,96 @@
+                         EMAIL NOTICE TO USERS RE: PASSWORD RESET
+
+                                             September 2, 2015
+
+
+                             Important Security Notice About Your Password
+
+ReverbNation was recently contacted by law enforcement and alerted that an individual had illegally sought to
+gain unauthorized access to some of our customer’s user data. In January 2014, an individual, who has since
+been identified and charged, illegally accessed a ReverbNation vendor’s computer systems and ultimately
+gained unauthorized access to user information contained in a backup of our database.
+
+No credit card data of any kind was accessed. ReverbNation never retains your credit or debit card
+information in our database, so that information was not exposed. ReverbNation takes data security very
+seriously and we have taken steps to further secure our system against any such breaches.
+
+While no credit card data was accessed, some user information included in the database such as e-mail
+addresses and encrypted passwords, and possibly other user information users provided to us, such as names,
+addresses, phone numbers, and/or dates of birth may have been accessed.
+
+Although your password was encrypted it is possible for a person with enough computing power to guess an
+encrypted password by testing particularly weak or obvious passwords. As a precaution, we have reset your
+ReverbNation password. Please follow the instructions below to create a new account password. You should
+also change your password on any other accounts or websites which share your previous ReverbNation
+password. For additional help with password security, we also recommend password management tools like
+1Password and LastPass.
+
+How to Create a New ReverbNation Password
+
+   •    Click “Set Password” and confirm that you arrive at a www.reverbnation.com domain.
+   •   Then create a new password. Please do not reuse your existing password, or any password currently in
+       use on another website or account.
+   •   You should immediately receive a ReverbNation email notifying you of the password change.
+
+For your own security, please remember not to provide personal information in response to any electronic
+communications regarding security breaches. We also have included additional information about how to
+protect your privacy here.
+
+Thank you for your attention and we appreciate your assistance in securing your personal information. If you
+have any further questions, please contact us via e-mail us at privacy@reverbnation.com.
+
+We apologize for the inconvenience. We thank you for being part of the ReverbNation community, and we
+appreciate the continued opportunity to serve you.
+
+                                    Respectfully,
+
+                                    Michael Doernberg
+                                    Chief Executive Officer
+                                    ReverbNation
+  ADDITIONAL WEBSITE INFORMATION LINKED FROM EMAIL TO HELP PROTECT PRIVACY
+
+ReverbNation is committed to protecting your privacy. Although the security breach did not impact your
+payment card information, in an abundance of caution, we want to provide you with additional information
+below to help protect your financial and other personal records.
+
+Obtain a copy of your free credit report. You may also obtain a free copy of your credit report from each of
+the three major credit reporting bureaus once every 12 months by visiting www.annualcreditreport.com, calling
+toll-free (877) 322-8228, or by completing an Annual Credit Report Request Form and mailing it to Annual
+Credit Report Request Service, P.O. Box 105281, Atlanta, Georgia 30348. You may purchase a copy of your
+credit report by contacting one of the three major credit reporting bureaus above.
+
+Monitor your credit reports and account statements. Even if you do not find any suspicious activity on your
+initial credit reports, the Federal Trade Commission (FTC) recommends that you remain vigilant by monitoring
+your credit reports and account statements periodically. Doing so can help you spot problems and address them
+quickly. We also recommend that you place a fraud alert on your credit report. A fraud alert is free of charge
+and easy to place. You may contact toll-free any one of the three major credit bureaus listed below. As soon as
+one bureau confirms your report, the others are simultaneously notified on your behalf.
+
+       Equifax, PO Box 740256, Atlanta, GA 30374, www.equifax.com, (888) 766-0008
+       Experian, PO Box 9554, Allen, TX 75013, www.experian.com, (888) 397-3742
+       TransUnion, PO Box 2000, Chester, PA 19022-2000, www.transunion.com, (800) 680-7289
+
+You should also promptly report any fraudulent activity or any suspected incidents of identity theft to the
+appropriate law enforcement authorities, your state attorney general, and/or the FTC.
+
+Additional Resources. You can find additional information to help protect yourself from identity theft,
+including information about fraud alerts and security freezes, by contacting one of the three major credit
+bureaus listed above, or by visiting the FTC’s website at www.ftc.gov/idtheft, by calling 1-877-ID-THEFT (1-
+877-438-4338), or by writing to the Federal Trade Commission, 600 Pennsylvania Ave., NW, Washington, DC
+20580.
+
+   •   Maryland residents may wish to review information provided by the Maryland Attorney General on
+       how to avoid identity theft at http://www.oag.state.md.us/idtheft, or by sending an e-mail to
+       idtheft@oag.state.md.us, by calling (888) 743-0023, or by writing to the Maryland Office of the
+       Attorney General, Consumer Protection Division, 200 St. Paul Place, 16th Floor, Baltimore, MD 21202.
+
+   •   North Carolina residents may wish to review information provided by the North Carolina Attorney
+       General at http://www.ncdoj.gov, by calling (877) 566-7226, or by writing to the North Carolina Office
+       of the Attorney General, Consumer Protection Division, 9001 Mail Service Center, Raleigh, NC 27699.
+
+   •   Wisconsin residents may submit a written request to ReverbNation to learn the personal information
+       that may have been acquired.
+
+If you have any questions or if you would like additional information regarding this cyberattack you may
+contact us e-mail us at privacy@reverbnation.com, call (877) 202-8667, Monday through Friday, 8:30 am –
+5:00 pm EST, or write us at P.O. Box 2086, Durham, NC 27702.

@@ -1,0 +1,92 @@
+February 21, 2012
+
+     81678ISN-0123456 T-
+     SAMPLE A SAMPLE
+     123 ANY ST
+     APT ABC
+     ANYTOWN, PA 12345
+     FATTTTDDADTFFAADFFDTTATTTDTFDFATTFDDFAATTAFFAAFTDAFTTFTDDAADTAAAA
+
+
+
+
+Dear Sample A Company:
+For almost 14 years, Trident University has been serving the needs of a highly-motivated adult
+learner student population, with diverse professional backgrounds and experiences, including many
+current and former members of the military family. As an online university, we are committed to
+securing the privacy and confidentiality of the personal information provided to us as well as taking
+appropriate steps when faced with a real or potential security breach. Regrettably, we are writing to
+inform you of an unidentified persons attempt to gain access to student account log-in information.
+On November 29, 2011, we detected an unsuccessful attempt by an unidentified person to access one
+of our databases containing username and passwords for approximately 81,000 current and former
+student accounts. No other information was contained in that database. Trident University
+permanently removed the database from the network, administratively reset all inactive student
+account passwords, and engaged an external forensic team to assess the nature of the incident.
+Our investigation did not find any evidence that someone successfully obtained access to the
+database. Based on a review of the available log-in history for November and December 2011, we
+have found no unusual log-in activity to indicate that student accounts were inappropriately accessed.
+However, we want to make you aware of this incident because if your student account was accessed,
+that account contained your name, address, and date of birth. As a result of this incident, we are
+implementing a new firewall as a complement to our existing firewalls.
+Again, there is no evidence that any students information was accessed by an unauthorized person,
+and we are not aware of any reports that student account information has been misused as a result of
+the incident. Additionally, we have arranged for you to enroll, at no cost to you, in an online
+three-bureau credit monitoring service for one (1) year provided by TransUnion, one of the three
+major nationwide credit reporting companies. To enroll in this free service, go to the TransUnion
+Monitoring website at www.transunionmonitoring.com and in the space referenced as Activation
+Code, enter the following 12-letter Activation Code and follow the simple steps to receive your
+services online within minutes.
+
+                                                              (OVER PLEASE)
+                                                                                           81837-ISN-AON
+If you do not have access to the Internet and wish to enroll in a similar offline, paper based,
+3-bureau credit monitoring service, please call the TransUnion Fraud Response Service hotline at
+                 Monday through Friday, 9:00 a.m. to 7:00 p.m. Eastern time (closed on all U.S.
+observed holidays). Please enter or say the following six-digit telephone pass code             when
+prompted. You can sign up for the online or offline credit monitoring service anytime between now
+and May 31, 2012. Unfortunately, due to privacy laws, we cannot register you directly. Please note
+that credit monitoring services might not be available for individuals without a valid Social Security
+number.
+Once you are enrolled, you will be able to obtain one year of unlimited access to your TransUnion
+credit report and credit score. The daily 3-bureau credit monitoring service will notify you if there are
+any critical changes to your credit files at TransUnion, Experian, and Equifax, including fraudulent
+activity, new inquiries, new accounts, new public record, late payments, change of address and more.
+The service also includes up to $25,000 in identity theft insurance with no deductible. (Certain policy
+limitations and exclusions may apply.)
+Even if you choose not to take advantage of this free credit monitoring service, we recommend that
+you remain vigilant to the possibility of fraud and identity theft by reviewing your credit report and
+credit card, bank, and other financial statements for any unauthorized activity. You may also obtain
+a copy of your credit report once every 12 months, free of charge, from each of the three nationwide
+credit reporting companies below. To order your annual free report please visit
+www.annualcreditreport.com or call toll free at 1-877-322-8228. Contact information for the three
+nationwide credit reporting companies is as follows:
+        Equifax                 Experian               TransUnion
+        PO Box 740241           PO Box 9554            PO Box 6790
+        Atlanta, GA 30374       Allen, TX 75013        Fullerton, CA 92834
+        www.equifax.com         www.experian.com       www.transunion.com
+        1-800-525-6285          1-888-397-3742         1-800-680-7289
+
+If you believe you are the victim of identity theft or have reason to believe your personal information
+has been misused, you should immediately contact the Federal Trade Commission and/or the attorney
+generals office in your home state. Contact information for the Federal Trade Commission is as
+follows:
+        Federal Trade Commission
+        600 Pennsylvania Avenue, NW
+        Washington, DC 20580
+        www.ftc.gov
+        1-877-438-4338
+You can obtain information from these sources about steps an individual can take to avoid identity
+theft as well as information about fraud alerts and security freezes. You should also contact your
+local law enforcement authorities and file a police report. Obtain a copy of the police report in case
+you are asked to provide copies to creditors to correct your records.
+                                       (NEXT PAGE PLEASE)
+We want to assure you that we are taking this matter very seriously and have conducted a
+comprehensive internal review of our systems and procedures to further secure our network and
+individual systems against emerging malware threats. If you have any questions, please call
+                 Monday through Friday, 9:00 a.m. to 7:00 p.m. Eastern time and enter or say the
+following six-digit telephone pass code     when prompted.
+Sincerely,
+
+
+Lucille H. Sansing, Ph.D.
+President and Chief Executive Officer

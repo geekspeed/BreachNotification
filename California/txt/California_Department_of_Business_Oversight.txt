@@ -1,0 +1,81 @@
+STATE OF CALIFORNIA – BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                                                                 EDMUND G. BROWN JR., Governor
+
+DEPARTMENT OF BUSINESS OVERSIGHT
+ Ensuring a Fair and Secure Financial Services Marketplace for all Californians
+
+
+
+
+Jan Lynn Owen
+Commissioner of Business Oversight
+
+
+          March 23, 2015
+
+          Name
+          Title
+          Address
+
+          Re:        Data Breach Notification
+
+          Dear Mr./Ms. Last Name:
+
+          The California Public Records Act (PRA) requires the Department of Business Oversight
+          (DBO) to provide the public copies of the non-confidential portions of our electronic
+          licensing records upon request. To process these requests, DBO utilizes the records
+          contained in the Financial Industry Regulatory Authority’s (FINRA) Central Registration
+          Depository (CRD). Fields clearly designated as containing personal identifying information
+          within the FINRA CRD are then redacted by DBO prior to its release. However, despite our
+          efforts, DBO recently learned that, pursuant to one or more PRA requests, the personal
+          identifying information of a number of registered investment advisers and broker-dealers
+          was inadvertently disclosed to persons not authorized to receive such information.
+
+          Our initial investigation revealed that your Social Security number was disclosed in a field
+          entitled “Docket/Case #.” Since a docket or case number traditionally are not based on an
+          individual’s Social Security number, we did not redact the contents of this field.
+
+          To protect yourself from the possibility of identity theft, we recommend that you to place a
+          fraud alert on your credit files by following each of the privacy protection steps outlined in
+          the enclosure provided with this letter.
+
+          For more information about protecting yourself from identity theft, you may visit the
+          website of the Privacy Enforcement and Protection Unit of the California Department of
+          Justice at www.privacy.ca.gov.
+
+          While we continue to investigate this matter, we have placed an immediate hold on
+          providing the public with copies of our electronic licensing records until further notice. In
+          addition, we are working with FINRA and our own staff to prevent any further inadvertent
+          disclosures of personal identifying information.
+
+
+      1515 K Street, Suite 200              One Sansome Street, Suite 600                320 West 4th Street, Suite 750          1350 Front Street, Room 2034
+    Sacramento, CA 95814-4052               San Francisco, CA 94104-4428                 Los Angeles, CA 90013-2344               San Diego, CA 92101-3697
+         (916) 445-7205                             (415) 972-8565                             (213) 576-7500                          (619) 525-4233
+
+            45 Fremont Street, Suite 1700                              300 S. Spring Street, Suite 15513                  7575 Metropolitan Drive, Suite 108
+              San Francisco, CA 94105                                        Los Angeles, CA 90013                              San Diego, CA 92108
+                  (415) 263-8500                                                (213) 897-2085                                    (619) 682-7227
+                                                                  www.dbo.ca.gov  1-866-275-2677
+Recipient
+March 23, 2015
+Page 2
+
+
+We deeply regret any hardship you suffer because of this incident. If you would like more
+information about this notice, please contact DBO’s Consumer Services Office at 1-866-275-
+2677.
+
+Sincerely,
+
+JAN LYNN OWEN
+Commissioner
+Department of Business Oversight
+
+       By
+
+
+             NICKOLAY KOTYRLO
+             Deputy Commissioner
+             Broker Dealer Investment Adviser Unit
+
+Enclosure

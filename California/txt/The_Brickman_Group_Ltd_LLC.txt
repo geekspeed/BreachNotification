@@ -1,0 +1,359 @@
+<<MemberFirstName>> <<MemberLastName>>                                               <<Date>> (Format: Month Day, Year)
+<<Address1>>
+<<Address2>>
+<<City>>, <<State>> <<Zip Code>>
+
+
+
+
+NOTICE OF DATA BREACH
+Dear <<MemberFirstName>> <<MemberLastName>>,
+On behalf of BrightView, I am writing to inform you about an incident involving your personal information. We
+have identified you as one of the individuals whose personal information was shared and may be at risk and are
+providing you with this direct notification regarding the incident. We take the security of our team members’ personal
+information very seriously and deeply regret that this incident occurred.
+As you are likely aware, on February 4, 2016, we became aware of a potential security incident where the personal
+information of our legacy Brickman team members was inadvertently sent to an unauthorized party. On February 5,
+we took steps to provide all potentially impacted team members with initial notification of the incident either through
+email or by having our branch managers distribute the notice directly to team members or post it in a conspicuous
+place at branch locations.
+WHAT HAPPENED
+On February 3, 2016, an unknown, unauthorized person sent a phishing email requesting that they be provided with
+specific personal information of our team members (e.g., Social Security number and date of birth). A document that
+included the personal information of all active team members on our legacy Brickman payroll system was sent to the
+unknown party in response. This incident was not the result of an intrusion into our computer systems or network.
+BrightView continues to actively investigate the matter.
+WHAT INFORMATION WAS INVOLVED
+Based on the facts known to the company at this time, the personal information transmitted to the unauthorized party
+included your first, middle and last name, job title and division, employee ID, status, hourly rate, last date paid, annual
+salary, as well as home address, date of birth, and Social Security number. None of your banking information
+(such as routing numbers), credit card data or other financial account information was impacted in this
+incident nor was information regarding spouses and/or dependents.
+WHAT WE ARE DOING
+We have arranged for Kroll to provide identity monitoring services (including credit monitoring) at no cost to you for
+one year. Kroll is a global leader in risk mitigation and response, and their team has extensive experience helping
+people who have sustained an unintentional exposure of confidential data. Your identity protection services include
+Credit Monitoring, a Current Credit Report, Web Watcher, Public Persona, Quick Cash Scan, $1 Million Identity Theft
+Insurance, Identity Consultation, and Identity Restoration. Additional information describing your services is included
+with this letter. Please note you must complete the enrollment process by no later than May 11, 2016.
+
+ Visit www.brightview.kroll.com to enroll and take advantage of your identity monitoring services.
+To receive credit services by mail instead of online, please call 1-855-781-0034. Should you have any questions
+about signing up for these services please visit www.brightview.kroll.com, or email your questions to InfoSecurity@
+brickmanvalleycrest.com.
+We have also advised the three major U.S. credit reporting agencies about this incident.
+                                                                                                                    ??????-0216
+WHAT YOU CAN DO
+We encourage you to be diligent in watching for any unauthorized activity regarding your credit and financial
+accounts. In addition, we recommend that you be on alert for phishing emails, which are fraudulent communications
+designed to encourage you to turn over personal or sensitive information. Be cautious if you receive any email or
+communication that asks you to provide your own personal information or the personal information of our team
+members. Should you have any questions regarding the legitimacy of a communication, do not hesitate to email our
+IT Help Desk at helpdesk@brickmangroup.com with your concerns.
+We are also providing additional information in the attached Reference Guide about steps you can take to monitor
+and protect against unauthorized use of your personal information, including how to set up a security freeze. A
+security freeze is intended to prevent credit, loans and services from being approved in your name without your
+consent; however, using a security freeze may delay your ability to obtain credit.
+FOR MORE INFORMATION
+If you have any other questions regarding this incident or if you desire further information or assistance we have set
+up the following support. For any questions regarding identity monitoring services please call our dedicated call
+center representatives at 1-855-781-0034 Monday through Friday from 8:00 a.m. to 5:00 p.m. Central Time. For any
+other questions that you may have, please email communications@brickmanvalleycrest.com.
+While incidents of this kind have unfortunately become more common in the marketplace, we want you to know that
+we are working to minimize any inconvenience this incident may cause you. BrightView takes the privacy of our team
+members very seriously. As part of our remediation efforts, we are reviewing our data security controls and will take
+measures to enhance our controls as necessary. We will also provide our team members with enhanced training
+regarding phishing. We greatly appreciate your understanding.
+Sincerely,
+Eric Robinson
+Chief Human Resources Officer
+                             Reference Guide - U.S. State Notification Requirements
+For additional information, please call our dedicated call center representatives at 1-855-781-0034 Monday through
+Friday from 8:00 a.m. to 5:00 p.m. Central Time.
+For residents of California, Illinois, Maryland, Michigan, Missouri, North Carolina, Oregon, Virginia,
+Washington, and West Virginia:
+It is recommended by state law that you remain vigilant for incidents of fraud and identity theft by reviewing credit
+card account statements and monitoring your credit report for unauthorized activity. You may obtain a copy of your
+credit report, free of charge, whether or not you suspect any unauthorized activity on your account by contacting
+any one or more of the national consumer reporting agencies listed below. They can also provide you with additional
+information about fraud alerts and security freezes.
+Equifax	                         Experian	        TransUnion
+P.O. Box 740241	                 P.O. Box 2104	   P.O. Box 2000
+Atlanta, GA 30348	               Allen, TX 75013	 Chester, PA 19016
+1-800-685-1111	                  1-888-397-3742 	 1-800-916-8800
+www.equifax.com	                 www.experian.com	www.transunion.com
+For residents of Massachusetts, Illinois and West Virginia:
+Information Regarding Placement of a Security Freeze on your Credit File
+A security freeze is intended to prevent credit, loans and services from being approved in your name without your
+consent; however, using a security freeze may delay your ability to obtain credit.
+To place a security freeze on your credit report, you need to send a request to a consumer reporting agency by
+certified mail, overnight mail, or regular stamped mail. The following information must be included when requesting
+a security freeze (note that if you are requesting a credit report for your spouse, this information must be provided
+for him/her as well): (1) full name, with middle initial and any suffixes; (2) Social Security number; (3) date of birth;
+(4) current address and any previous addresses for the past five years; and (5) any applicable incident report or
+complaint with a law enforcement agency or the Registry of Motor Vehicles. The request must also include a copy
+of a government-issued identification card and a copy of a recent utility bill or bank or istatement. It is essential that
+each copy be legible, display your name and current mailing address, and the date of issue.
+Under Massachusetts law, we are required to inform you that if you have been a victim of identity theft, and you
+provide the credit reporting agency with a valid police report, it cannot charge you to place, lift, or remove a security
+freeze. In all other cases, a credit reporting agency may charge you up to $5.00 each to place, temporarily lift, or
+permanently remove a security freeze.							
+Equifax Security Freeze	         Experian Security Freeze	 TransUnion (FVAD)
+P.O. Box 105788	                 P.O. Box 9554	            P.O. Box 2000
+Atlanta, GA 30348	               Allen, TX 75013	          Chester, PA 19016
+www.equifax.com	                 www.experian.com	www.transunion.com
+For residents of Oregon:
+State laws advise you to report any suspected identity theft to law enforcement, as well as the Federal Trade
+Commission.
+For residents of California, Illinois, Maryland and North Carolina:
+State laws require us to tell you that you can obtain information from the Federal Trade Commission about steps
+you can take to avoid identity theft (including how to place a fraud alert or security freeze). Your state also may offer
+guidance about how you can prevent or respond to identity theft. In particular, you may report instances of identity
+theft to your state’s Attorney General or to your local police or sheriff’s department. Contact information for some
+states appears below.
+MD Attorney General’s Office	 NC Attorney General’s Office	 Federal Trade Commission
+Consumer Protection Division	 Consumer Protection Division	 Consumer Response Center
+200 St. Paul Place 9001	      Mail Service Center	          600 Pennsylvania Avenue, NW
+Baltimore, MD 21202	          Raleigh, NC 27699-9001	       Washington, DC 20580
+1-888-743-0023	               1-877-566-7226	               1-877-IDTHEFT (438-4338)
+www.oag.state.md.us	http://www.ncdoj.gov	 www.ftc.gov/bcp/edu/microsites/idtheft
+Director of Consumer Protection Division	                                 California Attorney General’s Office
+Iowa Attorney General	                                                    California Department of Justice
+1305 E. Walnut Street	                                                    Attn: Office of Privacy Protection
+Des Moines, IA 50319	                                                     P.O. Box 944255
+Telephone: 515-281-5926	                                                  Sacramento, CA 94244-2550
+www.iowaattorneygeneral.gov	                                              Telephone: (916) 322-3360
+	                                                                         Toll-free in California: (800) 952-5225
+For residents of Massachusetts: You have a right to obtain a police report relating to this incident. If you are the
+victim of identity theft, you also have the right to file a police report and obtain a copy of it.
+For residents of West Virginia: You may call us at 240-751-9345 to learn what types of information, if any, we
+maintain about you and other individuals.
+For residents of California: This letter has not been delayed by a law enforcement investigation.
+
+
+
+
+TAKE ADVANTAGE OF YOUR IDENTITY MONITORING SERVICES
+You’ve been provided with access to the following services1 from Kroll:
+
+Triple Bureau Credit Monitoring and a TransUnion Credit Report.
+You’ll receive alerts when there are changes to your credit data—for instance, when a new line of credit is applied for
+in your name. If you do not recognize the activity, you’ll have the option to call a Kroll investigator, who can help you
+determine if it’s an indicator of identity theft.
+
+Web Watcher
+Web Watcher monitors internet sites where criminals buy, sell, and trade personal information. You’ll be promptly
+notified if evidence of your identity information being traded or sold is discovered.
+
+Public Persona
+Public Persona monitors public record databases for names, aliases, and addresses that are associated with your
+Social Security number. If information is found, an alert email is sent.
+
+Quick Cash Scan
+Quick Cash Scan monitors thousands of short-term and cash-advance loan sources. You’ll receive an alert when a
+loan is reported, and you can call a Kroll investigator for more information.
+
+$1 Million Identity Theft Insurance
+Reimburses you for out-of-pocket expenses totaling up to $1 million in legal costs for any one stolen identity event.
+All coverage is subject to the conditions and exclusions in the policy.
+
+Identity Consultation
+You have unlimited access to consultation with a dedicated licensed investigator at Kroll. Support includes showing
+you the most effective ways to protect your identity, explaining your rights and protections under the law, assistance
+with fraud alerts, and interpreting how personal information is accessed and used, including investigating suspicious
+activity that could be tied to an identity theft event.
+
+Identity Restoration
+If you become a victim of identity theft, an experienced licensed investigator will work on your behalf to resolve
+related issues. You will have access to a dedicated investigator who understands your issues and will do most of the
+work for you. Your investigator can dig deep to uncover all aspects of the identity theft, and then work to resolve it.
+1
+    Kroll’s activation website is only compatible with the current version or one version earlier of Internet Explorer, Chrome, Firefox, and Safari.
+	 To receive credit services, you must be over the age of 18 and have established credit in the U.S., have a Social Security number in your name,
+  and have a U.S. residential address associated with your credit file.
+<<MemberFirstName>> <<MemberLastName>>                                             <<Date>> (Format: Month Day, Year)
+<<Address1>>
+<<Address2>>
+<<City>>, <<State>> <<Zip Code>>
+
+
+
+
+NOTIFICACIÓN DE FILTRACIÓN DE DATOS
+Estimado(a) <<MemberFirstName>> <<MemberLastName>>,
+En nombre de BrightView, le escribo para informarle acerca de un incidente que involucró su información personal.
+Lo hemos identificado como una de las personas cuya información personal fue compartida y puede estar a riesgo.
+Le proporcionamos esta notificación directa con respecto al incidente. Tomamos muy en serio la seguridad de la
+información personal de nuestros miembros del equipo y lamentamos profundamente que este incidente haya ocurrido.
+Como probablemente ya es de su conocimiento, el 4 de febrero de 2016, nos enteramos de un posible incidente
+de seguridad en el que se envió inadvertidamente información personal de nuestros miembros del equipo legados
+de Brickman a una parte no autorizada. El 5 de febrero, tomamos medidas para brindarles a todos los miembros
+del equipo afectados una notificación sobre el incidente por correo electrónico y también por medio de nuestros
+gerentes de sucursales para distribuir la notificación directamente a los miembros del equipo o para publicarla en un
+lugar conspicuo en las sucursales.
+¿QUÉ OCURRIÓ?
+El 3 de febrero de 2016, una persona desconocida y no autorizada envió un fraudulento correo electrónico de
+suplantación de identidad (phishing) solicitando que se les proporcionara información personal específica sobre
+nuestros miembros del equipo (p. ej., número de seguro social y fecha de nacimiento). Todos los miembros del
+equipo activos en el sistema de sueldos legado de Brickman. Este incidente no fue el resultado de una intrusión en
+nuestros sistemas de computación o en nuestra red. BrightView sigue investigando activamente el asunto.
+¿QUÉ INFORMACIÓN ESTUVO INVOLUCRADA?
+En base a los hechos que conoce la compañía en este momento, la información personal transmitida a la parte
+no autorizada incluía su nombre, segundo nombre y apellido, el cargo y la división, la identificación del empleado,
+condición, tarifa por hora, última fecha de pago, salario anual, así como el domicilio particular, la fecha de nacimiento
+y el número de seguro social. Ninguna de su información bancaria (por ejemplo, números de ruta), datos de
+tarjeta de crédito ni otra información de cuentas financieras se vieron afectados por este incidente tampoco
+la información sobre cónyuges y/o dependientes.
+¿QUÉ ESTAMOS HACIENDO?
+Hemos coordinado que la compañía Kroll le proporcione servicios de monitoreo de identidad (incluyendo el
+seguimiento crediticio) sin ningún costo durante un año. Kroll es un líder global en la mitigación y respuesta ante
+incidentes, y su equipo tiene amplia experiencia ayudando a las personas que han sufrido una exposición accidental
+de datos confidenciales. Sus servicios de protección de identidad incluyen el seguimiento crediticio, un informe
+crediticio actualizado, Web Watcher (vigilante web), Public Persona (personaje público), Quick Cash Scan (escaneo
+de efectivo rápido), seguro contra el robo de identidad valorado en un millón de dollares, consultoría de identidad
+y restablecimiento de identidad. En la carta presente se incluye información adicional que describe sus servicios.
+Tenga en cuenta que debe completar el proceso de inscripción antes de Mayo 11, 2016.
+
+ Visite www.brightview.kroll.com para inscribirse y tomar ventaja de sus servicios de seguimiento de la identidad.
+Para recibir servicios crediticios por correo en lugar de por medio de en línea, llame al 1-855-781-0034. Si tiene
+alguna pregunta acerca de inscribirse para estos servicios, visite www.brightview.kroll.com, o envíe sus preguntas
+por correo electrónico a InfoSecurity@brickmanvalleycrest.com.
+También le hemos informado a las tres agencias de informes crediticios de los EE. UU. acerca de este incidente.
+¿QUÉ PUEDE HACER?
+Le recomendamos prestar atención diligente a cualquier actividad no autorizada en sus cuentas crediticias y
+financieras. Por otro lado, recomendamos que esté alerta de los correos electrónicos que puedan de suplantación
+de identidad (phishing), los cuales son comunicaciones fraudulentas diseñadas para incitarle a que usted provea
+información personal o confidencial. Tenga cuidado si recibe cualquier correo electrónico o comunicación que le
+pida proporcionar su información personal o la información personal de nuestros miembros del equipo. Si tiene
+alguna pregunta sobre la legitimidad de una comunicación, no dude en enviarle un correo electrónico a nuestro
+Centro de Servicio de Tecnología a helpdesk@brickmangroup.com con sus inquietudes.
+También le estamos proporcionando información adicional en la Guía de Consulta adjunta a esta carta para
+informarle acerca de los pasos que puede tomar para seguir y proteger contra el uso no autorizado de su
+información personal, incluyendo cómo establecer una congelación de seguridad. Una congelación de seguridad
+impide que se aprueben créditos, préstamos y servicios en su nombre sin su consentimiento; no obstante, el uso de
+una congelación de seguridad puede demorar su propia capacidad de obtener un crédito.
+INFORMACIÓN ADICIONAL
+Si tiene alguna otra pregunta con respecto a este incidente o si desea información o asistencia adicional hemos
+establecido la asistencia a continuación. Para alguna pregunta sobre los servicios de monitoreo de identidad, llame
+a los representantes dedicados del centro de llamadas al 1-855-781-0034 de lunes a viernes, desde las 8:00 a. m.
+hasta las 5:00 p. m., hora del Centro de los EE. UU. Para cualquier otra pregunta que usted tenga por favor envié un
+correo electrónico a communications@brickmanvalleycrest.com.
+Desafortunadamente los incidentes de este tipo se han vuelto cada vez más comunes en el mercado, pero queremos
+informarle que estamos trabajando para minimizar cualquier inconveniencia que pueda ocasionarle este incidente.
+BrightView toma muy en serio la privacidad de nuestros miembros del equipo. Como parte de nuestras medidas
+correctivas, estamos revisando nuestros controles de seguridad de datos y tomaremos medidas para mejorar
+nuestros controles conforme sea necesario. También proporcionaremos a nuestros miembros del equipo capacitación
+mejorada con respecto a la suplantación de identidad (phishing). Agradecemos inmensamente su comprensión.
+Atentamente,
+Eric Robinson
+Director de Recursos Humanos
+                  Guía de consulta - Requisitos de notificación en los estados de EE. UU.
+Para recibir información adicional, llame a los representantes de nuestro centro de llamadas dedicado al 1-855-781-0034
+de lunes a viernes, desde las 8:00 a. m. hasta las 5:00 p. m., hora del centro de los EE. UU.
+Para los residentes de California, Illinois, Maryland, Michigan, Misuri, Carolina del Norte, Oregón, Virginia,
+Washington y Virginia Occidental:
+Se recomienda por ley estatal que permanezca alerta a los incidentes de fraude y robo de identidad revisando los
+estados de cuenta de tarjetas de crédito y haciendo seguimiento a su informe crediticio para detectar cualquier
+actividad no autorizada. Puede obtener una copia de su informe crediticio, sin ningún costo, ya sea o no que
+sospeche alguna actividad no autorizada en su cuenta, comunicándose con cualquiera de las agencias nacionales
+de informes del consumidor señaladas a continuación. Ellas también pueden proporcionarle información adicional
+sobre alertas de fraude y congelaciones de seguridad.
+Equifax	                        Experian	        TransUnion
+P.O. Box 740241	                P.O. Box 2104	   P.O. Box 2000
+Atlanta, GA 30348	              Allen, TX 75013	 Chester, PA 19016
+1-800-685-1111	                 1-888-397-3742 	 1-800-916-8800
+www.equifax.com	                www.experian.com	www.transunion.com
+Para los residentes de Massachusetts, Illinois y Virginia Occidental:
+Información sobre la implementación de una congelación de seguridad en su archivo crediticio
+Una congelación de seguridad pretende impedir que se aprueben créditos, préstamos y servicios en su nombre sin su
+consentimiento; no obstante, el uso de una congelación de seguridad puede demorar su capacidad de obtener un crédito.
+Para implementar una congelación de seguridad en su archivo crediticio, debe enviarle una solicitud a una agencia
+de informes del consumidor por correo certificado, correo urgente con entrega en veinticuatro horas o correo
+franqueado habitual. Debe incluirse la siguiente información al solicitar una congelación de seguridad (tenga
+presente que si solicita un informe crediticio para su cónyuge, también debe proporcionarse esta información para
+él o ella): (1) nombre completo, con la inicial del segundo nombre y cualquier sufijo; (2) número de seguro social; (3)
+fecha de nacimiento; (4) dirección actual y cualquier dirección previa durante los últimos cinco años; y (5) cualquier
+informe de incidente aplicable o reclamación ante una agencia del cumplimiento de la ley o el Registro de Vehículos
+Automotores. La solicitud también debe incluir una copia de una tarjeta de identificación emitida por el gobierno
+y la copia reciente de una factura reciente de servicios públicos o un estado de cuenta bancario o del seguro. Es
+esencial que cada copia sea legible, muestre su nombre y dirección postal actual, y la fecha de emisión.
+Conforme a la ley de Massachusetts, se nos exige informarle que si ha sido víctima del robo de identidad, y le
+proporciona a una agencia de informes crediticios una denuncia policial válida, no puede cobrarle para implementar,
+levantar o eliminar una congelación de seguridad. En todos los demás casos, una agencia de informes crediticios
+puede cobrarle hasta 5,00 USD cada una por implementar, levantar o eliminar una congelación de seguridad.	
+Congelación de seguridad de Equifax	 Congelación de seguridad de Experian	 TransUnion (FVAD)
+P.O. Box 105788	                     P.O. Box 9554	                        P.O. Box 2000
+Atlanta, GA 30348	                   Allen, TX 75013	                      Chester, PA 19016
+www.equifax.com	www.experian.com	 www.transunion.com
+Para los residentes de Oregón:
+Las leyes estatales le piden informar cualquier presunto robo de identidad a las autoridades, así como a la Comisión
+Federal de Comercio (Federal Trade Commission, FTC).
+Para los residentes de California, Illinois, Maryland y Carolina del Norte:
+Las leyes estatales nos exigen informarle que puede obtener información de la Comisión Federal de Comercio acerca
+de los pasos que puede tomar para evitar el robo de identidad (incluyendo cómo implementar una alerta de fraude
+o una congelación de seguridad). Su estado también puede brindar orientación sobre cómo prevenir o responder al
+robo de identidad. En particular, puede informar los casos de robo de identidad al Fiscal General de su estado o a su
+departamento de policía o del alguacil local. A continuación se presenta la información de contacto de algunos estados.
+Oficina del Fiscal General de MD	     Oficina del Fiscal General de NC	     Comisión Federal de Comercio
+División de Protección al Consumidor	 División de Protección al Consumidor	 Centro de Respuesta al Consumidor
+200 St. Paul Place 9001	              Centro de Servicio Postal	            600 Pennsylvania Avenue, NW
+Baltimore, MD 21202	                  Raleigh, NC 27699-9001	               Washington, DC 20580
+1-888-743-0023	                       1-877-566-7226	                       1-877-IDTHEFT (438-4338)
+www.oag.state.md.us	http://www.ncdoj.gov	www.ftc.gov/bcp/edu/microsites/idtheft
+Director de la División de Protección al Consumidor	                                   Oficina del Fiscal General de California
+Fiscal General de Iowa	                                                                Departamento de Justicia de California
+1305 E. Walnut Street	                                                                 A la atención de: Office of Privacy Protection
+Des Moines, IA 50319	                                                                  (Oficina de Protección de la Privacidad)
+Teléfono: 515-281-5926	                                                                P.O. Box 944255
+www.iowaattorneygeneral.gov	                                                           Sacramento, CA 94244-2550
+	                                                                                      Teléfono: (916) 322-3360
+	                                                                                      Teléfono gratuito en California: (800) 952-5225
+Para los residentes de Massachusetts: Tiene el derecho a obtener una denuncia policial con respecto a este
+incidente. Si es la víctima del robo de identidad, también tiene el derecho a presentar una denuncia policial y obtener
+una copia de la misma.
+Para los residentes de Virginia Occidental: Puede llamarnos al 240-751-9345 para enterarse de los tipos de
+información, si la hubiera, que mantenemos acerca de usted y otros individuos.
+Para los residentes de California: Esta carta no ha sido demorada por una investigación de las autoridades.
+
+
+
+
+APROVECHE LOS SERVICIOS DE MONITOREO DE IDENTIDAD
+Usted ha sido proveído acceso a los siguientes servicios1 prestados por la empresa Kroll:
+
+Monitoreo crediticio a cargo de tres agencias y un informe de crédito confeccionado por TransUnion.
+Recibirá alertas cuando se introduzcan cambios en los datos de crédito; por ejemplo, cuando se solicita una nueva línea de crédito a
+su nombre. Si usted no reconoce la actividad, tendrá la opción de llamar a un investigador de Kroll, quien puede ayudar a determinar
+si se trata de un indicio de robo de identidad.
+
+Web Watcher
+Web Watcher monitorea sitios de Internet donde los delincuentes compran, venden y trafican datos personales. Se le notificará de
+inmediato si se detecta que sus datos personales están siendo comercializados o vendidos.
+
+Public Persona
+Public Persona controla las bases de datos de registros públicos para verificar los nombres, alias y direcciones que están asociados
+con su número de Seguro Social. Si se encuentra información, se envía un alerta por correo electrónico.
+
+Quick Cash Scan
+Quick Cash Scan controla miles de fuentes que otorgan préstamos a corto plazo y anticipos de efectivo. Recibirá un alerta cuando
+se informa un préstamo, y podrá comunicarse con un investigador de Kroll para solicitar más información.
+
+Seguro por robo de identidad de US$ 1.000.000
+Se le reembolsan gastos varios por un total de hasta US$ 1 millón para cubrir costos legales en las que incurra debido a cualquier
+evento de robo de identidad. Toda la cobertura está sujeta a las condiciones y exclusiones establecidas en la póliza.
+
+Consultas sobre identidad
+Puede hacer un ilimitado número de consultas a un investigador especialista autorizado de Kroll. Este servicio incluye: indicarle las
+maneras más eficaces para proteger su identidad; explicarle sus derechos y protecciones previstos por la Ley; brindar asistencia
+con los alertas de fraude; e interpretar la manera de acceder y utilizar los datos personales, incluso la investigación de actividades
+sospechosas que podrían atribuirse a un evento el robo de identidad.
+
+Recuperación de identidad
+Si usted es víctima de robo de identidad, un investigador experimentado autorizado se ocupará del tema para resolver los problemas
+relacionados. Contará con el apoyo de un investigador especialista que entiende sus problemas y va a hacer la mayor parte del
+trabajo por usted. El investigador puede ahondar en el caso para descubrir todos los aspectos del robo de identidad y, luego, buscar
+la forma de resolverlo.
+1
+    El sitio web de activación de Kroll solo es compatible con la versión actual o una versión anterior de Internet Explorer, Chrome, Firefox y Safari.
+	 Para recibir los servicios de crédito, usted debe ser mayor de 18 años, tener un crédito en los EE.UU., tener un número de Seguro Social a su nombre,
+    y establecer un domicilio particular en los Estados Unidos asociado con su expediente de crédito.

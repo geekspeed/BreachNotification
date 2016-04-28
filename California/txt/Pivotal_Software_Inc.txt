@@ -1,0 +1,170 @@
+CONFIDENTIAL
+
+                                   PIVOTAL SOFTWARE, INC.
+                                   NOTICE OF DATA BREACH
+
+                                             March 31, 2016
+
+
+[First_Name] [Last_Name]
+[Address_Line_1]
+[Address_Line_2]
+[City], [State] [Zip]
+
+
+We are following up with you about the recent incident at Pivotal that involved your personal
+information.
+
+WHAT HAPPENED. As we stated earlier, Pivotal was recently involved in an e-mail “phishing” scam
+targeting personal information of Pivotal employees. On March 22, 2016, an unknown third party sent a
+fraudulent email message impersonating CEO Rob Mee to an employee requesting certain information
+about Pivotal employees. The employee responded to the request, mistakenly believing that it came from
+Mr. Mee.
+
+WHAT INFORMATION WAS INVOLVED. We began investigating the incident as soon as we
+learned of it. We have determined that the personal information involved in this incident included a copy
+of your 2015 Form W-2, which includes your name, address, 2015 income information and Social
+Security Number or Individual Taxpayer Identification Number.
+
+WHAT WE ARE DOING. Pivotal immediately took steps to investigate the incident, to track down
+where the information may have gone and to attempt to prevent further access to it. We notified law
+enforcement and contacted the IRS, and we are continuing to investigate the matter.
+
+WHAT YOU CAN DO. We recommend that you review the information provided in our earlier email
+and below for some steps that you may take to protect yourself against potential misuse of your personal
+information.
+
+AllClear ID
+As an added precaution, we have arranged to have AllClear ID protect your identity for 3 years at no cost
+to you. The following identity protection services start on the date of this notice and you can use them at
+any time during the next 3 years.
+
+AllClear SECURE: The team at AllClear ID is ready and standing by if you need identity repair
+assistance. This service is automatically available to you with no enrollment required. If a problem arises,
+simply call 1-855-731-6020 and a dedicated investigator will help recover financial losses, restore your
+credit and make sure your identity is returned to its proper condition.
+
+AllClear PRO: This service offers additional layers of protection including credit monitoring and a $1
+million identity theft insurance policy. To use the PRO service, you will need to provide your personal
+CONFIDENTIAL
+NON-MA
+CONFIDENTIAL
+
+information to AllClear ID. You may sign up online at enroll.allclearid.com or by phone by calling 1-855-
+731-6020 using the following redemption code: {RedemptionCode}.
+
+Please note: Additional steps may be required by you in order to activate your phone alerts and
+monitoring options. If you need an additional redemption code to register your spouse or partner for the
+AllClear ID services, please email W2@pivotal.io to request one.
+
+You should remain vigilant for incidents of fraud and identity theft, including by regularly reviewing your
+account statements and monitoring free credit reports. If you discover any suspicious or unusual activity
+on your accounts or suspect identity theft or fraud, be sure to report it immediately to your financial
+institutions.
+
+In addition, you may contact the Federal Trade Commission (“FTC”) or law enforcement, including your
+Attorney General, to report incidents of identity theft or to learn about steps you can take to protect
+yourself from identity theft. To learn more, you can go to the FTC’s website, at
+www.consumer.gov/idtheft, or call the FTC, at (877) IDTHEFT (438-4338) or write to Federal Trade
+Commission, Consumer Response Center, 600 Pennsylvania Avenue, NW, Washington, DC 20580.
+
+You may also periodically obtain credit reports from each nationwide credit reporting agency. If you
+discover information on your credit report arising from a fraudulent transaction, you should request that
+the credit reporting agency delete that information from your credit report file. In addition, under federal
+law, you are entitled to one free copy of your credit report every 12 months from each of the three
+nationwide credit reporting agencies. You may obtain a free copy of your credit report by going to
+www.AnnualCreditReport.com or by calling (877) 322-8228. You may contact the nationwide credit
+reporting agencies at:
+
+Equifax                          Experian                          TransUnion
+(800) 525-6285                   (888) 397-3742                    (800) 916-8800
+P.O. Box 740241                  P.O. Box 9701                     Fraud Victim Assistance Division
+Atlanta, GA 30374-0241           Allen, TX 75013                   P.O. Box 2000
+www.equifax.com                  www.experian.com                  Chester, PA 19022
+                                                                   www.transunion.com.
+
+You may obtain additional information from the FTC and the credit reporting agencies about fraud alerts
+and security freezes. You can add a fraud alert to your credit report file to help protect your credit
+information. A fraud alert can make it more difficult for someone to get credit in your name because it
+tells creditors to follow certain procedures to protect you, but it also may delay your ability to obtain
+credit. You may place a fraud alert in your file by calling just one of the three nationwide credit reporting
+agencies listed above. As soon as that agency processes your fraud alert, it will notify the other two
+agencies, which then must also place fraud alerts in your file.
+
+In addition, you can contact the nationwide credit reporting agencies at the following numbers to place a
+security freeze to restrict access to your credit report:
+
+    (1) Equifax – (800) 349-9960
+    (2) Experian – (888) 397-3742
+CONFIDENTIAL
+NON-MA
+CONFIDENTIAL
+
+    (3) TransUnion – (888) 909-8872
+
+You will need to supply your name, address, date of birth, Social Security number and other personal
+information. The fee to place a credit freeze varies based on where you live. After receiving your
+request, each credit reporting agency will send you a confirmation letter containing a unique PIN or
+password that you will need in order to lift or remove the freeze. You should keep the PIN or password
+in a safe place.
+
+FOR MORE INFORMATION. Please know that we regret any inconvenience or concern this incident
+may cause you. Please do not hesitate to email W2@pivotal.io or call 1-855-731-6020 if you have any
+questions or concerns.
+
+                                                Sincerely,
+
+                                                Joe Militello and Drew Kramer
+
+
+
+
+CONFIDENTIAL
+NON-MA
+CONFIDENTIAL
+
+IF YOU ARE AN IOWA RESIDENT: You may contact local law enforcement or the Iowa Attorney
+General’s Office to report suspected incidents of identity theft. You can contact the Iowa Attorney
+General at:
+
+        Office of the Attorney General
+        1305 E. Walnut Street
+        Des Moines, IA 50319
+        (515) 281-5164
+        http://www.iowaattorneygeneral.gov/
+
+IF YOU ARE A MARYLAND RESIDENT: You may obtain information about avoiding identity theft from
+the FTC or the Maryland Attorney General’s Office. These offices can be reached at:
+
+        Federal Trade Commission                 Office of the Attorney General
+        Consumer Response Center                 Consumer Protection Division
+        600 Pennsylvania Avenue, NW              200 St. Paul Place
+        Washington, DC 20580                     Baltimore, MD 21202
+        (877) IDTHEFT (438-4338)                 (888) 743-0023
+        http://www.ftc.gov/idtheft/              www.oag.state.md.us
+
+IF YOU ARE A NORTH CAROLINA RESIDENT: You may obtain information about preventing identity
+theft from the FTC or the North Carolina Attorney General’s Office. These offices can be reached at:
+
+        Federal Trade Commission                 North Carolina Department of Justice
+        Consumer Response Center                 Attorney General Roy Cooper
+        600 Pennsylvania Avenue, NW              9001 Mail Service Center
+        Washington, DC 20580                     Raleigh, NC 27699-9001
+        (877) IDTHEFT (438-4338)                 (877) 566-7226
+        www.consumer.gov/idtheft                 http://www.ncdoj.com
+
+IF YOU ARE A RHODE ISLAND RESIDENT: Please contact state or local law enforcement to determine
+whether you can file or obtain a police report in regard to this incident. In addition, you can contact the
+Rhode Island Attorney General at:
+
+        Office of the Attorney General
+        150 South Main Street
+        Providence, Rhode Island 02903
+        (401) 274-4400
+        http://www.riag.ri.gov/
+
+
+
+
+CONFIDENTIAL
+NON-MA

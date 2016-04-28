@@ -1,0 +1,37 @@
+RE: Important Security Notice from JSTOR
+
+We are writing to let you know that your MyJSTOR account was recently accessed without
+authorization by a third party.
+
+What this means to you
+
+This means the any personal information you have added as part of your MyJSTOR profile may
+have been accessed, including your username, password, email address,
+primary area of study, position/academic status, and institutional affiliation. We do not store
+credit card data or financial information of any kind, so this was not accessed.
+
+What you should do
+
+We strongly recommend that you change the password of your MyJSTOR account, and other
+accounts where you may use this password.
+
+To change your password, log in to your account at JSTOR.org and select the "MyJSTOR" menu
+at the top of the page, then scroll down and select "My Profile." Enter your old password where
+prompted and select a new, secure password. The password must be a minimum of six
+characters. We recommend you do the same on other sites where you use this password. For
+additional help with password security, you might consider password managing applications
+such as 1Password and LastPass.
+
+We are sorry this happened and recognize that these kinds of events can be troubling. JSTOR has
+over 3 million MyJSTOR accounts in total, and yours was one of only approximately 800
+accounts affected by this incident. We take these situations seriously. We have taken the steps
+necessary to stop this activity and are reviewing our security measures to prevent future
+incidents.
+
+Please let us know if you have any questions, comments, or concerns. You can reach us at
+education@jstor.org.
+
+
+Thank you,
+
+JSTOR User Services

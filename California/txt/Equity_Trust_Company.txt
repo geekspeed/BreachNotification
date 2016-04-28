@@ -1,0 +1,95 @@
+April 15, 2013
+
+We are writing to notify you that a portion of Equity Trust’s computer network was recently accessed by
+an unauthorized third party. We are very sorry that this situation has occurred. Protecting the privacy
+and security of your information is a top priority for us. Accordingly, upon discovering the event, we
+promptly installed software to block similar intrusions, and denied access to our network from certain
+international locations. Although we did not find any evidence that the unauthorized third party actually
+acquired, copied or removed any customer information from our network, we want to inform you about
+the situation and encourage you to take the steps set forth in this notice.
+
+Description of the Event
+
+At the end of January 2013, Equity Trust discovered that an unauthorized third party had breached our
+security system. We took immediate steps to prevent further access to our network and promptly
+arranged to have KPMG LLP’s independent information technology consultants assess the nature and
+extent of the unauthorized access.
+
+KPMG conducted a preliminary examination and, on March 5, 2013, reported that a third party had
+obtained unauthorized viewing access to customer information of a limited number of Equity Trust
+customers (which included names, addresses, social security numbers, and other information). On March
+28, 2013, KPMG completed a further forensic analysis and concluded that, despite having viewing access,
+there was no evidence that the third party actually acquired, copied, or removed any customer information
+from Equity Trust’s network. However, as with any information security breach, misuse of customer
+information remains a possibility.
+
+We want to make you aware of this event, and advise as to how you can reduce the risk that your
+information may be compromised. In addition, we want to inform you that Equity Trust has filed a
+Suspicious Activity Report and has notified the Federal Bureau of Investigation and other relevant
+government bodies of the unauthorized access.
+
+Your confidence in our ability to safeguard your information, and your peace of mind, are very important
+to us. Be assured that Equity Trust continuously strives to improve its systems and is committed to
+enhancing our defenses against this type of incident. If you have any questions about this notice, please
+contact Equity Trust toll free at 1-855-299-1802 or visit www.trustetc.com/company/security/faqs/html.
+In addition, please review the additional resources on the reverse side of this notice for assistance with
+protecting your customer information against misuse.
+
+Sincerely Yours,
+
+
+
+Jeffrey Desich
+Chief Executive Officer
+                                          Additional Resources
+
+As with any information security breach, this incident increases the potential that your personal
+information may be misused. It is important that you monitor your financial account statements and credit
+report closely over the next twelve to twenty-four months. If you suspect any incidents of fraud or
+identity theft, it is important that you promptly report the incident to your local police department, the
+Attorney General of your state, and the Federal Trade Commission. We also encourage you to remain
+vigilant for incidents of fraud or identity theft and note the following:
+
+How to Obtain a Copy of Your Credit Report:
+Federal law mandates that you may obtain one copy of your credit report per year free of charge. You
+may obtain an annual free credit report by contacting the Annual Credit Report Request Service or one or
+more of the following national consumer reporting agencies:
+
+        Annual Credit Report Request Service, P.O. Box 105283, Atlanta, GA 30348-5283, 1-877-322-8228,
+        www.annualcreditreport.com
+
+        Equifax, P.O. Box 740256, Atlanta, GA 30374, 1-888-766-0008, www.equifax.com
+        Experian, P.O. Box 9554, Allen, TX 75013, 1-888-397-3742, www.experian.com
+        TransUnion, P.O. Box 6790, Fullerton, CA 92834, 1-800-680-7289, www.transunion.com
+
+You may also request a 90-day fraud alert on your credit report by contacting one of the three national
+credit reporting agencies listed above. If you have evidence of an actual identity theft, a seven-year fraud
+alert is also available.
+
+Security Freezes:
+You have the right to place a security freeze on your credit report. A credit freeze prohibits the release
+of credit information without your approval. You must request a freeze in writing, delivered by certified
+mail to all three of the credit reporting agencies listed above or by a secured electronic method
+authorized by the credit reporting agencies. Please be aware that the consumer reporting agencies may
+charge a fee associated with a credit freeze.
+
+For Residents of Maryland and North Carolina:
+You can obtain more information from the Maryland and North Carolina Offices of the Attorney General
+about steps you can take to avoid identity theft.
+
+        Maryland Office of the Attorney General, Consumer Protection Division, 200 St. Paul Place, Baltimore,
+        MD 21202, 1-888-743-0023, www.oag.state.md.us
+
+        North Carolina Office of the Attorney General, Consumer Protection Division, 9001 Mail Service
+        Center, Raleigh, NC 27699, 1-877-566-7226, www.ncdoj.com
+
+Consulting the Federal Trade Commission:
+In addition to your state Attorney General, you can contact the Federal Trade Commission to learn more
+about how to protect yourself from identity theft:
+
+        Federal Trade Commission, 600 Pennsylvania Avenue, NW, Washington, DC 20580, 1-877-ID-THEFT,
+        www.ftc.gov/idtheft
+
+Password Protection:
+Although the evidence suggests that a third party could not have viewed your password, you may also
+want to consider changing your password for accessing the eVANTAGE website.

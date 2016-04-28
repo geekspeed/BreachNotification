@@ -1,0 +1,59 @@
+C/O ID Experts
+PO Box 6336
+Portland, OR 97228-6336
+
+
+
+<<mail id>>	                                                                                                <<Date>>
+<<Name1>>
+<<Name2>>
+<<Address1>>
+<<Address2>>
+<<City>><<State>><<Zip>>
+
+
+
+
+<<Dear Name>>:
+
+At UCLA Health, our patients come first. Patient confidentiality is a critical part of our commitment to care and
+we work hard to protect your personal information. We are writing to inform you of a recent event that may have
+involved personal information of patients who received services in the Department of Radiation Oncology during
+the last three years. This event is unrelated to the cyberattack of UCLA Health’s network, about which you may
+have also recently received a letter. At this time, there is no evidence that any of your personal information has been
+improperly accessed, disclosed, or used.
+
+On July 3, 2015, a laptop computer belonging to a UCLA Health faculty member was stolen from his locked car while
+he was traveling. The computer was password-protected and stored limited information about some UCLA Health
+patients.
+
+The information on the computer may have included your first initial or first name and last name, and one or more of
+the following pieces of your information: date of birth, medical record number, phone number, email address, dates
+of treatment, and medical information related to your treatment plan. The information did not include your Social
+Security Number, health insurance information, or other financial information like a credit card number.
+
+As noted, we have no evidence that any information about you maintained on the computer has been
+improperly accessed, disclosed, or used, and no patient financial information was stored on the computer. In
+addition, UCLA Health has policies and programs in place to identify “red flags” or warnings of possible
+medical identity theft and inform patients when these are found. The California Attorney General has
+also published guidelines to help patients and consumers protect themselves. These are available online at
+https://oag.ca.gov/privacy/facts/medical-privacy/med-id-theft. Finally, UCLA Health is enhancing its security policies
+and retraining those involved with the incident to help avoid any future similar events.
+
+We apologize for any concern or inconvenience this matter may cause you. Our patients always come first, and we
+continue to work diligently to protect your personal information. If you would like additional information about this
+incident, please contact ID Experts, the vendor we have engaged to assist UCLA Health at 888-236-0447.
+
+Sincerely,
+
+
+<<Signature>>
+
+
+Marti Arvin
+Chief Compliance Officer
+
+
+
+
+O0451 v.02 08.27.2015

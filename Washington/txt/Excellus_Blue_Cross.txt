@@ -1,0 +1,58 @@
+                                           NUANCE COMMUNICATIONS, INC.     ONE WAYSIDE ROAD       781 565 5000
+                                                                           BURLINGTON, MA 01803   NIJANCE.COM
+                               RECEIVED                                                            Cr)
+                                                                                                                 C.J-1
+NUANCE                             IRV MI5
+                              coNsumER PROTECTON DIVISION   RECEIVED
+October 28, 2015                      SEATTLE
+
+                                                             MI 03 D15
+VIA MAIL
+                                                       c.            - ! DIVISION
+Washington Attorney General Bob Ferguson
+Office of the Attorney General
+1125 Washington Street SE
+Olympia, WA 98504-0100
+
+RE: Excellus Blue Cross Data Breach
+
+Dear Attorney General Ferguson:
+
+We write to inform you that Excellus Blue Cross ("Excellus") is a downstream subcontractor to one
+of our self-funded group health plans ("Plan"). Our Plan is administered by Blue Cross Blue Shield
+of Massachusetts ("BCBSMA"), and not by Excellus. However, we understand from BCBSMA that
+Excellus plays a role in processing claims for our Plan participants who have received medical care
+and service in certain circumstances, such as when a participant receives medical care in an Excellus
+state.
+
+As you are aware, Excellus was the victim of a cyber-attack, commencing on or about August 5, 2015
+("Incident'). We were first informed of the Incident by our insurance broker on September 9, 2015,
+but there was no information whether and to what extent any of our Plan participants were impacted.
+We have been in communication with BCBSMA representatives, who since informed us on October
+19, 2015, that 86 members of our Plan were impacted, 1 of who reside in your state.
+
+Excellus states the personal information accessed in the Excellus data breach included: name, date of
+birth, gender, health plan member ID, address, phone number, email, address, social security number,
+bank account information and claims information. We are not aware of any fraud that has occurred as
+a result of this incident, but Excellus is offering two years of credit monitoring to affected individuals.
+
+Excellus has previously sent notices to each impacted Plan participant. In the meantime, we have
+emailed our participants with the attached notification more generally on October 19, 2015, to alert
+them to this issue in advance of the communication from BCBSMA.
+
+If you have any questions for us, please contact me.
+
+  ncerely,
+
+
+ RETCHEN S. HEFtAULT
+ hief Privacy Officer
+
+NUANCE COMMUNICATIONS, INC.
+
+One Wayside Road
+Burlington, MA 01803
+781 565 5342 Office
+781 504 2713 Mobile
+877 397 3121 Fax
+oretchen.heraultAnuance.com

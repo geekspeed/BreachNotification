@@ -1,0 +1,166 @@
+Cogent Security
+Patient Notification Template
+FINAL 8.2.13
+ 
+[Company Logo] 
+[Return Address] 
+[Date] 
+ 
+[Recipient’s Name] 
+[Address] 
+[City, State, Zip] 
+          Dear NAME,
+
+        As the Privacy Officer of Cogent Healthcare, Inc., I am writing to inform you of an incident
+involving some of your personal information. Please read this entire letter carefully because it contains
+important information for you.
+
+         Cogent Healthcare, Inc. manages various physician groups across the United States, including
+physicians who provide medical services to patients at a hospital or long term care facility in which you
+received treatment in the past. The complete list of affected physician groups is attached as Exhibit A.
+Cogent Healthcare, Inc. contracted with M2ComSys (M2), a medical transcription company, to provide
+services to some of these physician groups. M2’s job was to transcribe, or put into writing, patient care
+notes dictated by physicians. In connection with providing these services, M2 stored these notes, which
+included protected health information (PHI), on what was supposed to be a secure Internet site. A
+security lapse by M2, however, allowed some of these notes, including your PHI, to be accessed through
+that Internet site.
+
+        On June 24, 2013, Cogent Healthcare, Inc. discovered the security lapse involving M2. As soon
+as we discovered the lapse, Cogent Healthcare, Inc. took immediate steps to prevent further access of
+patient care notes. Cogent Healthcare, Inc. also began a full-scale investigation to determine how the
+incident occurred and to determine which data and individuals were involved. The care notes were first
+accessed on May 5, 2013. Access to the site ended on June 24, 2013. We are generally unable to identify
+who accessed the notes. In some cases, the notes were indexed by Google.
+
+         The care notes contained varying combinations of information, including patient name,
+physician’s name, patient date of birth, diagnosis description, summary of treatment provided and medical
+history, medical record number and related information. Copies of medical records and Social Security
+numbers were not included in the care notes.
+
+         We have taken a number of steps to protect against future incidents. We have ended our
+relationship with M2 and taken physical possession of the hardware held by M2 that stored our PHI. We
+have confirmed with Google that it has removed all evidence of PHI from their files. We have initiated a
+security review of other Cogent Healthcare, Inc. vendors who have access to PHI to confirm their security
+procedures.
+Cogent Security
+Patient Notification Template
+FINAL 8.2.13
+ 
+         Cogent Healthcare, Inc. takes information security and your privacy very seriously. We deeply
+regret this situation and any inconvenience this may cause you. Even though the information did not
+contain Social Security numbers, we encourage you to take precautions to protect the security of your
+personal information. For example, you should remain vigilant by reviewing account statements and
+monitoring free credit reports.
+
+         To help protect your identity, we are offering a complimentary one-year membership of
+Experian’s ProtectMyIDTM Alert. This product helps detect possible misuse of your personal information
+and provides you with superior identity protection services focused on immediate identification and
+resolution of identity theft.
+
+    Once your ProtectMyID membership is activated, your credit report will be monitored daily for 50
+leading indicators of identity theft. You’ll receive timely Credit Alerts from ProtectMyID on any key
+changes in your credit report which could include new inquiries, new credit accounts, medical collections
+and changes to public records. Enrollment in the ProtectMyID membership does not affect your credit
+score.
+
+    We realize that identity theft can happen months and even years after a data breach. To offer added
+protection, you will receive ExtendCARETM, which provides you with the same high-level of Fraud
+Resolution support even after your ProtectMyID membership has expired.
+
+Your complimentary 12-month ProtectMyID membership includes:
+
+       Credit Report: A free copy of your Experian credit report.
+       Daily 3 Bureau Credit Monitoring: Alerts you of suspicious activity including new inquiries,
+        newly opened accounts, delinquencies, or medical collections found on your Experian, Equifax
+        and TransUnion credit reports.
+       Identity Theft Resolution: If you have been a victim of identity theft, you will be assigned a
+        dedicated, U.S.-based Experian Identity Theft Resolution Agent who will walk you through the
+        fraud resolution process, from start to finish.
+       ExtendCARE: Full access to the same personalized assistance from a highly-trained Fraud
+        Resolution Agent even after your initial ProtectMyID membership expires.
+       $1 Million Identity Theft Insurance*: As a ProtectMyID member, you are immediately covered
+        by a $1 Million insurance policy that can help you cover certain costs including, lost wages,
+        private investigator fees, and unauthorized electronic fund transfers.
+
+
+                 Activate your membership today at www.protectmyid.com/redeem
+                  or call 877-371-7902 to register with the activation code above.
+
+1. ENSURE That You Enroll By: [date]
+
+2. Visit the ProtectMyID Web Site: www.protectmyid.com/redeem or call 877-371-7902 to enroll
+
+3. PROVIDE Your Activation Code: [code]
+Cogent Security
+Patient Notification Template
+FINAL 8.2.13
+ 
+
+
+    Once your enrollment in ProtectMyID is complete, you should carefully review your credit report for
+inaccurate or suspicious items. If you have any questions about ProtectMyID, need help understanding
+something on your credit report or suspect that an item on your credit report may be fraudulent, please
+contact Experian’s customer care team at 877-371-7902.
+
+         If you have any questions or want to learn more about this situation, please call the following toll-
+free telephone number between the hours of 9:00 a.m. to 7:00 p.m., Eastern Time, Monday through
+Friday: (877) 218-0052. You may need to provide the following ten-digit reference code: 9786072613.
+Again, we sincerely regret any inconvenience to you as a result of this incident. To enroll in Experian’s
+credit monitoring product, please contact Experian and use the instructions included with this letter.
+
+        We encourage you to make use of the one-year membership of Experian’s ProtectMyIDTM Alert.
+You may also receive free credit reports by on the internet at www.annualcreditreport.com or by calling
+the Annual Credit Report Request Service toll-free at 1-877-322-8228. You can also contact the three
+major credit reporting agencies at the addresses listed below.
+
+                                                  Sincerely,
+
+                                                  LeToia Crozier
+                                                  Senior Vice President, Compliance Officer
+                                                  Cogent Healthcare, Inc.
+
+
+
+
+Credit Reporting Agencies:
+Equifax                                      Experian                       TransUnion
+1-800-685-1111 (credit report)               1-888-397-3742                 1-800-888-4213 (credit report)
+1-877-478-7625 (fraud alert)                 P.O. Box 9701                  P.O. Box 1000
+P.O. Box 740256                              Allen, TX 75013                Chester, PA 19022
+Atlanta, GA 30374                            www.experian.com
+www.fraudalerts.equifax.com                                                 1-800-680-7289 (fraud alert)
+                                                                            P.O. Box 2000
+                                                                            Chester, PA 19022
+                                                                            www.transunion.com
+Cogent Security
+Patient Notification Template
+FINAL 8.2.13
+ 
+                                             Exhibit A
+
+           Practices managed by Cogent Healthcare that were Impacted by this Incident
+
+Cogent Healthcare of California, P.C.
+Cogent Healthcare of Washington, P.C.
+Cogent Healthcare of Ocala, L.L.C.
+Cogent Medical Care, P.C.
+Cogent Healthcare of Texas, P.A.
+Endion Medical Healthcare, P.C. d/b/a Endion SeniorCare
+Cogent Healthcare of Montana, P.C.
+Cogent Healthcare of Arizona, P.C.
+Cogent Healthcare of Georgia, P.C.
+Cogent Healthcare of Iowa, P.C.
+Cogent Healthcare of New Jersey, P.C.
+Inpatient Specialists of Southwest Florida, LLC
+Cogent Healthcare of Kentucky, P.S.C.
+Cogent Healthcare of Wisconsin, S.C.
+Comprehensive Hospital Physicians of Florida, Inc.
+Cogent Healthcare, Inc.
+Cogent Healthcare IPA of New York, Inc.
+Cogent Healthcare of Brockton, P.C.
+Cogent Healthcare of North Carolina, P.C.
+Cogent Healthcare of South Carolina, P.C.
+Cogent Healthcare of Daly City, P.C.
+Cogent Healthcare of Jackson, MS, LLC
+Cogent Healthcare of Pensacola, L.L.C.
+Cogent Healthcare of Pennsylvania, Inc.

@@ -1,0 +1,61 @@
+              Compass Group USA – Legal Notice of Potential Security Incident (04.16.2015)
+
+ Compass Group USA recently became aware of a security incident involving NEXTEP, a provider of self-serve kiosks
+ used at a limited number of our on-site dining locations, including the following:
+
+ 450 American Street, Simi Valley, CA 93065
+ 1800 Tapo Canyon Road, Simi Valley, CA 93063
+ 375 Trimble Road, San Jose, CA 95131
+
+ We are providing this notice as a precaution to tell kiosk users about the incident and to call their attention to
+ some steps they may take to help protect themselves.
+
+ Based upon an extensive forensic investigation, it appears that unauthorized individuals installed malicious
+
+
+
+
+      ot :
+ software designed to capture payment card information on certain NEXTEP self-serve kiosks, including those in use
+
+
+
+
+     N y
+ at the locations identified above. Your payment card information (including name, payment card account number,
+ card expiration date and the CVV security code) may be at risk if you used a payment card at a NEXTEP self-service
+ kiosk at one of the on-site dining locations identified above between February 2, 2015 and March 9, 2015. There is
+
+
+
+
+           e
+          p
+ no indication that any other point-of-sale or network systems were impacted by this incident.
+
+ Safeguarding our customers’ information is something we take extremely seriously. Upon learning of the situation,
+
+
+
+
+        ic
+ we swiftly disabled payment card acceptance on the affected kiosks and have taken remediation steps to remove
+   ia o
+ the malicious software from the kiosks. As of now, the incident has been contained.
+
+ As a general precaution, we recommend that you review and closely monitor your payment card account
+ ed f C
+ statements and credit report, and promptly report any unusual activity to your financial institution, the credit
+ reporting agencies and appropriate law enforcement authorities.
+
+ We apologize for any inconvenience this causes and are offering one year of free identity protection services,
+ including credit monitoring, to potentially impacted NEXTEP kiosk users. You can learn more about this incident
+ and ways you can protect yourself, including eligibility and enrollment information about the identity protection
+ services, by visiting www.compass-usa.com/pages/KioskUpdate.aspx. You may also call 888-829-6561.
+M oo
+  Pr
+
+
+
+
+ 35186022.1

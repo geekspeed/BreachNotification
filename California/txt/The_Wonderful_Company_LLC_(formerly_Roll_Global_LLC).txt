@@ -1,0 +1,107 @@
+PO Box 1700 - 4708
+FARIBAULT, MN 55021-1700
+I MP O R TA N T L EG AL M ATERIAL S
+
+*Barcode39*                    - <<SequenceNo>>
+
+<<Name1>>
+<<Name2>>
+<<Name3>>
+<<Name4>>
+<<Address1>>
+<<Address2>>
+<<City>> <<State>> <<Zip10>>
+<<CountryName>>
+BLANK
+Month XX, 2015
+
+<<Name1>>
+<<Name2>>
+<<Name3>>
+<<Name4>>
+<<Address1>>
+<<Address2>>
+<<City>> <<State>> <<Zip10>>
+<<CountryName>>
+
+
+Dear <<Insert name>>:
+Please read this letter in its entirety.
+We are writing to inform you of an isolated security incident involving your personal information. Specifically, a laptop
+computer that included certain employee data provided to HUB International (“HUB”) by or on behalf of your current or
+former employer, Roll Global LLC or one of its affiliated companies (“Roll”), was recently stolen. On behalf of HUB, I want
+to apologize for any inconvenience this may cause you and provide you with some information on what happened, as well as
+the steps we are taking to protect you.
+What Happened?
+Roll engaged HUB to provide risk management services related to its workers’ compensation insurance program. On
+February 27, 2015, a HUB employee supporting these services had his password-protected laptop stolen from his locked
+car. HUB immediately began to investigate and recreate any unencrypted information that might have been accessible
+from the laptop’s hard drive. Through this process, we were able to ascertain by March 12, that the laptop contained data
+that included your name and certain information that is commonly needed to assess workers’ compensation premiums
+and claims (e.g., the date on which you made a workers’ compensation claim, the claim number, brief accident and
+injury descriptions and compensation amounts related to the claim). We are in the process of taking steps to reduce the
+likelihood of such an event occurring again. Unfortunately, your social security number does appear to have been included
+in the data associated with your claim information.
+In contrast with large-scale breaches of corporate data servers that have been prevalent in the news as of late, individual
+laptop thefts are more often motivated by the value of the hardware, and not by the value of any data that may be stored on
+the hardware itself. We, in turn, currently have no reason to believe that any of your personal information was compromised
+or misused in any manner.
+What are HUB and Roll Doing to Protect You?
+We have taken extensive steps to address this incident quickly and effectively and are still taking appropriate precautionary
+measures to better ensure the security of information we hold and help alleviate concerns you may have. Namely, we are
+providing you with access to Triple Bureau Credit Monitoring services at no charge. For twenty-four months from the date
+of enrollment, these services provide you with an alert each time a change occurs to any of one of your Experian, Equifax or
+TransUnion credit files. This alert is sent to you the same day that the change or update takes place with the bureau. These
+services will be provided by IDT911, a company that specializes in identity theft education and resolution.
+To enroll in Triple Bureau Credit Monitoring services at no charge, please log on to https://www.myidmanager.com/
+promo_code.html and follow the instructions provided. When prompted, please provide the following unique code to
+receive services: <<CODE HERE>>.
+                                                            -1-
+What Can You Do on Your Own to Address the Situation?
+There are important steps that you can take at any time to reduce the likelihood of identity theft or fraud:
+   	   Review credit card bills
+   	   Review other financial account information, including bank account and savings statements
+   	   Watch your accounts for activity that you may not have authorized
+   	   Contact the place where you have the account immediately if you notice any unauthorized activity or transaction
+We also recommend that you place a fraud alert on your credit file. A fraud alert tells creditors to contact you before they
+open any new accounts or change your existing accounts. To do so, contact any one of the three major credit bureaus. As soon
+as one credit bureau confirms your fraud alert, the others are notified to place fraud alerts.
+
+               Experian                                   Equifax                                  TransUnion
+           1-888-397-3742                             1-800-525-6285                             1-800-680-7289
+          www.experian.com                           www.equifax.com                          www.transunion.com
+        Experian Fraud Division              Equifax Information Services LLC                     P.O. Box 6790
+            P.O. Box 9554                             P.O. Box 105069                       Fullerton, CA 92834-6790
+           Allen, TX 75013                       Atlanta, GA 30348-5069
+
+Even if you do not discover any suspicious activity on your initial credit reports, the Federal Trade Commission (FTC)
+recommends that you remain vigilant by checking your credit reports periodically. Checking your credit reports periodically
+can help you spot problems and address them quickly. You can also order free annual copies of your credit report by going
+to www.annualcreditreport.com or by calling toll-free at 1-877-322-8228. (Hearing impaired consumers can access their
+TDD service at 1-877-730-4204.) You should also monitor any suspicious activity associated with your financial accounts.
+If you want to learn more about how to reduce the likelihood of identity theft or fraud, you may also visit the U.S. government’s
+identity theft information website at http://www.consumer.gov/idtheft. Alternately, you can contact the Federal Trade
+Commission – Consumer Response Center, 600 Pennsylvania Avenue, NW, Washington, DC 20580 or call 1-877-ID-
+THEFT (1-877-438-4338).
+Lastly, please note that in the aftermath of security incidents such as this, some criminals may seek to fraudulently obtain
+the personal information of affected individuals by claiming to be the business experiencing the breach. Do NOT respond to
+any e-mails or other communications from entities requesting your sensitive personal information in relation to this incident.
+HUB and Roll will NOT ask you for your sensitive personal information.
+What If You Want To Speak With Roll Directly Regarding This Incident?
+If you feel the need to speak with Roll directly regarding this incident, Roll has contracted with a third party administrator
+Rust Consulting to answer any questions that you may have. The number to reach the Rust Consulting is (800) 363-0975
+from 8:00 AM to 7:00 PM Central Time.
+We understand that you may be concerned after learning about this matter. The security of our customers’ information is, and
+always will remain, a top priority. We apologize again for any inconvenience this incident may cause.
+Sincerely,
+
+
+
+
+Harold Gunderson
+Manager of IT Security & Compliance
+HUB International Limited
+
+
+
+                                                              -2-

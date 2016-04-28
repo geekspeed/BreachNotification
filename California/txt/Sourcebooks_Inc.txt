@@ -1,0 +1,113 @@
+	  
+
+
+
+
+October 17, 2014
+
+
+
+
+                   «b_firstname» «b_lastname»
+                   «b_address»
+                   «b_address_2»
+                   «b_city», «b_state» «b_zipcode»
+
+Dear Sourcebooks Customer,
+
+We value your business and respect the privacy of your information, which is why, as a precautionary measure, we are
+writing to let you know about a data security breach that may involve your personal information.
+
+Sourcebooks recently learned that there was a breach of the shopping cart software that supports our website,
+putmeinthestory.com, on April 16, 2014 – June 19, 2014 and unauthorized parties were able to gain access to customer
+credit card information. The credit card information included card number, expiration date, cardholder name and card
+verification value (CVV2). The billing account information included first name, last name, email address, phone number,
+and address. In some cases, shipping information was included as first name, last name, phone number, and address. In
+some cases, account password was obtained. To our knowledge, the data accessed did not include any Track Data, PIN
+Number, Printed Card Verification Data (CVD). We are currently in the process of having a third-party forensic audit
+done to determine the extent of this breach.
+
+Our top priority right now is taking care of you and helping you feel confident about ordering from us, and it is our
+responsibility to protect your information when you shop with us.
+
+Please know that as soon as the appropriate people became aware of the problem, we began moving as quickly as possible
+to respond to your concerns and to guard against something like this happening again. Specifically, we have:
+
+       1. Implemented new security measures in accordance with the Payment Card Industry (PCI) data security standards.
+       2. Hired a firm of experts to determine exactly how this happened so we can put measures in place to prevent it from
+       happening again.
+       3. Revised our internal processes in order to be able to identify any potential issues as quickly as possible.
+       4. Set up a toll-free information line for any customers with questions. For further information and assistance, please
+       contact us at 844-810-1155 between 8:30 a.m. – 5:30 p.m. CST daily, or visit www.putmeinthestory.com/cardfaq
+
+I do want to take a moment to reassure you that you have zero liability for any fraudulent charges on your credit card. As
+a precautionary measure, you should monitor activity on your card and account statements for the next 12 to 24 months
+and promptly report incidents of suspected identity theft to your financial institution or card provider. You also should
+promptly report any fraudulent activity or any suspected incidence of identity theft to proper law enforcement authorities,
+your state attorney general, and/or the Federal Trade Commission (FTC). To file a complaint with the FTC, go to
+www.ftc.gov/idtheft or call 1-877-ID-THEFT (877-438-4338). Complaints filed with the FTC will be added to the FTC’s
+Identity Theft Data Clearinghouse, which is a database made available to law enforcement agencies. You have the right to
+obtain a police report regarding the breach if/when one exists.
+
+
+
+	  
+	  
+
+
+
+
+Additionally, you may want to consider monitoring your credit activity through one of the major credit reporting agencies.
+You may obtain a free copy of your credit report from each of the three major reporting agencies once every 12 months by
+visiting www.annualcreditreport.com, calling toll-free 877-322-8228, or by completing an Annual Credit Report Request
+Form and mailing it to Annual Credit Report Request Service, P.O. Box 105281, Atlanta, GA 30348. At the website
+www.annualcreditreport.com/requestReport/requestForm.action, you can print a copy of the request form, or you can elect
+to purchase a copy of your credit report by contacting one of the three national credit reporting agencies. Contact
+information for the three major credit reporting agencies is included at the end of this letter. These agencies will be able to
+provide information about fraud alerts and security freezes.
+
+You may want to consider placing a fraud alert on your credit report. An initial fraud alert is free and will stay on your
+credit file for at least 90 days. The alert informs creditors of possible fraudulent activity within your report and requests
+that the creditor contact you prior to establishing any accounts in your name. To place a fraud alert on your credit report,
+contact the three credit reporting agencies using the contact information provided below.
+
+In some US states, you have the right to put a security freeze on your credit file. This will prevent new credit from being
+opened in your name without the use of a PIN number that is issued to you when you initiate the freeze. A security freeze
+is designed to prevent potential creditors from accessing your credit report without your consent. As a result, using a
+security freeze may interfere with or delay your ability to obtain credit. You must separately place a security freeze on
+your credit file with each credit reporting agency. Additionally, if you request a security freeze from a consumer reporting
+agency there may be a fee up to $5 to place, lift or remove the security freeze.
+
+I know this breach may have had a very real impact on you, causing frustration and concern. We share those feelings. You
+trusted us with your information, and you deserve better.
+
+We want to earn back your trust and ensure that we deliver the personalized experience you know and love. We are
+determined to make things right for you, and we will.
+
+Sincerely,
+
+Dominique Raccah
+CEO and Owner
+Sourcebooks, Inc.
+
+
+   Equifax                                  Experian                            TransUnion, LLC                    Federal Trade Commission
+   Equifax Consumer Fraud Division          475 Anton Blvd.                     P.O. Box 2000                      600 Pennsylvania Avenue, NW
+   P.O. Box 740256                          Costa Mesa, CA 92626                Chester, PA 19022-2000             Washington, DC 20580
+   Atlanta, GA 30374                        www.experian.com                    www.transunion.com                 www.ftc.gov
+   www.equifax.com                          (888) 397-3742                      (855) 681-3196                     www.ftccomplaintassistant.gov	  
+   (888) 766-0008                           	                                  	  
+   	  
+   Additional Free Resources on Identity Theft
+   You may wish to review the tips provided by the Federal Trade Commission on how to avoid identity theft. For more information, please visit
+   www.ftc.gov/idtheft or call 1-877-ID-THEFT (877-438-4338). A copy of Take Charge: Fighting Back Against Identity Theft, a comprehensive
+   guide from the FTC to help you guard against and deal with identity theft, can be found on the FTC’s website at
+   www.ftc.gov/bcp/edu/pubs/consumer/idtheft/idt04.shtm.
+
+   Maryland residents may also wish to review information provided by the Maryland Attorney General on how to avoid identity theft at
+   www.oag.state.md.us/idtheft, or by sending an email to idtheft@oag.stat.md.us, or calling 410-576-6491.
+   	  
+
+
+
+	  

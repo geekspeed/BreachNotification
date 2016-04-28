@@ -1,0 +1,130 @@
+<<MemberFirstName>> <<MemberLastName>>                                              <<Date>> (Format: Month Day, Year)
+<<Address1>>
+<<Address2>>
+<<City>>, <<State>> <<Zip Code>>
+
+
+
+
+Re: Security Incident
+Dear <<MemberFirstName>> <<MemberLastName>>,
+We are writing to tell you about a data security incident that may have exposed some of your personal information
+as an employee of Central Concrete Supply Co., Inc., Right Away Redy Mix, Inc., or Rock Transport, Inc. We take
+the protection and proper use of your information very seriously. This is why we are contacting you directly to let
+you know how we are protecting you personally.
+What Happened?
+On February 24, 2016, we became aware of a data breach by which we believe a third party obtained access to
+copies of your 2015 W-2 income and tax withholding statements. This information was stolen through a sophisticated
+social engineering scheme in which an outside party posing as another person convinced an employee of Central
+Concrete Supply to provide copies of the documents by email on February 23, 2016. The data was not obtained
+through any breach of the Company’s information technology systems.
+As soon as we became aware of the breach, the Company contacted law enforcement to pursue the wrongdoers.
+The Company is actively cooperating with the FBI and other law enforcement authorities to address the matter.
+What Information Was Involved?
+The information involved in this incident included employer name, employee name, address, phone number, tax
+identification number, social security number, and income information.
+What Are We Doing to Protect You?
+Central Concrete Supply values your service to the Company and deeply regrets that this incident occurred. We are
+partnering with a leading third-party forensics firm to conduct a thorough investigation of the incident and to determine
+additional measures we can take that would be designed to help prevent incidents of this kind in the future. Central
+Concrete is aware of the increasing cybersecurity threats and has previously conducted phishing exercises with its
+employees to train on preventing such attacks and has conducted a thorough review from a leading cybersecurity firm.
+In light of the current incident, Central Concrete Supply has already implemented additional security measures designed
+to prevent a recurrence of the breach, and to protect the privacy of Central Concrete Supply’s valued employees such
+as yourself. These additional security measures include, but are not limited to adopting a policy of dual authentication
+for any transfer of personally identifiable information, conducting additional phishing exercises, and increasing employee
+cybersecurity training. We have also contacted leaders for the Teamsters Locals 315, 853, 287, Operating Engineers
+Local 3, Machinists Locals 1101, 1546 regarding the Company’s proposal to address this situation and will continue to
+discuss the response to this security incident and minimize any impact on the Company’s employees.
+To minimize risk of tax fraud, we recommend that you file your tax return as soon as possible. Additionally,
+you should complete Form 14039 (https://www.irs.gov/pub/irs-pdf/f14039.pdf) and mail or fax to the IRS as
+soon as possible.
+To help relieve concerns and restore confidence following this incident, Central Concrete Supply has secured the
+services of Kroll to provide identity theft protection at no cost to you for one year. Kroll’s team has extensive
+experience helping people who have sustained an unintentional exposure of confidential data.
+                                                                                                                  974Y66-0216
+Your identity theft protection services include Credit Monitoring, Web Watcher, Public Persona, Quick Cash
+Scan, $1 Million Identity Theft Insurance, Identity Theft Consultation and Restoration. Additional information
+describing your services is included with this letter. This offer is entirely optional for you and offered as an added
+measure to protect your personal information from misuse.
+
+ Visit krollbreach.idMonitoringService.com to enroll and take advantage of your identity monitoring services.
+ Membership Number: <<Member ID>>
+
+To receive credit services by mail instead of online, please call 1-844-263-8605.
+What Should You Do If You Have Any Questions Or Feel You Have An Identity Theft Issue?
+Call 1-866-775-4209, 8 a.m. to 5 p.m. (Central Time), Monday through Friday. Kroll’s licensed investigators
+are standing by to answer your questions or help you with concerns you may have. Please have your membership
+number ready.
+There are actions you can take to mitigate the chances of fraud or identity theft. Attached to this letter is a list of
+prudent and proactive steps you can take to reduce the risk to your personal information.
+On behalf of Central Concrete Supply and U.S. Concrete, I want to sincerely express our apologies for this incident
+and any inconvenience or concern this may have caused. If you have any further questions about the incident or
+about your identity theft protection services, please contact the Company’s agent, Kroll, at 1-866-775-4209.
+Sincerely,
+
+
+
+Jeff Davis
+Vice President, Central Concrete Supply
+            PROACTIVE STEPS YOU SHOULD TAKE TO HELP PROTECT YOUR INFORMATION
+FILE YOUR TAX RETURN AS SOON AS POSSIBLE.
+The best way to avoid becoming a victim of tax refund fraud is to file your taxes before the fraudsters can. Therefore
+file your tax return as soon as possible. Additionally, you should complete and mail or fax Form 14039 (available
+at https://www.irs.gov/pub/irs-pdf/f14039.pdf ) to the IRS as soon as possible. For further information, please see
+https://www.irs.gov/Individuals/Identity-Protection.
+REMAIN VIGILANT FOR THE NEXT 12 TO 24 MONTHS.
+Carefully review your credit reports and bank, credit card and other account statements. If you discover unauthorized
+or suspicious activity on your credit report or by any other means, please call your local police immediately and file
+an identity theft report and/or obtain a copy of a police report.
+ORDER YOUR FREE ANNUAL CREDIT REPORTS.
+To order your free annual credit reports, call toll-free 1-877-322-8228, visit www.annualcreditreport.com, or complete
+the Annual Credit Report Request Form online and mail it to: Annual Credit Report Request Service, P.O. Box 105281,
+Atlanta, GA 30348-5281. Hearing impaired consumers can access the TDD service at 1-800-821-7232. For your free
+annual credit reports, do not contact the three nationwide consumer reporting agencies individually; they provide this
+service only through www.annualcreditreport.com.
+WHEN YOU RECEIVE YOUR CREDIT REPORTS, REVIEW THEM CAREFULLY.
+Once you receive your credit reports, review them carefully. Please look for accounts you did not open or inquiries from
+creditors that you did not initiate. Verify that all the information is accurate. If you have questions or notice inaccurate
+information, please call the relevant consumer reporting agency at the telephone number listed on the report.
+PLACE A 90-DAY FRAUD ALERT ON YOUR CREDIT FILE.
+A fraud alert informs creditors of possible fraudulent activity within your report and lets creditors know to contact
+you before they open any new accounts in your name or change your existing accounts. Contact any one of the three
+major credit bureaus listed below to place a fraud alert on your credit file. An initial fraud alert is free and will stay on
+your credit file for at least 90 days. As soon as one credit bureau confirms your fraud alert, the others are notified to
+place fraud alerts. You may want to renew it after the first 90 days. If you have already filed an identity theft report
+with your local police department, you should place an extended fraud alert on your credit file. This extended fraud
+alert is a free service and is valid for 7 years.
+Equifax	                          Experian	                         TransUnion
+(800) 525-6285	                   (888) 397-3742	                   (800) 680-7289
+www.equifax.com	                  www.experian.com 	                www.transunion.com
+P.O. Box 740241	                  P.O. Box 4500	                    P.O. Box 2000
+Atlanta, GA 30374	                Allen, TX 75013	                  Chester, PA 19022
+PLACE A SECURITY FREEZE ON YOUR CREDIT FILE.
+You may wish to place a security freeze on your credit file. A security freeze generally will prevent creditors from
+accessing your credit file at the three nationwide consumer reporting agencies without your consent. As a result,
+using a security freeze may interfere with or delay your ability to obtain credit. You must separately place a security
+freeze on your credit file with each credit reporting agency.
+Equifax Security Freeze	          Experian Security Freeze	         TransUnion Fraud Victim Assistance
+(800) 685-1111	                   (888) 397-3742	                   (800) 909-8872
+www.equifax.com	                  www.experian.com 	                www.transunion.com
+P.O. Box 105788	                  P.O. Box 9554	                    P.O. Box 6790
+Atlanta, GA 30348	                Allen, TX 75013	                  Fullerton, CA 92834
+The following information must be included when requesting a security freeze (note that if you are requesting a credit
+report for your spouse, this information must be provided for him/her as well): (1) full name, with middle initial and any
+suffixes; (2) Social Security number; (3) date of birth; (4) current address and any previous addresses for the past five
+years; and (5) any applicable incident report or complaint with a law enforcement agency or the Registry of Motor
+Vehicles. The request must also include a copy of a government-issued identification card and a copy of a recent
+utility bill or bank or insurance statement. It is essential that each copy be legible, display your name and current
+mailing address, and the date of issue.
+The consumer reporting agencies may charge a reasonable fee to place a security freeze on your account. The
+fee is waived if you are a victim of identity theft and have submitted a valid investigative or law enforcement report
+or complaint relating to the identity theft incident to the credit reporting agencies. You must review your state’s
+requirement(s) and/or credit bureau requirement(s) for the specific document(s) to be submitted.
+LEARN MORE ABOUT IDENTITY THEFT AND WAYS TO PROTECT YOURSELF.
+The Federal Trade Commission has online guidance about the steps consumers can take to protect themselves
+against identity theft. You can call 1-877-ID-THEFT (1-877-438-4338); TTY: 1-866-653-4261; write Identity Theft
+Clearinghouse, Federal Trade Commission, 600 Pennsylvania Avenue, NW, Washington, DC 20580; or visit the
+Federal Trade Commission’s website at www.ftc.gov/idtheft to get more information. We also encourage you to report
+suspected identity theft to the Federal Trade Commission. If you suspect you are the victim of identity theft, you also
+have the right to file a police report and obtain a copy of it.

@@ -1,0 +1,55 @@
+Lincoln Credit Center
+
+5663 Balboa Ave. #511
+
+San Diego, CA 92111
+
+
+
+<FIRST_NAME LAST_NAME>
+
+< ADDRESS>
+
+<CITY>, <STATE> <ZIPCODE>
+
+
+
+Dear <FIRST_NAME LAST_NAME>,
+
+At Lincoln Credit Center we take your account security very seriously. We have learned that some
+personal information related to your account may have been compromised at a physical location. To
+ensure that your account is protected, we have taken the following steps:
+
+          We have reviewed your account activity and see no evidence that your account has been misused
+          in any way. We will continue to monitor activity on your account, and if we detect suspicious
+          transactions, we will notify you.
+
+          As an added measure of security, we will monitor any potential fraud on your credit file for the
+          next 90 days.
+
+Please be assured that we are committed to fully protecting all of the information that you have entrusted
+to us and that we have taken every necessary step to protect your information.
+
+If you have any other questions, please do not hesitate to contact your customer service representative.
+We apologize for any inconvenience.
+
+
+
+Sincerely,
+
+Lincoln Credit Center
+
+
+
+If you would like to contact the three major credit reporting agencies directly, their contact information is
+below:
+
+
+
+Equifax                                    Experian                                 TransUnion
+
+1-800-685-1111                             1-888-397-3742                           1-800-916-8800
+
+P.O. Box 740241                            P.O. Box 2104                            P.O. Box 2000
+
+Atlanta, GA 30374                          Allen, TX 75013                          Chester, PA 19022

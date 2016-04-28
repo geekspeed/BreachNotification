@@ -1,0 +1,43 @@
+                                                 TEMPLATE FOR NOTIFICATION LETTER
+
+                                                 [[Date]]
+Name
+Address
+City, State zip
+
+Dear (Name),
+        Re: Your [[insert type of card]] used on [[insert website]]
+         We wanted to notify you of a security incident involving the [[insert name of website here]]
+website, which is operated by BEL USA LLC. We have reason to believe that because you placed an
+order with us on this website or by phone between March 1, 2013 and July 15, 2013 that your personal
+information may have been obtained by unauthorized third parties. Upon learning that the website server
+may have experienced unauthorized access, we immediately commenced an internal investigation and
+then retained an independent expert to investigate this incident.
+        The independent investigation has now determined that unauthorized third parties did obtain
+access, which is why we are sending you this notice. The personal information that may have been
+obtained is your name, address, phone number and the credit card or debit card number noted above and
+the expiration date and CVV code for that card. Since we do not collect PINs for debit cards, this
+information was not accessed or obtained by these unauthorized third parties.
+         In addition to our investigation, at the same time we began implementing measures to address the
+situation and retained experts to guide us through our response. Those steps included identifying how
+personal information was put at risk and implementing changes to address that risk, including replacing
+the affected server. We also contacted federal law enforcement and will cooperate with their
+investigation.
+         We deeply regret this unfortunate situation. As a valued customer, we would like to offer you a
+special one-time 20% Off Coupon if you place an order with us before October 31, 2013. Please enter
+your email address as the coupon code in the shopping cart when placing your order. Although we have
+taken the steps noted above, we recommend that you also take preventative measures. We encourage you
+to vigilantly monitor your credit and debit card account statements. If the card that you used with us was
+a debit card, we suggest you contact the bank that issued your card and follow their recommendations. If
+you notice fraudulent charges on the card, please contact your bank that issued the card.
+        While credit card fraud is generally not considered identity theft, we understand that you may
+want information on identity theft and detailed instructions on other actions you might consider. We have
+enclosed additional steps that you can take to further protect your information.
+        Thank you, as always, for visiting our websites. We sincerely regret and apologize for any
+inconvenience that this may cause you. If you have additional questions, please email us any time at
+questions@belincusa.com or you can call us at [[insert correct toll free number]].
+                                                 Sincerely,
+
+
+                                                 Amin R. Ramjee
+                                                 CEO

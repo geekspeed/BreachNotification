@@ -1,0 +1,73 @@
+451 Blackhawk Trail
+Eldridge, IA 52748
+
+
+<<mail id>>
+<<Name1>>
+<<Name2>>
+<<Address1>>
+<<Address2>>
+<<City>><<State>><<Zip>>
+<<Foreign Country>>	                                                                                    <<Date>>
+
+
+
+
+Dear <First and Last Name>:
+
+We are writing to inform you of an incident that may have affected information you provided to Copart. On March
+31, 2015, we discovered that an unauthorized person gained access to our computer network. Upon learning of the
+access, we quickly worked to block any further unauthorized access and engaged a leading cybersecurity firm to help
+determine what occurred and assist us in implementing enhanced security measures. Based on the investigation, we
+determined that the unauthorized person may have accessed your name, address, driver’s license number, telephone
+number, e-mail address, and the username and password for your Copart.com account.
+
+As part of our efforts to address this issue, Copart is requiring all members to change the password for their
+Copart.com account. If you have not already recently been required to reset your password, simply sign into your
+Copart account and go to the Change Password option under the My Account tab. Also, if you use the same username
+and password for any other account, we recommend that you change your password there as well.
+
+We deeply regret any inconvenience or concern this may have caused. To prevent this from happening again, Copart
+has implemented enhanced security measures to strengthen the security of our IT systems moving forward. If you
+have any further questions, please contact us at (972) 391-5400, Monday through Friday, 7:00 am – 7:00 pm CDT.
+
+Sincerely,
+
+
+
+
+Sean Eldridge
+Senior Vice President & Chief Operating Officer
+
+
+
+
+N6641 v.04 05.26.2015
+                         MORE INFORMATION ON WAYS TO PROTECT YOURSELF
+
+We recommend that you remain vigilant by reviewing your account statements and credit reports for any
+unauthorized activity. You may obtain a copy of your credit report, free of charge, once every 12 months from
+each of the three nationwide credit reporting companies. To order your annual free credit report please visit
+www.annualcreditreport.com or call toll free at 1-877-322-8228. Contact information for the three nationwide credit
+reporting companies is as follows:
+
+	           Equifax, PO Box 740256, Atlanta, GA 30374, www.equifax.com, 1-800-525-6285
+	           Experian, PO Box 9554, Allen, TX 75013, www.experian.com,1-888-397-3742
+	           TransUnion, PO Box 2000, Chester, PA 19022-2000, www.transunion.com, 1-800-916-8800
+
+If you believe you are the victim of identity theft or have reason to believe your personal information has been
+misused, you should immediately contact the Federal Trade Commission and/or the attorney general’s office in your
+home state. Contact information for the Federal Trade Commission is as follows:
+
+	           Federal Trade Commission, Consumer Response Center, 600 Pennsylvania Avenue, NW
+	           Washington, DC 20580, 1-877-IDTHEFT (438-4338), www.ftc.gov/idtheft
+
+You can obtain information from these sources about steps an individual can take to avoid identity theft as well as
+information about fraud alerts and security freezes. You should also contact your local law enforcement authorities
+and file a police report. Obtain a copy of the police report in case you are asked to provide copies to creditors to
+correct your records.
+
+
+
+
+N6642 v.04 05.26.2015

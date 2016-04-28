@@ -1,0 +1,159 @@
+ Return Mail Processing
+ P.O. Box 303
+ Claysburg, PA 16625-0303
+                                                                                                     March 3, 2016
+         ##B7655-L01-0123456 0001 00000001 **************9-OELZZ 123
+         SAMPLE A SAMPLE
+         APT ABC
+         123 ANY ST
+         ANYTOWN, US 12345-6789
+         TTFDDATDAADTAAAFAATFFDDTFTAAFTAFAAFFFFDTDADTTTADTATATDADFDFFDFTFD
+
+
+
+
+RE:     Notice of Data Security Incident
+Dear Sample A Sample:
+I am writing to inform you that Billy Casper Golf has been the targeted victim of an email spoofing attack, and
+that the security of your personal information, contained on an Internal Revenue Service (IRS) Tax Form W-2,
+may be at risk as a result of this incident. While our investigation is ongoing and we do not have any evidence this
+information has been misused, we feel it is important to notify you about this incident, encourage you to file your
+tax return as soon as possible if you have not already done so, and provide you with the information below that
+you can use to better protect against identity theft and fraud.
+What Happened? On Friday, February 26, Billy Casper Golf was the targeted victim of an e-mail spoofing
+attack.  Through this attack, a request was made for all 2015 employee W2 information.  Unfortunately, this
+information was provided before it was discovered that the request was made from a fraudulent account by an
+individual purporting to be our CEO.  We discovered the fraudulent nature of this request on Saturday, February
+27, 2016 and have been working tirelessly to investigate. 
+What Information Was Involved? Your IRS Tax Form W-2 was among the forms that were sent in response to
+the request. An IRS Tax Form W-2 includes the following categories of information: (1) the employees name;
+(2) the employees address; (3) the employees Social Security number; and (4) the employees wage information.
+What We Are Doing? We take this incident, and the security of your personal information, very seriously. We
+have stringent security measures in place to protect the security of information in our possession, and, as a result
+of this incident, we are working to implement additional safeguards and provide additional mandatory training to
+our employees on safeguarding the privacy and security of information on our systems.
+In addition to notifying individuals impacted by this incident, we have notified the Fairfax County Police
+Department. We will also be notifying Attorneys General in a number of different states, and the three (3)
+national credit reporting agencies (i.e., Equifax, Experian, and TransUnion). Additionally, we are offering all            0123456
+
+affected individuals access to two years of three bureau credit monitoring and identity restoration services with
+Experian. The enclosed Privacy Safeguards Information contains instructions on how to enroll and receive these
+free services, as well as more information on how to better protect against identity theft and fraud.
+
+
+
+
+                                                                                                                       B7655-L01
+What You Can Do? You can review the enclosed Privacy Safeguards Information. You can also enroll to
+receive the 24 months of free credit monitoring and identity restoration services.
+For More Information. We want to be sure our employees receive immediate access to information about this
+incident and access to tools that you can use to better protect against identity theft and fraud. If you have any
+questions or would like additional information, please call 877-213-5100 Monday through Friday from 9 a.m. to 7
+p.m. EST and provide reference number 9416022816 when calling.
+Billy Casper Golf takes the privacy of employees personal information seriously. We sincerely regret any
+inconvenience or concern this incident has caused you.
+Sincerely,
+
+Alex Elmore
+President
+Billy Casper Golf
+
+
+
+
+                                                                                                                    B7655-L01
+PRIVACY SAFEGUARDS INFORMATION
+To help detect the possible misuse of your information, we are providing you with two years of free access to
+credit monitoring and identity restoration services with Experians® ProtectMyID Elite product. If you are a
+victim of fraud, simply call Experian at 877.371.7902 by June 30, 2016, and a dedicated Identity Theft Resolution
+agent will help you restore your identity. Please provide the engagement number in this letter as proof of
+eligibility.
+While Fraud Resolution assistance is immediately available to you, we also encourage you to activate the fraud
+detection tools available through ProtectMyID Elite. This product provides you with superior identity protection
+and resolution of identity theft. To start monitoring your personal information, please follow the steps below:
+Activate ProtectMyID Now in Three Easy Steps
+ENSURE That You Enroll By: June 30, 2016 (Your code will not work after this date.)
+VISIT the ProtectMyID Web Site to enroll: http://www.protectmyid.com/enroll
+PROVIDE Your Activation Code: ABCDEFGHI
+If you have questions or need an alternative to enrolling online, please call 877.371.7902 and provide engagement
+#: PC99612.
+ADDITIONAL DETAILS REGARDING YOUR 24-MONTH PROTECTMYID MEMBERSHIP:
+A credit card is not required for enrollment.
+Once your ProtectMyID membership is activated, you will receive the following features:
+     ·     Free copy of your Experian credit report.
+     ·     Surveillance Alerts for:
+                 o  Daily 3 Bureau Credit Monitoring: Alerts of key changes & suspicious activity found on your
+                    Experian, Equifax®, and TransUnion® credit reports.
+     ·     Internet Scan: Alerts if your personal information is located on sites where compromised data is found,
+           traded or sold.
+     ·     Change of Address: Alerts of any changes in your mailing address.
+     ·     Identity Theft Resolution & ProtectMyID ExtendCARE: Toll-free access to US-based customer care
+           and a dedicated Identity Theft Resolution agent who will walk you through the process of fraud resolution
+           from start to finish for seamless service. They will investigate each incident; help with contacting credit
+           grantors to dispute charges and close accounts including credit, debit and medical insurance cards; assist
+           with freezing credit files; contact government agencies. It is recognized that identity theft can happen
+           months and even years after a data breach. To offer added protection, you will receive ExtendCARE,
+           which provides you with the same high-level of Fraud Resolution support even after your ProtectMyID
+           membership has expired.
+     ·     $1 Million Identity Theft Insurance1: Immediately covers certain costs including, lost wages, private
+           investigator fees, and unauthorized electronic fund transfers.
+     ·     Lost Wallet Protection: If you misplace or have your wallet stolen, an agent will help you cancel your
+           credit, debit, and medical insurance cards.
+Once your enrollment in ProtectMyID Elite is complete, you should carefully review your credit report for                                                             0123456
+
+
+inaccurate or suspicious items. If you have any questions about ProtectMyID Elite, need help understanding
+something on your credit report or suspect that an item on your credit report may be fraudulent, please contact
+Experians customer care team at 877.371.7902.
+
+1
+ Identity theft insurance is underwritten by insurance company subsidiaries or affiliates of AIG. The description herein is a summary and intended for
+informational purposes only and does not include all terms, conditions and exclusions of the policies described. Please refer to the actual policies for terms,
+conditions, and exclusions of coverage. Coverage may not be available in all jurisdictions.
+                                                                                                                                                                  B7655-L01
+Billy Casper Golf encourages you to remain vigilant against incidents of identity theft and financial loss by reviewing
+your account statements, and monitoring your credit reports for suspicious activity. Under U.S. law, everyone is
+entitled to one free credit report annually from each of the three major credit bureaus. To order a free credit report,
+visit http://www.annualcreditreport.com/ or call, toll-free, 1-877-322-8228. Individuals may also contact the three
+major credit bureaus directly to request a free copy of their credit report:
+      Equifax                               Experian                           TransUnion
+      P.O. Box 105069                       P.O. Box 2002                      P.O. Box 2000
+      Atlanta, GA 30348                     Allen, TX 75013                    Chester, PA 19022
+      800-525-6285                          888-397-3742                       800-680-7289
+      www.equifax.com                       www.experian.com                   www.transunion.com
+At no charge, you can also have these credit bureaus place a fraud alert on your credit file. A fraud alert will tell
+creditors to take additional steps to verify your identity prior to granting credit in your name; however, because it tells
+creditors to follow certain procedures to protect you, it may also delay your ability to obtain credit while the credit
+bureaus verify your identity. As soon as one credit bureau confirms your fraud alert, the others are notified to place
+fraud alerts on your files. You may use the contact information listed above to contact the major credit bureaus and
+place a fraud alert on your credit report.
+You can also place a security freeze on your credit file that prohibits a credit reporting agency from releasing any
+information from your credit report without your written authorization but may delay, interfere with, or prevent the
+timely approval of any requests for new credit. If you have been a victim of identity theft, and provide the credit
+reporting agency with a valid police report, the credit reporting agency cannot charge to place, lift or remove a
+security freeze. In all other cases, a credit agency may charge you a fee to place, temporarily lift, or permanently
+remove a security freeze. You must contact each of the credit reporting agencies separately to place a security freeze
+on your credit file:
+     Equifax Security Freeze               Experian Security Freeze           TransUnion LLC
+     P.O. Box 105788                       P.O. Box 9554                      P.O. Box 2000
+     Atlanta, GA 30348                     Allen, TX 75013                    Chester, PA 19022
+     800-685-1111                          888-397-3742                       888-909-8872
+     800-349-9960 (NY Residents)
+     http://www.freeze.equifax.com         www.experian.com                   freeze.transunion.com
+You can also contact the IRS at www.irs.gov/Individuals/Identity-Protection for helpful information and guidance on
+steps you can take to prevent a fraudulent tax return from being filed in your name and what to do if you become the
+victim of such fraud.
+You can further educate yourself regarding identity theft, fraud alerts, security freezes, and the steps you can take to
+protect yourself, by contacting your state Attorney General or the Federal Trade Commission. The Federal Trade
+Commission also encourages those who discover that their information has been misused to file a complaint with
+them. The Federal Trade Commission can be reached at: 600 Pennsylvania Avenue, NW, Washington, DC 20580;
+www.ftc.gov/idtheft; 1-877-ID-THEFT (1-877-438-4338); and TTY: 1-866-653-4261. For Maryland residents, the
+Attorney General can be reached at: 200 St. Paul Place, 16th Floor, Baltimore, MD 21202; 1-888-743-0023; and
+www.oag.state.md.us. For North Carolina residents, the Attorney General can be contacted by mail at 9001 Mail
+Service Center, Raleigh, NC 27699-9001; toll-free at 1-877-566-7226; by phone at 1-919-716-6400; and online at
+www.ncdoj.gov.
+Instances of known or suspected identity theft should be reported to law enforcement, your Attorney General, and the
+FTC.
+
+
+                                                                                                                        B7655-L01
